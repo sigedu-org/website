@@ -1,0 +1,71 @@
+# main links
+main:
+
+  - title: "Organization"
+    url: /organization
+
+  - title: "Constitution"
+    url: /constitution
+
+  - title: "Videos"
+    url: /videos
+
+  - title: "Past Events"
+    url: /events
+
+
+pages:
+  - title: Organization
+    children:
+      - title: "Officers &amp; Organizing Committee"
+      - url: /pages/organization.md
+
+  - title: Constitution
+    children:
+      - title: "Constitution"
+      - url: /pages/constitution.md
+
+  - title: Videos
+    children:
+      - title: "Videos of Talks"
+      - url: /pages/videos.md
+
+  - title: Past Events
+    children:
+      - title: "Past Conferences &amp; Workshops"
+      - url: /pages/events.md
+
+# calls:
+#   - title: Call for
+#     children:
+#       - title: "Long & Short Papers"
+#         url: /calls/papers/
+#       - title: "System Demonstrations"
+#         url: /calls/demos/
+
+# program:
+#   - title: Program Details
+#     children:
+#       - title: "Keynote Speakers"
+#         url: /program/keynotes/
+#       - title: "Tutorials"
+#         url: /program/tutorials/
+#       - title: "Workshops"
+#         url: /program/workshops/
+
+
+# participants:
+#   - title: "Information for Participants"
+#     children:
+#       - title: "Accommodation"
+#         url: /participants/accommodation/
+#       - title: "Social Event"
+#         url: /participants/social/
+
+# sponsors:
+#   - title: Sponsorship
+#     children:
+#       - title: "List of Sponsors"
+#         url: /sponsors/list/
+#       - title: "Tiers &amp; Pricing"
+#         url: /sponsors/benefits/
