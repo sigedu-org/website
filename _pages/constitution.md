@@ -12,7 +12,7 @@ toc_icon: "cog"
 
 **Last Updated: March 2017**
 
-## STATEMENT OF PURPOSE
+## Statement Of Purpose
 ​
 The purpose of the Association for Computational Linguistics (ACL) \[Special Interest Group on Building Educational Applications, SIGEDU\] (the SIG) shall be:
  
@@ -29,22 +29,22 @@ The purpose of the Association for Computational Linguistics (ACL) \[Special Int
 
 SIGEDU will operate within the framework of the ACL's general guidelines for SIGs.
 
-## MEETINGS
+## Meetings
 ​
 The SIG will organize the annual BEA workshop, which is one of the longest running workshops in ACL. The work provides a forum for the presentation of peer-reviewed research in all aspects of NLP research related to building educational applications. The workshop will be collocated with the annual meeting of the ACL, or at one of its chapters, as before. If this is not feasible, the SIG may decide to collocate the workshop with some other conference. An annual business meeting of the SIG shall also take place at the workshop venue.
 
-## MEMBERSHIP
+## Membership
  
 **Joining**: Membership is open to anyone who professes an interest in applying NLP for building educational applications. It does not require ACL membership. The membership can be obtained either through provided electronic means or by filling a membership form in conjunction with a SIG meeting.
  
 **Termination**: Membership will be terminated on request, or automatically if no reply is received within 2 months of a timely membership renewal request. Termination requests are to be communicated by email to the Secretary. Automatically terminated memberships will be reinstated on request.
 
-## DUES
+## Dues
  
  SIGEDU does not charge dues.
 
 
-## THE ELECTED OFFICERS
+## The Elected Officers
 ​
 The elected officers of the SIG shall consist of a President, a Secretary and a Treasurer. These shall be members in good standing of the ACL. The term of all elected officers of the SIG shall be 3 years or shorter if the elected officers organize the elections earlier.
 
@@ -76,7 +76,7 @@ The elected officers of the SIG shall consist of a President, a Secretary and a 
 - Maintaining and updating conent on website
 - Public outreach
 
-## OTHER REPRESENTATIVES
+## Other Representatives
 ​
 The Board designates a Resource Manager and determines how long that member serves.  A Board member can be a Resource Manager.
  
@@ -85,7 +85,7 @@ The Board designates a Resource Manager and determines how long that member serv
 - To handle resources that are made available through the web
 - To maintain a membership roster of the SIG
 
-## ELECTION PROCEDURE
+## Election Procedure
 ​
 All elected officers of the SIG shall be elected by an anonymous vote of the membership. If a vacancy occurs among the officers of the SIG, remaining two elected officers may nominate a replacement officer who will serve out up to the remainder of the previous office holder's term.
  
@@ -93,13 +93,13 @@ All elected officers of the SIG shall be elected by an anonymous vote of the mem
 **Voting 2 months before the election**: Voting shall commence at least 2 months before the expiration of the current terms of the officers. All members shall be notified of the election date and the nominations at least 4 weeks prior to the close of voting. Votes may be entered by electronic mail or other designated means. Votes arriving by the notified closing date will be counted. The votes will be counted by the Secretary or another officer agreed to by all candidates.
 **Announcement of the Results**: Any nominee receiving a majority of the votes will be declared elected. The results shall be notified to the members within 4 weeks immediately after the announcement of the results, and the previous officers will remain active for 3 months to ease the transition. Notification shall signify dispatch of mail by the medium and to the address last notified to the secretary.
 
-## RESOURCE MANAGEMENT
+## Resource Management
 ​
 In providing and making available any resources, and especially any held and distributed electronically, the SIG shall follow proper procedures with respect to matters like copyright, registration and data protection as is appropriate to each case.
  
 The SIG shall not enter into any formal or potentially legally binding contracts without the approval of ACL Executive Committee (or the ACL Secretary-Treasurer acting under delegated powers). The SIG shall not enter into any financial commitments for such resources without ensuring that the moneys required are available.
 
-## CHANGES TO THE CONSTITUTION
+## Changes To The Constitution
 ​
 Amendments to the constitution of the SIG may be proposed by any SIG member. These must be communicated to the Secretary who shall in turn announce them to the SIG members for discussion at the SIG mailing list. Suggested amendments must obtain the initial support of at least three SIG members and should be proposed at least a month prior to their consideration at the annual SIG business meeting. The minutes of the discussion related to the proposed amendments shall be publicized at the SIG website and the respective amendments shall be ratified by a two thirds majority vote by all SIG members. The vote shall take place electronically (either by e-mail, or via a dedicated web service) within a month, at the latest, after the SIG business meeting. Once ratified, the amendments shall be of immediate effect. The ACL Executive Committee may veto proposed constitution changes if they are incompatible with the ACL Constitution or SIG guidelines.
 ​
