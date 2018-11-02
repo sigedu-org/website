@@ -1,39 +1,31 @@
 # main links
 main:
 
-  - title: "Organization"
-    url: /organization
+  - title: "Officers"
+    url: /officers
 
   - title: "Constitution"
     url: /constitution
 
-  - title: "Videos"
-    url: /videos
-
-  - title: "Past Events"
-    url: /events
+  - title: "Members"
+    url: /members
 
 
 pages:
-  - title: Organization
+  - title: Officers
     children:
-      - title: "Officers &amp; Organizing Committee"
-      - url: /pages/organization.md
+      - title: "Officers"
+      - url: /pages/officers.md
 
   - title: Constitution
     children:
       - title: "Constitution"
       - url: /pages/constitution.md
 
-  - title: Videos
+  - title: Members
     children:
-      - title: "Videos of Talks"
-      - url: /pages/videos.md
-
-  - title: Past Events
-    children:
-      - title: "Past Conferences &amp; Workshops"
-      - url: /pages/events.md
+      - title: "Members"
+      - url: /pages/members.md
 
 # calls:
 #   - title: Call for

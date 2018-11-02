@@ -1,0 +1,114 @@
+---
+title: Members
+layout: single
+excerpt: "SIGEDU Members."
+permalink: /members
+sidebar: false
+toc: false
+---
+
+- <a href="http://people.cs.pitt.edu/~tazinafrin/">Tazin Afrin</a>, University of Pittsburgh<br/>
+- <a href="https://spraakbanken.gu.se/swe/personal/david">David Alfter</a>, University of Gothenburg<br/>
+- <a href="https://da352.user.srcf.net">Dimitris Alikaniotis</a>,&nbsp;Grammarly<br/>
+- <a href="http://leebecker.com">Lee Becker</a>, Pearson<br/>
+- <a href="https://www.ukp.tu-darmstadt.de/people/postdoctoral-researchers/dr-lisa-beinborn">Lisa Beinborn</a>, UKP Lab,&nbsp;TU Darmstadt<br/>
+- <a href="https://sites.google.com/site/beatabeigmanklebanov/">Beata Bergman Klebanov</a>, Educational Testing Service<br/>
+- Delphine Bernhard, Université&nbsp;de Strasbourg<br/>
+- <a href="http://serge.bibauw.be">Serge Bibauw</a>, KU Leuven &amp; Université catholique de Louvain<br/>
+- <a href="http://jbingel.github.io">Joachim Bingel</a>, University of Copenhagen<br/>
+- <a href="https://www.cl.cam.ac.uk/~ejb1/">Ted Briscoe</a>, University of Cambridge<br/>
+- Julian Brooke, Thomson Reuters<br/>
+- <a href="https://www.cl.cam.ac.uk/~cjb255/">Chris Bryant</a>, University of Cambridge<br/>
+- <a href="https://sites.google.com/site/jbursteinets/">Jill Burstein</a>, Educational Testing Services<br/>
+- <a href="http://www.aoifecahill.com">Aoife Cahill</a>, Educational Testing Service<br/>
+- Andrew Caines, University of Cambridge<br/>
+- Min Chi, North Carolina State University<br/>
+- <a href="http://www.sfs.uni-tuebingen.de/~mchnkina/">Maria Chinkina</a>, University of Tübingen<br/>
+- Martin Chodorow, City University of New York&nbsp;&amp; Educational Testing Service<br/>
+- <a href="http://shamilcm.github.io">Shamil Chollampatt</a>, National University of Singapore<br/>
+- Wei Chu, NA<br/>
+- Mark Core, University of Southern California<br/>
+- <a href="http://textmining.lt">Vidas Daudaravicius</a>, UAB VTeX<br/>
+- <a href="http://yoehara.com/">Yo Ehara</a>, National Institute of Advanced Industrial Science and Technology<br/>
+- Noureddine Elouazizi, Faculty of Science, UBC<br/>
+- <a href="http://www.cdemmansepp.com/">Carrie Demmans Epp</a>, University of Alberta<br/>
+- <a href="http://nlp.cs.uic.edu/">Barbara Di Eugenio</a>, University of Illinois at Chicago<br/>
+- <a href="http://evanini.com/keelan.html">Keelan Evanini</a>, Educational Testing Service<br/>
+- <a href="http://www.cl.cam.ac.uk/~mf501/">Mariano Felice</a>, University of Cambridge<br/>
+- Michael Flor, Educational Testing Service<br/>
+- <a href="http://www.computing.dcu.ie/~jfoster">Jennifer Foster</a>, Dublin City University<br/>
+- Dan Goldwasser, Purdue University<br/>
+- <a href="http://isi.edu/~jgordon">Jonathan Gordon</a>, University of Southern California<br/>
+- Cyril Goutte, National Research Council Canada<br/>
+- <a href="https://sites.google.com/site/jiangangstevenhao/">Jiangang Hao</a>, Educational Testing Service<br/>
+- Homa Hashemi, University of Pittsburgh<br/>
+- Marti Hearst, UC Berkeley<br/>
+- <a href="http://www.sfu.ca/~heift">Trude Heift</a>, Simon Fraser University<br/>
+- Polina Harik, NBME<br/>
+- <a href="https://www.uni-tuebingen.de/forschung/forschungsschwerpunkte/graduiertenschule-und-forschungsnetzwerk-lead/mitglieder/heiko-holz.html">Heiko Holz</a>, LEAD Graduate School &amp; Research Network, University of Tübingen<br/>
+- Chung-Chi Huang, Frostburg State University<br/>
+- <a href="https://coralythuang.github.io/">Yi-Ting Huang</a>, Texas A&amp;M University<br/>
+- <a href="http://raduionescu.herokuapp.com">Radu Tudor Ionescu</a>, University of Bucharest<br/>
+- <a href="http://www.pitt.edu/~pjordan">Pamela Jordan</a>, University of Pittsburgh<br/>
+- Masahiro Kaneko, Tokyo Metropolitan University<br/>
+- <a href="http://www.cl.cam.ac.uk/~ek358/">Ekaterina Kochmar</a>, University of Cambridge<br/>
+- <a href="http://cl.sd.tmu.ac.jp/~komachi/index.en.html">Mamoru Komachi</a>, Tokyo Metropolitan University<br/>
+- <a href="http://cl.indiana.edu/~skuebler">Sandra Kuebler</a>, Indiana University<br/>
+- Girish Kumar, Stanford<br/>
+- <a href="http://www.kristopherkyle.com">Kristopher Kyle</a>, Department of Second Language Studies, University of Hawaii at Manoa<br/>
+- Claudia Leacock, Grammarly<br/>
+- <a href="http://www.boyangli.co">Boyang Li</a>, Liulishuo AI Lab<br/>
+- Wen Li, Indiana University<br/>
+- <a href="http://people.cs.pitt.edu/~litman/">Diane Litman</a>, University of Pittsburgh<br/>
+- Yang Liu, Liulishuo, LingoChamp, and University of Texas at Dallas<br/>
+- Peter Ljunglöf, University of Gothenburg<br/>
+- <a href="http://www.aloukina.com">Anastassia Loukina</a>, Educational Testing Service<br/>
+- <a href="http://www.personal.psu.edu/xxl13">Xiaofei Lu</a>, Pennsylvania State University<br/>
+- Luca Lugini, University of Pittsburgh<br/>
+- <a href="http://desilinguist.org">Nitin Madnani</a>, Educational Testing Service<br/>
+- <a href="https://sites.google.com/view/amagooda/home">Ahmed Magooda</a>, University of Pittsburgh<br/>
+- Ilia Markov, CIC-IPN<br/>
+- <a href="http://www.cse.iitm.ac.in/~ditty/">Ditty Mathew</a>, Indian Institute of Technology, Madras<br/>
+- <a href="http://people.tamu.edu/~mazda/">Noboru Matsuda</a>, Texas A&amp;M University<br/>
+- <a href="https://cs.hmc.edu/~julie">Julie Medero</a>, Harvey Mudd College<br/>
+- Janet Mee, National Board of Medical Examiners<br/>
+- <a href="http://purl.org/dm">Detmar Meurers</a>, Universität Tübingen<br/>
+- Maria Moritz, University of Goettingen<br/>
+- <a href="http://cs.jhu.edu/~napoles">Courtney Napoles</a>, Grammarly<br/>
+- <a href="http://diane.sdf-us.org">Diane Napolitano</a>, Educational Testing Service<br/>
+- <a href="http://www.comp.nus.edu.sg/~nght/">Hwee Tou Ng</a>, National University of Singapore<br/>
+- <a href="http://dinel.org.uk">Constantin Orasan</a>, University of Wolverhampton<br/>
+- <a href="https://www.linkedin.com/in/ildiko-pilan/?locale=en_US">Ildikó&nbsp;Pilán</a>, University of Gothenburg<br/>
+- <a href="http://www.martiquixal.org">Martí­ Quixal</a>, Universitat Oberta de Catalunya<br/>
+- <a href="https://www.linkedin.com/in/zahra-rahimi-406bb966/">Zahra Rahimi</a>, University of Pittsburgh<br/>
+- <a href="http://phylostar.github.io">Taraka Rama</a>, University of Oslo<br/>
+- <a href="http://www.vikramr.com">Vikram Ramanarayanan</a>, Educational Testing Service R&amp;D / University of California, San Francisco<br/>
+- <a href="http://www.cs.binghamton.edu/~artir/">Arti Ramesh</a>, State University of New York<br/>
+- <a href="https://livyreal.github.io/">Livy Real</a>, USP<br/>
+- <a href="http://www.hanumantredkar.com">Hanumant Redkar</a>, IIT Bombay&nbsp;<br/>
+- <a href="http://www.marekrei.com/">Marek Rei</a>, University of Cambridge<br/>
+- <a href="http://reynoldsnlp.com">Robert Reynolds</a>, Brigham Young University<br/>
+- <a href="http://frankie.robertson.name">Frankie Robertson</a>, University of Jyväskylä<br/>
+- <a href="http://www.sfs.uni-tuebingen.de/~brzdwtz/">Björn&nbsp;Rudzewitz</a>,&nbsp;Universität&nbsp;Tübingen<br/>
+- C. Anton Rytting, University of Maryland<br/>
+- <a href="http://cs.jhu.edu/~keisuke/">Keisuke Sakaguchi</a>, Johns Hopkins University<br/>
+- <a href="https://scholar.harvard.edu/allen_schmaltz">Allen Schmaltz</a>, Harvard University<br/>
+- <a href="https://www.ukp.tu-darmstadt.de/people/postdoctoral-researchers/dr-claudia-schulz/">Claudia Schulz</a>, TU Darmstadt<br/>
+- <a href="http://burrsettles.com">Burr Settles</a>, Duolingo<br/>
+- Carlo Strapparava, FBK-irst<br/>
+- Anaïs&nbsp;Tack, Université catholique de Louvain &amp; KU Leuven<br/>
+- <a href="http://www.comp.nus.edu.sg/~kaveh">Kaveh Taghipour</a>, National University of Singapore<br/>
+- <a href="http://www.cs.rochester.edu/~tetreaul/academic.html">Joel Tetreault</a>, Grammarly<br/>
+- <a href="http://web.ntnu.edu.tw/~samtseng/">Yuen-Hsien Tseng</a>, National Taiwan Normal University<br/>
+- <a href="http://sowmya.public.iastate.edu/">Sowmya Vajjala</a>, Iowa State University<br/>
+- <a href="https://sites.google.com/view/alinev">Aline Villavicencio</a>, University of Essex (UK), Federal University of Rio Grande do Sul<br/>
+- <a href="https://spraakbanken.gu.se/personal/elena/">Elena Volodina</a>, University of Gothenburg<br/>
+- Xinhao Wang, Educational Testing Service<br/>
+- <a href="http://u.osu.edu/mwhite/">Michael White</a>, The Ohio State University<br/>
+- Michael Wojatzki, University of Duisburg-Essen<br/>
+- <a href="http://victoriayaneva.info">Victoria Yaneva</a>, University of Wolverhampton<br/>
+- <a href="https://www.cl.cam.ac.uk/~hy260/">Helen Yannakoudakis</a>, University of Cambridge<br/>
+- <a href="https://www.cl.cam.ac.uk/~zy249/">Zheng Yuan</a>, University of Cambridge<br/>
+- <a href="http://www.ltl.uni-due.de/team/torsten-zesch">Torsten Zesch</a>, University of Duisburg-Essen<br/>
+- Haoran Zhang, University of Pittsburgh<br/>
+- Jiangmeng Zhang, LingoChamp<br/>
