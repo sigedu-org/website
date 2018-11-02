@@ -1,7 +1,7 @@
 ---
 title: Constitution
 layout: single
-excerpt: "SIGDAT Constitution."
+excerpt: "SIGEDU Constitution."
 permalink: /constitution
 sidebar: false
 toc: true
@@ -10,44 +10,96 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
-    
-## I. STATEMENT OF PURPOSE
+**Last Updated: March 2017**
 
-The purpose of the Association for Computational Linguistics (ACL) Special Interest Group on Linguistic Data and Corpus-Based Approaches to NLP (SIGDAT) shall be to:
+## STATEMENT OF PURPOSE
+​
+The purpose of the Association for Computational Linguistics (ACL) \[Special Interest Group on Building Educational Applications, SIGEDU\] (the SIG) shall be:
+ 
+- To promote interest in applying Natural Language Processing for Building Educational Applications to serve a wide breadth of learner and test taker populations. Topics include, but are not limited to, such aspects as:
+    1. Automated assessment of written or spoken test taker responses
+    2. Spoken dialogue, Game-based assessment, Collaborative environments, and Intelligent Tutoring (IT) that incorporates NLP
+    3. Development and Evaluation of tools for classroom teachers and/or test developers
+    4. Innovative applications to support learning at scale, personalized learning and learning analytics
+    5. Use of corpora in educational tools
+- To provide members of the ACL who have a special interest in Educational Applications of NLP with a means of exchanging news of recent research developments
+- To sponsor meetings and workshops (such as the BEA workshop) in the Edu-NLP domain, that appear to be timely and worthwhile
+- To make it easier to coordinate/share organization efforts for joint meetings and workshops with related ACL SIGs
+- To provide and make available relevant resources, including previous BEA workshop proceedings, bibliographies, test suites, tools, applications, research papers and publicly available libraries and generated resources
 
-- Sponsor and organize conferences and workshops on empirical, statistical and corpus-based natural language processing, including its current flagship Conference on Empirical Methods in Natural Language Processing.
-- To promote and facilitate research in empirical, statistical and corpus-based methods in natural language processing and to support the creation, modeling and sharing of the linguistic data underlying these approaches
-- To provide members of the ACL having a special interest in linguistic data and corpus-based approaches to NLP with a variety of means of exchanging news, recent developments, timely research findings and other matters of interest in this field.
-- To provide and make available resources relevant to empirical, statistical and corpus-based approaches to NLP, including corpora, analysis tools, software, research papers and generated data.
-- To facilitate the standardized evaluation of systems and algorithms by promoting the development of shared test suites, evaluation measures and evaluation protocols, and to sponsor such evaluations as desired by SIGDAT membership.
+SIGEDU will operate within the framework of the ACL's general guidelines for SIGs.
+
+## MEETINGS
+​
+The SIG will organize the annual BEA workshop, which is one of the longest running workshops in ACL. The work provides a forum for the presentation of peer-reviewed research in all aspects of NLP research related to building educational applications. The workshop will be collocated with the annual meeting of the ACL, or at one of its chapters, as before. If this is not feasible, the SIG may decide to collocate the workshop with some other conference. An annual business meeting of the SIG shall also take place at the workshop venue.
+
+## MEMBERSHIP
+ 
+**Joining**: Membership is open to anyone who professes an interest in applying NLP for building educational applications. It does not require ACL membership. The membership can be obtained either through provided electronic means or by filling a membership form in conjunction with a SIG meeting.
+ 
+**Termination**: Membership will be terminated on request, or automatically if no reply is received within 2 months of a timely membership renewal request. Termination requests are to be communicated by email to the Secretary. Automatically terminated memberships will be reinstated on request.
+
+## DUES
+ 
+ SIGEDU does not charge dues.
 
 
-## II. SIGDAT GOVERNANCE AND ELECTED OFFICERS
+## THE ELECTED OFFICERS
+​
+The elected officers of the SIG shall consist of a President, a Secretary and a Treasurer. These shall be members in good standing of the ACL. The term of all elected officers of the SIG shall be 3 years or shorter if the elected officers organize the elections earlier.
 
-The governance of SIGDAT shall be based on the participation of 3 groups: (a) The Officers of SIGDAT, consisting of a President, Vice-President, Vice-President Elect and Secretary/Treasurer, who shall engage in the day-to-day management of the SIG and perform all roles that require direct liaison or negotiation with other organizations or individuals; (b) an Advisory Board, which provides institutional memory, and shall provide a source of feedback, nominations and advice from experienced prior SIGDAT organizers, and (c) when possible, major decisions such as the location and timing of SIGDAT meetings should be informed by a direct survey or vote of SIGDAT's Membership.
+**President**: The duties of the President shall be:
+- To have primary executive authority over actions and activities of the SIG
+- To be primarily responsible for the communication with Executive Committee of the ACL; to prepare a written report on the activities of the SIG for the executive committee, for presentation to the ACL at its Annual Business Meeting
+- To designate a Resources Manager for the SIG, who shall be responsible for maintaining public resources provided by the SIG, such as websites and mailing lists
 
-### Officers
+**Secretary**: The duties of the Secretary shall be:
+- To be primarily responsible for communication with the Executive Committee of the ACL
+- To be responsible for relations to other ACL SIGs
+- To requests the approval of the ACL Executive Committee for any activities jointly sponsored with any other non-ACL organizations
+- Communication with members of the SIG
+- Answering inquiries about the SIG
+- To conduct elections as mandated below
 
-The President shall serve a 3-year term sequence, as Vice-President Elect in the first year, as Vice-President in the second year, and as President in the third year. Elections will be held annually for the position of Vice-President Elect, by direct vote of the membership. At the end of the first-year term, the Vice-President Elect shall automatically become Vice President for a subsequent term of one year, and at the end this term the Vice President shall automatically become President for a subsequent one-year term, with a total combined term of 3 years. One of the responsibilities of the VP-Elect/VP/President will be the early-stage and late-stage planning and oversight of the SIGDAT conference to be held during his/her Presidential term. The Vice President and President will also promote and lead community initiatives or special projects and will conduct administrative, communication and management roles as appropriate for the leadership of the SIG. The President is also responsible for submitting a written report on the activities of the SIG for the Executive Committee of the ACL, for presentation to the ACL at its Annual Business Meeting. Either the President, Vice-President or their designate shall serve as the publicly identified Liaison Representative for the SIG, who shall be primarily responsible for communication with members of the SIG, answering inquiries about the SIG, and communication with the Executive Committee of the ACL.
 
-The Secretary/Treasurer shall be elected by a direct vote of the membership, and shall serve a term of 2 years. The Secretary/Treasurer's responsibilities shall include: (1) maintaining a membership roster of the SIG, (2) responsibility for any moneys awarded to the SIG by the ACL; collecting and managing any dues that may be required by the organization; and presenting a written annual report on the SIG finances to the Executive Committee of the ACL, and (3) conducting, tabulating and reporting surveys and votes of the SIG membership and Advisory Board, including the election of SIG Officers.
+**Treasurer**: The duties of the Treasurer shall be:
+- To be responsible for any money awarded to the SIG by the ACL or by other sources, such as sponsorship
+- To present a written annual report on the SIG finances to the Executive Committee of the ACL
+- In the event that the organization does decide to collect dues, to collect and manage any dues that may be required by the organization
 
-### The Advisory Board 
 
-For the purposes of maintaining active institutional memory, SIGDAT will have an Advisory Board consisting of past SIGDAT program chairs and past SIGDAT presidents who can provide ideas, guidance and experienced feedback to the executive Officers. SIGDAT will maintain its long and successful tradition of having all major decisions, including the selection of conference chairs and the selection of the location/timing of SIGDAT conferences, to be made by discussion and democratic vote of the Advisory Board and Officers combined. In the event of a disagreement between the majority vote of the Advisory Board and Officers combined and the majority vote of the Officers alone, on major issues the question should be put to a direct vote of the membership when practical. On minor issues, or for major issues where the sensitivity of the topic precludes broad membership feedback, the vote of the Officers shall be binding but is encouraged to respect the Advisory Board's recommendations. The Officers can strongly influence the outcome by their arguments and framing of the questions, but democratic vote of a relatively large and experienced body of committed individuals helps provide breadth of background, geography and experience that is more representative SIGDAT's overall international membership than the Officers alone, yet be of a moderate size viable for email discussion not possible with SIGDAT's entire membership. Following SIGDAT tradition, all past SIGDAT program chairs and past presidents are invited to join the Advisory Board, and may serve in this advisory capacity until they choose to resign. The careful geographic balance usually maintained in the selection of program chairs helps ensure the relatively high geographic balance of this board.
+**Board Members**:  There will be 4 Board Members elected as well. Their duties include, and are not limited to:
+- Working with other elected members to organize the BEA workshop or any other events
+- Creating the newsletter
+- Identifying and contacting sponsors for SIG and its associated events
+- Maintain our community email lists
+- Maintaining and updating conent on website
+- Public outreach
 
-## III. MEMBERSHIP
+## OTHER REPRESENTATIVES
+​
+The Board designates a Resource Manager and determines how long that member serves.  A Board member can be a Resource Manager.
+ 
+**Resource Manager**: The duties of the Resource Manager include:
+- To create a webpage with the statement of purpose, constitution, and current officer information
+- To handle resources that are made available through the web
+- To maintain a membership roster of the SIG
 
-All ACL members or anyone who has participated in a SIGDAT conference or workshop within the previous 36 months are eligible to become SIGDAT members. Dues will not be required at the time of the ratification of this constitution, but SIGDAT reserves the right to institute dues in the future. Benefits of membership include (a) the right to participate in elections for SIGDAT officers, and (b) the right to participate in periodic surveys regarding the location and timing of SIGDAT future conferences and other policy decisions, (c) the right to participate in SIGDAT community initiatives and (d) receipt, if desired, of timely announcements of SIGDAT meetings, activities, tools, resources and community initiatives.
+## ELECTION PROCEDURE
+​
+All elected officers of the SIG shall be elected by an anonymous vote of the membership. If a vacancy occurs among the officers of the SIG, remaining two elected officers may nominate a replacement officer who will serve out up to the remainder of the previous office holder's term.
+ 
+**Nominations 3 months before the election**: Nominations shall be called at least 3 months prior to the election, and shall close 2 months prior to the election. SIG members will be given notice to submit nominations for SIG officers. Candidates must be nominated by two members, must accept nomination, and must be in good standing of SIG EDU.
+**Voting 2 months before the election**: Voting shall commence at least 2 months before the expiration of the current terms of the officers. All members shall be notified of the election date and the nominations at least 4 weeks prior to the close of voting. Votes may be entered by electronic mail or other designated means. Votes arriving by the notified closing date will be counted. The votes will be counted by the Secretary or another officer agreed to by all candidates.
+**Announcement of the Results**: Any nominee receiving a majority of the votes will be declared elected. The results shall be notified to the members within 4 weeks immediately after the announcement of the results, and the previous officers will remain active for 3 months to ease the transition. Notification shall signify dispatch of mail by the medium and to the address last notified to the secretary.
 
-## IV. ELECTION OF OFFICERS
+## RESOURCE MANAGEMENT
+​
+In providing and making available any resources, and especially any held and distributed electronically, the SIG shall follow proper procedures with respect to matters like copyright, registration and data protection as is appropriate to each case.
+ 
+The SIG shall not enter into any formal or potentially legally binding contracts without the approval of ACL Executive Committee (or the ACL Secretary-Treasurer acting under delegated powers). The SIG shall not enter into any financial commitments for such resources without ensuring that the moneys required are available.
 
-All officers of SIGDAT shall be elected by a vote of the membership. Two officers will be elected each year (a Vice-President Elect every year and the Secretary/Treasurer in alternate years) as detailed above. A slate of two candidates for each office will be nominated by discussion and vote of the SIGDAT Advisory Board. Also, candidates may be nominated directly by the Membership if the Secretary/Treasurer receives a nomination petition from 3 members not including the candidate by a deadline specified by the Secretary/Treasurer. The identity of a candidate as an "official" or "from the membership" nominee will not be distinguished on the final ballot. All candidates must accept nomination, and must be members in good standing of both ACL and SIGDAT, at election and during their full term of office. All current members of the SIG will be eligible to vote in SIG elections. Elections shall normally be carried out at least one month, and at most three months, before the expiration of current terms of office. In the event of a resignation or other permanent absence of the President, the Vice President shall immediately become President and serve in that role for both the remainder of the President's year-long term and for the subsequent year when that Officer would normally be President. The Vice-President Elect shall also fill a permanent vacancy in the office of Vice President, as detailed above. A mid-term vacancy in the office of Vice-President Elect will remain unfilled. In the event of a vacancy in the office of Secretary/Treasurer more than 5 months before the end of his/her term, an extraordinary election shall be held for a Secretary/Treasurer to complete the current term of office; otherwise the Vice-President shall perform the Secretary/Treasurer's duties. The timing of the elections of Officers, within the constraints above, shall be set by vote of the Officers and Advisory Board.
-
-## V. REFERENDA
-
-A change to this constitution, or a motion on any other matter, may be initiated by five members (petitioners) in writing or by majority agreement of Officers and Advisory Board (on the suggestion of a member or otherwise). The motions will be put to the members within six months of receipt of a petition, if the petitioners so request. Otherwise, constitutional amendments and other motions will be put to the vote in conjunction with the regular elections.
-
-Members will be given notification at least three months in advance of any referendum, and further motions or amendments proposed by two members shall be accepted up to two months before the close of voting. Votes may be entered by electronic or physical mail, and votes arriving by the notified closing date will be counted by a returning officer appointed by the President and agreed to by all petitioners. All members shall be notified of the date of the referendum and the proposed motions and amendments at least four weeks prior to the close of voting, and results shall be notified to the members within four weeks of the close of voting.
-
-Any change to this constitution requires a two-thirds majority of those eligible to vote and is subject to approval by ACL. Any other matter requires a simple majority of those actually voting.
+## CHANGES TO THE CONSTITUTION
+​
+Amendments to the constitution of the SIG may be proposed by any SIG member. These must be communicated to the Secretary who shall in turn announce them to the SIG members for discussion at the SIG mailing list. Suggested amendments must obtain the initial support of at least three SIG members and should be proposed at least a month prior to their consideration at the annual SIG business meeting. The minutes of the discussion related to the proposed amendments shall be publicized at the SIG website and the respective amendments shall be ratified by a two thirds majority vote by all SIG members. The vote shall take place electronically (either by e-mail, or via a dedicated web service) within a month, at the latest, after the SIG business meeting. Once ratified, the amendments shall be of immediate effect. The ACL Executive Committee may veto proposed constitution changes if they are incompatible with the ACL Constitution or SIG guidelines.
+​

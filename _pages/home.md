@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   overlay_image: "/assets/images/sigedu-splash.png"
-  overlay_filter: 0.3
+  overlay_filter: 0.25
 excerpt: "Special Interest Group for Building Educational Applications<br/><br/>Organizer of BEA Workshop"
 ---
 
