@@ -1,4 +1,4 @@
-# SIGDAT official website
+# SIGEDU official website
 
 This is the code for the official website for the ACL SIGEDU: the Association for Computational Linguistics Special Interest Group for building educational applications.  
 
