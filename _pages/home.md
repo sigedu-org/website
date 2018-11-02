@@ -1,37 +1,36 @@
 ---
-title: "ACL SIGDAT"
+title: "ACL SIGEDU"
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/sigdat-splash.png"
-  overlay_filter: 0.7
-excerpt: "Special Interest Group on Linguistic Data &amp; Corpus-based Approaches to Natural Language Processing<br/><br/>Organizer of EMNLP"
+  overlay_image: "/assets/images/sigedu-splash.png"
+  overlay_filter: 0.3
+excerpt: "Special Interest Group for Building Educational Applications<br/><br/>Organizer of BEA Workshop"
 ---
 
 <h2>Welcome!</h2>
 
-SIGDAT is the [Association for Computational Linguistics](http://aclweb.org) special interest group for linguistic data and corpus-based approaches to natural language processing. SIGDAT organizes the EMNLP Conference.
+SIGEDU is the [Association for Computational Linguistics](http://aclweb.org) special interest group for building educational applications. SIGDAT organizes the annual workshop on Innovative Use of NLP for Building Educational Applications &ndash; colloquially known as the BEA Workshop.
 
 <h2>About</h2>
 
-SIGDAT was founded in 1993 and is one of ACL's oldest SIGs. Since its inception, SIGDAT's primary mission has been to organize a series of conferences and workshops, including EMNLP (Conference on Empirical Methods in Natural Language Processing) and WVLC (Workshop on Very Large Corpora). These meetings have become quite popular, and and EMNLP is now a 3-day conference with 700+ attendees and 1300 paper submissions in 2015.
+SIGEDU was founded in 2017 and is ACL's newest SIG. SIGEDU has the following goals:
 
-SIGDAT is generally focused on corpus-based and statistical methods in Natural Language Processing, and encourages initiatives in support of this broader mission from its members.
+- promote interdisciplinary interest in educational applications.
+ 
+- promote the exchange and distribution of recent developments within the field of educational technology development.
+ 
+- provide means and venues for exchanging news on cutting-edge technology and advances within the field.
+ 
+- promote collaboration both within the ACL community as well as between the ACL and other communities working on educational applications.
 
-<h2>EMNLP 2018</h2>
+<h2>BEA 2018</h2>
 
-The [2018 Conference on Empirical Methods in Natural Language Processing](http://emnlp2018.org) will be held from October 31-November 4, 2018 in Brussels, Belgium. 
+The [2018 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](http://www.cs.rochester.edu/~tetreaul/bea13.html) was held on June 5, 2018 in New Orleans, USA. Its proceedings are available [online](https://aclanthology.coli.uni-saarland.de/events/ws-2018#W18-05).
 
-<h3>General chair</h3>
-Ellen Riloff, University of Utah, USA
-
-<h3>Program co-chairs</h3>
-David Chiang, University of Notre Dame, USA<br/>
-Julia Hockenmaier, University of Illinois Urbana-Champaign, USA<br/>
-Junichi Tsujii, Artificial Intelligence Research Center, Japan
-
-<h3>Local organizing committee</h3>
-Marie-Francine Moens, KU Leuven, Belgium (chair)<br/>
-Dominique De Brabanter, KU Leuven, Belgium<br/>
-Frieda Steurs, KU Leuven, Belgium<br/>
-Hugo Van hamme, KU Leuven, Belgium
+<h3>Organizers</h3>
+Joel Tetreault, Grammarly<br/>
+Jill Burstein, Educational Testing Service<br/>
+Ekaterina Kochmar, University of Cambridge<br/>
+Claudia Leacock, Grammarly<br/>
+Helen Yannakoudakis, University of Cambridge
