@@ -8,9 +8,7 @@ header:
 excerpt: "Special Interest Group for Building Educational Applications<br/><br/>Organizer of BEA Workshop"
 ---
 
-<div class="text-center">
-    <img src="/assets/images/sigedu-logo.png"/>
-</div>
+![image-center](/assets/images/sigedu-logo.png){: .align-center}
 
 <h2>Welcome!</h2>
 
