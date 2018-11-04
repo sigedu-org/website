@@ -8,7 +8,7 @@ header:
 excerpt: "Special Interest Group for Building Educational Applications<br/><br/>Organizer of BEA Workshop"
 ---
 
-![image-center](/assets/images/sigedu-logo.png){: .align-center}
+![image-center](assets/images/sigedu-logo.png){: .align-center}
 
 <h2>Welcome!</h2>
 
