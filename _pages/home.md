@@ -9,7 +9,7 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 ---
 
 <div class="text-center">
-    <img src="/assets/images/sigedu-logo.png" width="15%"/>
+    <img src="/assets/images/sigedu-logo.png"/>
 </div>
 
 <h2>Welcome!</h2>
