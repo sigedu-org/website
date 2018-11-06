@@ -1,15 +1,16 @@
 # main links
 main:
+  - title: "Constitution"
+    url: /constitution
 
   - title: "Officers"
     url: /officers
 
-  - title: "Constitution"
-    url: /constitution
-
   - title: "Members"
     url: /members
 
+  - title: "BEA Workshop"
+    url: /bea/current
 
 pages:
   - title: Officers
@@ -27,13 +28,18 @@ pages:
       - title: "Members"
       - url: /pages/members.md
 
-# calls:
-#   - title: Call for
-#     children:
-#       - title: "Long & Short Papers"
-#         url: /calls/papers/
-#       - title: "System Demonstrations"
-#         url: /calls/demos/
+  - title: BEA
+    children:
+      - title: "BEA Workshop"
+      - url: /bea/current.md
+
+bea:
+  - title: BEA
+    children:
+      - title: "Current Workshop"
+        url: /bea/current
+      - title: "Past Workshops"
+        url: /bea/past
 
 # program:
 #   - title: Program Details
