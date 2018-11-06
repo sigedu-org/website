@@ -1,15 +1,11 @@
 ---
-title: Officers
+title: Current Officers
 layout: single
 excerpt: "SIGEDU Officers."
 permalink: /officers
 sidebar: false
 toc: false
 ---
-
-<br/>
-
-<h1>Current Officers</h1>
 
 | Position | Name | Affiliation | Term |
 | -------- | ---- | ----------- | ---- | 
