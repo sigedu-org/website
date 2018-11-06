@@ -1,5 +1,5 @@
 ---
-title: 
+title: ""
 layout: single
 permalink: /bea/current
 sidebar: 

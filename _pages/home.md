@@ -12,7 +12,7 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>Welcome!</h2>
 
-SIGEDU is the [Association for Computational Linguistics](http://aclweb.org) special interest group for building educational applications. SIGDAT organizes the annual workshop on Innovative Use of NLP for Building Educational Applications &ndash; colloquially known as the [BEA Workshop](/bea/current).
+SIGEDU is the [Association for Computational Linguistics](http://aclweb.org) special interest group for building educational applications. SIGDAT organizes the annual workshop on Innovative Use of NLP for Building Educational Applications &ndash; colloquially known as the [BEA Workshop](bea/current).
 
 <h2>About</h2>
 
