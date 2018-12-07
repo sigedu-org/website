@@ -26,6 +26,10 @@ toc_icon: 'cog'
             <td>Florence, Italy</td>
         </tr>
         <tr>
+            <td><strong>Deadline</strong></td>
+            <td>Friday, April 26, 2019 11:59pm EST</td>
+        </tr>   
+        <tr>
             <td><strong>Date</strong></td>
             <td>Thursday or Friday, August 1 or 2, 2019 (TBD)</td>
         </tr>   
