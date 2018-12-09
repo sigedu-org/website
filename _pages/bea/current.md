@@ -144,6 +144,7 @@ We will be using the START conference system to manage submissions.
 - Paula Buttery, University of Cambridge
 - Andrew Caines, University of Cambridge
 - Mei-Hua Chen, Department of Foreign Languages and Literature, Tunghai University
+- Martin Chodorow, Hunter College, City University of New York
 - Shamil Chollampatt, National University of Singapore
 - Mark Core, University of Southern California
 - Vidas Daudaravicius, UAB VTEX
