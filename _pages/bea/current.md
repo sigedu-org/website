@@ -183,7 +183,7 @@ We will be using the START conference system to manage submissions.
 - Ben Leong, Educational Testing Service
 - James Lester, North Carolina State University
 - Chen Liang, Facebook
-- Diane Litman, University of pittsburgh
+- Diane Litman, University of Pittsburgh
 - Yang Liu, Laix
 - Peter Ljunglöf, University of Gothenburg
 - Anastassia Loukina, Educational Testing Service
@@ -201,7 +201,7 @@ We will be using the START conference system to manage submissions.
 - Maria Moritz, University of Goettingen
 - William Murray, Pearson
 - Courtney Napoles, Grammarly
-- Diane Napolitano, Educational Testing Service
+- Diane Napolitano, LCSR, Rutgers University
 - Hwee Tou Ng, National University of Singapore
 - Huy Nguyen, LingoChamp
 - Rodney Nielsen, University of North Texas
