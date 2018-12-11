@@ -97,7 +97,7 @@ toc: false
 - Verena Möller, Université catholique de Louvain<br/>
 - <a href="http://www.cs.columbia.edu/~smara/">Smaranda	Muresan</a>, Columbia University<br/>
 - <a href="http://cs.jhu.edu/~napoles">Courtney Napoles</a>, Grammarly<br/>
-- <a href="http://diane.sdf-us.org">Diane Napolitano</a>, Educational Testing Service<br/>
+- <a href="http://diane.sdf-us.org">Diane Napolitano</a>, LCSR, Rutgers University<br/>
 - <a href="iampuntre.github.io">Nihal Nayak</a>, Stride.ai<br/>
 - <a href="http://www.comp.nus.edu.sg/~nght/">Hwee Tou Ng</a>, National University of Singapore<br/>
 - <a href="http://www.cse.unt.edu/~Nielsen">Rodney Nielsen</a>, University of North Texas<br/>
