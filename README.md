@@ -35,7 +35,7 @@ network connection), then build from the dockerfile with:
 
 and after that's complete, you can just run a server at
 http://localhost:4000 with:
-`docker run --rm -it -p 4000:4000 YOUR_TAG_HERE`
+`docker run --rm -it -p 4000:4000 -v $(pwd):/srv/jekyll YOUR_TAG_HERE`
 
 ## License
 
