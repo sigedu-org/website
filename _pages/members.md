@@ -7,6 +7,8 @@ sidebar: false
 toc: false
 ---
 
+[Become a member](https://docs.google.com/forms/d/e/1FAIpQLSep9q-QLIvCIVIcdyoJJA8y2Ql32YRCQfVWDNJx1FwNXD3L6Q/viewform)
+
 - <a href="https://www.upf.edu/web/ahmed-aburaed">Ahmed Ghassan Tawfiq AbuRa'ed</a>, LaSTUS lab, TALN, UPF University<br/>
 - <a href="http://people.cs.pitt.edu/~tazinafrin/">Tazin Afrin</a>, University of Pittsburgh<br/>
 - <a href="https://spraakbanken.gu.se/swe/personal/david">David Alfter</a>, University of Gothenburg<br/>
