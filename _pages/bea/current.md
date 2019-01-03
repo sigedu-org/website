@@ -31,7 +31,7 @@ toc_icon: 'cog'
         </tr>   
         <tr>
             <td><strong>Date</strong></td>
-            <td>Thursday or Friday, August 1 or 2, 2019 (TBD)</td>
+            <td>Friday, August 2, 2019</td>
         </tr>   
         <tr>
             <td><strong>Organizers</strong></td>
@@ -98,7 +98,7 @@ Another significant problem facing the field is that system performance is still
 - **Submission Deadline: Friday, April 26, 2019, 11:59pm EST**
 - Notification of Acceptance: Friday, May 24, 2019
 - Camera-ready Papers Due: Monday, June 3, 2019
-- Workshop: Thursday or Friday, August 1 or 2, 2019 (TBD)
+- Workshop: Friday, August 2, 2019
 
 
 ## Submission Information
@@ -111,7 +111,7 @@ Previously published papers cannot be accepted. The submissions will be reviewed
 
 We have also included conflict of interest in the submission form. You should mark all potential reviewers who have been authors on the paper, are from the same research group or institution, or who have seen versions of this paper or discussed it with you.
 
-We will be using the START conference system to manage submissions.
+We will be using the START conference system to manage submissions: https://www.softconf.com/acl2019/bea/
 
 
 ## Organizing Committee
