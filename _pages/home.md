@@ -12,14 +12,13 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>News</h2>
 
-**December 7, 2018**. The [2019 BEA workshop](/bea/current) has been accepted and will be co-located with ACL 2019 in Florence, Italy. The submission deadline is Friday, April 26th, 2019 and the workshop date will be either August 1st or 2nd. We hope to see you there!
+**December 7, 2018**. The [2019 BEA workshop](/bea/current) has been accepted and will be co-located with ACL 2019 in Florence, Italy. The submission deadline is Friday, April 26th, 2019 and the workshop date is Friday, August 2nd, 2019. We hope to see you there!
 {: .notice--info} 
 
 
 <h2>Welcome!</h2>
 
-SIGEDU is the [Association for Computational Linguistics](http://aclweb.org) special interest group for building educational applications. SIGDAT organizes the annual workshop on Innovative Use of NLP for Building Educational Applications &ndash; colloquially known as the [BEA Workshop](bea/current).
-
+SIGEDU is the [Association for Computational Linguistics](http://aclweb.org) special interest group for building educational applications. SIGDAT organizes the annual workshop on Innovative Use of NLP for Building Educational Applications &ndash; colloquially known as the [BEA Workshop](bea/current). Anyone can become a member of SIGEDU. If you are interested, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSep9q-QLIvCIVIcdyoJJA8y2Ql32YRCQfVWDNJx1FwNXD3L6Q/viewform).
 <h2>About</h2>
 
 SIGEDU was founded in 2017 and is ACL's newest SIG. SIGEDU has the following goals:
