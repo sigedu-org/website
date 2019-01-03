@@ -20,26 +20,27 @@ You can test this website locally on macOS as follows:
 Alternately, if you would prefer using Docker rather than
 installing and configuring Ruby, that's also possible.
 
----
-* installing docker for Windows
+* Installing docker for Windows
+
 For instructions on how to install docker for Windows 10, go
 [here](https://docs.docker.com/docker-for-windows/install/),
 or for slightly older Windows computers,
 go [here](https://docs.docker.com/toolbox/overview/).
 
-* installing docker for MacOS
+* Installing docker for MacOS
+
 For instructions on how to install docker for MacOS (at
 least El Capitan 10.11), go
 [here](https://docs.docker.com/docker-for-mac/install/),
 or for slightly older MacOS computers,
 go [here](https://docs.docker.com/toolbox/overview/)
 
-* installing docker on Linux
+* Installing docker on Linux
+
 For instructions on how to install docker for Ubuntu (at
 least 14.04), go [here](https://docs.docker.com/install/linux/docker-ce/ubuntu/). This link also has options for other
 Linux distributions.
 
----
 
 to test your installation, just type:
 `docker --version`
