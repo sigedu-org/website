@@ -119,7 +119,7 @@ We will be using the START conference system to manage submissions: https://www.
 - [Helen Yannakoudakis](https://www.cl.cam.ac.uk/~hy260/), University of Cambridge
 - [Ekaterina Kochmar](https://www.cl.cam.ac.uk/~ek358/), University of Cambridge
 - [Claudia Leacock](https://www.linkedin.com/in/claudialeacockphd/), Grammarly 
-- [Nitin Madnani](http://desilinguist.org), Educational Testing Service
+- [Nitin Madnani](https://desilinguist.org), Educational Testing Service
 - [Ildikó Pilán](https://spraakbanken.gu.se/eng/personal/ildiko), Develop Diverse 
 - [Torsten Zesch](https://www.ltl.uni-due.de/team/torsten-zesch/), University of Duisburg-Essen
 
