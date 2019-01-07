@@ -33,6 +33,12 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
+    {% if post.author and site.data.authors[post.author] %}
+       {% assign author = site.data.authors[post.author] %}
+       <p class="page__meta">{{ author.name }} | {{ post.date | date: "%B %d, %Y" }}</p>
+    {% else %}
+       <p class="page__meta">{{ post.date | date: "%B %d, %Y" }}</p>
+    {% endif %}    
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>
