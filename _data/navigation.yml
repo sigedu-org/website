@@ -8,30 +8,12 @@ main:
 
   - title: "Members"
     url: /members
+  
+  - title: "Blog"
+    url: /blog
 
   - title: "BEA Workshop"
     url: /bea/current
-
-pages:
-  - title: Officers
-    children:
-      - title: "Officers"
-      - url: /pages/officers.md
-
-  - title: Constitution
-    children:
-      - title: "Constitution"
-      - url: /pages/constitution.md
-
-  - title: Members
-    children:
-      - title: "Members"
-      - url: /pages/members.md
-
-  - title: BEA
-    children:
-      - title: "BEA Workshop"
-      - url: /bea/current.md
 
 bea:
   - title: BEA
