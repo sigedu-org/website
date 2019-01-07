@@ -144,7 +144,7 @@ We will be using the START conference system to manage submissions: https://www.
 - Paula Buttery, University of Cambridge
 - Andrew Caines, University of Cambridge
 - Mei-Hua Chen, Department of Foreign Languages and Literature, Tunghai University
-- Martin Chodorow, Hunter College, City University of New York
+- Martin Chodorow, ETS & City University of New York
 - Shamil Chollampatt, National University of Singapore
 - Mark Core, University of Southern California
 - Vidas Daudaravicius, UAB VTEX
@@ -152,6 +152,7 @@ We will be using the START conference system to manage submissions: https://www.
 - Carrie Demmans Epp, University of Alberta
 - Yo Ehara, Faculty of Informatics, Shizuoka Institute of Science and Technology
 - Keelan Evanini, Educational Testing Service
+- Mariano Felice, University of Cambridge
 - Michael Flor, Educational Testing Service
 - Thomas François, Université catholique de Louvain
 - Michael Gamon, Microsoft Research
@@ -198,7 +199,7 @@ We will be using the START conference system to manage submissions: https://www.
 - Beata Megyesi, Uppsala University
 - Detmar Meurers, Universität Tübingen
 - Elham Mohammadi, CLaC Laboratory, Concordia University
-- Maria Moritz, University of Goettingen
+- Maria Moritz, German Research Center for Artificial Intelligence
 - William Murray, Pearson
 - Courtney Napoles, Grammarly
 - Diane Napolitano, LCSR, Rutgers University
@@ -248,3 +249,5 @@ We will be using the START conference system to manage submissions: https://www.
 - Klaus Zechner, Educational Testing Service
 - Fan Zhang, Google
 - Haoran Zhang, University of Pittsburgh
+- Ramon Ziai, University of Tübingen
+
