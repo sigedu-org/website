@@ -1,0 +1,21 @@
+# Authors
+
+bea:
+  name        : "BEA Team"
+  email       : "bea.nlp.workshop@gmail.com"
+  bio         : ""
+  avatar      : "assets/images/avatars/bea-team.png"
+
+jill:
+  name        : "Jill Burstein"
+  uri         : "https://sites.google.com/site/jbursteinets/"
+  bio         : "President | Director of Research, ETS"
+  avatar      : "assets/images/avatars/general-chair.png"
+  twitter     : "JillBurstein "
+
+nitin:
+  name        : "Nitin Madnani"
+  uri         : "http://desilinguist.org"
+  bio         : "Executive Board Member | Senior Research Scientist, ETS"
+  avatar      : "https://secure.gravatar.com/avatar/65a5e38cb0ce9a77841d3567fb3cc156.png?r=PG&s=150"
+  twitter     : "haikuman"
