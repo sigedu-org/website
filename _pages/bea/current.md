@@ -81,6 +81,8 @@ The 14th BEA workshop will have oral presentation sessions and a large poster se
 
 ## Shared Task on Grammatical Error Correction
 
+Webpage: https://www.cl.cam.ac.uk/research/nl/bea2019st/
+
 ### Task Description
 
 Grammatical error correction (GEC) is the task of automatically correcting grammatical errors in text; e.g. [I follows his advices → I followed his advice]. It can be used to not only help language learners improve their writing skills, but also alert native speakers to accidental mistakes or typos.
@@ -91,7 +93,8 @@ Another significant problem facing the field is that system performance is still
 ### Task Organizers
 
 - Christopher Bryant, University of Cambridge
-- Mariano Felice, University of Cambridge,
+- Mariano Felice, University of Cambridge
+- Øistein Andersen, University of Cambridge
 - Ted Briscoe, University of Cambridge
 
 ## Important Dates
