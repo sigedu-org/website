@@ -83,15 +83,19 @@ The 14th BEA workshop will have oral presentation sessions and a large poster se
 
 ### Task Description
 
-Grammatical error correction (GEC) is the task of automatically correcting grammatical errors in text; e.g. [I follows his advices → I followed his advice]. It can be used to not only help language learners improve their writing skills, but also alert native speakers to accidental mistakes or typos.
+Grammatical error correction (GEC) is the task of automatically correcting grammatical errors in text; e.g. [I follows his advices → I followed his advice]. It can be used to not only help language learners improve their writing skills, but also alert native speakers to accidental mistakes or typos. 
 
 GEC gained significant attention in the HOO and CoNLL shared tasks between 2011 and 2014 (Dale and Kilgarriff, 2011; Dale et al., 2012; Ng et al., 2013; Ng et al., 2014), but has since become much more difficult to evaluate given a lack of standardised experimental settings. In particular, recent systems have been trained, tuned and tested on different combinations of corpora using different metrics (Yannakoudakis et al., 2017; Chollampatt and Ng, 2018a; Ge et al., 2018; Junczys-Dowmunt et al., 2018). One of the main aims of this proposal is hence to once again provide a platform where different approaches can be evaluated under the same test conditions.
+
 Another significant problem facing the field is that system performance is still primarily benchmarked against the CoNLL-2014 test set, even though this 5-year-old dataset only represents a very narrow domain of first year, South-East Asian undergraduates in Singapore. This means systems have increasingly overfit to a very specific type of English and so do not generalise well to other domains. Our proposal hence introduces a new dataset that represents a much more diverse cross-section of English language domains.
+
+More information can be found on the task [webpage](https://www.cl.cam.ac.uk/research/nl/bea2019st/).
 
 ### Task Organizers
 
 - Christopher Bryant, University of Cambridge
-- Mariano Felice, University of Cambridge,
+- Mariano Felice, University of Cambridge
+- Øistein Andersen, University of Cambridge
 - Ted Briscoe, University of Cambridge
 
 ## Important Dates
