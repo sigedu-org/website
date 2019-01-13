@@ -22,6 +22,7 @@ we hope you're having a good start to 2019! We have several updates for you:
 - Upcoming Conference on Educational Applications: Learning @ Scale 2019 (L@S 2019)
 - Upcoming Conference on Educational Applications: The 20th International Conference on Artificial Intelligence in Education (AIED 2019)
 - Job Advertisement: Data Scientist at Pearson
+- Position Advertisement: Postdoctoral Positions in Response Generation at Heriot-Watt University, Edinburgh
 
 Best,
 the SIGEDU team
@@ -172,3 +173,40 @@ Position details and application links can be found at:
 https://bit.ly/2Ginn6v
  
 – Lee Becker
+
+
+## Position Advertisement: Postdoctoral Positions in Response Generation at Heriot-Watt University, Edinburgh
+
+### WANTED:
+Postdoctoral Research Associate in response generation for [Spoken Dialogue Systems at the Interaction Lab, Edinburgh](https://sites.google.com/site/hwinteractionlab/).
+
+### Closing date: 
+21st January 2019
+
+### Apply here: 
+https://www.hw.ac.uk/about/work/jobs/job_SVJDMjA0NTM.htm
+
+### Job Details:
+Applications are sought for 2 full-time Research Associates in the Interaction Lab at Heriot-Watt University.  The Research Assistants will work on the EPSRC project "MaDrIgAL - Multi-Dimensional Interaction Management and Adaptive Learning" (EP/N017536/1) to investigate, develop, and evaluate response generation in spoken dialogue systems. In particular, we seek a candidate with experience in machine learning approaches to NLP/ dialogue systems, and closely related fields.
+
+### Location:
+The successful candidate will join and collaborate with a group of 7 faculty members, 6 postdoctoral researchers and >10 PhD students. Our team was competing in the [Amazon Alexa Finals](https://developer.amazon.com/alexaprize) twice in a row and is one of the biggest dialogue groups in the world. We have close ties with the Edinburgh Centre for Robotics and we also have a weekly pub outing. The City of Edinburgh has been ranked second in a [global quality of life survey](http://bit.ly/2pIhh37).
+
+### Dates: 
+The post is available from April 2019 until May 2020 in the first instance, with opportunities for extension. Start date is negotiable.
+
+### Salary: 
+Grade 7 or 8 depending on experience (GBP 32,236.00-40,792.00).
+
+### Key duties and responsibilities:
+The main duties of the post are to perform collaborative research on the above-named EPSRC project, to contribute to research publications, to write and submit research articles, and to participate in international conferences. Detailed research duties are to implement and evaluate methods for response generation and adaptive learning in spoken dialogue systems, and to collect and analyse dialogue data.
+
+We are looking for:
+* Ph.D. in Computer Science, Artificial Intelligence, or a related field 
+* Research experience in machine learning and/or NLP.
+* Evidence of a strong publication record in the aforementioned areas.
+* Excellent programming skills.
+* Good command of English in writing and speaking.
+
+### Contact:
+For informal queries please contact [Prof. Verena Rieser](mailto: v.t.rieser@hw.ac.uk)
