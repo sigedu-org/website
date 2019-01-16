@@ -30,6 +30,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Paula Buttery, University of Cambridge<br/>
 - <a href="http://www.aoifecahill.com">Aoife Cahill</a>, Educational Testing Service<br/>
 - Andrew Caines, University of Cambridge<br/>
+- Dumitru-Clementin Cercel, University Politehnica of Bucharest<br/>
 - <a href="https://angusglchen.github.io/">Guanliang Chen</a>, TU Delft<br/>
 - Min Chi, North Carolina State University<br/>
 - <a href="http://www.sfs.uni-tuebingen.de/~mchnkina/">Maria Chinkina</a>, University of Tübingen<br/>
@@ -61,7 +62,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Chung-Chi Huang, Frostburg State University<br/>
 - <a href="https://coralythuang.github.io/">Yi-Ting Huang</a>, Texas A&amp;M University<br/>
 - <a href="https://raduionescu.herokuapp.com">Radu Tudor Ionescu</a>, University of Bucharest<br/>
-- Jason Angel, Instituto politecnico Nacional<br/>
+- Xuejun Ji, The University of British Columbia</br>
 - <a href="https://www.pitt.edu/~pjordan">Pamela Jordan</a>, University of Pittsburgh<br/>
 - <a href="http://cl.sd.tmu.ac.jp/~kajiwara/cv.pdf">Tomoyuki Kajiwara</a>, Osaka University<br/>
 - Masahiro Kaneko, Tokyo Metropolitan University<br/>
@@ -76,6 +77,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="http://www.kristopherkyle.com">Kristopher Kyle</a>, Department of Second Language Studies, University of Hawaii at Manoa<br/>
 - Claudia Leacock, Grammarly<br/>
 - <a href="https://www.lhlee.net/">Lung-Hao Lee</a>, National Central University<br/>
+- <a href="https://lpmi-13.github.io/">Adam Leskis</a>, Independent Researcher<br/>
 - <a href="http://www.boyangli.co">Boyang Li</a>, Liulishuo AI Lab<br/>
 - Wen Li, Indiana University<br/>
 - <a href="https://people.cs.pitt.edu/~litman/">Diane Litman</a>, University of Pittsburgh<br/>
@@ -95,7 +97,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://cs.hmc.edu/~julie">Julie Medero</a>, Harvey Mudd College<br/>
 - Janet Mee, National Board of Medical Examiners<br/>
 - <a href="https://purl.org/dm">Detmar Meurers</a>, Universität Tübingen<br/>
-- Maria Moritz, University of Goettingen<br/>
+- Maria Moritz, German Research Center for Artificial Intelligence<br/>
 - Verena Möller, Université catholique de Louvain<br/>
 - <a href="http://www.cs.columbia.edu/~smara/">Smaranda	Muresan</a>, Columbia University<br/>
 - <a href="https://cs.jhu.edu/~napoles">Courtney Napoles</a>, Grammarly<br/>
