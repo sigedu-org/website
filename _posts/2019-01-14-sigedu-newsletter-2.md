@@ -158,7 +158,7 @@ Further details can be found on the task [webpage](https://www.cl.cam.ac.uk/rese
 
 The [Society for Text & Discourse](http://www.societyfortextanddiscourse.org/) is proud to announce its Twenty-Ninth Annual Meeting to be held in **New York City, USA, July 9 - July 11, 2019** (Chairs: [Adrian Bangerter](mailto: adrian.bangerter@unine.ch) & [Michael Schober](mailto: schober@newschool.edu)). The conference will be held on the campus of [The New School](https://www.newschool.edu/about/). We invite students and scholars from various disciplines (e.g., psychology, linguistics, neuroscience, learning sciences, and others) to attend and participate in the 2019 annual meeting of the Society for Text & Discourse. We welcome proposals for individual papers and posters presenting original research on text and discourse processing, representation, and analysis. Proposals are due February 17, 2019.  
 
-Please see https://easychair.org/cfp/std2019 for more details.
+Please see [https://easychair.org/cfp/std2019](https://easychair.org/cfp/std2019) for more details.
 
 ## Job Advertisements
 
