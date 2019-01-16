@@ -149,7 +149,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://www.cl.cam.ac.uk/~hy260/">Helen Yannakoudakis</a>, University of Cambridge<br/>
 - <a href="https://seyyaw.github.io/">Seid Muhie Yimam</a>, UHH - LT Lab<br/>
 - <a href="https://www.cl.cam.ac.uk/~zy249/">Zheng Yuan</a>, University of Cambridge<br/>
-- <a href="www.marcoszampieri.com">Marcos	Zampieri</a>, University of Wolverhampton<br/>
+- <a href="http://pers-www.wlv.ac.uk/~u22984/">Marcos	Zampieri</a>, University of Wolverhampton<br/>
 - <a href="https://www.dipf.de/en/institute/staff/zehner-fabian">Fabian Zehner</a>, DIPF \| Leibniz Institute for Research and Information in Education<br/>
 - <a href="https://www.ltl.uni-due.de/team/torsten-zesch">Torsten Zesch</a>, University of Duisburg-Essen<br/>
 - Haoran Zhang, University of Pittsburgh<br/>
