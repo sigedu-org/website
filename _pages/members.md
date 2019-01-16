@@ -13,7 +13,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://people.cs.pitt.edu/~tazinafrin/">Tazin Afrin</a>, University of Pittsburgh<br/>
 - <a href="https://spraakbanken.gu.se/swe/personal/david">David Alfter</a>, University of Gothenburg<br/>
 - <a href="https://da352.user.srcf.net">Dimitris Alikaniotis</a>,&nbsp;Grammarly<br/>
-- Jason Angel, Instituto politecnico Nacional<br/>
+- Jason Angel, Instituto Politecnico Nacional<br/>
 - <a href="https://www.rbanchs.com">Rafael Banchs</a>, I2R<br/>
 - <a href="https://leebecker.com">Lee Becker</a>, Pearson<br/>
 - <a href="https://www.ukp.tu-darmstadt.de/people/postdoctoral-researchers/dr-lisa-beinborn">Lisa Beinborn</a>, UKP Lab,&nbsp;TU Darmstadt<br/>
@@ -62,13 +62,13 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Chung-Chi Huang, Frostburg State University<br/>
 - <a href="https://coralythuang.github.io/">Yi-Ting Huang</a>, Texas A&amp;M University<br/>
 - <a href="https://raduionescu.herokuapp.com">Radu Tudor Ionescu</a>, University of Bucharest<br/>
-- Xuejun Ji, The University of British Columbia</br>
+- Xuejun Ji, The University of British Columbia<br/>
 - <a href="https://www.pitt.edu/~pjordan">Pamela Jordan</a>, University of Pittsburgh<br/>
 - <a href="http://cl.sd.tmu.ac.jp/~kajiwara/cv.pdf">Tomoyuki Kajiwara</a>, Osaka University<br/>
 - Masahiro Kaneko, Tokyo Metropolitan University<br/>
 - Elma Kerz, RWTH Aachen<br/>
 - <a href="https://www.stjohns.edu/academics/bio/dr-fazel-keshtkar">Fazel Keshtkar</a>, St. John's University<br/>
-- <a href="http://cl.indiana.edu/~leviking/">Levi King</a>, Indiana University</br>
+- <a href="http://cl.indiana.edu/~leviking/">Levi King</a>, Indiana University<br/>
 - Sigrid Klerke, IT University of Copenhagen<br/>
 - <a href="https://www.cl.cam.ac.uk/~ek358/">Ekaterina Kochmar</a>, University of Cambridge<br/>
 - <a href="http://cl.sd.tmu.ac.jp/~komachi/index.en.html">Mamoru Komachi</a>, Tokyo Metropolitan University<br/>
