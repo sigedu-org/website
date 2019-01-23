@@ -130,6 +130,7 @@ We will be using the START conference system to manage submissions: https://www.
 ## Program Committee
 
 - Tazin Afrin, University of Pittsburgh
+- David Alfter, University of Gothenburg
 - Dimitrios Alikaniotis, Grammarly
 - Rajendra Banjade, Audible Inc.
 - Timo Baumann, Carnegie Mellon University
