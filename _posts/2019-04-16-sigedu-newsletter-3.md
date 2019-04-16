@@ -14,8 +14,7 @@ toc_icon: "cog"
 
 Hi Everyone,
 
-with the BEA14 deadline fast approaching, we hope you are planning to submit your papers to the workshop! 
-Besides the final call for papers for BEA 14, we have several other updates for you:
+with the BEA14 deadline fast approaching, we hope you are planning to submit your papers to the workshop! Besides the final call for papers for BEA14, we have several other updates for you:
 
 - BEA14 Final Call for Papers
 - Results of the GEC Shared Task 2019
@@ -25,7 +24,7 @@ Besides the final call for papers for BEA 14, we have several other updates for 
 
 You can directly navigate to any of the sections by using the table of contents to the right.
 
-As always, if you know of any corpora, resources, tools, conferences, job postings, etc. that would be good to have on the newsletter, please let us know and they'll go in the next newsletter.
+As always, if you know of any corpora, resources, tools, conferences, job postings, etc. that would be good to include in the newsletter, please let us know and we'll be sure to include them in the next version.
 
 Best,
 the SIGEDU team
@@ -35,11 +34,11 @@ the SIGEDU team
 - **The 14th Workshop on Innovative Use of NLP for Building Educational Applications (BEA14)**
 - **Location**: Florence, Italy; August 2, 2019 (co-located with ACL)
 - **Website**: [https://sig-edu.org/bea/current](https://sig-edu.org/bea/current)
-- **Submission Deadline: Friday, April 26, 2019, 11:59pm EST**
+- **Submission Deadline**: Friday, April 26, 2019, 11:59pm EST
 
-### WORKSHOP DESCRIPTION
+### Workshop Description
 
-The BEA Workshop is a leading venue for NLP innovation in the context of educational applications. It is one of the largest one-day workshops in the ACL community with over 80 attendees in the past several years. The growing interest in educational applications and a diverse community of researchers involved resulted in the creation of the [Special Interest Group in Educational Applications (SIGEDU)](https://www.aclweb.org/adminwiki/index.php?title=2018Q3_Reports:_SIGEDU) in 2017, which currently has 159 members.
+The BEA Workshop is a leading venue for NLP innovation in the context of educational applications. It is one of the largest one-day workshops in the ACL community with over 80 attendees in the past several years. The growing interest in educational applications and a diverse community of researchers involved resulted in the creation of the [Special Interest Group in Educational Applications (SIGEDU)](https://www.aclweb.org/adminwiki/index.php?title=2018Q3_Reports:_SIGEDU) in 2017 which currently has 159 members.
 
 The workshop’s continuing growth highlights the alignment between societal needs and technological advances. NLP capabilities can now support an array of learning domains, including writing, speaking, reading, science, and mathematics, as well as the related intra-personal (e.g., self-confidence) and inter-personal (e.g., peer collaboration) skills. Within these areas, the community continues to develop and deploy innovative NLP approaches for use in educational settings. In the writing and speech domains, automated writing evaluation (AWE) and speech scoring applications, respectively, are commercially deployed in high-stakes assessment and in instructional contexts (e.g., Massive Open Online Courses (MOOCs) and K-12 classrooms). Commercially-deployed plagiarism detection is also commonly used in both K-12 and higher education settings. For writing, the focus is on innovations that support writing tasks requiring source use, argumentative discourse, and factual content accuracy. For speech, there is an interest in advancing automated scoring to include the evaluation of discourse and content features in responses to spoken assessments. General advances in speech technology have promoted a renewed interest in spoken dialog and multimodal systems for instruction and assessment, for instance, for workplace interviews and simulated teaching environments. The explosive growth of mobile applications for game-based and simulation-based applications is another area where NLP has begun to play a large role, especially for language learning.
 
@@ -71,13 +70,13 @@ The 14th BEA workshop will have oral presentation sessions and a large poster se
 - Semantic-based access to instructional materials to identify appropriate texts
 - Tools that automatically generate test questions
 
-### SHARED TASK: Grammatical Error Correction
+### Shared Task: Grammatical Error Correction
  
 The BEA14 workshop is also hosting a shared task on Grammatical Error Correction.
 
 More information can be found on the task webpage: [https://www.cl.cam.ac.uk/research/nl/bea2019st/](https://www.cl.cam.ac.uk/research/nl/bea2019st/)
 
-### SUBMISSION INFORMATION
+### Submission Information
  
 We will be using the ACL Submission Guidelines for the BEA14 Workshop this year. Long papers may consist of up to eight (8) pages of content, plus unlimited references; final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers' comments can be taken into account. Short papers may consist of up to four (4) pages of content, plus unlimited references. Upon acceptance, short papers will be given five (5) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewers' comments in their final versions.
 
@@ -90,15 +89,15 @@ We have also included conflict of interest in the submission form. You should ma
 We will be using the START conference system to manage submissions:
 [https://www.softconf.com/acl2019/bea/](https://www.softconf.com/acl2019/bea/).
 
-### IMPORTANT DATES
- 
+### Important Dates
+
 - **Submission Deadline: Friday, April 26, 2019, 11:59pm  EST**
 - Notification of Acceptance: Friday, May 24, 2019
 - Camera-ready Papers Due: Monday, June 3, 2019
 - Workshop: Friday, August 2, 2019
 
-### ORGANIZING COMMITTEE
- 
+### Organizing Committee
+
 - Helen Yannakoudakis, University of Cambridge (primary contact)
 - Ekaterina Kochmar, University of Cambridge
 - Claudia Leacock, Grammarly
@@ -106,139 +105,140 @@ We will be using the START conference system to manage submissions:
 - Ildikó Pilán, Develop Diverse
 - Torsten Zesch, University of Duisburg-Essen
 
-Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.workshop@gmail.com)
+If you have any questions, please contact us at the official workshop emil address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.workshop@gmail.com)
 
-### PROGRAM COMMITTEE
- 
-- Tazin Afrin, University of Pittsburgh
-- David Alfter, University of Gothenburg
-- Dimitrios Alikaniotis, Grammarly
-- Rajendra Banjade, Audible Inc. (an Amazon company)
-- Timo Baumann, Carnegie Mellon University
-- Lee Becker, Pearson
-- Beata Beigman Klebanov, ETS
-- Kay Berkling, Cooperation State university Karlsruhe Germany
-- Suma Bhat, University of Illinois at Urbana-Champaign
-- Sameer Bhatnagar, Polytechnique Montreal
-- Joachim Bingel, University of Copenhagen
-- Karim Bouzoubaa, Mohammed V University in Rabat
-- Chris Brew, Facebook
-- Ted Briscoe, University of Cambridge
-- Julian Brooke, University of British Columbia
-- Dominique Brunato, Institute for Computational Linguistics, ILC-CNR, Pisa, Italy
-- Christopher Bryant, University of Cambridge
-- Paula Buttery, University of Cambridge
-- Andrew Caines, University of Cambridge
-- Mei-Hua Chen, Department of Foreign Languages and Literature, Tunghai University
-- Martin Chodorow, ETS & City University of New York
-- Shamil Chollampatt, National University of Singapore
-- Mark Core, University of Southern California
-- Vidas Daudaravicius, UAB VTEX
-- Kordula De Kuthy, University of Tübingen
-- Carrie Demmans Epp, University of Alberta
-- Yo Ehara, Faculty of Informatics, Shizuoka Institute of Science and Technology
-- Keelan Evanini, Educational Testing Service
-- Mariano Felice, University of Cambridge
-- Michael Flor, Educational Testing Service
-- Thomas François, Université catholique de Louvain
-- Michael Gamon, Microsoft Research
-- Dipesh Gautam, The University of Memphis
-- Sian Gooding, University of Cambridge
-- Jonathan Gordon, Vassar College
-- Cyril Goutte, National Research Council Canada
-- Iryna Gurevych, UKP Lab, TU Darmstadt
-- Na-Rae Han, University of Pittsburgh
-- Jiangang Hao, Educational Testing Service
-- Homa Hashemi, Microsoft
-- Trude Heift, Simon Fraser University
-- Derrick Higgins, American Family Insurance
-- Heiko Holz, LEAD Graduate School & Research Network at the University of Tuebingen
-- Andrea Horbach, University Duisburg-Essen
-- Chung-Chi Huang, Frostburg State University
-- Yi-Ting Huang, Academia Sinica
-- Radu Tudor Ionescu, University of Bucharest
-- Lifeng Jin, The Ohio State University
-- Pamela Jordan, University of Pittsburgh
-- Taraka Kasicheyanula, University of Oslo
-- Elma Kerz, RWTH Aachen
-- Fazel Keshtkar, St. John's University
-- Mamoru Komachi, Tokyo Metropolitan University
-- Lun-Wei Ku, Academia Sinica
-- Ji-Ung Lee, UKP Lab, Technische Universität Darmstadt
-- John Lee, City University of Hong Kong
-- Lung-Hao Lee, National Central University
-- Ben Leong, Educational Testing Service
-- James Lester, North Carolina State University
-- Chen Liang, Facebook
-- Diane Litman, University of pittsburgh
-- Yang Liu, Laix
-- Peter Ljunglöf, University of Gothenburg
-- Anastassia Loukina, ETS
-- Xiaofei Lu, Pennsylvania State University
-- Luca Lugini, University of Pittsburgh
-- Nabin Maharjan, University of Memphis
-- Jean Maillard, University of Cambridge
-- Shervin Malmasi, Harvard Medical School
-- Montse Maritxalar, University of the Basque Country
-- Ditty Mathew, IIT Madras
-- Julie Medero, Harvey Mudd College
-- Beata Megyesi, Uppsala University
-- Detmar Meurers, Universität Tübingen
-- Elham Mohammadi, CLaC Laboratory, Concordia University
-- Maria Moritz, University of Goettingen
-- William Murray, Pearson
-- Courtney Napoles, Grammarly
-- Diane Napolitano, Educational Testing Service
-- Hwee Tou Ng, National University of Singapore
-- Huy Nguyen, LingoChamp
-- Rodney Nielsen, University of North Texas
-- Nobal Niraula, Boeing Research and Technology
-- Yoo Rhee Oh, Electronics and Telecommunications Research Institute (ETRI)
-- Constantin Orasan, University of Wolverhampton
-- Ulrike Pado, HFT Stuttgart
-- Alexis Palmer, University of North Texas
-- Martí Quixal, Universitat Oberta de Catalunya
-- Zahra Rahimi, University of Pittsburgh
-- Lakshmi Ramachandran, Amazon Search
-- Hanumant Redkar, Indian Institute of Technology Bombay
-- Marek Rei, University of Cambridge
-- Robert Reynolds, Brigham Young University
-- Brian Riordan, ETS
-- Kat Robb, University of Leeds
-- Andrew Rosenberg, Google
-- Mark Rosenstein, Pearson
-- Alla Rozovskaya, City University of New York
-- C. Anton Rytting, University of Maryland
-- Keisuke Sakaguchi, Allen Institute for Artificial Intelligence
-- Allen Schmaltz, Harvard University
-- Mat Schulze, San Diego State University
-- Burr Settles, Duolingo
-- Serge Sharoff, University of Leeds
-- Swapna Somasundaran, ETS
-- Richard Sproat, Google
-- Helmer Strik, Centre for Language and Speech Technology (CLST), Centre for Language Studies (CLS), Radboud University Nijmegen
-- Jan Švec, NTIS, University of West Bohemia
-- Anaïs Tack, UCLouvain & KU Leuven
-- Yuen-Hsien Tseng, National Taiwan Normal University
-- Giulia Venturi, Institute for Computational Linguistics "A. Zampolli", Italy
-- Aline Villavicencio, Federal University of Rio Grande do Sul (Brazil) and University of Essex (UK)
-- Carl Vogel, Trinity College Dublin
-- Elena Volodina, University of Gothenburg
-- Shuting Wang, Facebook Inc
-- Michael White, The Ohio State University
-- Michael Wojatzki, LTL, University of Duisburg-Essen
-- Magdalena Wolska, Eberhard Karls Universität Tübingen
-- Huichao Xue, LinkedIn
-- Victoria Yaneva, National Board of Medical Examiners / University of Wolverhampton
-- Zheng Yuan, University of Cambridge
-- Marcos Zampieri, University of Wolverhampton (UK)
-- Klaus Zechner, ETS
-- Fan Zhang, Google
-- Haoran Zhang, University of Pittsburgh
-- Ramon Ziai, University of Tübingen
+### Program Committee
 
+<ul class="small">
+<li>Tazin Afrin, University of Pittsburgh</li>
+<li>David Alfter, University of Gothenburg</li>
+<li>Dimitrios Alikaniotis, Grammarly</li>
+<li>Rajendra Banjade, Audible Inc. (an Amazon company)</li>
+<li>Timo Baumann, Carnegie Mellon University</li>
+<li>Lee Becker, Pearson</li>
+<li>Beata Beigman Klebanov, ETS</li>
+<li>Kay Berkling, Cooperation State university Karlsruhe Germany</li>
+<li>Suma Bhat, University of Illinois at Urbana-Champaign</li>
+<li>Sameer Bhatnagar, Polytechnique Montreal</li>
+<li>Joachim Bingel, University of Copenhagen</li>
+<li>Karim Bouzoubaa, Mohammed V University in Rabat</li>
+<li>Chris Brew, Facebook</li>
+<li>Ted Briscoe, University of Cambridge</li>
+<li>Julian Brooke, University of British Columbia</li>
+<li>Dominique Brunato, Institute for Computational Linguistics, ILC-CNR, Pisa, Italy</li>
+<li>Christopher Bryant, University of Cambridge</li>
+<li>Paula Buttery, University of Cambridge</li>
+<li>Andrew Caines, University of Cambridge</li>
+<li>Mei-Hua Chen, Department of Foreign Languages and Literature, Tunghai University</li>
+<li>Martin Chodorow, ETS & City University of New York</li>
+<li>Shamil Chollampatt, National University of Singapore</li>
+<li>Mark Core, University of Southern California</li>
+<li>Vidas Daudaravicius, UAB VTEX</li>
+<li>Kordula De Kuthy, University of Tübingen</li>
+<li>Carrie Demmans Epp, University of Alberta</li>
+<li>Yo Ehara, Faculty of Informatics, Shizuoka Institute of Science and Technology</li>
+<li>Keelan Evanini, Educational Testing Service</li>
+<li>Mariano Felice, University of Cambridge</li>
+<li>Michael Flor, Educational Testing Service</li>
+<li>Thomas François, Université catholique de Louvain</li>
+<li>Michael Gamon, Microsoft Research</li>
+<li>Dipesh Gautam, The University of Memphis</li>
+<li>Sian Gooding, University of Cambridge</li>
+<li>Jonathan Gordon, Vassar College</li>
+<li>Cyril Goutte, National Research Council Canada</li>
+<li>Iryna Gurevych, UKP Lab, TU Darmstadt</li>
+<li>Na-Rae Han, University of Pittsburgh</li>
+<li>Jiangang Hao, Educational Testing Service</li>
+<li>Homa Hashemi, Microsoft</li>
+<li>Trude Heift, Simon Fraser University</li>
+<li>Derrick Higgins, American Family Insurance</li>
+<li>Heiko Holz, LEAD Graduate School & Research Network at the University of Tuebingen</li>
+<li>Andrea Horbach, University Duisburg-Essen</li>
+<li>Chung-Chi Huang, Frostburg State University</li>
+<li>Yi-Ting Huang, Academia Sinica</li>
+<li>Radu Tudor Ionescu, University of Bucharest</li>
+<li>Lifeng Jin, The Ohio State University</li>
+<li>Pamela Jordan, University of Pittsburgh</li>
+<li>Taraka Kasicheyanula, University of Oslo</li>
+<li>Elma Kerz, RWTH Aachen</li>
+<li>Fazel Keshtkar, St. John's University</li>
+<li>Mamoru Komachi, Tokyo Metropolitan University</li>
+<li>Lun-Wei Ku, Academia Sinica</li>
+<li>Ji-Ung Lee, UKP Lab, Technische Universität Darmstadt</li>
+<li>John Lee, City University of Hong Kong</li>
+<li>Lung-Hao Lee, National Central University</li>
+<li>Ben Leong, Educational Testing Service</li>
+<li>James Lester, North Carolina State University</li>
+<li>Chen Liang, Facebook</li>
+<li>Diane Litman, University of pittsburgh</li>
+<li>Yang Liu, Laix</li>
+<li>Peter Ljunglöf, University of Gothenburg</li>
+<li>Anastassia Loukina, ETS</li>
+<li>Xiaofei Lu, Pennsylvania State University</li>
+<li>Luca Lugini, University of Pittsburgh</li>
+<li>Nabin Maharjan, University of Memphis</li>
+<li>Jean Maillard, University of Cambridge</li>
+<li>Shervin Malmasi, Harvard Medical School</li>
+<li>Montse Maritxalar, University of the Basque Country</li>
+<li>Ditty Mathew, IIT Madras</li>
+<li>Julie Medero, Harvey Mudd College</li>
+<li>Beata Megyesi, Uppsala University</li>
+<li>Detmar Meurers, Universität Tübingen</li>
+<li>Elham Mohammadi, CLaC Laboratory, Concordia University</li>
+<li>Maria Moritz, University of Goettingen</li>
+<li>William Murray, Pearson</li>
+<li>Courtney Napoles, Grammarly</li>
+<li>Diane Napolitano, Educational Testing Service</li>
+<li>Hwee Tou Ng, National University of Singapore</li>
+<li>Huy Nguyen, LingoChamp</li>
+<li>Rodney Nielsen, University of North Texas</li>
+<li>Nobal Niraula, Boeing Research and Technology</li>
+<li>Yoo Rhee Oh, Electronics and Telecommunications Research Institute (ETRI)</li>
+<li>Constantin Orasan, University of Wolverhampton</li>
+<li>Ulrike Pado, HFT Stuttgart</li>
+<li>Alexis Palmer, University of North Texas</li>
+<li>Martí Quixal, Universitat Oberta de Catalunya</li>
+<li>Zahra Rahimi, University of Pittsburgh</li>
+<li>Lakshmi Ramachandran, Amazon Search</li>
+<li>Hanumant Redkar, Indian Institute of Technology Bombay</li>
+<li>Marek Rei, University of Cambridge</li>
+<li>Robert Reynolds, Brigham Young University</li>
+<li>Brian Riordan, ETS</li>
+<li>Kat Robb, University of Leeds</li>
+<li>Andrew Rosenberg, Google</li>
+<li>Mark Rosenstein, Pearson</li>
+<li>Alla Rozovskaya, City University of New York</li>
+<li>C. Anton Rytting, University of Maryland</li>
+<li>Keisuke Sakaguchi, Allen Institute for Artificial Intelligence</li>
+<li>Allen Schmaltz, Harvard University</li>
+<li>Mat Schulze, San Diego State University</li>
+<li>Burr Settles, Duolingo</li>
+<li>Serge Sharoff, University of Leeds</li>
+<li>Swapna Somasundaran, ETS</li>
+<li>Richard Sproat, Google</li>
+<li>Helmer Strik, Centre for Language and Speech Technology (CLST), Centre for Language Studies (CLS), Radboud University Nijmegen</li>
+<li>Jan Švec, NTIS, University of West Bohemia</li>
+<li>Anaïs Tack, UCLouvain & KU Leuven</li>
+<li>Yuen-Hsien Tseng, National Taiwan Normal University</li>
+<li>Giulia Venturi, Institute for Computational Linguistics "A. Zampolli", Italy</li>
+<li>Aline Villavicencio, Federal University of Rio Grande do Sul (Brazil) and University of Essex (UK)</li>
+<li>Carl Vogel, Trinity College Dublin</li>
+<li>Elena Volodina, University of Gothenburg</li>
+<li>Shuting Wang, Facebook Inc</li>
+<li>Michael White, The Ohio State University</li>
+<li>Michael Wojatzki, LTL, University of Duisburg-Essen</li>
+<li>Magdalena Wolska, Eberhard Karls Universität Tübingen</li>
+<li>Huichao Xue, LinkedIn</li>
+<li>Victoria Yaneva, National Board of Medical Examiners / University of Wolverhampton</li>
+<li>Zheng Yuan, University of Cambridge</li>
+<li>Marcos Zampieri, University of Wolverhampton (UK)</li>
+<li>Klaus Zechner, ETS</li>
+<li>Fan Zhang, Google</li>
+<li>Haoran Zhang, University of Pittsburgh</li>
+<li>Ramon Ziai, University of Tübingen</li>
+</ul>
 
-## Results of the GEC Shared Task 2019           
+## GEC Shared Task 2019 Results
 
 We are pleased to report that the recently completed BEA 19 Shared Task on Grammatical Error Correction (GEC) was a huge success and received a total of 37 submissions across all 3 tracks. Of these, 21 submissions were also made to the main Restricted Track, which is the largest number of submissions to a single GEC shared task to date. A further 9 teams also submitted to the Low Resource track, which aimed to encourage research into low-resource GEC where large quantities of annotated data may not be available. More information and shared task results can be found on the following page: [https://www.cl.cam.ac.uk/research/nl/bea2019st/](https://www.cl.cam.ac.uk/research/nl/bea2019st/)
 
@@ -325,54 +325,45 @@ We encourage paper presentations and software demonstrations describing the abov
 This year we have the pleasure to welcome two invited speakers:
 
 1. Thomas François, UCLouvain
+    
+    Thomas François is Assistant Professor in Applied Linguistics and Natural Language Processing at UCLouvain (Cental). His work focuses on automatic assessment of text readability, automatic text simplification, complex word identification, efficient communication in business, and the use of French as a professional language. He has been an invited researcher at IRCS (University of Pennsylvania) as a Fulbright and BAEF fellow and, later, has been a FNRS post-doctoral researcher. He has led research projects such as CEFRLex (http://cental.uclouvain.be/cefrlex/), a CEFR-graded lexicon for foreign language learning or AMesure (http://cental.uclouvain.be/amesure/), a platform to support simple writing. His work on readability for French as a foreign language has been awarded the best thesis Award by the ATALA in 2012 and the best paper in the TALN2016 conference.
 
-Thomas François is Assistant Professor in Applied Linguistics and Natural Language Processing at UCLouvain (Cental). His work focuses on automatic assessment of text readability, automatic text simplification, complex word identification, efficient communication in business, and the use of French as a professional language. He has been an invited researcher at IRCS (University of Pennsylvania) as a Fulbright and BAEF fellow and, later, has been a FNRS post-doctoral researcher. He has led research projects such as CEFRLex (http://cental.uclouvain.be/cefrlex/), a CEFR-graded lexicon for foreign language learning or AMesure (http://cental.uclouvain.be/amesure/), a platform to support simple writing. His work on readability for French as a foreign language has been awarded the best thesis Award by the ATALA in 2012 and the best paper in the TALN2016 conference.
-
-Title: TBD
+    Title: *TBD*
 
 2. Egon Stemle, Eurac
 
-More information soon.
+    More information soon.
 
-Title: TBD
+    Title: *TBD*
 
 **Submission information**
 
-Authors are invited to submit long papers (8-12 pages) alternatively short papers (4-7 pages), page count not including references. We will be using the NoDaLiDa 2019 ([https://nodalida2019.org](https://nodalida2019.org)) template for the workshop this year. 
-The author kit, including LaTeX and Word template files can be accessed here:
-
-[http://www.nodalida2019.org/authorkit.zip](http://www.nodalida2019.org/authorkit.zip)
+Authors are invited to submit long papers (8-12 pages) alternatively short papers (4-7 pages), page count not including references. We will be using the [NoDaLiDa 2019](https://nodalida2019.org) template for the workshop this year. 
+The author kit, including LaTeX and Word template files can be accessed [here](http://www.nodalida2019.org/authorkit.zip).
 
 Submissions will be managed through the electronic conference management system [EasyChair](https://easychair.org/conferences/?conf=nlp4call-2019). 
 Papers must be submitted digitally through the conference management system, in PDF format. Final camera-ready versions of accepted papers will be given an additional page to address reviewer comments.
 
 Papers should describe original unpublished work or work-in-progress. Papers will be peer reviewed by at least two members of the program committee in a double-blind fashion. 
-All accepted papers will be collected into a proceedings volume to be submitted for publication in the NEALT Proceeding Series (Linköping Electronic Conference Proceedings) and, additionally, double-published through the ACL anthology, following experiences from the previous NLP4CALL editions (e.g. 7th  NLP4CALL <http://aclweb.org/anthology/W18-71>).
+All accepted papers will be collected into a proceedings volume to be submitted for publication in the NEALT Proceeding Series (Linköping Electronic Conference Proceedings) and, additionally, double-published through the ACL anthology, following experiences from the previous NLP4CALL editions (e.g. the [7th NLP4CALL](http://aclweb.org/anthology/W18-71)).
 
 **Important dates**
 
-- 30 June: paper submission deadline
+- **June 30: paper submission deadline**
 - 18 August: notification of acceptance
 - 6 September: camera-ready papers for publication
 - 30 September: workshop date
 
 **Organizers**
 
-David Alfter (1), Elena Volodina (1), Ildikó Pilán, Herbert Lange (2), Lars Borin (1)
+David Alfter<sup>1</sup>, Elena Volodina<sup>1</sup>, Ildikó Pilán, Herbert Lange<sup>2</sup>, Lars Borin<sup>2</sup>
 
-(1) Språkbanken, University of Gothenburg, Sweden
-
-(2) Department of Computer Science and Engineering, University of Gothenburg and Chalmers University of Technology, Sweden
+1. Språkbanken, University of Gothenburg, Sweden
+2. Department of Computer Science and Engineering, University of Gothenburg and Chalmers University of Technology, Sweden
 
 **Contact**
 
-For any questions, please contact David Alfter, [david.alfter@gu.se](david.alfter@gu.se)
-
-For further information, see the [workshop website](https://spraakbanken.gu.se/eng/research-icall/8th-nlp4call)
-
-Follow us on Twitter [@NLP4CALL](https://twitter.com/NLP4CALL/)
- 
-
+For further information, see the [workshop website](https://spraakbanken.gu.se/eng/research-icall/8th-nlp4call). For any questions, please contact [David Alfter](mailto:david.alfter@gu.se). Follow us on Twitter [@NLP4CALL](https://twitter.com/NLP4CALL/).
 
 ## Job Advertisements
 
