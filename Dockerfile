@@ -5,5 +5,6 @@ COPY ./Gemfile ./
 RUN bundle install
 
 EXPOSE 4000
+EXPOSE 35729
 
-ENTRYPOINT jekyll serve
+ENTRYPOINT jekyll serve --livereload
