@@ -217,6 +217,7 @@ We will be using the START conference system to manage submissions: [https://www
 - Ulrike Pado, HFT Stuttgart
 - Alexis Palmer, University of North Texas
 - Martí Quixal, Universitat Oberta de Catalunya
+- Vipul Raheja, Grammarly
 - Zahra Rahimi, University of Pittsburgh
 - Lakshmi Ramachandran, Amazon Search
 - Hanumant Redkar, Indian Institute of Technology Bombay
