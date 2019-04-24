@@ -10,16 +10,18 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>News</h2>
 
-**April 16, 2019**. The latest edition of the SIGEDU/BEA newsletter has been [posted](/blog/sigedu-newsletter-3/)!
+**April 24, 2019**. The BEA 2019 deadline has been extended until **Monday, April 29, 11:59pm EST**. Get those papers in!
 {: .notice--info} 
+
+**April 16, 2019**. The latest edition of the SIGEDU/BEA newsletter has been [posted](/blog/sigedu-newsletter-3/)!
+{: .notice} 
 
 **January 14, 2019**. A new edition of the SIGEDU/BEA newsletter has been [posted](/blog/sigedu-newsletter-2/)!
 {: .notice} 
 
-
-**December 7, 2018**. The [2019 BEA workshop](/bea/current) has been accepted and will be co-located with ACL 2019 in Florence, Italy. The submission deadline is Friday, April 26th, 2019 and the workshop date is Friday, August 2nd, 2019. We hope to see you there!
-{: .notice} 
-
+<div class="text-center">
+    <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
+</div>
 
 <h2>Welcome!</h2>
 

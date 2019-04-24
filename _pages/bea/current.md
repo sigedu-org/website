@@ -27,7 +27,7 @@ toc_icon: 'cog'
         </tr>
         <tr>
             <td><strong>Deadline</strong></td>
-            <td>Friday, April 26, 2019 11:59pm EST</td>
+            <td><span style="text-decoration: line-through;">Friday, April 26, 2019 11:59pm EST</span><br/>Monday, April 29, 2019 11:59pm EST (extended)</td>
         </tr>   
         <tr>
             <td><strong>Date</strong></td>
@@ -99,7 +99,7 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
 - Ted Briscoe, University of Cambridge
 
 ## Important Dates
-- **Submission Deadline: Friday, April 26, 2019, 11:59pm EST**
+- **Submission Deadline**: <span style="text-decoration: line-through;">Friday, April 26, 2019, 11:59pm EST</span> **Monday, April 29, 11:59pm EST** (extended)
 - Notification of Acceptance: Friday, May 24, 2019
 - Camera-ready Papers Due: Monday, June 3, 2019
 - Workshop: Friday, August 2, 2019
