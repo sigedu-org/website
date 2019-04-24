@@ -216,7 +216,7 @@ We will be using the START conference system to manage submissions: [https://www
 - Constantin Orasan, University of Wolverhampton
 - Ulrike Pado, HFT Stuttgart
 - Alexis Palmer, University of North Texas
-- Martí Quixal, Universitat Oberta de Catalunya
+- Martí Quixal, Universität Tübingen
 - Vipul Raheja, Grammarly
 - Zahra Rahimi, University of Pittsburgh
 - Lakshmi Ramachandran, Amazon Search
