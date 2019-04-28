@@ -11,7 +11,7 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 <h2>News</h2>
 
 
-**April 28, 2019**. We have added an explicit [double-submission policy](/bea/current/#double-submission-policy) to the call for papers for BEA.
+**April 28, 2019**. We have added an explicit [double-submission policy](/bea/current#double-submission-policy) to the call for papers for BEA.
 {: .notice--info} 
 
 **April 24, 2019**. The BEA 2019 deadline has been extended until **Monday, April 29, 11:59pm EST**. Get those papers in!
