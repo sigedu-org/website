@@ -117,6 +117,14 @@ We have also included conflict of interest in the submission form. You should ma
 
 We will be using the START conference system to manage submissions: [https://www.softconf.com/acl2019/bea/](https://www.softconf.com/acl2019/bea/)
 
+## Double Submission Policy
+
+We will follow the official ACL double-submission [policy](https://www.aclweb.org/archive/policies/current/double-submission-policy.html). Specificially:
+
+Papers being submitted both to BEA and another conference or workshop must:
+- Note on the title page the other conference or workshop to which they are being submitted.  
+- State on the title page that if the authors choose to present their paper at BEA (assuming it was accepted), then the paper will be withdrawn from other conferences and workshops.
+
 
 ## Organizing Committee
 
