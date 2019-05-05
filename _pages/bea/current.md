@@ -153,8 +153,10 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Ted Briscoe, University of Cambridge
 - Julian Brooke, University of British Columbia
 - Dominique Brunato, Institute for Computational Linguistics, ILC-CNR, Pisa, Italy
+- James Bruno, Educational Testing Service
 - Christopher Bryant, University of Cambridge
 - Paula Buttery, University of Cambridge
+- Aoife Cahill, Educational Testing Service
 - Andrew Caines, University of Cambridge
 - Mei-Hua Chen, Department of Foreign Languages and Literature, Tunghai University
 - Martin Chodorow, ETS & City University of New York
@@ -168,12 +170,15 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Mariano Felice, University of Cambridge
 - Michael Flor, Educational Testing Service
 - Thomas François, Université catholique de Louvain
+- Yoko Futagi, Educational Testing Service
 - Michael Gamon, Microsoft Research
 - Dipesh Gautam, The University of Memphis
+- Christian Gold, University of Bergen
 - Sian Gooding, University of Cambridge
 - Jonathan Gordon, Vassar College
 - Cyril Goutte, National Research Council Canada
 - Iryna Gurevych, UKP Lab, TU Darmstadt
+- Binod Gyawali, Educational Testing Service
 - Na-Rae Han, University of Pittsburgh
 - Jiangang Hao, Educational Testing Service
 - Homa Hashemi, Microsoft
@@ -191,6 +196,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Fazel Keshtkar, St. John's University
 - Mamoru Komachi, Tokyo Metropolitan University
 - Lun-Wei Ku, Academia Sinica
+- Chong Min Lee, Educational Testing Service
 - Ji-Ung Lee, UKP Lab, Technische Universität Darmstadt
 - John Lee, City University of Hong Kong
 - Lung-Hao Lee, National Central University
@@ -211,6 +217,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Julie Medero, Harvey Mudd College
 - Beata Megyesi, Uppsala University
 - Detmar Meurers, Universität Tübingen
+- Margot Mieskes, University of Applied Sciences, Darmstadt
 - Elham Mohammadi, CLaC Laboratory, Concordia University
 - Maria Moritz, German Research Center for Artificial Intelligence
 - William Murray, Pearson
@@ -228,6 +235,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Vipul Raheja, Grammarly
 - Zahra Rahimi, University of Pittsburgh
 - Lakshmi Ramachandran, Amazon Search
+- Vikram Ramanarayanan, Educational Testing Service
 - Hanumant Redkar, Indian Institute of Technology Bombay
 - Marek Rei, University of Cambridge
 - Robert Reynolds, Brigham Young University
@@ -247,12 +255,14 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Helmer Strik, Centre for Language and Speech Technology (CLST), Centre for Language Studies (CLS), Radboud University Nijmegen
 - Jan Švec, NTIS, University of West Bohemia
 - Anaïs Tack, UCLouvain & KU Leuven
+- Joel Tetreault, Grammarly
 - Yuen-Hsien Tseng, National Taiwan Normal University
 - Giulia Venturi, Institute for Computational Linguistics "A. Zampolli", Italy
 - Aline Villavicencio, Federal University of Rio Grande do Sul (Brazil) and University of Essex (UK)
 - Carl Vogel, Trinity College Dublin
 - Elena Volodina, University of Gothenburg
 - Shuting Wang, Facebook Inc
+- Xinhao Wang, Educational Testing Service
 - Michael White, The Ohio State University
 - Michael Wojatzki, LTL, University of Duisburg-Essen
 - Magdalena Wolska, Eberhard Karls Universität Tübingen
