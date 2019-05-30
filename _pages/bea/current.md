@@ -6,6 +6,39 @@ sidebar:
     nav: "bea"
 toc: true
 toc_icon: 'cog'
+gold:
+  - url: https://duolingo.com
+    image_path: "/assets/images/logos/sponsors/bea2019/duolingo-logo.png"
+    alt: "Duolingo Logo"
+    title: "Duolingo"
+  - url: https://grammarly.com
+    image_path: "/assets/images/logos/sponsors/bea2019/grammarly-logo.png"
+    alt: "Grammarly Logo"
+    title: "Grammarly"
+  - url: https://nbme.org
+    image_path: "/assets/images/logos/sponsors/bea2019/nbme-logo.png"
+    alt: "NBME Logo"
+    title: "NBME"
+  - url: https://ilexir.co.uk
+    image_path: "/assets/images/logos/sponsors/bea2019/ilexir-logo.png"
+    alt: "iLexIR Logo"
+    title: "iLexIR"
+  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
+  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
+silver:
+  - url: https://www.ets.org
+    image_path: "/assets/images/logos/sponsors/bea2019/ets-logo.png"
+    alt: "ETS Logo"
+    title: "ETS"
+  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
+  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
+bronze:
+  - url: https://newsela.com
+    image_path: "/assets/images/logos/sponsors/bea2019/newsela-logo.png"
+    alt: "Newsela Logo"
+    title: "Newsela"
+  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
+  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
 ---
 
 ![florence-landscape](/assets/images/florence.jpg)
@@ -125,6 +158,16 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Note on the title page the other conference or workshop to which they are being submitted.  
 - State on the title page that if the authors choose to present their paper at BEA (assuming it was accepted), then the paper will be withdrawn from other conferences and workshops.
 
+## Sponsors
+
+### Gold
+{% include gallery id="gold" class="fourth"%}
+
+### Silver
+{% include gallery id="silver" class="fourth"%}
+
+### Bronze
+{% include gallery id="bronze" class="fourth"%}
 
 ## Organizing Committee
 
