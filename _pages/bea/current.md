@@ -111,7 +111,6 @@ The 14th BEA workshop will have oral presentation sessions and a large poster se
 - Semantic-based access to instructional materials to identify appropriate texts
 - Tools that automatically generate test questions
 
-
 ## Shared Task on Grammatical Error Correction
 
 ### Task Description
@@ -137,6 +136,189 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
 - Camera-ready Papers Due: Monday, June 3, 2019
 - Workshop: Friday, August 2, 2019
 
+## Schedule
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="2"><span style="font-size: larger;">August 2, 2019</span></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">8:30&ndash;9:00</td>
+            <td><strong>Loading of Oral Presentations</strong></td>
+        </tr>
+        <tr> 
+            <td style="width: 30%; font-weight: bold;">9:00-9:15</td>
+            <td><strong>Opening Remarks</strong></td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">9:15&ndash;9:40</td>
+            <td><i>The many dimensions of algorithmic fairness in educational applications</i>. Anastassia Loukina, Nitin Madnani and Klaus Zechner. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">9:40&ndash;10:05</td>
+            <td><i>Predicting the Difficulty of Multiple Choice Questions in a High-stakes Medical Exam</i>. Le An Ha, Victoria Yaneva, Peter Baldwin and Janet Mee. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">10:05&ndash;10:30</td>
+            <td><strong>[Ambassador paper]</strong> <i>Effects of the self-view window during video-mediated survey interviews: An eye-tracking study</i>. Shelley Feuer. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">10:30&ndash;11:00</td>
+            <td><strong>Coffee Break</strong></td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">11:00&ndash;11:25</td>
+            <td><i>An Intelligent Testing Strategy for Vocabulary Assessment of Chinese Second Language Learners</i>. Wei Zhou, Renfen Hu, Xuemei Tang, Yu She, Feipeng Sun and Ronghuai Huang. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">11:25&ndash;11:50</td>
+            <td><i>Computationally Modeling the Impact of Task-Appropriate Language Complexity and Accuracy on Human Grading of German Essays</i>. Zarah Weiß, Anja Riemenschneider, Pauline Schröter and Detmar Meurers. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">11:50&ndash;12:10</td>
+            <td><i>Analysing Rhetorical Structure as a Key Feature of Summary Coherence</i>. Tamara Sladoljev-Agejev, Jan Šnajder and Svjetlana Kolić Vehovec. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">12:10&ndash;12:30</td>
+            <td><strong>[Shared Task Report]</strong> <i>The BEA-2019 Shared Task on Grammatical Error Correction</i>. Christopher Bryant, Mariano Felice, Øistein Andersen, Ted Briscoe. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">12:30&ndash;14:00</td>
+            <td><strong>Lunch</strong></td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">14:00&ndash;15:30</td>
+            <td><strong>BEA14 Poster and Shared Task Sessions</strong></td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold; border-bottom: none;">14:00&ndash;14:45</td>
+            <td style="border-bottom: 0px;"><strong>Poster Session A</strong></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <ul>
+                    <li><i>A Benchmark Corpus of misspellings and a minimally-supervised model for spelling correction</i>. Michael Flor, Michael Fried and Alla Rozovskaya. </li>
+                    <li><i>Artificial Error Generation with Fluency Filtering. Mengyang Qiu and Jungyeul Park</i>. </li>
+                    <li><i>Automated Essay Scoring for Norwegian learner language</i>. Stig Johan Berggren, Taraka Rama and Lilja Øvrelid. </li>
+                    <li>Context is Key: Grammatical Error Detection with Contextual Word Representations. Samuel Bell, Helen Yannakoudakis and Marek Rei. </li>
+ 
+                    <li><i>How to account for mispellings: Quantifying the benefit of character representations in neural content scoring models</i>. Brian Riordan, Michael Flor and Robert Pugh. </li>
+                     
+                    <li><i>The Unreasonable Effectiveness of Transformer Language Models in Grammatical Error Correction</i>. Dimitris Alikaniotis, Vipul Raheja and Joel Tetreault. </li>
+                     
+                    <li><i>(Almost) Unsupervised Grammatical Error Correction using Synthetic Comparable Corpus</i>. Satoru Katsumata and Mamoru Komachi. </li>
+                     
+                    <li><i>Learning to combine Grammatical Error Corrections</i>. Yoav Kantor, Yoav Katz, Leshem Choshen, Edo Cohen-Karlik, Naftali Liberman, Assaf Toledo, Amir Menczel and Noam Slonim. </li>
+                     
+                    <li><i>Singsound System for GEC-2019</i>. Shuyao Xu, Jiehao Zhang, Jin Chen and Long Qin. </li>
+                     
+                    <li><i>The LAIX Systems in the BEA-2019 GEC Shared Task</i>. Ruobing Li, Chuan Wang, Yefei Zha, Yonghong Yu, Shiman Guo, Qiang Wang, Yang Liu and Hui Lin. </li>
+                     
+                    <li><i>The CUED's Grammatical Error Correction Systems for BEA-2019</i>. Felix Stahlberg and Bill Byrne. </li>
+                     
+                    <li><i>The AIP-Tohoku System at the BEA-2019 Shared Task</i>. Hiroki Asano, Tomoya Mizumoto and Masato Mita. </li>
+                     
+                    <li><i>CUNI System for the Building Educational Applications 2019 Shared Task: Grammatical Error Correction</i>. Jakub Náplava and Milan Straka. </li>
+                     
+                    <li><i>Noisy Channel for Low Resource Grammatical Error Correction</i>. Ophélie Lacroix, Simon Flachs and Anders Søgaard. </li>
+                     
+                    <li><i>The BLCU System in the BEA 2019 Shared Task</i>. Liner Yang and Chencheng Wang. </li>
+                     
+                    <li><i>TMU Transformer System Using BERT for Re-ranking at BEA 2019 Grammatical Error Correction on Restricted Track</i>. Masahiro Kaneko, Kengo Hotate, Satoru Katsumata and Mamoru Komachi. </li>
+                     
+                    <li><i>A Neural Grammatical Error Correction System Built On Better Pre-training and Sequential Transfer Learning</i>. Yo Joong Choe, Jiyeon Ham, Kyubyong Park and Yeoil Yoon. </li>
+                     
+                    <li><i>Neural and FST-based approaches to grammatical error correction</i>. Zheng Yuan, Felix Stahlberg, Marek Rei, Bill Byrne and Helen Yannakoudakis. </li>
+ 
+                    <li><i>Improving Precision of Grammatical Error Correction with Cheat Sheet</i>. Mengyang Qiu, Xuejiao Chen, Maggie Liu, Krishna Parvathala, Apurva Patil and Jungyeul Park. </li>
+ 
+                    <li><i>Multi-headed Architecture Based on BERT for Grammar Error Correction</i>. Bohdan Didenko and Julia Shaptala. </li>
+                     
+                    <li><i>Neural Grammatical Error Correction Systems with Unsupervised Pre-training on Synthetic Data</i>. Roman Grundkiewicz, Marcin Junczys-Dowmunt and Kenneth Heafield. </li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold; border-bottom: none;">14:45&ndash;15:30</td>
+            <td style="border-bottom: 0px;"><strong>Poster Session B</strong></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <ul>
+                    <li><i>Evaluation of automatic collocation extraction methods for language learning</i>. Vishal Bhalla and Klara Klimcikova. </li>
+ 
+                    <li><i>Anglicized Words and Misspelled Cognates in Native Language Identification</i>. Ilia Markov, Vivi Nastase and Carlo Strapparava. </li>
+                     
+                    <li><i>Linguistically-Driven Strategy for Concept Prerequisites Learning on Italian</i>. Alessio Miaschi, Chiara Alzetta, Franco Alberto Cardillo and Felice Dell'Orletta. </li>
+                     
+                    <li><i>Grammatical-Error-Aware Incorrect Example Retrieval System for Learners of Japanese as a Second Language</i>. Mio Arai, Masahiro Kaneko and Mamoru Komachi. </li>
+                     
+                    <li><i>Automated Content Feedback Generation for Non-native Spontaneous Speech</i>. Su-Youn Yoon, Ching-Ni Hsieh, Klaus Zechner, Matthew Mulholland and Yuan Wang. </li>
+                     
+                    <li><i>Analytic Score Prediction and Justification Identification in Automated Short Answer Scoring</i>. Tomoya Mizumoto, Hiroki Ouchi, Yoriko Isobe, Paul Reisert, Ryo Nagata, Satoshi Sekine and Kentaro Inui. </li>
+                     
+                    <li><i>Content Customization for Micro Learning using Human Augmented AI Techniques</i>. Ayush Shah, Tamer Abuelsaad, Jae-Wook Ahn, Prasenjit Dey, Ravi Kokku, Ruhi Sharma Mittal, Aditya Vempaty and Mourvi Sharma. </li>
+                     
+                    <li><i>REDACTED: A system for Natural Language Question Answering for Self-Paced K-12 Learning</i>. Srikrishna Raamadhurai, Ryan Baker and Vikraman Poduval. </li>
+                     
+                    <li><i>Supporting content evaluation of student summaries by Idea Unit embedding</i>. Marcello Gecchele, Hiroaki Yamada, Takenobu Tokunaga and Yasuyo Sawaki. </li>
+                     
+                    <li><i>On Understanding the Relation between Expert Annotations of Text Readability and Target Reader Comprehension</i>. Sowmya Vajjala and Ivana Lucic. </li>
+                     
+                    <li><i>Measuring Text Complexity for Second Language Learning Purposes</i>. Luciana Forti, Alfredo Milani, Luisa Piersanti, Filippo Santarelli, Valentino Santucci and Stefania Spina. </li>
+                     
+                    <li><i>Simple Construction of Mixed-Language Texts for Vocabulary Learning</i>. Adithya Renduchintala, Philipp Koehn and Jason Eisner. </li>
+                     
+                    <li><i>Analyzing Linguistic Complexity and Accuracy in Academic Language Development of German across Elementary and Secondary School</i>. Zarah Weiß and Detmar Meurers. </li>
+                     
+                    <li><i>Content Modeling for Automated Oral Proficiency Scoring System</i>. Su-Youn Yoon and Chong Min Lee. </li>
+                     
+                    <li><i>Learning Outcomes and Their Relatedness in a Medical Curriculum</i>. Sneha Mondal, Tejas Dhamecha, Shantanu Godbole, Smriti Pathak, Red Mendoza, K Gayathri Wijayarathna, Nabil Zary, Swarnadeep Saha and Malolan Chetlur. </li>
+                     
+                    <li><i>Measuring text readability with machine comprehension: a pilot study</i>. Marc Benzahra and François Yvon. </li>
+                     
+                    <li><i>Metaphors in Text Simplification: To change or not to change, that is the question</i>. Yulia Clausen and Vivi Nastase. </li>
+                     
+                    <li><i>Application of an Automatic Plagiarism Detection System in a Large-scale Assessment of English Speaking Proficiency</i>. Xinhao Wang, Keelan Evanini, Matthew Mulholland, Yao Qian and James V. Bruno. </li>
+                     
+                    <li><i>Equity Beyond Bias in Language Technologies for Education</i>. Elijah Mayfield, Michael Madaio, Shrimai Prabhumoye, David Gerritsen, Brittany McLaughlin, Ezekiel Dixon-Román and Alan W Black. </li>
+                     
+                    <li><i>From Receptive to Productive: Learning to Use Confusing Words through Automatically Selected Example Sentences</i>. Chieh-Yang Huang, Yi-Ting Huang, MeiHua Chen and Lun-Wei Ku. </li>
+                     
+                    <li><i>Equipping Educational Applications with Domain Knowledge</i>. Tarek Sakakini, Hongyu Gong, Jong Yoon Lee, Robert Schloss, JinJun Xiong and Suma Bhat. </li>
+                     
+                    <li><i>The Unbearable Weight of Generating Artificial Errors for Grammatical Error Correctio</i>. Phu Mon Htut and Joel Tetreault. </li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">15:30&ndash;16:00</td>
+            <td><strong>Mid-Afternoon Snacks</strong></td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">16:00&ndash;16:25</td>
+            <td><i>Automated Essay Scoring with Discourse-Aware Neural Models</i>. Farah Nadeem, Huy Nguyen, Yang Liu and Mari Ostendorf. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">16:25&ndash;16:50</td>
+            <td><i>Modeling language learning using specialized Elo rating methods</i>. Jue Hou, Koppatz Maximilian, José María Hoya Quecedo and Roman Yangarber. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">16:50&ndash;17:15</td>
+            <td><i>Rubric Reliability and Annotation of Content and Argument in Source-Based Argument Essays</i>. Yanjun Gao, Alex Driban, Brennan Xavier McManus, Elena Musi, Patricia Davies, Smaranda Muresan and Rebecca J. Passonneau. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">17:15&ndash;17:30</td>
+            <td><strong>Closing Remarks</strong></td>
+        </tr>
+    </tbody>
+</table>
+ 
 
 ## Submission Information
 

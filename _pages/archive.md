@@ -7,6 +7,12 @@ toc: false
 toc_icon: "cog"
 ---
 
+**April 28, 2019**. We have added an explicit [double-submission policy](/bea/current#double-submission-policy) to the call for papers for BEA.
+{: .notice} 
+
+**April 24, 2019**. The BEA 2019 deadline has been extended until **Monday, April 29, 11:59pm EST**. Get those papers in!
+{: .notice} 
+
 **January 14, 2019**. A new edition of the SIGEDU/BEA newsletter has been [posted](/blog/sigedu-newsletter-2/)!
 {: .notice} 
 

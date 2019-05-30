@@ -10,11 +10,7 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>News</h2>
 
-
-**April 28, 2019**. We have added an explicit [double-submission policy](/bea/current#double-submission-policy) to the call for papers for BEA.
-{: .notice--info} 
-
-**April 24, 2019**. The BEA 2019 deadline has been extended until **Monday, April 29, 11:59pm EST**. Get those papers in!
+**May 30, 2019**. The [BEA14 schedule](/bea/current#schedule) is now available! Thanks to all the authors and reviewers for your hard work! We look forward to seeing you in Florence!
 {: .notice--info} 
 
 **April 16, 2019**. The latest edition of the SIGEDU/BEA newsletter has been [posted](/blog/sigedu-newsletter-3/)!
@@ -39,16 +35,17 @@ SIGEDU was founded in 2017 and is ACL's newest SIG. SIGEDU has the following goa
  
 - promote collaboration both within the ACL community as well as between the ACL and other communities working on educational applications.
 
-<h2>BEA 2018</h2>
+<h2>BEA 2019</h2>
 
-The [2018 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](http://www.cs.rochester.edu/~tetreaul/bea13.html) was held on June 5, 2018 in New Orleans, USA. Its proceedings are available [online](https://aclanthology.coli.uni-saarland.de/events/ws-2018#W18-05).
+The [2019 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](/bea/current) will be on August 5, 2019 in Florence, Italy. The [schedule](/bea/current#schedule) is now up on the website. The proceedings will be made available after the workshop. 
 
 <h3>Organizers</h3>
-Joel Tetreault, Grammarly<br/>
-Jill Burstein, Educational Testing Service<br/>
+Helen Yannakoudakis, University of Cambridge<br/>
 Ekaterina Kochmar, University of Cambridge<br/>
 Claudia Leacock, Grammarly<br/>
-Helen Yannakoudakis, University of Cambridge
+Nitin Madnani, Educational Testing Service<br/>
+Ildikó Pilán, Develop Diverse<br/>
+Torsten Zesch, University of Duisburg-Essen
 
 <h2>Anti-Harassment Policy</h2>
 SIGEDU adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy">ACL Anti-Harassment Policy</a> for the BEA workshops. Any participant of the workshop who experiences harassment or hostile behavior may contact any current member of the <a href="https://www.aclweb.org/portal/about">ACL Executive Committee</a> or contact <a href="mailto:acl@aclweb.org">Priscilla Rasmussen</a>, who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
