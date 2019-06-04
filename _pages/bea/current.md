@@ -264,7 +264,7 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
                      
                     <li><i>Content Customization for Micro Learning using Human Augmented AI Techniques</i>. Ayush Shah, Tamer Abuelsaad, Jae-Wook Ahn, Prasenjit Dey, Ravi Kokku, Ruhi Sharma Mittal, Aditya Vempaty and Mourvi Sharma. </li>
                      
-                    <li><i>REDACTED: A system for Natural Language Question Answering for Self-Paced K-12 Learning</i>. Srikrishna Raamadhurai, Ryan Baker and Vikraman Poduval. </li>
+                    <li><i>Curio SmartChat : A system for Natural Language Question Answering for Self-Paced K-12 Learning</i>. Srikrishna Raamadhurai, Ryan Baker and Vikraman Poduval. </li>
                      
                     <li><i>Supporting content evaluation of student summaries by Idea Unit embedding</i>. Marcello Gecchele, Hiroaki Yamada, Takenobu Tokunaga and Yasuyo Sawaki. </li>
                      
