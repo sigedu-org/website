@@ -306,7 +306,7 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">16:25&ndash;16:50</td>
-            <td><i>Modeling language learning using specialized Elo rating methods</i>. Jue Hou, Koppatz Maximilian, José María Hoya Quecedo and Roman Yangarber. </td>
+            <td><i>Modeling language learning using specialized Elo rating methods</i>. Jue Hou, Koppatz Maximilian, José María Hoya Quecedo, Nataliya Stoyanova and Roman Yangarber. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">16:50&ndash;17:15</td>
