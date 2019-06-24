@@ -5,6 +5,7 @@ permalink: /bea/current
 sidebar: 
     nav: "bea"
 toc: true
+toc_sticky: true
 toc_icon: 'cog'
 gold:
   - url: https://duolingo.com
