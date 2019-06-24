@@ -202,8 +202,11 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
             <td>
                 <ul>
                     <li><i>A Benchmark Corpus of misspellings and a minimally-supervised model for spelling correction</i>. Michael Flor, Michael Fried and Alla Rozovskaya. </li>
-                    <li><i>Artificial Error Generation with Fluency Filtering. Mengyang Qiu and Jungyeul Park</i>. </li>
+
+                    <li><i>Content Modeling for Automated Oral Proficiency Scoring System</i>. Su-Youn Yoon and Chong Min Lee. </li>
+
                     <li><i>Automated Essay Scoring for Norwegian learner language</i>. Stig Johan Berggren, Taraka Rama and Lilja Øvrelid. </li>
+
                     <li>Context is Key: Grammatical Error Detection with Contextual Word Representations. Samuel Bell, Helen Yannakoudakis and Marek Rei. </li>
  
                     <li><i>How to account for mispellings: Quantifying the benefit of character representations in neural content scoring models</i>. Brian Riordan, Michael Flor and Robert Pugh. </li>
@@ -275,8 +278,8 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
                     <li><i>Simple Construction of Mixed-Language Texts for Vocabulary Learning</i>. Adithya Renduchintala, Philipp Koehn and Jason Eisner. </li>
                      
                     <li><i>Analyzing Linguistic Complexity and Accuracy in Academic Language Development of German across Elementary and Secondary School</i>. Zarah Weiß and Detmar Meurers. </li>
-                     
-                    <li><i>Content Modeling for Automated Oral Proficiency Scoring System</i>. Su-Youn Yoon and Chong Min Lee. </li>
+                    
+                    <li><i>Artificial Error Generation with Fluency Filtering. Mengyang Qiu and Jungyeul Park</i>. </li>
                      
                     <li><i>Learning Outcomes and Their Relatedness in a Medical Curriculum</i>. Sneha Mondal, Tejas Dhamecha, Shantanu Godbole, Smriti Pathak, Red Mendoza, K Gayathri Wijayarathna, Nabil Zary, Swarnadeep Saha and Malolan Chetlur. </li>
                      
