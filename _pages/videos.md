@@ -20,7 +20,6 @@ videos:
     alt: "EMNLP 2014 Videos"
     title: "EMNLP 2014"
 ---
-{% include base_path %}
 
 Starting in 2014, SIGDAT has recorded videos of the talks given at the EMNLP conferences and made them available to the community and the public at large. The videos are hosted on Vimeo and YouTube. Click on an icon below to open the playlist for that year.
 

@@ -5,10 +5,10 @@ excerpt: "SIGDAT officers &amp; organizing committee."
 permalink: /organization
 sidebar: false
 toc: true
+toc_sticky: true
 toc_label: " On This Page"
 toc_icon: "cog"
 ---
-{% include base_path %}
 
 SIGDAT is run by consensus vote of its organizing committee, consisting of the original SIGDAT organizers and subsequent SIGDAT conference chairs and co-chairs.  SIGDAT has established a Conference Board to help organize the selection of the locations of upcoming EMNLP conferences. 
 

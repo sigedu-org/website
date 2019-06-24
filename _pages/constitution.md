@@ -5,10 +5,10 @@ excerpt: "SIGEDU Constitution."
 permalink: /constitution
 sidebar: false
 toc: true
+toc_sticky: true
 toc_label: " Sections"
 toc_icon: "cog"
 ---
-{% include base_path %}
 
 **Last Updated: March 2017**
 

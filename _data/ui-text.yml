@@ -9,6 +9,7 @@ en: &DEFAULT_EN
   breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
   menu_label                 : "Toggle menu"
+  search_label               : "Toggle search"
   toc_label                  : "On this page"
   ext_link_label             : "Direct link"
   less_than                  : "less than"
@@ -60,38 +61,42 @@ es: &DEFAULT_ES
   pagination_next            : "Siguiente"
   breadcrumb_home_label      : "Inicio"
   breadcrumb_separator       : "/"
-  menu_label                 :
-  toc_label                  : "Contenidos"
-  ext_link_label             : "Enlace"
+  menu_label                 : "Alternar menú"
+  search_label               : "Alternar búsqueda"
+  toc_label                  : "En esta página"
+  ext_link_label             : "Enlace directo"
   less_than                  : "menos de"
-  minute_read                : "minuto de lectura"
-  share_on_label             : "Compartir"
+  minute_read                : "minuto(s) de lectura"
+  share_on_label             : "Compartir en"
   meta_label                 :
   tags_label                 : "Etiquetas:"
   categories_label           : "Categorías:"
   date_label                 : "Actualizado:"
-  comments_label             : "Comentar"
-  comments_title             :
+  comments_label             : "Deja un comentario"
+  comments_title             : "Comentarios"
   more_label                 : "Ver más"
-  related_label              : "Podrías ver también"
+  related_label              : "Puede que también te interese"
   follow_label               : "Seguir:"
   feed_label                 : "Feed"
-  powered_by                 : "Powered by"
+  powered_by                 : "Funciona con"
   website_label              : "Sitio web"
-  email_label                : "Email"
+  email_label                : "Correo electrónico"
   recent_posts               : "Entradas recientes"
-  undefined_wpm              : "Parametro words_per_minute (Palabras por minuto) no definido en _config.yml"
-  comment_form_info          : "Su dirección de correo no será publicada. Se han resaltado los campos requeridos"
+  undefined_wpm              : "El parámetro words_per_minute (palabras por minuto) no está definido en _config.yml"
+  comment_form_info          : "Tu dirección de correo electrónico no se publicará. Los campos obligatorios están marcados"
   comment_form_comment_label : "Comentario"
-  comment_form_md_info       : "Markdown está soportado."
+  comment_form_md_info       : "Puedes utilizar Markdown"
   comment_form_name_label    : "Nombre"
-  comment_form_email_label   : "Dirección de E-mail"
+  comment_form_email_label   : "Dirección de correo electrónico"
   comment_form_website_label : "Sitio web (opcional)"
-  comment_btn_submit         : "Enviar Commentario"
+  comment_btn_submit         : "Enviar comentario"
   comment_btn_submitted      : "Enviado"
-  comment_success_msg        : "Gracias por su comentario!, Este se visualizará en el sitio una vez haya sido aprobado"
-  comment_error_msg          : "Lo sentimos, ha ocurrido un error al enviar su comentario. Por favor asegurese que todos los campos han sido diligenciados e intente de nuevo"
+  comment_success_msg        : "¡Gracias por tu comentario! Se publicará una vez sea aprobado."
+  comment_error_msg          : "Ha ocurrido un error al enviar el comentario. Asegúrate de completar todos los campos obligatorios e inténtalo de nuevo."
   loading_label              : "Cargando..."
+  search_placeholder_text    : "Términos de búsqueda..."
+  results_found              : "resultado(s) encontrado(s)"
+  back_to_top                : "Volver arriba"
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
@@ -106,6 +111,7 @@ fr: &DEFAULT_FR
   breadcrumb_home_label      : "Accueil"
   breadcrumb_separator       : "/"
   menu_label                 : "Menu"
+  search_label               :
   toc_label                  : "Sur cette page"
   ext_link_label             : "Lien direct"
   less_than                  : "moins de"
@@ -138,7 +144,7 @@ fr: &DEFAULT_FR
   comment_error_msg          : "Désolé, une erreur est survenue lors de la soumission. Vérifiez que les champs obligatoires ont été remplis et réessayez."
   loading_label              : "Chargement..."
   search_placeholder_text    : "Entrez votre recherche..."
-  results_found              : "Aucun résultat trouvé"
+  results_found              : "Résultat(s) trouvé(s)"
   back_to_top                : "Retour en haut"
 fr-FR:
   <<: *DEFAULT_FR
@@ -156,6 +162,7 @@ tr: &DEFAULT_TR
   breadcrumb_home_label      : "Ana Sayfa"
   breadcrumb_separator       : "/"
   menu_label                 :
+  search_label               :
   toc_label                  : "İçindekiler"
   ext_link_label             : "Doğrudan Bağlantı"
   less_than                  : "Şu süreden az: "
@@ -199,6 +206,7 @@ pt: &DEFAULT_PT
   breadcrumb_home_label      : "Início"
   breadcrumb_separator       : "/"
   menu_label                 :
+  search_label               :
   toc_label                  : "Nesta Página"
   ext_link_label             : "Link Direto"
   less_than                  : "menos de"
@@ -240,37 +248,41 @@ pt-BR:
   breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
   menu_label                 :
+  search_label               : "Buscar"
   toc_label                  : "Nesta página"
   ext_link_label             : "Link direto"
   less_than                  : "menos que"
   minute_read                : "minuto(s) de leitura"
-  share_on_label             : "Compartilhe em"
+  share_on_label             : "Compartilhe"
   meta_label                 :
   tags_label                 : "Tags:"
   categories_label           : "Categorias:"
   date_label                 : "Atualizado em:"
   comments_label             : "Deixe um comentário"
-  comments_title             :
-  more_label                 : "Aprenda mais"
-  related_label              : "Talvez você goste também"
-  follow_label               : "Acompanhe em"
+  comments_title             : "Comentários"
+  more_label                 : "Saiba mais"
+  related_label              : "Talvez você também goste"
+  follow_label               : "Acompanhe no"
   feed_label                 : "Feed"
-  powered_by                 : "Feito com"
+  powered_by                 : "Desenvolvido com"
   website_label              : "Site"
-  email_label                : "Email"
-  recent_posts               : "Postagens recentes"
-  undefined_wpm              : "Parâmetro indefinido em words_per_minute no _config.yml"
-  comment_form_info          : "Seu email não será publicado. Os campos obrigatórios estão marcados"
+  email_label                : "E-mail"
+  recent_posts               : "Publicações recentes"
+  undefined_wpm              : "Parâmetro words_per_minute indefinido no _config.yml"
+  comment_form_info          : "Seu e-mail não será publicado. Os campos obrigatórios estão marcados"
   comment_form_comment_label : "Comentário"
-  comment_form_md_info       : "Markdown é suportado."
+  comment_form_md_info       : "Você pode usar Markdown."
   comment_form_name_label    : "Nome"
-  comment_form_email_label   : "Email"
+  comment_form_email_label   : "E-mail"
   comment_form_website_label : "Site (opcional)"
-  comment_btn_submit         : "Enviar Comentário"
+  comment_btn_submit         : "Enviar comentário"
   comment_btn_submitted      : "Enviado"
   comment_success_msg        : "Obrigado pelo seu comentário! Ele aparecerá no site assim que for aprovado."
-  comment_error_msg          : "Desculpe, ocorreu um erro no envio. Por favor verifique se todos os campos obrigatórios foram preenchidos e tente novamente."
+  comment_error_msg          : "Desculpe, ocorreu um erro no envio. Verifique se todos os campos obrigatórios foram preenchidos e tente novamente."
   loading_label              : "Carregando..."
+  search_placeholder_text    : "Pesquisar..."
+  results_found              : "Resultado(s) encontrado(s)"
+  back_to_top                : "Voltar para o topo"
 
 # Italian
 # -------
@@ -281,6 +293,7 @@ it: &DEFAULT_IT
   breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
   menu_label                 :
+  search_label               :
   toc_label                  : "Indice della pagina"
   ext_link_label             : "Link"
   less_than                  : "meno di"
@@ -327,6 +340,7 @@ zh: &DEFAULT_ZH_HANS
   breadcrumb_home_label      : "首页"
   breadcrumb_separator       : "/"
   menu_label                 : "切换菜单"
+  search_label               :
   toc_label                  : "在本页上"
   ext_link_label             : "直接链接"
   less_than                  : "少于"
@@ -358,6 +372,9 @@ zh: &DEFAULT_ZH_HANS
   comment_success_msg        : "感谢您的评论！被批准后它会立即在此站点展示。"
   comment_error_msg          : "很抱歉，您的提交存在错误。请确保所有必填字段都已填写正确，然后再试一次。"
   loading_label              : "正在加载..."
+  search_placeholder_text    : "输入您要搜索的关键词..."
+  results_found              : "条记录匹配"
+  back_to_top                : "返回顶部"
 zh-CN:
   <<: *DEFAULT_ZH_HANS
 zh-SG:
@@ -370,6 +387,7 @@ zh-TW: &DEFAULT_ZH_HANT
   breadcrumb_home_label      : "首頁"
   breadcrumb_separator       : "/"
   menu_label                 : "切換選單"
+  search_label               :
   toc_label                  : "本頁"
   ext_link_label             : "外部連結"
   less_than                  : "少於"
@@ -413,6 +431,7 @@ de: &DEFAULT_DE
   breadcrumb_home_label      : "Start"
   breadcrumb_separator       : "/"
   menu_label                 : "Menü ein-/ausschalten"
+  search_label               :
   toc_label                  : "Auf dieser Seite"
   ext_link_label             : "Direkter Link"
   less_than                  : "weniger als"
@@ -468,6 +487,7 @@ ne: &DEFAULT_NE
   breadcrumb_home_label      : "गृह"
   breadcrumb_separator       : "/"
   menu_label                 : "टगल मेनु"
+  search_label               :
   toc_label                  : "यो पृष्‍ठमा"
   ext_link_label             : "सिधा सम्पर्क"
   less_than                  : "कम्तिमा"
@@ -511,6 +531,7 @@ ko: &DEFAULT_KO
   breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
   menu_label                 : "토글 메뉴"
+  search_label               :
   toc_label                  : "On This Page"
   ext_link_label             : "직접 링크"
   less_than                  : "최대"
@@ -554,6 +575,7 @@ ru: &DEFAULT_RU
   breadcrumb_home_label      : "Главная"
   breadcrumb_separator       : "/"
   menu_label                 : "Выпадающее меню"
+  search_label               :
   toc_label                  : "Содержание"
   ext_link_label             : "Прямая ссылка"
   less_than                  : "менее"
@@ -599,6 +621,7 @@ lt: &DEFAULT_LT
   breadcrumb_home_label      : "Pagrindinis"
   breadcrumb_separator       : "/"
   menu_label                 : "Meniu rodymas"
+  search_label               :
   toc_label                  : "Turinys"
   ext_link_label             : "Tiesioginė nuoroda"
   less_than                  : "mažiau nei"
@@ -642,6 +665,7 @@ gr: &DEFAULT_GR
   breadcrumb_home_label      : "Αρχική"
   breadcrumb_separator       : "/"
   menu_label                 : "Μενού"
+  search_label               :
   toc_label                  : "Περιεχόμενα"
   ext_link_label             : "Εξωτερικός Σύνδεσμος"
   less_than                  : "Λιγότερο από"
@@ -686,7 +710,8 @@ sv: &DEFAULT_SV
   pagination_next            : "Nästa"
   breadcrumb_home_label      : "Hem"
   breadcrumb_separator       : "/"
-  menu_label                 : "Meny ridå"
+  menu_label                 : "Växla menyläge"
+  search_label               : "Växla sökläge"
   toc_label                  : "På denna sida"
   ext_link_label             : "Direkt länk"
   less_than                  : "mindre än"
@@ -709,15 +734,18 @@ sv: &DEFAULT_SV
   undefined_wpm              : "Odefinerade parametrar words_per_minute i _config.yml"
   comment_form_info          : "Din e-post adress kommer inte att publiceras. Obligatoriska fält är markerade."
   comment_form_comment_label : "Kommentar"
-  comment_form_md_info       : "Använd Markdown för text-formateringen."
+  comment_form_md_info       : "Stöd för Markdown finns."
   comment_form_name_label    : "Namn"
   comment_form_email_label   : "E-post adress"
   comment_form_website_label : "Webdsida (valfritt)"
   comment_btn_submit         : "Skicka en kommentar"
   comment_btn_submitted      : "Kommentaren har tagits emot"
   comment_success_msg        : "Tack för din kommentar! Den kommer att visas på sidan så fort den har godkännts."
-  comment_error_msg          : "Tyvärr det har blivit något fel i en av fälten, se till att du fyller i alla rutor och försök igen."
+  comment_error_msg          : "Tyvärr det har blivit något fel i ett av fälten, se till att du fyllt i alla obligatoriska fält och försök igen."
   loading_label              : "Laddar..."
+  search_placeholder_text    : "Fyll i sökterm..."
+  results_found              : "Resultat funna"
+  back_to_top                : "Tillbaka till toppen"
 sv-SE:
   <<: *DEFAULT_SV
 sv-FI:
@@ -732,6 +760,7 @@ nl: &DEFAULT_NL
   breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
   menu_label                 : "Wissel Menu"
+  search_label               :
   toc_label                  : "Op deze pagina"
   ext_link_label             : "Directe Link"
   less_than                  : "minder dan"
@@ -777,6 +806,7 @@ id: &DEFAULT_ID
   breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
   menu_label                 : "Menu Toggle"
+  search_label               :
   toc_label                  : "Pada Halaman Ini"
   ext_link_label             : "Link langsung"
   less_than                  : "Kurang dari"
@@ -820,6 +850,7 @@ vi: &DEFAULT_VI
   breadcrumb_home_label      : "Trang chủ"
   breadcrumb_separator       : "/"
   menu_label                 : "Menu"
+  search_label               :
   toc_label                  : "Tại trang này"
   ext_link_label             : "Đường dẫn trực tiếp"
   less_than                  : "nhỏ hơn"
@@ -851,6 +882,9 @@ vi: &DEFAULT_VI
   comment_success_msg        : "Cảm ơn bạn đã bình luận! Bình luận sẽ xuất hiện sau khi được duyệt."
   comment_error_msg          : "Rất tiếc, có lỗi trong việc gửi bình luận. Hãy đảm bảo toàn bộ các phần bắt buộc đã được điền đầy đủ và thử lại."
   loading_label              : "Đang tải..."
+  search_placeholder_text    : "Nhập từ khóa cần tìm..."
+  results_found              : "Kết quả tìm được"
+  back_to_top                : "Lên đầu trang"
 vi-VN:
   <<: *DEFAULT_VI
 
@@ -863,6 +897,7 @@ da: &DEFAULT_DA
   breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
   menu_label                 : "Vis/skjul menu"
+  search_label               :
   toc_label                  : "På denne side"
   ext_link_label             : "Direkte link"
   less_than                  : "mindre end"
@@ -909,6 +944,7 @@ pl: &DEFAULT_PL
   breadcrumb_home_label      : "Strona główna"
   breadcrumb_separator       : "/"
   menu_label                 : "Przełącz menu"
+  search_label               :
   toc_label                  : "Spis treści"
   ext_link_label             : "Link bezpośredni"
   less_than                  : "mniej niż"
@@ -952,6 +988,7 @@ ja: &DEFAULT_JA
   breadcrumb_home_label      : "ホーム"
   breadcrumb_separator       : "/"
   menu_label                 : "メニュー"
+  search_label               :
   toc_label                  : "目次"
   ext_link_label             : "リンク"
   less_than                  :
@@ -997,6 +1034,7 @@ sk: &DEFAULT_SK
   breadcrumb_home_label      : "Domov"
   breadcrumb_separator       : "/"
   menu_label                 : "Menu"
+  search_label               :
   toc_label                  : "Obsah"
   ext_link_label             : "Priamy odkaz"
   less_than                  : "menej ako"
@@ -1043,6 +1081,7 @@ hu: &DEFAULT_HU
   breadcrumb_home_label      : "Kezdőlap"
   breadcrumb_separator       : "/"
   menu_label                 : "Menü nyit/zár"
+  search_label               :
   toc_label                  : "Ezen az oldalon"
   ext_link_label             : "Közvetlen Link"
   less_than                  : "kevesebb mint"
@@ -1089,6 +1128,7 @@ ro: &DEFAULT_RO
   breadcrumb_home_label      : "Acasă"
   breadcrumb_separator       : "/"
   menu_label                 : "Comută meniul"
+  search_label               :
   toc_label                  : "Pe această pagină"
   ext_link_label             : "Link direct"
   less_than                  : "mai puțin de"
@@ -1125,7 +1165,241 @@ ro: &DEFAULT_RO
   back_to_top                : "Înapoi în susul paginii"
 ro-RO:
   <<: *DEFAULT_RO
-  
+
+# Punjabi
+# -----------------
+pa: &DEFAULT_PA
+  page                       : "ਸਫ਼ਾ"
+  pagination_previous        : "ਪਿਛਲਾ"
+  pagination_next            : "ਅਗਲਾ "
+  breadcrumb_home_label      : "ਘਰ"
+  breadcrumb_separator       : "/"
+  menu_label                 : "ਟੌਗਲ ਮੀਨੂ"
+  search_label               :
+  toc_label                  : "ਇਸ ਸਫ਼ੇ 'ਤੇ"
+  ext_link_label             : "ਸਿੱਧਾ ਸੰਪਰਕ"
+  less_than                  : "ਤੋਂ ਘੱਟ"
+  minute_read                : "ਮਿੰਟ ਵਿੱਚ ਪੜਿਆ ਜਾ ਸਕਦਾ ਹੈ"
+  share_on_label             : "ਸਾਂਝਾ ਕਰੋ"
+  meta_label                 :
+  tags_label                 : "ਟੈਗ"
+  categories_label           : "ਵਰਗ"
+  date_label                 : "ਅਪਡੇਟ ਕੀਤਾ:"
+  comments_label             : "ਇੱਕ ਟਿੱਪਣੀ ਛੱਡੋ"
+  comments_title             : "ਟਿੱਪਣੀਆਂ"
+  more_label                 : "ਹੋਰ ਜਾਣੋ"
+  related_label              : "ਤੁਸੀਂ ਇਸਦਾ ਆਨੰਦ ਵੀ ਲੈ ਸਕਦੇ ਹੋ"
+  follow_label               : "ਫਾਲੋ ਅੱਪ ਕਰੋ:"
+  feed_label                 : "ਫੀਡ"
+  powered_by                 : "ਦੁਆਰਾ ਸੰਚਾਲਿਤ"
+  website_label              : "ਵੈੱਬਸਾਇਟ"
+  email_label                : "ਈਮੇਲ"
+  recent_posts               : "ਹਾਲ ਹੀ ਦੇ ਪੋਸਟ"
+  undefined_wpm              : "_config.yml ਤੇ ਅਣ-ਪ੍ਰਭਾਸ਼ਿਤ ਪੈਰਾਮੀਟਰ words_per_minute"
+  comment_form_info          : "ਤੁਹਾਡਾ ਈਮੇਲ ਪਤਾ ਪ੍ਰਕਾਸ਼ਿਤ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ। ਅਨੁਮਾਨਿਤ ਸਥਾਨਾਂ ਨੂੰ ਅੰਡਰਲਾਈਨ ਕੀਤਾ ਗਿਆ ਹੈ"
+  comment_form_comment_label : "ਟਿੱਪਣੀ"
+  comment_form_md_info       : "ਮਾਰਕਡਾਊਨ ਵਰਤ ਸਕਦੇ ਹੋ।"
+  comment_form_name_label    : "ਨਾਮ"
+  comment_form_email_label   : "ਈਮੇਲ ਪਤਾ"
+  comment_form_website_label : "ਵੈਬਸਾਈਟ (ਵਿਕਲਪਿਕ)"
+  comment_btn_submit         : "ਕੋਈ ਟਿੱਪਣੀ ਭੇਜੋ"
+  comment_btn_submitted      : "ਪੇਸ਼ ਕੀਤਾ"
+  comment_success_msg        : "ਤੁਹਾਡੀਆਂ ਟਿੱਪਣੀਆਂ ਲਈ ਧੰਨਵਾਦ! ਇਹ ਮਨਜ਼ੂਰੀ ਮਿਲਣ ਦੇ ਬਾਅਦ ਸਾਈਟ 'ਤੇ ਦਿਖਾਇਆ ਜਾਵੇਗਾ।"
+  comment_error_msg          : "ਮੁਆਫ ਕਰਨਾ, ਤੁਹਾਡੀ ਅਧੀਨਗੀ ਵਿੱਚ ਕੋਈ ਗਲਤੀ ਹੋਈ ਸੀ ਕਿਰਪਾ ਕਰਕੇ ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਸਾਰੇ ਲੋੜੀਂਦੇ ਖੇਤਰ ਪੂਰੇ ਹੋ ਗਏ ਹਨ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+  loading_label              : "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ..."
+  search_placeholder_text    : "ਆਪਣੀ ਖੋਜ ਦੇ ਸ਼ਬਦ ਨੂੰ ਦਰਜ ਕਰੋ..."
+  results_found              : "ਨਤੀਜਾ ਮਿਲਿਆ/ਮਿਲੇ"
+  back_to_top                : "ਵਾਪਸ ਚੋਟੀ 'ਤੇ ਜਾਓ"
+pa-IN:
+  <<: *DEFAULT_PA
+
+# Persian (Farsi)
+# --------------
+fa: &DEFAULT_FA
+  page                       : "صفحه"
+  pagination_previous        : "قبلی"
+  pagination_next            : "بعدی"
+  breadcrumb_home_label      : "صفحه اصلی"
+  breadcrumb_separator       : "/"
+  menu_label                 : "فهرست"
+  toc_label                  : "در این صفحه"
+  ext_link_label             : "لینک مستقیم"
+  less_than                  : " "
+  minute_read                : "(طول مطالعه (دقیقه"
+  share_on_label             : "اشتراک گذاری در"
+  meta_label                 :
+  tags_label                 : "تگ ها: "
+  categories_label           : "دسته بندی ها: "
+  date_label                 : "به روز شده در: "
+  comments_label             : "ارسال نظر"
+  comments_title             : "نظرات"
+  more_label                 : "ادامه مطلب"
+  related_label              : "ممکن است از این مطالب نیز لذت ببرید"
+  follow_label               : "دنبال کنید: "
+  feed_label                 : "خوراک"
+  powered_by                 : "طراحی شده توسط"
+  website_label              : "سایت اینترنتی"
+  email_label                : "پست الکترونیک"
+  recent_posts               : "آخرین مطالب"
+  undefined_wpm              : ".(words_per_minute) _config.yml متغیر اشتباه در"
+  comment_form_info          : ".آدرس ایمیل شما منتشر نخواهد شد. فیلدهای اجباری مشخص شده اند"
+  comment_form_comment_label : "دیدگاه"
+  comment_form_md_info       : ".پشتیبانی می شود Markdown"
+  comment_form_name_label    : "نام"
+  comment_form_email_label   : "پست الکترونیک"
+  comment_form_website_label : "سایت اینترنتی (اختیاری)"
+  comment_btn_submit         : "ارسال نظر"
+  comment_btn_submitted      : "ارسال شد"
+  comment_success_msg        : ".باتشکر از ارسال دیدگاه! پس از تأیید، این دیدگاه در سایت نشان داده خواهد شد"
+  comment_error_msg          : ".متاسفانه در ارسال شما خطایی بود. لطفا مطمئن شوید تمام فیلدهای مورد نیاز تکمیل شده و دوباره امتحان کنید"
+  loading_label              : "...بارگذاری"
+  search_placeholder_text    : "...عبارت جستجوی خود را وارد کنید"
+  results_found              : "نتایج"
+  back_to_top                : "بازگشت به بالا"
+fa-IR:
+  <<: *DEFAULT_FA
+
+
+# Malayalam
+# -----------------
+ml: &DEFAULT_ML
+  page                       : "പേജ്"
+  pagination_previous        : "തിരികെ"
+  pagination_next            : "മുന്നോട്ട്"
+  breadcrumb_home_label      : "ഹോം"
+  breadcrumb_separator       : "/"
+  menu_label                 : "ടോഗിൾ മെനു"
+  search_label               : "ടോഗിൾ സെർച്ച്"
+  toc_label                  : "ഈ പേജിൽ"
+  ext_link_label             : "ലിങ്കിലേക് പോകാൻ"
+  less_than                  : "ഏതാണ്ട്"
+  minute_read                : "മിനിറ്റ് ദൈർഖ്യം"
+  share_on_label             : "ഷെയർ  ചെയ്യുവാൻ "
+  meta_label                 :
+  tags_label                 : "ടാഗുകൾ:"
+  categories_label           : "വിഭാഗങ്ങൾ:"
+  date_label                 : "അവസാന മാറ്റം:"
+  comments_label             : "അഭിപ്രായം രേഖപ്പെടുത്തുക"
+  comments_title             : "അഭിപ്രായങ്ങൾ"
+  more_label                 : "കൂടുതൽ  അറിയുവാൻ"
+  related_label              : "നിങ്ങൾക് ഇതും ഇഷ്ടപ്പെട്ടേക്കാം"
+  follow_label               : "പിന്തുടരുക:"
+  feed_label                 : "ഫീഡ്"
+  powered_by                 : "പവേർഡ് ബൈ"
+  website_label              : "വെബ്സൈറ്റ്"
+  email_label                : "ഇ-മെയിൽ"
+  recent_posts               : "സമീപകാല പോസ്റ്റുകൾ"
+  undefined_wpm              : "Config.yml ലെ words_per_minute പരാമീറ്റർ നിർവചിച്ചിട്ടില്ല."
+  comment_form_info          : "നിങ്ങളുടെ ഇമെയിൽ വിലാസം പ്രസിദ്ധീകരിക്കില്ല. ആവശ്യമായ ഫീൽഡുകൾ അടയാളപ്പെടുത്തി."
+  comment_form_comment_label : "കമന്റ്"
+  comment_form_md_info       : "Markdown സപ്പോർട്ട് ചെയ്യുന്നതാണ്."
+  comment_form_name_label    : "പേര്"
+  comment_form_email_label   : "ഇ-മെയിൽ"
+  comment_form_website_label : "വെബ്സൈറ് (ഓപ്ഷണൽ)"
+  comment_btn_submit         : "അഭിപ്രായം രേഖപ്പെടുത്തുക"
+  comment_btn_submitted      : "രേഖപ്പെടുത്തി"
+  comment_success_msg        : "നിങ്ങളുടെ അഭിപ്രായത്തിന് നന്ദി! ഇത് അംഗീകരിച്ചുകഴിഞ്ഞാൽ ഇത് സൈറ്റിൽ പ്രദർശിപ്പിക്കും."
+  comment_error_msg          : "ക്ഷമിക്കണം, നിങ്ങളുടെ സമർപ്പണവുമായി ബന്ധപ്പെട്ട് ഒരു പിശകുണ്ടായിരുന്നു. ആവശ്യമായ എല്ലാ ഫീൽഡുകളും പൂർത്തിയായിട്ടുണ്ടെന്ന് ഉറപ്പുവരുത്തുക, വീണ്ടും ശ്രമിക്കുക."
+  loading_label              : "ലോഡിംഗ്..."
+  search_placeholder_text    : "നിങ്ങളുടെ തിരയൽ പദം നൽകുക..."
+  results_found              : "ഫലം (കൾ) കണ്ടെത്തി"
+  back_to_top                : "മുകളിലേയ്ക്ക്"
+ml-IN:
+  <<: *DEFAULT_ML
+
+# Thailand
+# --------------
+th: &DEFAULT_TH
+  page                       : "หน้า"
+  pagination_previous        : "ก่อนหน้า"
+  pagination_next            : "ถัดไป"
+  breadcrumb_home_label      : "หน้าแรก"
+  breadcrumb_separator       : "/"
+  menu_label                 : "พับเมนู"
+  search_label               : "พับการค้นหา"
+  toc_label                  : "บนหน้านี้"
+  ext_link_label             : "ลิงก์โดยตรง"
+  less_than                  : "น้อยกว่า"
+  minute_read                : "นาที ในการอ่าน"
+  share_on_label             : "แชร์ไปที่"
+  meta_label                 :
+  tags_label                 : "แท็ก:"
+  categories_label           : "หมวดหมู่:"
+  date_label                 : "อัพเดตล่าสุด:"
+  comments_label             : "แสดงความคิดเห็น"
+  comments_title             : "ความคิดเห็น"
+  more_label                 : "อ่านต่อ"
+  related_label              : "คุณอาจจะชอบสิ่งนี้"
+  follow_label               : "ติดตาม:"
+  feed_label                 : "ฟืดข่าว"
+  powered_by                 : "ขับเคลื่อนโดย"
+  website_label              : "เว็บไซต์"
+  email_label                : "อีเมล"
+  recent_posts               : "โพสล่าสุด"
+  undefined_wpm              : "ไม่สามารถระบุพารามิเตอร์ words_per_minute ได้ใน _config.yml"
+  comment_form_info          : "อีเมลของคุณไม่สามารถโพสสาธารณะได้ กรุณากรอกช่องที่ระบุด้วยเครื่องหมายดอกจันไว้"
+  comment_form_comment_label : "แสดงความคิดเห็น"
+  comment_form_md_info       : "มาร์กดาวน์ได้รับการสนับสนุน"
+  comment_form_name_label    : "ชื่อ"
+  comment_form_email_label   : "ที่อยู่อีเมล"
+  comment_form_website_label : "เว็บไซต์ (ตัวเลือก)"
+  comment_btn_submit         : "ส่งความคิดเห็น"
+  comment_btn_submitted      : "ส่งเรียบร้อยแล้ว"
+  comment_success_msg        : "ขอบคุณสำหรับการแสดงความคิดเห็น! ความคิดเห็นจะได้รับการแสดงหลังจากได้รับการยืนยัน"
+  comment_error_msg          : "ขออภัย, มีบางอย่างผิดพลาดจากการส่งแบบฟอร์ม กรุณาตรวจทานทุกช่อง และลองส่งใหม่อีกครั้ง"
+  loading_label              : "กำลังโหลด..."
+  search_placeholder_text    : "ใส่คำค้นหาของคุณ..."
+  results_found              : "ผลการค้นหา พบ"
+  back_to_top                : "กลับด้านบน"
+th-TH:
+  <<: *DEFAULT_TH
+
+# Hindi
+# -----------------
+hi: &DEFAULT_HI
+  page                       : "पृष्ठ"
+  pagination_previous        : "पिछला"
+  pagination_next            : "अगला"
+  breadcrumb_home_label      : "घर"
+  breadcrumb_separator       : "/"
+  menu_label                 : "टॉगल मेनू"
+  toc_label                  : "इस पृष्ठ पर"
+  ext_link_label             : "सीधा संपर्क"
+  less_than                  : "से कम"
+  minute_read                : "मिनट में पढ़ सकते हैं"
+  share_on_label             : "साझा करें"
+  meta_label                 :
+  tags_label                 : "अंकितक:"
+  categories_label           : "श्रेणियाँ:"
+  date_label                 : "अपडेट किया गया:"
+  comments_label             : "एक टिप्पणी छोड़ें"
+  comments_title             : "टिप्पणियाँ"
+  more_label                 : "और अधिक जानें"
+  related_label              : "आप इसका भी आनंद ले सकते हैं"
+  follow_label               : "अनुसरण करे:"
+  feed_label                 : "फ़ीड"
+  powered_by                 : "द्वारा संचालित"
+  website_label              : "वेबसाइट"
+  email_label                : "ईमेल"
+  recent_posts               : "हाल के पोस्ट"
+  undefined_wpm              : "_config.yml पर अपरिभाषित पैरामीटर words_per_minute"
+  comment_form_info          : "आपका ईमेल पता प्रकाशित नहीं किया जाएगा। अपेक्षित स्थानों को रेखांकित कर दिया गया है"
+  comment_form_comment_label : "टिप्पणी"
+  comment_form_md_info       : "मार्कडाउन की अनुमति है।"
+  comment_form_name_label    : "नाम"
+  comment_form_email_label   : "ईमेल पता"
+  comment_form_website_label : "वेबसाइट (ऐच्छिक)"
+  comment_btn_submit         : "टिप्पणी भेजें"
+  comment_btn_submitted      : "प्रस्तुत"
+  comment_success_msg        : "आपके कमेंट के लिए धन्यवाद! इसे स्वीकृति मिलने के बाद साइट पर दिखाया जाएगा।"
+  comment_error_msg          : "क्षमा करें, आपके सबमिशन के साथ एक त्रुटि हुई थी। कृपया सुनिश्चित करें कि सभी आवश्यक फ़ील्ड पूरा हो गए हैं और पुनः प्रयास करें।"
+  loading_label              : "लोड हो रहा है..."
+  search_placeholder_text    : "अपना खोज शब्द दर्ज करें..."
+  results_found              : "परिणाम मिला/मिले"
+  back_to_top                : "शीर्ष पर वापस"
+hi-IN:
+  <<: *DEFAULT_HI
+
 # Another locale
 # --------------
 #

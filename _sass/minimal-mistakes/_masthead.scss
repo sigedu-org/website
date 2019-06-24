@@ -26,7 +26,7 @@
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
-      max-width: $x-large;
+      max-width: $max-width;
     }
 
     nav {
@@ -37,6 +37,10 @@
       text-decoration: none;
     }
   }
+}
+
+.site-logo img {
+  max-height: 2rem;
 }
 
 .site-title {
