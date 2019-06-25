@@ -40,6 +40,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Wei Chu, NA<br/>
 - Mark Core, University of Southern California<br/>
 - <a href="http://www-gth.die.upm.es/~lfdharo/index_en.php">Luis Fernando D'Haro</a>, ETSI Telecomunicación, Universidad Politécnica de Madrid<br/>
+- <a href="https://glose.com">Arthur Darcet</a>, Glose<br/>
 - <a href="http://textmining.lt">Vidas Daudaravicius</a>, UAB VTeX<br/>
 - <a href="https://www.lt3.ugent.be/people/orphee-de-clercq/">Orphee De Clercq</a>, LT3, Ghent University<br/>
 - <a href="https://www.cdemmansepp.com/">Carrie Demmans Epp</a>, University of Alberta<br/>
@@ -57,6 +58,8 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://isi.edu/~jgordon">Jonathan Gordon</a>, University of Southern California<br/>
 - Andrew Gorman, Pearson<br/>
 - Cyril Goutte, National Research Council Canada<br/>
+- <a href="http://www.csc.liv.ac.uk/~floriana">Floriana Grasso</a>, University of Liverpool<br/>
+- <a href="https://glose.education/">Mehdi Hamoumi</a>, Glose<br/>
 - <a href="https://sites.google.com/site/jiangangstevenhao/">Jiangang Hao</a>, Educational Testing Service<br/>
 - Homa Hashemi, University of Pittsburgh<br/>
 - Marti Hearst, UC Berkeley<br/>
@@ -73,6 +76,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Satoru Katsumata, Tokyo Metropolitan University<br/>
 - Elma Kerz, RWTH Aachen<br/>
 - <a href="https://www.stjohns.edu/academics/bio/dr-fazel-keshtkar">Fazel Keshtkar</a>, St. John's University<br/>
+- <a href="https://umidesigner.weebly.com/">Umida Khikmatillaeva</a>, USA<br/>
 - <a href="http://cl.indiana.edu/~leviking/">Levi King</a>, Indiana University<br/>
 - Sigrid Klerke, IT University of Copenhagen<br/>
 - <a href="https://www.cl.cam.ac.uk/~ek358/">Ekaterina Kochmar</a>, University of Cambridge<br/>
@@ -129,6 +133,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="http://www.hanumantredkar.com">Hanumant Redkar</a>, IIT Bombay&nbsp;<br/>
 - <a href="http://www.marekrei.com/">Marek Rei</a>, University of Cambridge<br/>
 - <a href="https://reynoldsnlp.com">Robert Reynolds</a>, Brigham Young University<br/>
+- <a href="http://www.clul.ulisboa.pt/en/researchers-en/776-del-rio-iria">Iria del Río</a>, University of Lisbon<br/>
 - <a href="https://frankie.robertson.name">Frankie Robertson</a>, University of Jyväskylä<br/>
 - <a href="http://www.sfs.uni-tuebingen.de/~brzdwtz/">Björn&nbsp;Rudzewitz</a>,&nbsp;Universität&nbsp;Tübingen<br/>
 - C. Anton Rytting, University of Maryland<br/>
@@ -138,6 +143,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Kathleen Sheehan, ETS<br/>
 - <a href="http://burrsettles.com">Burr Settles</a>, Duolingo<br/>
 - <a href="https://makemis.com">Mariana Shimabukuro</a>, University of Ontario Institute of Technology<br/>
+- Katira Soleymanzadeh, Ege University<br/>
 - <a href="www.somasundaran.net">Swapna Somasundaran</a>, Educational Testing Service (ETS)<br/>
 - Carlo Strapparava, FBK-irst<br/>
 - Anaïs&nbsp;Tack, Université catholique de Louvain &amp; KU Leuven<br/>
