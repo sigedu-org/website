@@ -262,7 +262,7 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
                      
                     <li><i>Grammatical-Error-Aware Incorrect Example Retrieval System for Learners of Japanese as a Second Language</i>. Mio Arai, Masahiro Kaneko and Mamoru Komachi. </li>
                      
-                    <li><i>Toward Automated Content Feedback Generation for Non-native Spontaneous Speech</i>. Su-Youn Yoon, Ching-Ni Hsieh and Klaus Zechner. </li>
+                    <li><i>Toward Automated Content Feedback Generation for Non-native Spontaneous Speech</i>. Su-Youn Yoon, Ching-Ni Hsieh, Klaus Zechner, Matthew Mulholland, Yuan Wang, and Nitin Madnani. </li>
                      
                     <li><i>Analytic Score Prediction and Justification Identification in Automated Short Answer Scoring</i>. Tomoya Mizumoto, Hiroki Ouchi, Yoriko Isobe, Paul Reisert, Ryo Nagata, Satoshi Sekine and Kentaro Inui. </li>
                      
