@@ -40,7 +40,7 @@ SIGEDU was founded in 2017 and is ACL's newest SIG. SIGEDU has the following goa
 
 <h2>BEA 2019</h2>
 
-The [2019 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](/bea/current) will be on August 5, 2019 in Florence, Italy. The [schedule](/bea/current#schedule) is now up on the website. The proceedings will be made available after the workshop. 
+The [2019 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](/bea/current) will be on August 2, 2019 in Florence, Italy. The [schedule](/bea/current#schedule) is now up on the website. The proceedings will be made available after the workshop. 
 
 <h3>Organizers</h3>
 Helen Yannakoudakis, University of Cambridge<br/>
