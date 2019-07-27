@@ -243,6 +243,7 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
                     <li><i>Multi-headed Architecture Based on BERT for Grammatical Errors Correction</i>. Julia Shaptala and Bohdan Didenko. </li>
                      
                     <li><i>Neural Grammatical Error Correction Systems with Unsupervised Pre-training on Synthetic Data</i>. Roman Grundkiewicz, Marcin Junczys-Dowmunt and Kenneth Heafield. </li>
+                    <li><i>The Unbearable Weight of Generating Artificial Errors for Grammatical Error Correction</i>. Phu Mon Htut and Joel Tetreault. </li>
                 </ul>
             </td>
         </tr>
@@ -295,8 +296,6 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
                     <li><i>From Receptive to Productive: Learning to Use Confusing Words through Automatically Selected Example Sentences</i>. Chieh-Yang Huang, Yi-Ting Huang, Mei-Hua Chen and Lun-Wei Ku. </li>
                      
                     <li><i>Equipping Educational Applications with Domain Knowledge</i>. Tarek Sakakini, Hongyu Gong, Jong Yoon Lee, Robert Schloss, JinJun Xiong and Suma Bhat. </li>
-                     
-                    <li><i>The Unbearable Weight of Generating Artificial Errors for Grammatical Error Correction</i>. Phu Mon Htut and Joel Tetreault. </li>
                 </ul>
             </td>
         </tr>
