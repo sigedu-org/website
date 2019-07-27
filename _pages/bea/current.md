@@ -65,7 +65,7 @@ bronze:
         </tr>   
         <tr>
             <td><strong>Date</strong></td>
-            <td>Friday, August 2, 2019</td>
+            <td>Friday, August 2, 2019 @ Hall 2</td>
         </tr>   
         <tr>
             <td><strong>Organizers</strong></td>
