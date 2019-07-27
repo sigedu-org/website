@@ -10,6 +10,7 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>News</h2>
 
+**July 27, 2019**. BEA14 will take place in [Hall 2](http://www.acl2019.org/EN/workshops.xhtml). ACL instructions for presenters are now [available](http://www.acl2019.org/EN/instructions-for-presenters.xhtml).
 **May 30, 2019**. The [BEA14 schedule](/bea/current#schedule) is now available! Thanks to all the authors and reviewers for your hard work! We look forward to seeing you in Florence!
 {: .notice--info} 
 
