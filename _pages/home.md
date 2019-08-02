@@ -10,7 +10,7 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>News</h2>
 
-**August 2, 2019**. The slides for the opening remarks are now available [online](/downloads/bea14-opening-remarks-v3.pptx)! Please don't forget to [vote](https://bit.ly/bea14-ambassador) for the BEA14 ambassador paper and please do [sign up](https://bit.ly/bea14-dinner) for the post-workshop dinner!
+**August 2, 2019**. The slides for the opening remarks are now available [online](/downloads/bea14-opening-remarks-v3.pptx)! Please don't forget to [vote](https://bit.ly/bea14-ambassador) for the BEA14 ambassador paper and please do [sign up](https://bit.ly/bea14-dinner) for the post-workshop dinner! The dinner will be at [Trattoria Coco Lezzone](https://goo.gl/maps/oVc7VSGYMXtV4b2x5).
 {: .notice--info}
 
 **July 27, 2019**. BEA14 will take place in [Hall 2](http://www.acl2019.org/EN/workshops.xhtml). ACL instructions for presenters are now [available](http://www.acl2019.org/EN/instructions-for-presenters.xhtml)!
