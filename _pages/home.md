@@ -17,7 +17,7 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 {: .notice}
 
 **May 30, 2019**. The [BEA14 schedule](/bea/current#schedule) is now available! Thanks to all the authors and reviewers for your hard work! We look forward to seeing you in Florence!
-{: .notice--info} 
+{: .notice} 
 
 **April 16, 2019**. The latest edition of the SIGEDU/BEA newsletter has been [posted](/blog/sigedu-newsletter-3/)!
 {: .notice} 
