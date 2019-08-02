@@ -152,7 +152,7 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
         </tr>
         <tr> 
             <td style="width: 30%; font-weight: bold;">9:00-9:15</td>
-            <td><strong>Opening Remarks</strong></td>
+            <td><strong><a href="/downloads/bea14-opening-remarks-v3.pptx">Opening Remarks</a></strong></td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">9:15&ndash;9:40</td>
