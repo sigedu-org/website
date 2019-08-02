@@ -321,7 +321,7 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">19:00&ndash;22:00</td>
-            <td><strong>Post-workshop Dinner at <a href="https://goo.gl/maps/oVc7VSGYMXtV4b2x5">Trattoria Coco Lezzone</a></strong></td>
+            <td><strong>[Post-workshop Dinner](https://bit.ly/bea14-dinner) at Trattoria Coco Lezzone</strong></td>
         </tr>
     </tbody>
 </table>
