@@ -78,6 +78,10 @@ bronze:
     </tbody>
 </table>
 
+## Proceedings
+
+The Proceedings of the Fourteenth Workshop on Innovative Use of NLP for Building Educational Applications are available [here](https://www.aclweb.org/anthology/W19-44).
+
 ## Workshop Description
 
 The BEA Workshop is a leading venue for NLP innovation in the context of educational applications. It is one of the largest one-day workshops in the ACL community with over 80 attendees in the past several years. The growing interest in educational applications and a diverse community of researchers involved resulted in the creation of the Special Interest Group in Educational Applications (SIGEDU) in 2017, which currently has 144 members.
