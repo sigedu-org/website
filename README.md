@@ -15,9 +15,10 @@ It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.githu
     - Modify the `toc` field to read `true` instead of `false` if you have a large post with section headers. 
     - Modify the `published` field to have the value `true` instead of `false`.
     - Do _not_ modify the `author`, `author_profile`, and `categories` fields.
-4. Submit a pull request from your fork to the SIGEDU website repository.
-5. Address any comments you receive after the pull request is reviewed.
-6. If your post is approved, it will be merged and will appear on the SIGEDU [blog](https://sig-edu.org/blog).
+4. Add a news item to the main page `_pages/home.md` by copying the topmost item under the "News" section and modifying the date and content appropriately.
+5. Submit a pull request from your fork to the SIGEDU website repository.
+6. Address any comments you receive after the pull request is reviewed.
+7. If your post is approved, it will be merged and will appear on the SIGEDU [blog](https://sig-edu.org/blog).
 
 ## Local testing with ruby
 
