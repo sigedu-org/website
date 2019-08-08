@@ -160,7 +160,7 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">9:40&ndash;10:05</td>
-            <td><i>Predicting the Difficulty of Multiple Choice Questions in a High-stakes Medical Exam</i>. Le An Ha, Victoria Yaneva, Peter Baldwin and Janet Mee. </td>
+            <td><i>Predicting the Difficulty of Multiple Choice Questions in a High-stakes Medical Exam</i>. Le An Ha, Victoria Yaneva, Peter Baldwin and Janet Mee. </td> [presentation](/downloads/Predicting_the_Difficulty_of_MCQ.pptx)
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">10:05&ndash;10:30</td>
@@ -206,9 +206,9 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
 
                     <li><i>Content Modeling for Automated Oral Proficiency Scoring System</i>. Su-Youn Yoon and Chong Min Lee. </li>
 
-                    <li><i>Regression or classification? Automated Essay Scoring for Norwegian</i>. Stig Johan Berggren, Taraka Rama and Lilja Øvrelid. </li>
+                    <li><i>Regression or classification? Automated Essay Scoring for Norwegian</i>. Stig Johan Berggren, Taraka Rama and Lilja Øvrelid. </li> [poster](/downloads/Regression_or_Classification.pdf)
 
-                    <li><i>Context is Key: Grammatical Error Detection with Contextual Word Representations</i>. Samuel Bell, Helen Yannakoudakis and Marek Rei. </li>
+                    <li><i>Context is Key: Grammatical Error Detection with Contextual Word Representations</i>. Samuel Bell, Helen Yannakoudakis and Marek Rei. </li> [poster](/downloads/Context_is_Key.pdf)
  
                     <li><i>How to account for mispellings: Quantifying the benefit of character representations in neural content scoring models</i>. Brian Riordan, Michael Flor and Robert Pugh. </li>
                      
@@ -218,17 +218,17 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
                      
                     <li><i>Learning to combine Grammatical Error Corrections</i>. Yoav Kantor, Yoav Katz, Leshem Choshen, Edo Cohen-Karlik, Naftali Liberman, Assaf Toledo, Amir Menczel and Noam Slonim. </li>
                      
-                    <li><i>Erroneous data generation for Grammatical Error Correction</i>. Shuyao Xu, Jiehao Zhang, Jin Chen and Long Qin. </li>
+                    <li><i>Erroneous data generation for Grammatical Error Correction</i>. Shuyao Xu, Jiehao Zhang, Jin Chen and Long Qin. </li> [poster](/downloads/Erroneous_data_GEC.pdf)
                      
-                    <li><i>The LAIX Systems in the BEA-2019 GEC Shared Task</i>. Ruobing Li, Chuan Wang, Yefei Zha, Yonghong Yu, Shiman Guo, Qiang Wang, Yang Liu and Hui Lin. </li>
+                    <li><i>The LAIX Systems in the BEA-2019 GEC Shared Task</i>. Ruobing Li, Chuan Wang, Yefei Zha, Yonghong Yu, Shiman Guo, Qiang Wang, Yang Liu and Hui Lin. </li> [poster](/downloads/LAIX_GEC.pdf)
                      
-                    <li><i>The CUED's Grammatical Error Correction Systems for BEA-2019</i>. Felix Stahlberg and Bill Byrne. </li>
+                    <li><i>The CUED's Grammatical Error Correction Systems for BEA-2019</i>. Felix Stahlberg and Bill Byrne. </li> [poster](/downloads/CUED_GEC.pdf)
                      
                     <li><i>The AIP-Tohoku System at the BEA-2019 Shared Task</i>. Hiroki Asano, Masato Mita, Tomoya Mizumoto and Jun Suzuki. </li>
                      
-                    <li><i>CUNI System for the Building Educational Applications 2019 Shared Task: Grammatical Error Correction</i>. Jakub Náplava and Milan Straka. </li>
+                    <li><i>CUNI System for the Building Educational Applications 2019 Shared Task: Grammatical Error Correction</i>. Jakub Náplava and Milan Straka. </li> [poster](/downloads/CUNI_GEC.pdf)
                      
-                    <li><i>Noisy Channel for Low Resource Grammatical Error Correction</i>. Simon Flachs, Ophélie Lacroix and Anders Søgaard. </li>
+                    <li><i>Noisy Channel for Low Resource Grammatical Error Correction</i>. Simon Flachs, Ophélie Lacroix and Anders Søgaard. </li> [poster](/downloads/Siteimprove_GEC.pdf)
                      
                     <li><i>The BLCU System in the BEA 2019 Shared Task</i>. Liner Yang, Chencheng Wang, Tianxin Liao and Erhong Yang. </li>
                      
@@ -257,9 +257,9 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
                 <ul>
                     <li><i>Evaluation of automatic collocation extraction methods for language learning</i>. Vishal Bhalla and Klara Klimcikova. </li>
  
-                    <li><i>Anglicized Words and Misspelled Cognates in Native Language Identification</i>. Ilia Markov, Vivi Nastase and Carlo Strapparava. </li>
+                    <li><i>Anglicized Words and Misspelled Cognates in Native Language Identification</i>. Ilia Markov, Vivi Nastase and Carlo Strapparava. </li> [poster](/downloads/Anglicized_Words.pdf)
                      
-                    <li><i>Linguistically-Driven Strategy for Concept Prerequisites Learning on Italian</i>. Alessio Miaschi, Chiara Alzetta, Franco Alberto Cardillo and Felice Dell'Orletta. </li>
+                    <li><i>Linguistically-Driven Strategy for Concept Prerequisites Learning on Italian</i>. Alessio Miaschi, Chiara Alzetta, Franco Alberto Cardillo and Felice Dell'Orletta. </li> [poster](/downloads/Linguistically_Driven_Strategy.pdf)
                      
                     <li><i>Grammatical-Error-Aware Incorrect Example Retrieval System for Learners of Japanese as a Second Language</i>. Mio Arai, Masahiro Kaneko and Mamoru Komachi. </li>
                      
@@ -269,9 +269,9 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
                      
                     <li><i>Content Customization for Micro Learning using Human Augmented AI Techniques</i>. Ayush Shah, Tamer Abuelsaad, Jae-Wook Ahn, Prasenjit Dey, Ravi Kokku, Ruhi Sharma Mittal, Aditya Vempaty and Mourvi Sharma. </li>
                      
-                    <li><i>Curio SmartChat : A system for Natural Language Question Answering for Self-Paced K-12 Learning</i>. Srikrishna Raamadhurai, Ryan S Baker and Vikraman Poduval. </li>
+                    <li><i>Curio SmartChat : A system for Natural Language Question Answering for Self-Paced K-12 Learning</i>. Srikrishna Raamadhurai, Ryan S Baker and Vikraman Poduval. </li> [poster](/downloads/CURIO_SmartChat.pdf)
                      
-                    <li><i>Supporting content evaluation of student summaries by Idea Unit embedding</i>. Marcello Gecchele, Hiroaki Yamada, Takenobu Tokunaga and Yasuyo Sawaki. </li>
+                    <li><i>Supporting content evaluation of student summaries by Idea Unit embedding</i>. Marcello Gecchele, Hiroaki Yamada, Takenobu Tokunaga and Yasuyo Sawaki. </li> [poster](/downloads/Supporting_Content_Evaluation.pdf)
                      
                     <li><i>On Understanding the Relation between Expert Annotations of Text Readability and Target Reader Comprehension</i>. Sowmya Vajjala and Ivana Lucic. </li>
                      
@@ -285,7 +285,7 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
                      
                     <li><i>Learning Outcomes and Their Relatedness in a Medical Curriculum</i>. Sneha Mondal, Tejas Dhamecha, Shantanu Godbole, Smriti Pathak, Red Mendoza, K Gayathri Wijayarathna, Nabil Zary, Swarnadeep Saha and Malolan Chetlur. </li>
                      
-                    <li><i>Measuring text readability with machine comprehension: a pilot study</i>. Marc Benzahra and François Yvon. </li>
+                    <li><i>Measuring text readability with machine comprehension: a pilot study</i>. Marc Benzahra and François Yvon. </li> [poster](/downloads/Measuring_Text_Readability.pdf)
                      
                     <li><i>Metaphors in Text Simplification: To change or not to change, that is the question</i>. Yulia Clausen and Vivi Nastase. </li>
                      
@@ -317,7 +317,7 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">17:15&ndash;17:30</td>
-            <td><strong>Closing Remarks</strong></td>
+            <td><strong><a href="/downloads/BEA14-closing-remarks.pdf">Closing Remarks</a></strong></td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">19:00&ndash;22:00</td>
