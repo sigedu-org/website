@@ -6,12 +6,17 @@ bea:
   bio         : ""
   avatar      : "assets/images/avatars/bea-team.png"
 
+guest:
+  name        : " "
+  bio         : ""
+  avatar      : "assets/images/avatars/guest.png"
+
 jill:
   name        : "Jill Burstein"
   uri         : "https://sites.google.com/site/jbursteinets/"
   bio         : "President | Director of Research, ETS"
   avatar      : "assets/images/avatars/general-chair.png"
-  twitter     : "JillBurstein "
+  twitter     : "JillBurstein"
 
 nitin:
   name        : "Nitin Madnani"

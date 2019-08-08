@@ -4,7 +4,22 @@ This is the code for the official website for the ACL SIGEDU: the Association fo
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
-## local testing with ruby
+## Submitting a guest blog post
+
+1. Fork this repository into your GitHub account.
+2. Make a copy of the file `_posts/YYYY-MM-DD-guest-post-title-with-hyphens.md` and name it appropriately: replace `YYYY` with the 4-digit year, `MM` with the 2-digit month, `DD` with the 2-digit date, and choose an appropriate title. Do not _use_ spaces in the name of the file!
+3. Modify the file front matter (the YAML block at the top of the file):
+    - Put the title of the post in the `title` field.
+    - Choose a short excerpt for the post and use it for the `excerpt` field. Make sure it's enclosed in double quotes.
+    - Replace `tags1` and `tags2` in the `tags` field with your topically-appropriate tags. You _must_ choose at least one tag.
+    - Modify the `toc` field to read `true` instead of `false` if you have a large post with section headers. 
+    - Modify the `published` field to have the value `true` instead of `false`.
+    - Do _not_ modify the `author`, `author_profile`, and `categories` fields.
+4. Submit a pull request from your fork to the SIGEDU website repository.
+5. Address any comments you receive after the pull request is reviewed.
+6. If your post is approved, it will be merged and will appear on the SIGEDU [blog](https://sig-edu.org/blog).
+
+## Local testing with ruby
 
 You can test this website locally on macOS as follows:
 
@@ -15,7 +30,7 @@ You can test this website locally on macOS as follows:
 4. Start the jekyll server by running `bundle exec jekyll serve`.
 5. You can then see the website at http://localhost:4000.
 
-## local testing with Docker
+## Local testing with Docker
 
 Alternately, if you would prefer using Docker rather than
 installing and configuring Ruby, that's also possible.
@@ -40,7 +55,6 @@ go [here](https://docs.docker.com/toolbox/overview/)
 For instructions on how to install docker for Ubuntu (at
 least 14.04), go [here](https://docs.docker.com/install/linux/docker-ce/ubuntu/). This link also has options for other
 Linux distributions.
-
 
 to test your installation, just type:
 `docker --version`

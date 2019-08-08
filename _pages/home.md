@@ -29,6 +29,9 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 <h2>Welcome!</h2>
 
 SIGEDU is the [Association for Computational Linguistics](http://aclweb.org) special interest group for building educational applications. SIGEDU organizes the annual workshop on Innovative Use of NLP for Building Educational Applications &ndash; colloquially known as the [BEA Workshop](bea/current). Anyone can become a member of SIGEDU. If you are interested, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSep9q-QLIvCIVIcdyoJJA8y2Ql32YRCQfVWDNJx1FwNXD3L6Q/viewform).
+
+This is a community website. If you would like to share resources, tools, announce job positions, information on related events, or start a discussion on educational applications, you are invited to submit a guest blog post by following the instructions [here](https://github.com/sigedu-org/website#submitting-a-guest-blog-post). All submissions will be reviewed by the [SIGEDU executive board](/officers) and published if approved.
+
 <h2>About</h2>
 
 SIGEDU was founded in 2017 and is ACL's newest SIG. SIGEDU has the following goals:
