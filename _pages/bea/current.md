@@ -78,9 +78,13 @@ bronze:
     </tbody>
 </table>
 
+## Workshop Proceedings
+
+The Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Application are now available [online](https://www.aclweb.org/anthology/volumes/W19-44/).
+
 ## Workshop Description
 
-The BEA Workshop is a leading venue for NLP innovation in the context of educational applications. It is one of the largest one-day workshops in the ACL community with over 80 attendees in the past several years. The growing interest in educational applications and a diverse community of researchers involved resulted in the creation of the Special Interest Group in Educational Applications (SIGEDU) in 2017, which currently has 144 members.
+The BEA Workshop is a leading venue for NLP innovation in the context of educational applications. It is one of the largest one-day workshops in the ACL community with over 80 attendees in the past several years. The growing interest in educational applications and a diverse community of researchers involved resulted in the creation of the Special Interest Group in Educational Applications (SIGEDU) in 2017, which currently has 177 members.
 
 The workshop’s continuing growth highlights the alignment between societal needs and technological advances. NLP capabilities can now support an array of learning domains, including writing, speaking, reading, science, and mathematics, as well as the related intra-personal (e.g., self-confidence) and inter-personal (e.g., peer collaboration) skills. Within these areas, the community continues to develop and deploy innovative NLP approaches for use in educational settings. In the writing and speech domains, automated writing evaluation (AWE) and speech scoring applications, respectively, are commercially deployed in high-stakes assessment and in instructional contexts (e.g., Massive Open Online Courses (MOOCs) and K-12 classrooms). Commercially-deployed plagiarism detection is also commonly used in both K-12 and higher education settings. For writing, the focus is on innovations that support writing tasks requiring source use, argumentative discourse, and factual content accuracy. For speech, there is an interest in advancing automated scoring to include the evaluation of discourse and content features in responses to spoken assessments. General advances in speech technology have promoted a renewed interest in spoken dialog and multimodal systems for instruction and assessment, for instance, for workplace interviews and simulated teaching environments. The explosive growth of mobile applications for game-based and simulation-based applications is another area where NLP has begun to play a large role, especially for language learning.
 

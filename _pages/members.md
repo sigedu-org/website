@@ -13,11 +13,14 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://people.cs.pitt.edu/~tazinafrin/">Tazin Afrin</a>, University of Pittsburgh<br/>
 - <a href="https://spraakbanken.gu.se/swe/personal/david">David Alfter</a>, University of Gothenburg<br/>
 - <a href="https://da352.user.srcf.net">Dimitris Alikaniotis</a>,&nbsp;Grammarly<br/>
+- <a href="feralvam.github.io">Fernando Alva-Manchego</a>, University of Sheffield<br/>
 - Jason Angel, Instituto Politecnico Nacional<br/>
 - <a href="https://www.rbanchs.com">Rafael Banchs</a>, I2R<br/>
 - <a href="https://leebecker.com">Lee Becker</a>, Pearson<br/>
 - <a href="https://www.ukp.tu-darmstadt.de/people/postdoctoral-researchers/dr-lisa-beinborn">Lisa Beinborn</a>, UKP Lab,&nbsp;TU Darmstadt<br/>
 - <a href="https://sites.google.com/site/beatabeigmanklebanov/">Beata Beigman Klebanov</a>, Educational Testing Service<br/>
+- <a href="https://samueljamesbell.com/">Samuel Bell</a>, University of Cambridge<br/>
+- Marc Benzahra, LIMSI, Glose<br/>
 - Delphine Bernhard, Université&nbsp;de Strasbourg<br/>
 - <a href="https://serge.bibauw.be">Serge Bibauw</a>, KU Leuven &amp; Université catholique de Louvain<br/>
 - <a href="https://jbingel.github.io">Joachim Bingel</a>, University of Copenhagen<br/>
@@ -37,6 +40,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="http://www.sfs.uni-tuebingen.de/~mchnkina/">Maria Chinkina</a>, University of Tübingen<br/>
 - Martin Chodorow, City University of New York&nbsp;&amp; Educational Testing Service<br/>
 - <a href="https://shamilcm.github.io">Shamil Chollampatt</a>, National University of Singapore<br/>
+- <a href="https://ktilana.wixsite.com/leshem-choshen">Leshem Choshen</a>, Hebrew University of Jerusalem<br/>
 - Wei Chu, NA<br/>
 - Mark Core, University of Southern California<br/>
 - <a href="http://www-gth.die.upm.es/~lfdharo/index_en.php">Luis Fernando D'Haro</a>, ETSI Telecomunicación, Universidad Politécnica de Madrid<br/>
@@ -52,6 +56,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://www.cl.cam.ac.uk/~mf501/">Mariano Felice</a>, University of Cambridge<br/>
 - Michael Flor, Educational Testing Service<br/>
 - <a href="https://www.computing.dcu.ie/~jfoster">Jennifer Foster</a>, Dublin City University<br/>
+- Jennifer-Carmen Frey, Eurac Research Bolzano & Dipartimento di Interpretazione e Traduzione Forlì, Università di Bologna<br/>
 - <a href="https://www.microsoft.com/en-us/research/people/mgamon/">Michael Gamon</a>, Microsoft Research<br/>
 - Dan Goldwasser, Purdue University<br/>
 - Sian Gooding, University of Cambridge<br/>
@@ -59,6 +64,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Andrew Gorman, Pearson<br/>
 - Cyril Goutte, National Research Council Canada<br/>
 - <a href="http://www.csc.liv.ac.uk/~floriana">Floriana Grasso</a>, University of Liverpool<br/>
+- Roman Grundkiewicz, University of Edinburgh<br/>
 - <a href="https://glose.education/">Mehdi Hamoumi</a>, Glose<br/>
 - <a href="https://sites.google.com/site/jiangangstevenhao/">Jiangang Hao</a>, Educational Testing Service<br/>
 - Homa Hashemi, University of Pittsburgh<br/>
@@ -66,6 +72,8 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://www.sfu.ca/~heift">Trude Heift</a>, Simon Fraser University<br/>
 - Polina Harik, NBME<br/>
 - <a href="https://www.uni-tuebingen.de/forschung/forschungsschwerpunkte/graduiertenschule-und-forschungsnetzwerk-lead/mitglieder/heiko-holz.html">Heiko Holz</a>, LEAD Graduate School &amp; Research Network, University of Tübingen<br/>
+- Jue Hou, University of Helsinki<br/>
+- Renfen Hu, Beijing Normal University<br/>
 - Chung-Chi Huang, Frostburg State University<br/>
 - <a href="https://coralythuang.github.io/">Yi-Ting Huang</a>, Texas A&amp;M University<br/>
 - <a href="https://raduionescu.herokuapp.com">Radu Tudor Ionescu</a>, University of Bucharest<br/>
@@ -89,6 +97,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://lpmi-13.github.io/">Adam Leskis</a>, Independent Researcher<br/>
 - Greg Lessard, Queen's University<br/>
 - <a href="http://www.boyangli.co">Boyang Li</a>, Liulishuo AI Lab<br/>
+- Ruobing Li, LAIX Inc.<br/>
 - Wen Li, Indiana University<br/>
 - <a href="http://shared.youdao.com/www/about.html?keyfrom=dict2.index">Huijie Lin</a>, Netease Inc.<br/>
 - <a href="https://people.cs.pitt.edu/~litman/">Diane Litman</a>, University of Pittsburgh<br/>
@@ -103,7 +112,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://desilinguist.org">Nitin Madnani</a>, Educational Testing Service<br/>
 - <a href="https://sites.google.com/view/amagooda/home">Ahmed Magooda</a>, University of Pittsburgh<br/>
 - Nabin Maharjan, University of Memphis<br/>
-- Ilia Markov, CIC-IPN<br/>
+- Ilia Markov, University of Antwerp<br/>
 - <a href="https://www.cse.iitm.ac.in/~ditty/">Ditty Mathew</a>, Indian Institute of Technology, Madras<br/>
 - <a href="https://www.cse.iitb.ac.in/~sam/">Sandeep Mathias</a>, IIT Bombay<br/>
 - <a href="http://people.tamu.edu/~mazda/">Noboru Matsuda</a>, Texas A&amp;M University<br/>
@@ -113,6 +122,8 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Maria Moritz, German Research Center for Artificial Intelligence<br/>
 - Verena Möller, Université catholique de Louvain<br/>
 - <a href="http://www.cs.columbia.edu/~smara/">Smaranda	Muresan</a>, Columbia University<br/>
+- <a href="https://sites.google.com/site/nadeemf0755/home">Farah Nadeem</a>, University of Washington<br/>
+- <a href="www.sjnam.com">Sungjin Nam</a>, University of Michigan<br/>
 - <a href="https://cs.jhu.edu/~napoles">Courtney Napoles</a>, Grammarly<br/>
 - <a href="http://diane.sdf-us.org">Diane Napolitano</a>, LCSR, Rutgers University<br/>
 - <a href="https://iampuntre.github.io">Nihal Nayak</a>, Stride.ai<br/>
@@ -120,6 +131,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://www.cse.unt.edu/~Nielsen">Rodney Nielsen</a>, University of North Texas<br/>
 - <a href="http://dinel.org.uk">Constantin Orasan</a>, University of Wolverhampton<br/>
 - <a href="https://se.linkedin.com/in/antonosika">Anton Osika</a>, Sana Labs AB<br/>
+- <a href="https://sites.psu.edu/becky/">Rebecca Passonneau</a>, Penn State University<br/>
 - <a href="https://www.linkedin.com/in/ildiko-pilan/?locale=en_US">Ildikó&nbsp;Pilán</a>, University of Gothenburg<br/>
 - <a href="https://www.let.rug.nl/~bplank">Barbara Plank</a>, IT University of Copenhagen<br/>
 - <a href="www.singsound.com">Long Qin</a>, SingSound<br/>
@@ -145,6 +157,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://makemis.com">Mariana Shimabukuro</a>, University of Ontario Institute of Technology<br/>
 - Katira Soleymanzadeh, Ege University<br/>
 - <a href="www.somasundaran.net">Swapna Somasundaran</a>, Educational Testing Service (ETS)<br/>
+- Julie St. John, Measurement Inc.<br/>
 - Carlo Strapparava, FBK-irst<br/>
 - Anaïs&nbsp;Tack, Université catholique de Louvain &amp; KU Leuven<br/>
 - <a href="http://www.comp.nus.edu.sg/~kaveh">Kaveh Taghipour</a>, National University of Singapore<br/>
@@ -153,11 +166,13 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://web.ntnu.edu.tw/~samtseng/">Yuen-Hsien Tseng</a>, National Taiwan Normal University<br/>
 - Shalaka Vaidya, IIIT Hyderabad<br/>
 - <a href="https://sowmya.public.iastate.edu/">Sowmya Vajjala</a>, Iowa State University<br/>
+- Piper Vasicek, Brigham Young University<br/>
 - <a href="https://sites.google.com/view/alinev">Aline Villavicencio</a>, University of Essex (UK), Federal University of Rio Grande do Sul<br/>
 - <a href="https://spraakbanken.gu.se/personal/elena/">Elena Volodina</a>, University of Gothenburg<br/>
 - <a href="https://www.rmit.edu.au/contact/staff-contacts/academic-staff/u/uitdenbogerd-dr-sandra">Alexandra Uitdenbogerd</a>, RMIT University<br/>
 - Yiyi Wang, University of Illinois at Urbana-Champaign<br/>
 - Xinhao Wang, Educational Testing Service<br/>
+- <a href="www.sfs.uni-tuebingen.de/~zweiss/">Zarah Weiss</a>, University of Tübingen<br/>
 - <a href="http://u.osu.edu/mwhite/">Michael White</a>, The Ohio State University<br/>
 - Michael Wojatzki, LTL University of Duisburg-Essen<br/>
 - Guowei Xu, TAL AI Lab<br/>
