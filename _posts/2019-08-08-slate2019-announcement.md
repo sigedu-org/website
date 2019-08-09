@@ -1,16 +1,15 @@
 ---
 title: SLaTE 2019 Call for Participation
-author: bea
+author: guest
 author_profile: true
-excerpt: "SLaTE 2019 will take place on Sept. 20-21 in Graz, Austria, co-located with Interspeech"
+excerpt: "SLaTE 2019 will take place on Sept. 20-21 in Graz, Austria, co-located with Interspeech."
 tags:
-  conference
+    conferences
 categories:
+    guest
     blog
-toc: true
-toc_sticky: true
-toc_label: "Sections"
-toc_icon: "cog"
+toc: false
+published: true
 ---
 
 Dear SIGEDU Community,
