@@ -7,8 +7,8 @@ tags:
     tag1
     tag2
 categories:
-    guest
     blog
+    guest
 toc: false
 published: false
 ---
