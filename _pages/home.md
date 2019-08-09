@@ -10,6 +10,9 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>News</h2>
 
+**August 9, 2019**. The 8th ISCA Workshop on Speech and Language Technology in Education ([SLaTE 2019](https://sites.google.com/view/slate2019/home)) will be held in Graz, Austria, on September 20 - 21, co-located with Interspeech.  See [this blog post](/blog/guest/slate2019-announcement/) for further information about SLaTE 2019.
+{: .notice--info}
+
 **August 8, 2019**. The Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Application (BEA) are now available [online](https://www.aclweb.org/anthology/volumes/W19-44/).
 {: .notice--info}
 
