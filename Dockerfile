@@ -1,6 +1,6 @@
 FROM jekyll/jekyll
 
-COPY ./Gemfile ./
+COPY ./Gemfile *.gemspec ./
 
 RUN bundle install
 

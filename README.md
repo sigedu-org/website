@@ -68,8 +68,7 @@ help you run the container locally from within the root
 directory of the project:
 
 ```
-docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll \
--it -p 127.0.0.1:4000:4000 jekyll/jekyll
+docker run --rm --volume=$(pwd):/srv/jekyll -p 4000:4000  -it jekyll/jekyll jekyll serve
 ```
 
 This will first pull down the jekyll docker image, then install
@@ -87,7 +86,7 @@ Pick any tag name you want, it's just there so that it's easy to reference later
 `http://localhost:4000` with:
 
 ```
-docker run --rm -it -p 4000:4000 -v $(pwd):/srv/jekyll <YOUR_TAG_HERE>
+docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll <YOUR_TAG_HERE>
 ```
 
 ## License
