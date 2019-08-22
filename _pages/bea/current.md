@@ -156,15 +156,15 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
         </tr>
         <tr> 
             <td style="width: 30%; font-weight: bold;">9:00-9:15</td>
-            <td><strong><a href="/downloads/bea14-opening-remarks-v3.pptx">Opening Remarks</a></strong></td>
+            <td><strong><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gQZVP93G93DJsIYB">Opening Remarks</a></strong></td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">9:15&ndash;9:40</td>
-            <td><i>The many dimensions of algorithmic fairness in educational applications</i>. Anastassia Loukina, Nitin Madnani and Klaus Zechner. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gQgqppI_aPh6MP6o?e=IKBzmg">The many dimensions of algorithmic fairness in educational applications</a></i>. Anastassia Loukina, Nitin Madnani and Klaus Zechner. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">9:40&ndash;10:05</td>
-            <td><i><a href="https://onedrive.live.com/edit.aspx?cid=3862d25410584971&page=view&resid=3862D25410584971!133&parId=3862D25410584971!106&app=PowerPoint">Predicting the Difficulty of Multiple Choice Questions in a High-stakes Medical Exam</a></i>. Le An Ha, Victoria Yaneva, Peter Baldwin and Janet Mee. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gQcmmaa3Ta_Z8d64">Predicting the Difficulty of Multiple Choice Questions in a High-stakes Medical Exam</a></i>. Le An Ha, Victoria Yaneva, Peter Baldwin and Janet Mee. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">10:05&ndash;10:30</td>
@@ -226,7 +226,7 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
                      
                     <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4f164Htg_k4v7peM">The LAIX Systems in the BEA-2019 GEC Shared Task</a></i>. Ruobing Li, Chuan Wang, Yefei Zha, Yonghong Yu, Shiman Guo, Qiang Wang, Yang Liu and Hui Lin. </li>
                      
-                    <li><i>< a href="https://1drv.ms/b/s!AnFJWBBU0mI4gQTFEVgxqHeBzLlt">The CUED's Grammatical Error Correction Systems for BEA-2019</a></i>. Felix Stahlberg and Bill Byrne. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gQTFEVgxqHeBzLlt">The CUED's Grammatical Error Correction Systems for BEA-2019</a></i>. Felix Stahlberg and Bill Byrne. </li>
                      
                     <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4dgPN9LL-qrTMsQE">The AIP-Tohoku System at the BEA-2019 Shared Task</a></i>. Hiroki Asano, Masato Mita, Tomoya Mizumoto and Jun Suzuki. </li>
                      
@@ -275,7 +275,7 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
                      
                     <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4eyqbbA72Rdc3PXA">Curio SmartChat : A system for Natural Language Question Answering for Self-Paced K-12 Learning</a></i>. Srikrishna Raamadhurai, Ryan S Baker and Vikraman Poduval. </li>
                      
-                    <li><i>< a href="https://1drv.ms/b/s!AnFJWBBU0mI4gQMpM3KfBvwf8p6C">Supporting content evaluation of student summaries by Idea Unit embedding</a></i>. Marcello Gecchele, Hiroaki Yamada, Takenobu Tokunaga and Yasuyo Sawaki. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gQMpM3KfBvwf8p6C">Supporting content evaluation of student summaries by Idea Unit embedding</a></i>. Marcello Gecchele, Hiroaki Yamada, Takenobu Tokunaga and Yasuyo Sawaki. </li>
                      
                     <li><i>On Understanding the Relation between Expert Annotations of Text Readability and Target Reader Comprehension</i>. Sowmya Vajjala and Ivana Lucic. </li>
                      
