@@ -16,9 +16,6 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 **August 8, 2019**. The Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Application (BEA) are now available [online](https://www.aclweb.org/anthology/volumes/W19-44/).
 {: .notice--info}
 
-**August 2, 2019**. The slides for the opening remarks are now available [online](/downloads/bea14-opening-remarks-v3.pptx)! Please don't forget to [vote](https://bit.ly/bea14-ambassador) for the BEA14 ambassador paper and please do [sign up](https://bit.ly/bea14-dinner) for the post-workshop dinner! The dinner will be at [Trattoria Coco Lezzone](https://goo.gl/maps/oVc7VSGYMXtV4b2x5).
-{: .notice}
-
 **April 16, 2019**. The latest edition of the SIGEDU/BEA newsletter has been [posted](/blog/sigedu-newsletter-3/)!
 {: .notice} 
 
@@ -46,7 +43,7 @@ SIGEDU was founded in 2017 and is ACL's newest SIG. SIGEDU has the following goa
 
 <h2>BEA 2019</h2>
 
-The [2019 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](/bea/current) will be on August 2, 2019 in Florence, Italy. The [schedule](/bea/current#schedule) is now up on the website. The proceedings will be made available after the workshop. 
+The [2019 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](/bea/current) was held on August 2, 2019 in Florence, Italy. The [schedule](/bea/current#schedule) is available on the website and proceedings are also [online](https://www.aclweb.org/anthology/volumes/W19-44/).
 
 <h3>Organizers</h3>
 Helen Yannakoudakis, University of Cambridge<br/>

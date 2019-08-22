@@ -156,15 +156,15 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
         </tr>
         <tr> 
             <td style="width: 30%; font-weight: bold;">9:00-9:15</td>
-            <td><strong><a href="/downloads/bea14-opening-remarks-v3.pptx">Opening Remarks</a></strong></td>
+            <td><strong><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gQZVP93G93DJsIYB">Opening Remarks</a></strong></td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">9:15&ndash;9:40</td>
-            <td><i>The many dimensions of algorithmic fairness in educational applications</i>. Anastassia Loukina, Nitin Madnani and Klaus Zechner. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gQgqppI_aPh6MP6o?e=IKBzmg">The many dimensions of algorithmic fairness in educational applications</a></i>. Anastassia Loukina, Nitin Madnani and Klaus Zechner. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">9:40&ndash;10:05</td>
-            <td><i>Predicting the Difficulty of Multiple Choice Questions in a High-stakes Medical Exam</i>. Le An Ha, Victoria Yaneva, Peter Baldwin and Janet Mee. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gQcmmaa3Ta_Z8d64">Predicting the Difficulty of Multiple Choice Questions in a High-stakes Medical Exam</a></i>. Le An Ha, Victoria Yaneva, Peter Baldwin and Janet Mee. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">10:05&ndash;10:30</td>
@@ -208,11 +208,11 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
                 <ul>
                     <li><i>A Benchmark Corpus of English Misspellings and a Minimally-supervised Model for Spelling Correction</i>. Michael Flor, Michael Fried and Alla Rozovskaya. </li>
 
-                    <li><i>Content Modeling for Automated Oral Proficiency Scoring System</i>. Su-Youn Yoon and Chong Min Lee. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4eAUi2cUaScSLyb0">Content Modeling for Automated Oral Proficiency Scoring System</a></i>. Su-Youn Yoon and Chong Min Lee. </li>
 
-                    <li><i>Regression or classification? Automated Essay Scoring for Norwegian</i>. Stig Johan Berggren, Taraka Rama and Lilja Øvrelid. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4epNFfGrA986l6KI">Regression or classification? Automated Essay Scoring for Norwegian</a></i>. Stig Johan Berggren, Taraka Rama and Lilja Øvrelid. </li>
 
-                    <li><i>Context is Key: Grammatical Error Detection with Contextual Word Representations</i>. Samuel Bell, Helen Yannakoudakis and Marek Rei. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4fMywB4ViN2ZroN0">Context is Key: Grammatical Error Detection with Contextual Word Representations</a></i>. Samuel Bell, Helen Yannakoudakis and Marek Rei. </li>
  
                     <li><i>How to account for mispellings: Quantifying the benefit of character representations in neural content scoring models</i>. Brian Riordan, Michael Flor and Robert Pugh. </li>
                      
@@ -222,17 +222,17 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
                      
                     <li><i>Learning to combine Grammatical Error Corrections</i>. Yoav Kantor, Yoav Katz, Leshem Choshen, Edo Cohen-Karlik, Naftali Liberman, Assaf Toledo, Amir Menczel and Noam Slonim. </li>
                      
-                    <li><i>Erroneous data generation for Grammatical Error Correction</i>. Shuyao Xu, Jiehao Zhang, Jin Chen and Long Qin. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4fbhCATOCqyx5T-E">Erroneous data generation for Grammatical Error Correction</a></i>. Shuyao Xu, Jiehao Zhang, Jin Chen and Long Qin. </li>
                      
-                    <li><i>The LAIX Systems in the BEA-2019 GEC Shared Task</i>. Ruobing Li, Chuan Wang, Yefei Zha, Yonghong Yu, Shiman Guo, Qiang Wang, Yang Liu and Hui Lin. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4f164Htg_k4v7peM">The LAIX Systems in the BEA-2019 GEC Shared Task</a></i>. Ruobing Li, Chuan Wang, Yefei Zha, Yonghong Yu, Shiman Guo, Qiang Wang, Yang Liu and Hui Lin. </li>
                      
-                    <li><i>The CUED's Grammatical Error Correction Systems for BEA-2019</i>. Felix Stahlberg and Bill Byrne. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gQTFEVgxqHeBzLlt">The CUED's Grammatical Error Correction Systems for BEA-2019</a></i>. Felix Stahlberg and Bill Byrne. </li>
                      
-                    <li><i>The AIP-Tohoku System at the BEA-2019 Shared Task</i>. Hiroki Asano, Masato Mita, Tomoya Mizumoto and Jun Suzuki. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4dgPN9LL-qrTMsQE">The AIP-Tohoku System at the BEA-2019 Shared Task</a></i>. Hiroki Asano, Masato Mita, Tomoya Mizumoto and Jun Suzuki. </li>
                      
-                    <li><i>CUNI System for the Building Educational Applications 2019 Shared Task: Grammatical Error Correction</i>. Jakub Náplava and Milan Straka. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4fjSJmiW9NXLbUPk">CUNI System for the Building Educational Applications 2019 Shared Task: Grammatical Error Correction</a></i>. Jakub Náplava and Milan Straka. </li>
                      
-                    <li><i>Noisy Channel for Low Resource Grammatical Error Correction</i>. Simon Flachs, Ophélie Lacroix and Anders Søgaard. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4eXqna9RV5mxIIsc">Noisy Channel for Low Resource Grammatical Error Correction</a></i>. Simon Flachs, Ophélie Lacroix and Anders Søgaard. </li>
                      
                     <li><i>The BLCU System in the BEA 2019 Shared Task</i>. Liner Yang, Chencheng Wang, Tianxin Liao and Erhong Yang. </li>
                      
@@ -261,21 +261,21 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
                 <ul>
                     <li><i>Evaluation of automatic collocation extraction methods for language learning</i>. Vishal Bhalla and Klara Klimcikova. </li>
  
-                    <li><i>Anglicized Words and Misspelled Cognates in Native Language Identification</i>. Ilia Markov, Vivi Nastase and Carlo Strapparava. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gQFalqYTOcCFVckY">Anglicized Words and Misspelled Cognates in Native Language Identification</a></i>. Ilia Markov, Vivi Nastase and Carlo Strapparava. </li>
                      
-                    <li><i>Linguistically-Driven Strategy for Concept Prerequisites Learning on Italian</i>. Alessio Miaschi, Chiara Alzetta, Franco Alberto Cardillo and Felice Dell'Orletta. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gQBBdNx_g8_E972C">Linguistically-Driven Strategy for Concept Prerequisites Learning on Italian</a></i>. Alessio Miaschi, Chiara Alzetta, Franco Alberto Cardillo and Felice Dell'Orletta. </li>
                      
                     <li><i>Grammatical-Error-Aware Incorrect Example Retrieval System for Learners of Japanese as a Second Language</i>. Mio Arai, Masahiro Kaneko and Mamoru Komachi. </li>
                      
-                    <li><i>Toward Automated Content Feedback Generation for Non-native Spontaneous Speech</i>. Su-Youn Yoon, Ching-Ni Hsieh, Klaus Zechner, Matthew Mulholland, Yuan Wang, and Nitin Madnani. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4d6KLJ46wAYkvDxo">Toward Automated Content Feedback Generation for Non-native Spontaneous Speech</a></i>. Su-Youn Yoon, Ching-Ni Hsieh, Klaus Zechner, Matthew Mulholland, Yuan Wang, and Nitin Madnani. </li>
                      
                     <li><i>Analytic Score Prediction and Justification Identification in Automated Short Answer Scoring</i>. Tomoya Mizumoto, Hiroki Ouchi, Yoriko Isobe, Paul Reisert, Ryo Nagata, Satoshi Sekine and Kentaro Inui. </li>
                      
                     <li><i>Content Customization for Micro Learning using Human Augmented AI Techniques</i>. Ayush Shah, Tamer Abuelsaad, Jae-Wook Ahn, Prasenjit Dey, Ravi Kokku, Ruhi Sharma Mittal, Aditya Vempaty and Mourvi Sharma. </li>
                      
-                    <li><i>Curio SmartChat : A system for Natural Language Question Answering for Self-Paced K-12 Learning</i>. Srikrishna Raamadhurai, Ryan S Baker and Vikraman Poduval. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4eyqbbA72Rdc3PXA">Curio SmartChat : A system for Natural Language Question Answering for Self-Paced K-12 Learning</a></i>. Srikrishna Raamadhurai, Ryan S Baker and Vikraman Poduval. </li>
                      
-                    <li><i>Supporting content evaluation of student summaries by Idea Unit embedding</i>. Marcello Gecchele, Hiroaki Yamada, Takenobu Tokunaga and Yasuyo Sawaki. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gQMpM3KfBvwf8p6C">Supporting content evaluation of student summaries by Idea Unit embedding</a></i>. Marcello Gecchele, Hiroaki Yamada, Takenobu Tokunaga and Yasuyo Sawaki. </li>
                      
                     <li><i>On Understanding the Relation between Expert Annotations of Text Readability and Target Reader Comprehension</i>. Sowmya Vajjala and Ivana Lucic. </li>
                      
@@ -285,19 +285,19 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
                      
                     <li><i>Analyzing Linguistic Complexity and Accuracy in Academic Language Development of German across Elementary and Secondary School</i>. Zarah Weiß and Detmar Meurers. </li>
                     
-                    <li><i>Artificial Error Generation with Fluency Filtering</i>. Mengyang Qiu and Jungyeul Park. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4dN0pSyLdeR6XGPQ">Artificial Error Generation with Fluency Filtering</a></i>. Mengyang Qiu and Jungyeul Park.</li>
                      
                     <li><i>Learning Outcomes and Their Relatedness in a Medical Curriculum</i>. Sneha Mondal, Tejas Dhamecha, Shantanu Godbole, Smriti Pathak, Red Mendoza, K Gayathri Wijayarathna, Nabil Zary, Swarnadeep Saha and Malolan Chetlur. </li>
                      
-                    <li><i>Measuring text readability with machine comprehension: a pilot study</i>. Marc Benzahra and François Yvon. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gQI6ZSSsIUgtJbxQ">Measuring text readability with machine comprehension: a pilot study</a></i>. Marc Benzahra and François Yvon. </li>
                      
-                    <li><i>Metaphors in Text Simplification: To change or not to change, that is the question</i>. Yulia Clausen and Vivi Nastase. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4dYIbkfCnrdUiHbc">Metaphors in Text Simplification: To change or not to change, that is the question</a></i>. Yulia Clausen and Vivi Nastase. </li>
                      
                     <li><i>Application of an Automatic Plagiarism Detection System in a Large-scale Assessment of English Speaking Proficiency</i>. Xinhao Wang, Keelan Evanini, Matthew Mulholland, Yao Qian and James V. Bruno. </li>
                      
                     <li><i>Equity Beyond Bias in Language Technologies for Education</i>. Elijah Mayfield, Michael Madaio, Shrimai Prabhumoye, David Gerritsen, Brittany McLaughlin, Ezekiel Dixon-Román and Alan W Black. </li>
                      
-                    <li><i>From Receptive to Productive: Learning to Use Confusing Words through Automatically Selected Example Sentences</i>. Chieh-Yang Huang, Yi-Ting Huang, Mei-Hua Chen and Lun-Wei Ku. </li>
+                    <li><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4c5CPvj_RkFZqvZk">From Receptive to Productive: Learning to Use Confusing Words through Automatically Selected Example Sentences</a></i>. Chieh-Yang Huang, Yi-Ting Huang, Mei-Hua Chen and Lun-Wei Ku. </li>
                      
                     <li><i>Equipping Educational Applications with Domain Knowledge</i>. Tarek Sakakini, Hongyu Gong, Jong Yoon Lee, Robert Schloss, JinJun Xiong and Suma Bhat. </li>
                 </ul>
@@ -321,7 +321,7 @@ More information can be found on the task [webpage](https://www.cl.cam.ac.uk/res
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">17:15&ndash;17:30</td>
-            <td><strong>Closing Remarks</strong></td>
+            <td><strong><a href="https://1drv.ms/b/s!AnFJWBBU0mI4caBQv5lUs5BU7I0">Closing Remarks</a></strong></td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">19:00&ndash;22:00</td>
