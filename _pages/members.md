@@ -45,8 +45,8 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://ktilana.wixsite.com/leshem-choshen">Leshem Choshen</a>, Hebrew University of Jerusalem<br/>
 - Wei Chu, NA<br/>
 - Mark Core, University of Southern California<br/>
-- <a href="http://www.gth.die.upm.es/~lfdharo">Luis Fernando D'Haro</a>, Universidad Politécnica de Madrid<br/>
-- <a href="nathandalal.com">Nathan Dalal</a>, Duolingo<br/>
+- <a href="http://www-gth.die.upm.es/~lfdharo/index_en.php">Luis Fernando D'Haro</a>, Universidad Politécnica de Madrid<br/>
+- <a href="http://www.nathandalal.com">Nathan Dalal</a>, Duolingo<br/>
 - <a href="https://glose.com">Arthur Darcet</a>, Glose<br/>
 - <a href="http://textmining.lt">Vidas Daudaravicius</a>, UAB VTeX<br/>
 - <a href="https://www.lt3.ugent.be/people/orphee-de-clercq/">Orphee De Clercq</a>, LT3, Ghent University<br/>
@@ -150,7 +150,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://livyreal.github.io/">Livy Real</a>, USP<br/>
 - <a href="http://www.hanumantredkar.com">Hanumant Redkar</a>, IIT Bombay&nbsp;<br/>
 - <a href="http://www.marekrei.com/">Marek Rei</a>, University of Cambridge<br/>
-- <a href="arendu.github.io">Adithya Renduchintala</a>, Johns Hopkins University<br/>
+- <a href="https://arendu.github.io">Adithya Renduchintala</a>, Johns Hopkins University<br/>
 - <a href="https://reynoldsnlp.com">Robert Reynolds</a>, Brigham Young University<br/>
 - <a href="http://www.clul.ulisboa.pt/en/researchers-en/776-del-rio-iria">Iria del Río</a>, University of Lisbon<br/>
 - <a href="https://frankie.robertson.name">Frankie Robertson</a>, University of Jyväskylä<br/>
@@ -178,7 +178,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://sites.google.com/view/alinev">Aline Villavicencio</a>, University of Essex (UK), Federal University of Rio Grande do Sul<br/>
 - <a href="https://spraakbanken.gu.se/personal/elena/">Elena Volodina</a>, University of Gothenburg<br/>
 - <a href="https://www.rmit.edu.au/contact/staff-contacts/academic-staff/u/uitdenbogerd-dr-sandra">Alexandra Uitdenbogerd</a>, RMIT University<br/>
-- <a href="www.personal.psu.edu/sxw327/">Shuting Wang</a>, Facebook<br/>
+- <a href="https://www.personal.psu.edu/sxw327/">Shuting Wang</a>, Facebook<br/>
 - Yiyi Wang, University of Illinois at Urbana-Champaign<br/>
 - Xinhao Wang, Educational Testing Service<br/>
 - <a href="www.sfs.uni-tuebingen.de/~zweiss/">Zarah Weiss</a>, University of Tübingen<br/>
