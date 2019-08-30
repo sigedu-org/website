@@ -10,9 +10,6 @@ It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.githu
 * [Builidng Locally](#building-locally)
    * [Using Ruby](#using-ruby)
    * [Using Docker](#using-docker)
-* [Forking for a New Conference](#forking-for-a-new-conference)
-   * [Important Files](#important-files)
-   * [Domain Setup](#domain-setup)
 * [License](#license)
 
 # Submitting a Guest Blog Post
