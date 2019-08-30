@@ -33,57 +33,38 @@ You can test this website locally on macOS as follows:
 
 ## Local testing with Docker
 
-Alternately, if you would prefer using Docker rather than
-installing and configuring Ruby, that's also possible.
+Alternately, if you would prefer using Docker rather than installing and configuring Ruby, that's also possible.
 
 ### Installing Docker
 
-- For instructions on how to install docker for Windows 10, go
-[here](https://docs.docker.com/docker-for-windows/install/),
-or for slightly older Windows computers,
-go [here](https://docs.docker.com/toolbox/overview/).
+- For instructions on how to install docker for Windows 10, go [here](https://docs.docker.com/docker-for-windows/install/), or for slightly older Windows computers, go [here](https://docs.docker.com/toolbox/overview/).
 
-- For instructions on how to install docker for MacOS (at
-least El Capitan 10.11), go
-[here](https://docs.docker.com/docker-for-mac/install/),
-or for slightly older MacOS computers,
-go [here](https://docs.docker.com/toolbox/overview/)
+- For instructions on how to install docker for MacOS (at least El Capitan 10.11), go [here](https://docs.docker.com/docker-for-mac/install/), or for slightly older MacOS computers, go [here](https://docs.docker.com/toolbox/overview/)
 
-- For instructions on how to install docker for Ubuntu (at
-least 14.04), go [here](https://docs.docker.com/install/linux/docker-ce/ubuntu/). This link also has options for other
-Linux distributions.
+- For instructions on how to install docker for Ubuntu (at least 14.04), go [here](https://docs.docker.com/install/linux/docker-ce/ubuntu). This link also has options for other Linux distributions.
 
 ### Testing Docker
-To test your installation, just type:
-`docker --version`
-at the terminal/command prompt
+To test your installation, just type: `docker --version` at the terminal/command prompt
 
-A successful install will result in something that looks like:
-`Docker version 17.05.0-ce, build 89658be`
+A successful install will result in something that looks like: `Docker version 17.05.0-ce, build 89658be`
 
 ### Using Docker 
 
-Once you have docker up and running, the following command will
-help you run the container locally from within the root
-directory of the project:
+Once you have docker up and running, the following command will help you run the container locally from within the root directory of the project:
 
 ```
-docker run --rm --volume=$(pwd):/srv/jekyll -p 4000:4000  -it jekyll/jekyll jekyll serve
+docker run --rm --volume=$(pwd):/srv/jekyll -p 4000:4000 -it jekyll/jekyll jekyll serve --livereload
 ```
 
-This will first pull down the jekyll docker image, then install
-all the dependencies inside the container and run the server.
+This will first pull down the jekyll docker image, then install all the dependencies inside the container and run the server.
 
-If  you don't want to have to wait for the gems to
-download and install every time (perhaps because of a slow
-network connection), then build from the included dockerfile with:
+If  you don't want to have to wait for the gems to download and install every time (perhaps because of a slow network connection), then build from the included dockerfile with:
 
 ```
 docker build -t <YOUR_TAG_HERE> .
 ```
 
-Pick any tag name you want, it's just there so that it's easy to reference later. After that's complete, can just run the website locally at
-`http://localhost:4000` with:
+Pick any tag name you want (e.g., `sigedu/website`), it's just there so that it's easy to reference later. After that's complete, can just run the website locally at `http://localhost:4000` with:
 
 ```
 docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll <YOUR_TAG_HERE>
