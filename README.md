@@ -36,6 +36,8 @@ GitHub Pages doesn't allow deploying changes in test mode so that they can be pr
 
 ## Using Ruby
 
+This requires installing Ruby and various dependencies. If you are having trouble doing so, you may want to use the [Docker-based](#local-testing-with-docker) solution instead.
+
 1. Install bundler: `sudo gem install bundler`. Make sure you have Ruby and Bundler versions > 2.4.
 2. Check out this repository.
 3. Run the gems needed by this repository: `sudo bundle install`. 
