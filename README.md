@@ -10,6 +10,8 @@ It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.githu
 * [Builidng Locally](#building-locally)
    * [Using Ruby](#using-ruby)
    * [Using Docker](#using-docker)
+      * [Run and Go](#run-and-go)
+      * [Build and Reuse](#build-and-reuse)
 * [License](#license)
 
 # Submitting a Guest Blog Post
@@ -55,24 +57,30 @@ First you need to install Docker.
 
 To test your installation, just type: `docker --version` at the terminal/command prompt. A successful install will result in something that looks like: `Docker version 17.05.0-ce, build 89658be`.
 
-Once you have docker up and running, the following command will help you run the container locally from within the root directory of the project:
+Once docker is up and running, you have two options. 
+
+### Run and Go
+
+If you need to build the website very infrequently, this option is for you. The following command will help you run the container locally from within the root directory of the project without any intermediate steps:
 
 ```
 docker run --rm --volume=$(pwd):/srv/jekyll -p 4000:4000 -it jekyll/jekyll jekyll serve --livereload
 ```
 
-This will first pull down the jekyll docker image, then install all the dependencies inside the container and run the server.
+It will first pull down the jekyll docker image, then install all the dependencies inside the container and start up the website, all in one go.
 
-If  you don't want to have to wait for the gems to download and install every time (perhaps because of a slow network connection), then build from the included [`Dockerfile`](/Dockerfile) with:
+### Build and Reuse
 
-```
-docker build -t <YOUR_TAG_HERE> .
-```
-
-Pick any tag name you want (e.g., `sigedu/website`), it's just there so that it's easy to reference later. After that's complete, can just run the website locally at `http://localhost:4000` with:
+If you are going to need to test/build the website frequently, you probably don't want to have to wait for the gems to download and install _every_ time you run the previous command. In that case, it might be better to first build a Docker image from the included [`Dockerfile`](/Dockerfile) using the command:
 
 ```
-docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll <YOUR_TAG_HERE>
+docker build -t sigedu/website .
+```
+
+where `sigedu/website` is the docker tag for our image. After that command completes, you can use this newly created image to run the website locally at `http://localhost:4000` using the command:
+
+```
+docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll sigedu/website
 ```
 
 # License
