@@ -34,8 +34,6 @@ GitHub Pages doesn't allow deploying changes in test mode so that they can be pr
 
 ## Using Ruby
 
-You can test this website locally on macOS as follows:
-
 1. Install bundler: `sudo gem install bundler`. Make sure you have Ruby and Bundler versions > 2.4.
 2. Check out this repository.
 3. Run the gems needed by this repository: `sudo bundle install`. 
@@ -45,7 +43,7 @@ You can test this website locally on macOS as follows:
 
 ## Using Docker
 
-Alternately, if you would prefer using Docker rather than installing and configuring Ruby, that's also possible.
+Alternately, if you would prefer using Docker rather than installing and configuring Ruby, that's also possible. 
 
 First you need to install Docker.
 
