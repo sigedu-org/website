@@ -4,7 +4,18 @@ This is the code for the official website for the ACL SIGEDU: the Association fo
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
-## Submitting a guest blog post
+# Table of Contents
+
+* [Submitting a Guest Blog Post](#submitting-a-guest-blog-post)
+* [Builidng Locally](#building-locally)
+   * [Using Ruby](#using-ruby)
+   * [Using Docker](#using-docker)
+* [Forking for a New Conference](#forking-for-a-new-conference)
+   * [Important Files](#important-files)
+   * [Domain Setup](#domain-setup)
+* [License](#license)
+
+# Submitting a Guest Blog Post
 
 1. Fork this repository into your GitHub account.
 2. Make a copy of the file `_posts/YYYY-MM-DD-guest-post-title-with-hyphens.md` and name it appropriately: replace `YYYY` with the 4-digit year, `MM` with the 2-digit month, `DD` with the 2-digit date, and choose an appropriate title. Do not _use_ spaces in the name of the file!
@@ -20,7 +31,11 @@ It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.githu
 6. Address any comments you receive after the pull request is reviewed.
 7. If your post is approved, it will be merged and will appear on the SIGEDU [blog](https://sig-edu.org/blog).
 
-## Local testing with ruby
+# Building Locally
+
+GitHub Pages doesn't allow deploying changes in test mode so that they can be previewed before publishing. Therefore, if you want to see what the changes would look like, you need to build the website on your local machine. This section describes two possible options to do that:
+
+## Using Ruby
 
 You can test this website locally on macOS as follows:
 
@@ -31,11 +46,11 @@ You can test this website locally on macOS as follows:
 4. Start the jekyll server by running `bundle exec jekyll serve`.
 5. You can then see the website at http://localhost:4000.
 
-## Local testing with Docker
+## Using Docker
 
 Alternately, if you would prefer using Docker rather than installing and configuring Ruby, that's also possible.
 
-### Installing Docker
+First you need to install Docker.
 
 - For instructions on how to install docker for Windows 10, go [here](https://docs.docker.com/docker-for-windows/install/), or for slightly older Windows computers, go [here](https://docs.docker.com/toolbox/overview/).
 
@@ -43,12 +58,7 @@ Alternately, if you would prefer using Docker rather than installing and configu
 
 - For instructions on how to install docker for Ubuntu (at least 14.04), go [here](https://docs.docker.com/install/linux/docker-ce/ubuntu). This link also has options for other Linux distributions.
 
-### Testing Docker
-To test your installation, just type: `docker --version` at the terminal/command prompt
-
-A successful install will result in something that looks like: `Docker version 17.05.0-ce, build 89658be`
-
-### Using Docker 
+To test your installation, just type: `docker --version` at the terminal/command prompt. A successful install will result in something that looks like: `Docker version 17.05.0-ce, build 89658be`.
 
 Once you have docker up and running, the following command will help you run the container locally from within the root directory of the project:
 
@@ -58,7 +68,7 @@ docker run --rm --volume=$(pwd):/srv/jekyll -p 4000:4000 -it jekyll/jekyll jekyl
 
 This will first pull down the jekyll docker image, then install all the dependencies inside the container and run the server.
 
-If  you don't want to have to wait for the gems to download and install every time (perhaps because of a slow network connection), then build from the included dockerfile with:
+If  you don't want to have to wait for the gems to download and install every time (perhaps because of a slow network connection), then build from the included [`Dockerfile`](/Dockerfile) with:
 
 ```
 docker build -t <YOUR_TAG_HERE> .
@@ -70,7 +80,7 @@ Pick any tag name you want (e.g., `sigedu/website`), it's just there so that it'
 docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll <YOUR_TAG_HERE>
 ```
 
-## License
+# License
 
 The MIT License (MIT)
 
