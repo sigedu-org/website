@@ -10,11 +10,11 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>News</h2>
 
-**August 9, 2019**. The 8th ISCA Workshop on Speech and Language Technology in Education ([SLaTE 2019](https://sites.google.com/view/slate2019/home)) will be held in Graz, Austria, on September 20 - 21, co-located with Interspeech.  See [this blog post](/blog/guest/slate2019-announcement/) for further information about SLaTE 2019.
+**November 1, 2020**. The [15th BEA workshop](/bea/current) has been accepted and will be co-located with ACL 2020 in Seattle, Washington, USA! The submission deadline for BEA15 is Monday, April 6th, 2020 and the workshop will be on either Thursday, July 9 or Friday, 10, 2020 (TBD). We hope to see you there!
 {: .notice--info}
 
-**August 8, 2019**. The Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Application (BEA) are now available [online](https://www.aclweb.org/anthology/volumes/W19-44/).
-{: .notice--info}
+**August 8, 2019**. The Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Application (BEA14) are now available [online](https://www.aclweb.org/anthology/volumes/W19-44/).
+{: .notice}
 
 **April 16, 2019**. The latest edition of the SIGEDU/BEA newsletter has been [posted](/blog/sigedu-newsletter-3/)!
 {: .notice} 
@@ -46,11 +46,11 @@ SIGEDU was founded in 2017 and is ACL's newest SIG. SIGEDU has the following goa
 The [2019 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](/bea/current) was held on August 2, 2019 in Florence, Italy. The [schedule](/bea/current#schedule) is available on the website and proceedings are also [online](https://www.aclweb.org/anthology/volumes/W19-44/).
 
 <h3>Organizers</h3>
-Helen Yannakoudakis, University of Cambridge<br/>
 Ekaterina Kochmar, University of Cambridge<br/>
 Claudia Leacock, Grammarly<br/>
 Nitin Madnani, Educational Testing Service<br/>
 Ildikó Pilán, Develop Diverse<br/>
+Helen Yannakoudakis, University of Cambridge<br/>
 Torsten Zesch, University of Duisburg-Essen
 
 <h2>Anti-Harassment Policy</h2>

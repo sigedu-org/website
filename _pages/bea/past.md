@@ -1,5 +1,5 @@
 ---
-title: Past BEA Workshops
+title: BEA13 and Older Workshops
 layout: single
 permalink: /bea/past
 toc: true

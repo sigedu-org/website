@@ -16,11 +16,13 @@ main:
     url: /bea/current
 
 bea:
-  - title: BEA
+  - title: BEA Workshops
     children:
-      - title: "Current Workshop"
+      - title: "Current (BEA15)"
         url: /bea/current
-      - title: "Past Workshops"
+      - title: "BEA14"
+        url: /bea/14
+      - title: "BEA13 & Older"
         url: /bea/past
 
 # program:
