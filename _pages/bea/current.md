@@ -158,7 +158,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Martin Chodorow, City University of New York
 - Leshem Choshen, Hebrew University of Jerusalem
 - Mark Core, University of Southern California
-- Luis Fernando, D'Haro Universidad Politécnica de Madrid
+- Luis Fernando D'Haro, Universidad Politécnica de Madrid
 - Vidas Daudaravicius, UAB VTeX
 - Orphée De Clercq, LT3, Ghent University
 - Kordula De Kuthy, Tübingen University
@@ -172,7 +172,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Mariano Felice, University of Cambridge
 - Michael Flor Educational Testing Service
 - Thomas François, Université catholique de Louvain
-- Jennifer-Carmen, Frey Eurac Research
+- Jennifer-Carmen Frey, Eurac Research
 - Michael Gamon, Microsoft Research
 - Dipesh Gautam, University of Memphis
 - Sian Gooding, University of Cambridge
@@ -190,7 +190,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Yi-Ting Huang, Academia Sinica
 - Radu Tudor Ionescu, University of Bucharest
 - Marcin Junczys-Dowmunt, Microsoft
-- Tomoyuki Kajiwara Osaka, University
+- Tomoyuki Kajiwara, Osaka University
 - Elma Kerz, RWTH Aachen University
 - Fazel Keshtkar, St. John's University
 - Mamoru Komachi, Tokyo Metropolitan University
@@ -220,7 +220,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Courtney Napoles, Grammarly
 - Diane Napolitano
 - Hwee Tou Ng, National University of Singapore
-- Huy Nguyen, LingoChamp US
+- Huy Nguyen, LingoChamp
 - Rodney Nielsen, University of North Texas
 - Yoo Rhee Oh, Electronics and Telecommunications Research Institute (ETRI)
 - Robert Östling, Department of linguistics, Stockholm university
@@ -252,7 +252,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Giulia Venturi, Institute for Computational Linguistics
 - Tatiana Vodolazova, University of Alicante
 - Elena Volodina, University of Gothenburg, Sweden
-- Yiyi Wang, UIUC & Boston College
+- Yiyi Wang, UIUC; Boston College
 - Shuting Wang, Facebook
 - Zarah Weiss, University of Tübingen
 - Michael White, The Ohio State University; Facebook AI
