@@ -10,7 +10,10 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>News</h2>
 
-**November 1, 2020**. The [15th BEA workshop](/bea/current) has been accepted and will be co-located with ACL 2020 in Seattle, Washington, USA! The submission deadline for BEA15 is Monday, April 6th, 2020 and the workshop will be on either Thursday, July 9 or Friday, 10, 2020 (TBD). We hope to see you there!
+**November 4, 2019**. The proposal submission deadline for the [9th Writing Analytics Conference](/blog/guest/9th-wac-announcement) has been extended to November 15, 2019. Consider submitting! It's a great opportunity to meet and interact with writing researchers! 
+{: .notice--info}
+
+**November 1, 2019**. The [15th BEA workshop](/bea/current) has been accepted and will be co-located with ACL 2020 in Seattle, Washington, USA! The submission deadline for BEA15 is Monday, April 6th, 2020 and the workshop will be on either Thursday, July 9 or Friday, 10, 2020 (TBD). We hope to see you there!
 {: .notice--info}
 
 **August 8, 2019**. The Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Application (BEA14) are now available [online](https://www.aclweb.org/anthology/volumes/W19-44/).
