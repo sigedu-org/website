@@ -165,7 +165,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Iria del Río Gayo, University of Lisbon
 - Carrie Demmans Epp, University of Alberta
 - Ann Devitt, Trinity College, Dublin 
-- Yo Ehara Shizuoka, Institute of Science and Technology
+- Yo Ehara, Shizuoka Institute of Science and Technology
 - Noureddine Elouazizi, Faculty of Science
 - Keelan Evanini, Educational Testing Service
 - Youmna Farag, University of Cambridge
