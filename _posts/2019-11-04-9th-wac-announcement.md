@@ -2,7 +2,7 @@
 title: "WAC 2019 Call for Participation"
 author: Jill Burstein
 author_profile: true
-excerpt: "The 9th Writing Analytics Conference will take place on Feb. 6-8 in at the University of South Florida."
+excerpt: "The 9th Writing Analytics Conference will take place on Feb. 6-8 at the University of South Florida."
 tags:
    conferences
 categories:
