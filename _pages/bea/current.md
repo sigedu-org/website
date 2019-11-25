@@ -89,11 +89,8 @@ Mari Ostendorf, University of Washington.
 
 <span style="font-size: smaller;"><em>Note</em>: these dates are still preliminary and may change.</span>
 
-- First call for workshop papers: Wednesday, Nov 20, 2019
-- Second call for workshop papers: Monday, Jan 20, 2020
-- Third (Final) Call for Workshop Papers: Friday, Mar 20, 2020
-- Submission Deadline: Monday, April 6, 2020, 11:59pm EST
-- Notification of Acceptance: Monday, Monday, May 4, 2020
+- Submission Deadline: **Monday, April 6, 2020, 11:59pm EST**
+- Notification of Acceptance: Monday, May 4, 2020
 - Camera-ready Papers Due: Monday, May 18, 2020
 - Workshop: Thursday/Friday, July 9/10, 2020 (TBD)
 
@@ -123,7 +120,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - [Ekaterina Kochmar](https://www.cl.cam.ac.uk/~ek358/), University of Cambridge
 - [Claudia Leacock](https://www.linkedin.com/in/claudialeacockphd/), Grammarly 
 - [Nitin Madnani](https://desilinguist.org), Educational Testing Service
-- [Ildikó Pilán](https://spraakbanken.gu.se/eng/personal/ildiko), Develop Diverse 
+- [Ildikó Pilán](https://spraakbanken.gu.se/eng/personal/ildiko), University of Oslo 
 - [Helen Yannakoudakis](https://www.cl.cam.ac.uk/~hy260/), University of Cambridge
 - [Torsten Zesch](https://www.ltl.uni-due.de/team/torsten-zesch/), University of Duisburg-Essen
 
@@ -189,6 +186,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Chung-Chi, Huang Frostburg State University
 - Yi-Ting Huang, Academia Sinica
 - Radu Tudor Ionescu, University of Bucharest
+- Lifeng Jin, Ohio State University
 - Marcin Junczys-Dowmunt, Microsoft
 - Tomoyuki Kajiwara, Osaka University
 - Elma Kerz, RWTH Aachen University
@@ -205,6 +203,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Peter Ljunglöf, University of Gothenburg; Chalmers University of Technology
 - Anastassia Loukina, Educational Testing Service
 - Lieve Macken, Ghent University
+- Nabin Maharjan, Audible (Amazon)
 - Montse Maritxalar, University of the Basque Country
 - James Martin, University of Colorado Boulder
 - Irina Maslowski
@@ -221,6 +220,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Diane Napolitano
 - Hwee Tou Ng, National University of Singapore
 - Huy Nguyen, LingoChamp
+- Neasa Ní Chiaráin, Trinity College, Dublin
 - Rodney Nielsen, University of North Texas
 - Yoo Rhee Oh, Electronics and Telecommunications Research Institute (ETRI)
 - Robert Östling, Department of linguistics, Stockholm university
@@ -229,6 +229,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Long Qin, Singsound Inc
 - Mengyang Qiu, University at Buffalo 
 - Martí Quixal, Universität Tübingen
+- Vipul Raheja, Grammarly
 - Zahra Rahimi Pandora Media
 - Taraka Rama, University of North Texas
 - Vikram Ramanarayanan, Educational Testing Service; University of California, San Francisco
