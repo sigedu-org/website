@@ -7,6 +7,13 @@ sidebar:
 toc: true
 toc_sticky: true
 toc_icon: 'cog'
+gold:
+  - url: https://nbme.org
+    image_path: "/assets/images/logos/sponsors/bea2020/nbme-logo.png"
+    alt: "NBME Logo"
+    title: "NBME"
+  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
+  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
 ---
 
 ![florence-landscape](/assets/images/venues/seattle.jpg)
@@ -105,7 +112,7 @@ Previously published papers cannot be accepted. The submissions will be reviewed
 
 We have also included conflict of interest in the submission form. You should mark all potential reviewers who have been authors on the paper, are from the same research group or institution, or who have seen versions of this paper or discussed it with you.
 
-<!-- We will be using the START conference system to manage submissions: [https://www.softconf.com/acl2019/bea/](https://www.softconf.com/acl2019/bea/) -->
+We will be using the START conference system to manage submissions: [https://www.softconf.com/acl2020/bea/](https://www.softconf.com/acl2020/bea/)
 
 ## Double Submission Policy
 
@@ -114,6 +121,12 @@ We will follow the official ACL double-submission [policy](https://www.aclweb.or
 Papers being submitted both to BEA and another conference or workshop must:
 - Note on the title page the other conference or workshop to which they are being submitted.  
 - State on the title page that if the authors choose to present their paper at BEA (assuming it was accepted), then the paper will be withdrawn from other conferences and workshops.
+
+## Sponsors
+
+### Gold
+{% include gallery id="gold" class="fourth"%}
+
 
 ## Organizing Committee
 
@@ -200,6 +213,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Chee Wee (Ben) Leong, Educational Testing Service
 - Chen Liang, Facebook
 - Diane Litman, University of Pittsburgh
+- Zitao Liu, TAL Education Group
 - Peter Ljunglöf, University of Gothenburg; Chalmers University of Technology
 - Anastassia Loukina, Educational Testing Service
 - Lieve Macken, Ghent University
@@ -258,11 +272,13 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Zarah Weiss, University of Tübingen
 - Michael White, The Ohio State University; Facebook AI
 - Alistair Willis, Open University, UK
+- Wei Xu, Ohio State University
 - Yiqiao Xu, North Carolina State University
 - Kevin Yancey, Duolingo
 - Victoria Yaneva, NBME; University of Wolverhampton
 - Seid Muhie Yimam, University of Hamburg
 - Marcos Zampieri, Rochester Institute of Technology
 - Klaus Zechner, Educational Testing Service
+- Fabian Zehner, DIPF | Leibniz Institute for Research and Information in Education
 - Haoran Zhang, University of Pittsburgh
 
