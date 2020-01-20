@@ -7,6 +7,13 @@ sidebar:
 toc: true
 toc_sticky: true
 toc_icon: 'cog'
+gold:
+  - url: https://nbme.org
+    image_path: "/assets/images/logos/sponsors/bea2020/nbme-logo.png"
+    alt: "NBME Logo"
+    title: "NBME"
+  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
+  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
 ---
 
 ![florence-landscape](/assets/images/venues/seattle.jpg)
