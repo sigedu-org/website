@@ -39,7 +39,7 @@ gold:
         </tr>   
         <tr>
             <td><strong>Date</strong></td>
-            <td>Thursday, July 9, 2020 <b>OR</b> Friday, July 10, 2020 (TBD)</td>
+            <td>Friday, July 10, 2020</td>
         </tr>   
         <tr>
             <td><strong>Organizers</strong></td>
@@ -99,7 +99,7 @@ Mari Ostendorf, University of Washington.
 - Submission Deadline: **Monday, April 6, 2020, 11:59pm EST**
 - Notification of Acceptance: Monday, May 4, 2020
 - Camera-ready Papers Due: Monday, May 18, 2020
-- Workshop: Thursday/Friday, July 9/10, 2020 (TBD)
+- Workshop: Thursday/Friday, July 10, 2020
 
 
 ## Submission Information
