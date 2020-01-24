@@ -10,6 +10,9 @@ toc_icon: "cog"
 **August 9, 2019**. The 8th ISCA Workshop on Speech and Language Technology in Education ([SLaTE 2019](https://sites.google.com/view/slate2019/home)) will be held in Graz, Austria, on September 20 - 21, co-located with Interspeech.  See [this blog post](/blog/guest/slate2019-announcement/) for further information about SLaTE 2019.
 {: .notice}
 
+**August 8, 2019**. The Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Application (BEA14) are now available [online](https://www.aclweb.org/anthology/volumes/W19-44/).
+{: .notice}
+
 **August 2, 2019**. The slides for the opening remarks are now available [online](https://1drv.ms/b/s!AnFJWBBU0mI4gQZVP93G93DJsIYB)! Please don't forget to [vote](https://bit.ly/bea14-ambassador) for the BEA14 ambassador paper and please do [sign up](https://bit.ly/bea14-dinner) for the post-workshop dinner! The dinner will be at [Trattoria Coco Lezzone](https://goo.gl/maps/oVc7VSGYMXtV4b2x5).
 {: .notice}
 
@@ -23,6 +26,9 @@ toc_icon: "cog"
 {: .notice} 
 
 **April 24, 2019**. The BEA 2019 deadline has been extended until **Monday, April 29, 11:59pm EST**. Get those papers in!
+{: .notice} 
+
+**April 16, 2019**. The latest edition of the SIGEDU/BEA newsletter has been [posted](/blog/sigedu-newsletter-3/)!
 {: .notice} 
 
 **January 14, 2019**. A new edition of the SIGEDU/BEA newsletter has been [posted](/blog/sigedu-newsletter-2/)!
