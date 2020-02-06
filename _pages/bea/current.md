@@ -43,7 +43,7 @@ gold:
         </tr>   
         <tr>
             <td><strong>Organizers</strong></td>
-            <td>Ekaterina Kochmar, Claudia Leacock, Nitin Madnani, Ildikó Pilán, Helen Yannakoudakis, and Torsten Zesch</td>
+            <td>Jill Burstein, Ekaterina Kochmar, Claudia Leacock, Nitin Madnani, Ildikó Pilán, Helen Yannakoudakis, and Torsten Zesch</td>
         </tr>
         <tr>
             <td><strong>Contact</strong></td>
@@ -130,6 +130,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 
 ## Organizing Committee
 
+- [Jill Burstein](https://sites.google.com/site/jbursteinets/), Educational Testing Service
 - [Ekaterina Kochmar](https://www.cl.cam.ac.uk/~ek358/), University of Cambridge
 - [Claudia Leacock](https://www.linkedin.com/in/claudialeacockphd/), Grammarly 
 - [Nitin Madnani](https://desilinguist.org), Educational Testing Service
