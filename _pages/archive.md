@@ -7,6 +7,15 @@ toc: false
 toc_icon: "cog"
 ---
 
+**January 24, 2020**. It's final! The [15th BEA workshop](/bea/current) will be held on Friday, July 10, 2020. 
+{: .notice}
+
+**November 4, 2019**. The proposal submission deadline for the [9th Writing Analytics Conference](/blog/guest/9th-wac-announcement) has been extended to November 15, 2019. Consider submitting! It's a great opportunity to meet and interact with writing researchers! 
+{: .notice}
+
+**November 1, 2019**. The [15th BEA workshop](/bea/current) has been accepted and will be co-located with ACL 2020 in Seattle, Washington, USA! The submission deadline for BEA15 is Monday, April 6th, 2020 and the workshop will be on either Thursday, July 9 or Friday, July 10, 2020 (TBD). We hope to see you there!
+{: .notice}
+
 **August 9, 2019**. The 8th ISCA Workshop on Speech and Language Technology in Education ([SLaTE 2019](https://sites.google.com/view/slate2019/home)) will be held in Graz, Austria, on September 20 - 21, co-located with Interspeech.  See [this blog post](/blog/guest/slate2019-announcement/) for further information about SLaTE 2019.
 {: .notice}
 

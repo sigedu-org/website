@@ -35,7 +35,8 @@ gold:
         </tr>
         <tr>
             <td><strong>Deadline</strong></td>
-            <td>Monday, April 6, 2020, 11:59pm EST</td>
+            <td><span style="text-decoration: line-through;">Monday, April 6, 2020
+            11:59pm EST</span><br/>Monday, April 13, 2020 11:59pm EST (extended)</td>
         </tr>   
         <tr>
             <td><strong>Date</strong></td>
@@ -96,7 +97,8 @@ Mari Ostendorf, University of Washington.
 
 <span style="font-size: smaller;"><em>Note</em>: these dates are still preliminary and may change.</span>
 
-- Submission Deadline: **Monday, April 6, 2020, 11:59pm EST**
+- Submission Deadline: <span style="text-decoration: line-through;">Monday, April
+6, 2020, 11:59pm EST</span> **Monday, April 13, 2020, 11:59pm EST** (extended)
 - Notification of Acceptance: Monday, May 4, 2020
 - Camera-ready Papers Due: Monday, May 18, 2020
 - Workshop: Thursday/Friday, July 10, 2020
