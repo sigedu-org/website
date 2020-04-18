@@ -282,6 +282,6 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Seid Muhie Yimam, University of Hamburg
 - Marcos Zampieri, Rochester Institute of Technology
 - Klaus Zechner, Educational Testing Service
-- Fabian Zehner, DIPF | Leibniz Institute for Research and Information in Education
+- Fabian Zehner, DIPF, Leibniz Institute for Research and Information in Education
 - Haoran Zhang, University of Pittsburgh
 
