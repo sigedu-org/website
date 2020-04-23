@@ -99,8 +99,8 @@ Mari Ostendorf, University of Washington.
 
 - Submission Deadline: <span style="text-decoration: line-through;">Monday, April
 6, 2020, 11:59pm EST</span> **Monday, April 13, 2020, 11:59pm EST** (extended)
-- Notification of Acceptance: Monday, May 4, 2020
-- Camera-ready Papers Due: Monday, May 18, 2020
+- Notification of Acceptance: <span style="text-decoration: line-through;">Monday, May 4, 2020</span> **Monday, May 11, 2020**
+- Camera-ready Papers Due: <span style="text-decoration: line-through;">Monday, May 18, 2020</span> **Monday, May 25, 2020**
 - Workshop: Thursday/Friday, July 10, 2020
 
 
