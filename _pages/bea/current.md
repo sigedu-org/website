@@ -16,7 +16,7 @@ gold:
   - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
 ---
 
-![florence-landscape](/assets/images/venues/seattle.jpg)
+![seattle-landscape](/assets/images/venues/seattle.jpg)
 
 <table>
     <thead>
@@ -102,6 +102,50 @@ Mari Ostendorf, University of Washington.
 - Notification of Acceptance: <span style="text-decoration: line-through;">Monday, May 4, 2020</span> **Monday, May 11, 2020**
 - Camera-ready Papers Due: <span style="text-decoration: line-through;">Monday, May 18, 2020</span> **Monday, May 25, 2020**
 - Workshop: Thursday/Friday, July 10, 2020
+
+## List of Accepted Papers
+
+*Assisting Undergraduate Students in Writing Spanish Methodology Sections*. Samuel González-López, Steven Bethard and Aurelio Lopez-Lopez.
+
+*Applications of Natural Language Processing in Bilingual Language Teaching: An Indonesian-English Case Study*. Zara Maxwelll-Smith, Simón González Ochoa, Ben Foley and Hanna Suominen.
+
+*Linguistic Features for Readability Assessment*. Tovly Deutsch, Masoud Jasbi and Stuart Shieber.
+
+*Using PRMSE to evaluate automated scoring systems in the presence of label noise*. Anastassia Loukina, Nitin Madnani, Aoife Cahill, Lili Yao, Matthew S. Johnson, Brian Riordan and Daniel F. McCaffrey.
+
+*GECToR – Grammatical Error Correction: Tag, Not Rewrite*. Kostiantyn Omelianchuk, Vitaliy Atrasevych, Artem Chernodub and Oleksandr Skurzhanskyi.
+
+*Construction of a Large Open Access Dialogue Dataset for Tutoring*. Katherine Stasaski and Marti A. Hearst.
+
+*An Exploratory Study of Argumentative Writing by Young Students: A transformer-based Approach*.  Debanjan Ghosh, Beata Beigman Klebanov and Yi Song.
+
+*Annotation and Classification of Evidence and Reasoning Revisions in Argumentative Writing*. Tazin Afrin, Elaine Lin Wang, Diane Litman, Lindsay Clare Matsumura and Richard Correnti.
+
+*Tracking the Evolution of Written Language Competence in L2 Spanish Learners*. Alessio Miaschi, Sam Davidson, Dominique Brunato, Felice Dell'Orletta, Kenji Sagae, Claudia Helena Sanchez-Gutierrez and Giulia Venturi.
+
+*Multiple Instance Learning for Content Feedback Localization without Annotation*. Scott Hellman, William Murray, Adam Wiemerslage, Mark Rosenstein, Peter Foltz, Lee Becker and Marcia Derr.
+
+*Becoming Linguistically Mature: Modeling English and German Children’s Writing Development Across School Grades*. Elma Kerz, Yu Qiao, Daniel Wiechmann and Marcus Ströbel.
+
+*Complementary Systems for Off-topic Spoken Response Detection*. Vatsal Raina, Mark Gales and Kate Knill.
+
+*Should You Fine-Tune BERT for Automated Essay Scoring?* Elijah Mayfield and Alan W Black.
+
+*Can Neural Networks Automatically Score Essay Traits?* Sandeep Mathias and Pushpak Bhattacharyya.
+
+*An Empirical Investigation of Neural Methods for Content Scoring of Science Explanations*. Brian Riordan, Sarah Bichler, Allison Bradford, Jennifer King Chen, Korah Wiley, Libby Gerard and Marcia C. Linn.
+
+*Context-based Automated Scoring of Complex Mathematical Responses*.  Aoife Cahill, James H Fife, Brian Riordan, Avijit Vajpayee and Dmytro Galochkin.
+
+*Predicting the Difficulty and Response Time of Multiple Choice Questions Using Transfer Learning*. Kang Xue, Victoria Yaneva, Christopher Runyon and Peter Baldwin.
+
+*A Comparative Study of Synthetic Data Generation Methods for Grammatical Error Correction*. Max White and Alla Rozovskaya.
+
+*Distractor Analysis and Selection for Multiple-Choice Cloze Questions for Second-Language Learners*. Lingyu Gao, Kevin Gimpel and Arnar Jensson.
+
+*Automated Scoring of Clinical Expressive Language Evaluation Tasks*. Yiyi Wang, Emily Prud'hommeaux, Meysam Asgari and Jill Dolata.
+
+*Interpreting Neural CWI Classifiers' Weights as Vocabulary Size*. Yo Ehara.
 
 
 ## Submission Information

@@ -7,6 +7,9 @@ toc: false
 toc_icon: "cog"
 ---
 
+**April 2, 2020**. Due to multiple requests and in view of the current situation, we have extended the [BEA 2020](/bea/current) paper submission deadline to **April 13th, 11:59 pm EST**. For COVID-19 updates on ACL 2020, please refer to the [conference website](https://acl2020.org).
+{: .notice}
+
 **January 24, 2020**. It's final! The [15th BEA workshop](/bea/current) will be held on Friday, July 10, 2020. 
 {: .notice}
 
