@@ -278,7 +278,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - William Murray, Pearson
 - Farah Nadeem, University of Wahington
 - Courtney Napoles, Grammarly
-- Diane Napolitano
+- Diane Napolitano, Refinitiv
 - Hwee Tou Ng, National University of Singapore
 - Huy Nguyen, LingoChamp
 - Neasa Ní Chiaráin, Trinity College, Dublin
