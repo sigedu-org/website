@@ -22,7 +22,7 @@ The systems will be challenged to identify prerequisite concept pairs on differe
 
 The goal of this shared task is not only to address open issues of automatic prerequisite learning, but also to gather for the first time the community of researchers and industry professionals interested in the topic.  
 
-Training data will be released May 29th and the evaluation windows will be open between 4th and 24th September 2020.
+Training data are available on the task website (https://sites.google.com/view/prelearn20/data) and the evaluation windows will be open between 4th and 24th September 2020.
 Systems will be presented in Bologna (30th November - 3rd December 2020) during EVALITA 2020 conference (co-located with CLiC-it 2020).
 
 For further information, visit the shared task website https://sites.google.com/view/prelearn20/home or contact us at prelearn.evalita2020@gmail.com
