@@ -10,6 +10,9 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>News</h2>
 
+**June 09, 2020**.  The 1st shared task on Automatic Prerequisite Learning (PRELEARN) will be held in Bologna, Italia (November 30th-December 3rd  2020). See [this blog post](/blog/guest/PRELEARN-shared-task/) for further information about PRELEARN call for participation!
+{: .notice--info}
+
 **May 11, 2020**. The decisions for BEA 2020 submissions have been emailed to the authors. Thanks everyone for for your hard work! See [here](/bea/current#list-of-accepted-papers) for the list of accepted papers. Camera-ready versions are due May 25th!
 {: .notice--info}
 
