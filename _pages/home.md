@@ -10,14 +10,13 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>News</h2>
 
+**June 12, 2020**.  The [schedule](/bea/current#schedule) for the first ever virtual BEA 2020 is up! All authors should already have received instructions to pre-record their talks.
+{: .notice--info}
+
+
 **June 09, 2020**.  The 1st shared task on Automatic Prerequisite Learning (PRELEARN) will be held in Bologna, Italia (November 30th-December 3rd  2020). See [this blog post](/blog/guest/PRELEARN-shared-task/) for further information about PRELEARN call for participation!
 {: .notice--info}
 
-**May 11, 2020**. The decisions for BEA 2020 submissions have been emailed to the authors. Thanks everyone for for your hard work! See [here](/bea/current#list-of-accepted-papers) for the list of accepted papers. Camera-ready versions are due May 25th!
-{: .notice--info}
-
-**April 23, 2020**. BEA reviewer assignments have been posted! Please log into your START accounts and submit your reviews by May 7. Authors will be notified of acceptance on May 11 and camera-ready versions are due on May 25.
-{: .notice}
 
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>

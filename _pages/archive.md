@@ -7,6 +7,12 @@ toc: false
 toc_icon: "cog"
 ---
 
+**May 11, 2020**. The decisions for BEA 2020 submissions have been emailed to the authors. Thanks everyone for for your hard work! See [here](/bea/current#schedule) for the list of accepted papers. Camera-ready versions are due May 25th!
+{: .notice}
+
+**April 23, 2020**. BEA reviewer assignments have been posted! Please log into your START accounts and submit your reviews by May 7. Authors will be notified of acceptance on May 11 and camera-ready versions are due on May 25.
+{: .notice}
+
 **April 2, 2020**. Due to multiple requests and in view of the current situation, we have extended the [BEA 2020](/bea/current) paper submission deadline to **April 13th, 11:59 pm EST**. For COVID-19 updates on ACL 2020, please refer to the [conference website](https://acl2020.org).
 {: .notice}
 
