@@ -61,7 +61,7 @@ The workshop’s continuing growth highlights the alignment between societal nee
 
 NLP for educational applications has gained visibility outside of the NLP community.  First, the Hewlett Foundation reached out to the public and private sectors and sponsored two competitions: one for automated essay scoring, and the other for scoring of short response items. The motivation driving these competitions was to engage the larger scientific community in this enterprise. [Learning @ Scale](https://learningatscale.acm.org) is a relatively new venue for NLP research in education.  MOOCs now incorporate AWE systems to manage several thousand assignments that may be received during a single MOOC course. MOOCs for Refugees have more recently emerged in response to the current social situations. Courses include language learning, and we can imagine that AWE and other NLP capabilities could support coursework. Another breakthrough for educational applications within the CL community is the presence of a number of shared-task competitions over the past several years &mdash; including four shared tasks on grammatical error detection and correction. NLP/Education shared tasks have seen new areas of research, such as the Automated Evaluation of Scientific Writing at [BEA 11](https://www.cs.rochester.edu/~tetreaul/naacl-bea11.html), Native Language Identification at [BEA 12](https://www.cs.rochester.edu/~tetreaul/emnlp-bea12.html), Second Language Acquisition Modelling and Complex Word Identification both at [BEA 13](https://www.cs.rochester.edu/~tetreaul/naacl-bea13.html), and Grammatical Error Correction at [BEA 14](/bea/14).  These competitions increased the visibility of, and interest in, our field.
 
-The 15th BEA workshop will have oral presentation sessions, large poster session in order to maximize the amount of original work presented, as well as an exciting [invited talk](#invited-talk) by Mari Ostendorf. We expect that the workshop will continue to highlight novel technologies and opportunities for educational NLP in English as well as other languages. The workshop will solicit both full papers and short papers for either oral or poster presentation. We will solicit papers that incorporate NLP methods, including, but not limited to: automated scoring of open-ended textual and spoken responses; game-based instruction and assessment; educational data mining; intelligent tutoring; peer review; grammatical error detection and correction; learner cognition; spoken dialog; multimodal applications; tools for teachers and test developers; and use of corpora. Specific topics include:
+The 15th BEA workshop will have virtual presentation and poster sessions in order to maximize the amount of original work presented. We expect that the workshop will continue to highlight novel technologies and opportunities for educational NLP in English as well as other languages. The workshop will solicit both full papers and short papers for either oral or poster presentation. We will solicit papers that incorporate NLP methods, including, but not limited to: automated scoring of open-ended textual and spoken responses; game-based instruction and assessment; educational data mining; intelligent tutoring; peer review; grammatical error detection and correction; learner cognition; spoken dialog; multimodal applications; tools for teachers and test developers; and use of corpora. Specific topics include:
 
 **Automated scoring/evaluation for written student responses (across multiple genres)**
 - Content analysis for scoring/assessment
@@ -87,12 +87,6 @@ The 15th BEA workshop will have oral presentation sessions, large poster session
 - Semantic-based access to instructional materials to identify appropriate texts
 - Tools that automatically generate test questions
 
-## Invited Talk
-
-Mari Ostendorf, University of Washington. 
-
-<em>(Abstract coming soon!)</em>
-
 ## Important Dates
 
 <span style="font-size: smaller;"><em>Note</em>: these dates are still preliminary and may change.</span>
@@ -107,11 +101,13 @@ Mari Ostendorf, University of Washington.
 
 <ol style="font-size: smaller;">
     <li>Note that BEA 2020 will be fully virtual just like ACL 2020.</li>
-    <li>All talks will be pre-recorded and played in dedicated Zoom sessions (one per paper & poster) during the times show below. </li>
+    <li>All talks will be pre-recorded and played in dedicated Zoom rooms (one
+    per paper & poster session) during the times show below. </li>
     <li>Oral presentations pre-recorded talks are 15 minutes and poster pre-recorded talks are 5 minutes.</li>
     <li>All authors should already have received instructions on how to pre-record their talks using the SlidesLive service.</li>
     <li>Each paper will be followed by a <b>Live 5-minute Q&A</b>.</li>
-    <li>At least one of the authors <i>must</i> be available in their respective Zoom session to start their presentation and for the Q&A at the end.</li>
+    <li>At least one of the authors <i>must</i> be available in their respective
+    Zoom room to start their presentation and for the Q&A at the end.</li>
     <li>Zoom links will be provided closer to the workshop date. </li>
     <li>All times are 24 hours PDT.</li>
 </ol>
