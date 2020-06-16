@@ -237,8 +237,15 @@ The 15th BEA workshop will have virtual presentation and poster sessions in orde
             <td><i>A Comparative Study of Synthetic Data Generation Methods for Grammatical Error Correction + Live Q&A</i>. Max White and Alla Rozovskaya. </td>
         </tr>
         <tr>
-            <td style="width: 30%; font-weight: bold;">13:00&ndash;13:10</td>
-            <td><strong>Closing Remarks</strong></td>
+            <td style="width: 30%; font-weight: bold">13:00&ndash;13:30</td>
+            <td><strong>Ambassador Paper & Closing</strong></td>
+        </tr>
+        <tr>
+            <td style="width: 30%;">13:00&ndash;13:20</td>
+            <td><i>Modeling Individual Differences in Second-Language Reading Skill using Language Experience, Executive Attention, and Cross-Linguistic Interactions + Live Q&A</i>. Brianna Yamasaki. </td> </tr>
+        <tr>
+            <td style="width: 30%;">13:20&ndash;13:30</td>
+            <td>Closing Remarks</td>
         </tr>
     </tbody>
 </table>
