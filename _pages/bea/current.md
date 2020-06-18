@@ -242,7 +242,7 @@ The 15th BEA workshop will have virtual presentation and poster sessions in orde
         </tr>
         <tr>
             <td style="width: 30%;">13:00&ndash;13:20</td>
-            <td><i>Modeling Individual Differences in Second-Language Reading Skill using Language Experience, Executive Attention, and Cross-Linguistic Interactions + Live Q&A</i>. Brianna Yamasaki. </td> </tr>
+            <td><i>Modeling Individual Differences in Second-Language Reading Skill using Language Experience, Executive Attention, and Cross-Linguistic Interactions + Live Q&A</i>. Brianna L. Yamasaki. </td> </tr>
         <tr>
             <td style="width: 30%;">13:20&ndash;13:30</td>
             <td>Closing Remarks</td>
