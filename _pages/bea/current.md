@@ -250,6 +250,20 @@ The 15th BEA workshop will have virtual presentation and poster sessions in orde
     </tbody>
 </table>
 
+## Attending Virtually
+
+- The opening remarks, the closing remarks, and the ambassador paper presentation are the only live (not pre-recorded) presentations on the schedule. All other talks are pre-recorded.
+- The liveStream window on the [virtual workshop website](https://virtual.acl2020.org/workshop_W13.html) will show everything: pre-recorded talks, the live zoom Q&A, and any live presentations.
+- Zoom will only be used for for asking & answering questions. There is no need to join Zoom unless you are an author or want to ask a question.
+- The Zoom meeting that will be used for questions is linked at the top of the virtual workshop with the name "Join Zoom Meeting".
+- After every talk on the livestream, there will be a 1 minute break to give time to authors and folks with questions to join Zoom.
+- Everyone who joins the Zoom meeting will have their video on, but their mics muted. They cannot unmute themselves. If you have a question, raise your hand virtually via the [raise hand Zoom functionality](https://support.zoom.us/hc/en-us/articles/115001286183-Nonverbal-feedback-during-meetings). The session chair will be able to see who has raised their hand in the participants tab, automatically ordered from first to last. The Session Chair can unmute folks so that they can ask their question.
+- Once the 5-minute Q&A is over, the Session Chair will move on to the next talk in their session.
+- Questions may also be asked on the [#workshop-13-bea](https://acl2020.rocket.chat/channel/workshop-13-bea) ACL 2020 rocketchat channel. However, we recommend that authors focus on answering the live Q&A questions on Zoom first and answer the chat questions later when they have time (think of such questions as "taking things offline" in regular conferences).
+
+**This is our first virtual BEA so we request everyone to be patient if things don't work exactly as advertised!**
+
+
 ## Submission Information
 
 We will be using the ACL Submission Guidelines for the BEA Workshop this year. Authors are invited to submit a full paper of up to eight (8) pages of content, plus unlimited references; final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers' comments can be taken into account. We also invite short papers of up to of up to four (4) pages of content, plus unlimited references. Upon acceptance, short papers will be given five (5) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewers' comments in their final versions.
