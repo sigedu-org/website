@@ -194,7 +194,7 @@ The 15th BEA workshop will have virtual presentation and poster sessions in orde
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">10:30&ndash;10:50</td>
-            <td><i>An Empirical Investigation of Neural Methods for Content Scoring of Science Explanations + Live Q&A</i>. Brian Riordan, Sarah Bichler, Allison Bradford, Jennifer King Chen, Korah Wiley, Libby Gerard and Marcia C. Linn. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gSGZHpUOX1K7Q4Vq?e=99xCWk">An Empirical Investigation of Neural Methods for Content Scoring of Science Explanations</a> + Live Q&A</i>. Brian Riordan, Sarah Bichler, Allison Bradford, Jennifer King Chen, Korah Wiley, Libby Gerard and Marcia C. Linn. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">10:50&ndash;11:10</td>
