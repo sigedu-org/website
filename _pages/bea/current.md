@@ -122,7 +122,7 @@ The 15th BEA workshop will have virtual presentation and poster sessions in orde
     <tbody>
         <tr> 
             <td style="width: 30%; font-weight: bold;">6:00-6:10</td>
-            <td><strong>Opening Remarks</strong></td>
+            <td><strong><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gRgkGk9CanS21n_R?e=80cmd0">Opening Remarks</a></strong></td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">6:10&ndash;7:30</td>
@@ -130,19 +130,19 @@ The 15th BEA workshop will have virtual presentation and poster sessions in orde
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">6:10&ndash;6:30</td>
-            <td><i>Linguistic Features for Readability Assessment + Live Q&A</i>. Tovly Deutsch, Masoud Jasbi and Stuart Shieber.</td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gRVpM4PRP0nVrGj0?e=dB1Kgh">Linguistic Features for Readability Assessment</a> + Live Q&A</i>. Tovly Deutsch, Masoud Jasbi and Stuart Shieber.</td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">6:30&ndash;6:50</td>
-            <td><i>Using PRMSE to Evaluate Automated Scoring Systems in the Presence of Label Noise + Live Q&A</i>. Anastassia Loukina, Nitin Madnani, Aoife Cahill, Lili Yao, Matthew S. Johnson, Brian Riordan and Daniel F. McCaffrey. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gR6np4Ga1TeKCSAu?e=Zys9lO">Using PRMSE to Evaluate Automated Scoring Systems in the Presence of Label Noise</a> + Live Q&A</i>. Anastassia Loukina, Nitin Madnani, Aoife Cahill, Lili Yao, Matthew S. Johnson, Brian Riordan and Daniel F. McCaffrey. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">6:50&ndash;7:10</td>
-            <td><i>Multiple Instance Learning for Content Feedback Localization without Annotation + Live Q&A</i>. Scott Hellman, William Murray, Adam Wiemerslage, Mark Rosenstein, Peter Foltz, Lee Becker and Marcia Derr. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gRn9xY2lJJdYwOqe?e=i2LjE2">Multiple Instance Learning for Content Feedback Localization without Annotation</a> + Live Q&A</i>. Scott Hellman, William Murray, Adam Wiemerslage, Mark Rosenstein, Peter Foltz, Lee Becker and Marcia Derr. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">7:10&ndash;7:30</td>
-            <td><i>Complementary Systems for Off-topic Spoken Response Detection + Live Q&A</i>. Vatsal Raina, Mark Gales and Kate Knill. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gRsyF5p5Xhj0ZJaY?e=KPEjm1">Complementary Systems for Off-topic Spoken Response Detection</a> + Live Q&A</i>. Vatsal Raina, Mark Gales and Kate Knill. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">7:30&ndash;8:00</td>
@@ -154,7 +154,7 @@ The 15th BEA workshop will have virtual presentation and poster sessions in orde
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">8:00&ndash;8:10</td>
-            <td><i>CIMA: A Large Open Access Dialogue Dataset for Tutoring + Live Q&A</i>. Katherine Stasaski, Kimberly Kao and Marti A. Hearst. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gR-uzkfbAQsnWLkt?e=BXBmtL">CIMA: A Large Open Access Dialogue Dataset for Tutoring</a> + Live Q&A</i>. Katherine Stasaski, Kimberly Kao and Marti A. Hearst. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">8:10&ndash;8:20</td>
@@ -174,11 +174,11 @@ The 15th BEA workshop will have virtual presentation and poster sessions in orde
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">8:50&ndash;9:00</td>
-            <td><i>Distractor Analysis and Selection for Multiple-Choice Cloze Questions for Second-Language Learners + Live Q&A</i>. Lingyu Gao, Kevin Gimpel and Arnar Jensson. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gRb90i_zTpEc4gz2?e=nHKJJn">Distractor Analysis and Selection for Multiple-Choice Cloze Questions for Second-Language Learners</a> + Live Q&A</i>. Lingyu Gao, Kevin Gimpel and Arnar Jensson. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">9:00&ndash;9:10</td>
-            <td><i>Assisting Undergraduate Students in Writing Spanish Methodology Sections + Live Q&A</i>. Samuel González-López, Steven Bethard and Aurelio Lopez-Lopez. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gRd0zGRJAXMaaPWL?e=8dE86n">Assisting Undergraduate Students in Writing Spanish Methodology Sections</a> + Live Q&A</i>. Samuel González-López, Steven Bethard and Aurelio Lopez-Lopez. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">9:10&ndash;10:10</td>
@@ -198,7 +198,7 @@ The 15th BEA workshop will have virtual presentation and poster sessions in orde
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">10:50&ndash;11:10</td>
-            <td><i>An Exploratory Study of Argumentative Writing by Young Students: A transformer-based Approach + Live Q&A</i>. Debanjan Ghosh, Beata Beigman Klebanov and Yi Song. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gR1MJLqxQ8HB-28d?e=xixDcv">An Exploratory Study of Argumentative Writing by Young Students: A transformer-based Approach</a> + Live Q&A</i>. Debanjan Ghosh, Beata Beigman Klebanov and Yi Song. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">11:10&ndash;11:30</td>
@@ -214,7 +214,7 @@ The 15th BEA workshop will have virtual presentation and poster sessions in orde
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">12:00&ndash;12:10</td>
-            <td><i>GECToR – Grammatical Error Correction: Tag, Not Rewrite + Live Q&A</i>. Kostiantyn Omelianchuk, Vitaliy Atrasevych, Artem Chernodub and Oleksandr Skurzhanskyi. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gRp-Ae1c85HqqEn0?e=1InAda">GECToR – Grammatical Error Correction: Tag, Not Rewrite</a> + Live Q&A</i>. Kostiantyn Omelianchuk, Vitaliy Atrasevych, Artem Chernodub and Oleksandr Skurzhanskyi. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">12:10&ndash;12:20</td>
@@ -234,7 +234,7 @@ The 15th BEA workshop will have virtual presentation and poster sessions in orde
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">12:50&ndash;13:00</td>
-            <td><i>A Comparative Study of Synthetic Data Generation Methods for Grammatical Error Correction + Live Q&A</i>. Max White and Alla Rozovskaya. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gRzm-TXmn25aKvfw?e=gRUSUk">A Comparative Study of Synthetic Data Generation Methods for Grammatical Error Correction</a> + Live Q&A</i>. Max White and Alla Rozovskaya. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold">13:00&ndash;13:30</td>
@@ -242,7 +242,7 @@ The 15th BEA workshop will have virtual presentation and poster sessions in orde
         </tr>
         <tr>
             <td style="width: 30%;">13:00&ndash;13:20</td>
-            <td><i>Modeling Individual Differences in Second-Language Reading Skill using Language Experience, Executive Attention, and Cross-Linguistic Interactions + Live Q&A</i>. Brianna L. Yamasaki. </td> </tr>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gSD3hwcD1AlkWXrw?e=AbuxfS">Modeling Individual Differences in Second-Language Reading Skill using Language Experience, Executive Attention, and Cross-Linguistic Interactions</a> + Live Q&A</i>. Brianna L. Yamasaki. </td> </tr>
         <tr>
             <td style="width: 30%;">13:20&ndash;13:30</td>
             <td>Closing Remarks</td>

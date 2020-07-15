@@ -10,17 +10,11 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>News</h2>
 
+**July 15, 2020**. Thanks everyone for a great virtual BEA workshop! Slides for the workshop presentations are now linked from the [schedule](/bea/current#schedule). If you don't see your slides yet, make sure you [email](mailto:bea.nlp.workshop@gmail.com) them to us.
+{: .notice--info}
+
 **July 9, 2020**.  We have posted some [useful notes](/bea/current#attending-virtually) for the new virtual workshop format. Note that this is the first ever virtual BEA, so please bear with us if things don't work as expected! 
-{: .notice--info}
-
-
-**June 12, 2020**.  The [schedule](/bea/current#schedule) for the first ever virtual BEA 2020 is up! All authors should already have received instructions to pre-record their talks.
-{: .notice--info}
-
-
-**June 09, 2020**.  The 1st shared task on Automatic Prerequisite Learning (PRELEARN) will be held in Bologna, Italia (November 30th-December 3rd  2020). See [this blog post](/blog/guest/PRELEARN-shared-task/) for further information about PRELEARN call for participation!
 {: .notice}
-
 
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
