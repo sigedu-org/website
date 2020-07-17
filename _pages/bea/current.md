@@ -170,7 +170,7 @@ The 15th BEA workshop will have virtual presentation and poster sessions in orde
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">8:40&ndash;8:50</td>
-            <td><i>Tracking the Evolution of Written Language Competence in L2 Spanish Learners + Live Q&A</i>. Alessio Miaschi, Sam Davidson, Dominique Brunato, Felice Dell’Orletta, Kenji Sagae, Claudia Helena Sanchez-Gutierrez and Giulia Venturi. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gSO9AyYThiJGDsaP?e=qqSbu0">Tracking the Evolution of Written Language Competence in L2 Spanish Learners</a> + Live Q&A</i>. Alessio Miaschi, Sam Davidson, Dominique Brunato, Felice Dell’Orletta, Kenji Sagae, Claudia Helena Sanchez-Gutierrez and Giulia Venturi. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">8:50&ndash;9:00</td>
@@ -230,7 +230,7 @@ The 15th BEA workshop will have virtual presentation and poster sessions in orde
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">12:40&ndash;12:50</td>
-            <td><i>Predicting the Difficulty and Response Time of Multiple Choice Questions Using Transfer Learning + Live Q&A</i>. Kang Xue, Victoria Yaneva, Christopher Runyon and Peter Baldwin. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gSJrpPe3f0IGp2cR?e=Z8ImiZ">Predicting the Difficulty and Response Time of Multiple Choice Questions Using Transfer Learning</a> + Live Q&A</i>. Kang Xue, Victoria Yaneva, Christopher Runyon and Peter Baldwin. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">12:50&ndash;13:00</td>
