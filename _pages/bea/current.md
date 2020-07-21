@@ -166,7 +166,7 @@ The 15th BEA workshop will have virtual presentation and poster sessions in orde
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">8:30&ndash;8:40</td>
-            <td><i>Can Neural Networks Automatically Score Essay Traits? + Live Q&A</i>. Sandeep Mathias and Pushpak Bhattacharyya. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gSRFahS4wvLK3dd1?e=Ke71ZN">Can Neural Networks Automatically Score Essay Traits?</a> + Live Q&A</i>. Sandeep Mathias and Pushpak Bhattacharyya. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">8:40&ndash;8:50</td>
@@ -218,7 +218,7 @@ The 15th BEA workshop will have virtual presentation and poster sessions in orde
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">12:10&ndash;12:20</td>
-            <td><i>Interpreting Neural CWI Classifiers’ Weights as Vocabulary Size + Live Q&A</i>. Yo Ehara. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gSXZbOGHOdFhm7C9?e=yuMiCN">Interpreting Neural CWI Classifiers’ Weights as Vocabulary Size</a> + Live Q&A</i>. Yo Ehara. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold; ">12:20&ndash;12:30</td>
