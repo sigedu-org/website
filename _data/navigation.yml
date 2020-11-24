@@ -18,8 +18,10 @@ main:
 bea:
   - title: BEA Workshops
     children:
-      - title: "Current (BEA15)"
+      - title: "Current (BEA16)"
         url: /bea/current
+      - title: "BEA15"
+        url: /bea/15
       - title: "BEA14"
         url: /bea/14
       - title: "BEA13 & Older"
