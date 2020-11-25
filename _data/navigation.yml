@@ -18,13 +18,13 @@ main:
 bea:
   - title: BEA Workshops
     children:
-      - title: "Current (BEA16)"
+      - title: "2021"
         url: /bea/current
-      - title: "BEA15"
-        url: /bea/15
-      - title: "BEA14"
-        url: /bea/14
-      - title: "BEA13 & Older"
+      - title: "2020"
+        url: /bea/2020
+      - title: "2019"
+        url: /bea/2019
+      - title: "2018 & Older"
         url: /bea/past
 
 # program:

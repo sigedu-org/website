@@ -1,7 +1,7 @@
 ---
 title: "15th Workshop on Innovative Use of NLP for Building Educational Applications"
 layout: single
-permalink: /bea/15
+permalink: /bea/2020
 sidebar: 
     nav: "bea"
 toc: true
