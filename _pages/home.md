@@ -10,10 +10,10 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>News</h2>
 
-**July 15, 2020**. Thanks everyone for a great virtual BEA workshop! Slides for the workshop presentations are now linked from the [schedule](/bea/current#schedule). If you don't see your slides yet, make sure you [email](mailto:bea.nlp.workshop@gmail.com) them to us.
+**July 15, 2020**. Thanks everyone for a great virtual BEA workshop! Slides for the workshop presentations are now linked from the [schedule](/bea/2020#schedule). If you don't see your slides yet, make sure you [email](mailto:bea.nlp.workshop@gmail.com) them to us.
 {: .notice--info}
 
-**July 9, 2020**.  We have posted some [useful notes](/bea/current#attending-virtually) for the new virtual workshop format. Note that this is the first ever virtual BEA, so please bear with us if things don't work as expected! 
+**July 9, 2020**.  We have posted some [useful notes](/bea/2020#attending-virtually) for the new virtual workshop format. Note that this is the first ever virtual BEA, so please bear with us if things don't work as expected! 
 {: .notice}
 
 <div class="text-center">
@@ -38,11 +38,12 @@ SIGEDU was founded in 2017 and is ACL's newest SIG. SIGEDU has the following goa
  
 - promote collaboration both within the ACL community as well as between the ACL and other communities working on educational applications.
 
-<h2>BEA 2019</h2>
+<h2>BEA 2020</h2>
 
-The [2019 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](/bea/current) was held on August 2, 2019 in Florence, Italy. The [schedule](/bea/current#schedule) is available on the website and proceedings are also [online](https://www.aclweb.org/anthology/volumes/W19-44/).
+The [2020 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](/bea/2020) was held virtually on Friday, July 10, 2020. The [schedule](/bea/2020#schedule) is available on the website and proceedings are also [online](https://www.aclweb.org/anthology/events/ws-2020/#2020bea-1).
 
 <h3>Organizers</h3>
+Jill Burstein, Educational Testing Service<br/>
 Ekaterina Kochmar, University of Cambridge<br/>
 Claudia Leacock, Grammarly<br/>
 Nitin Madnani, Educational Testing Service<br/>
