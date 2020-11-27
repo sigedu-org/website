@@ -7,7 +7,11 @@ toc: false
 toc_icon: "cog"
 ---
 
-**June 12, 2020**.  The [schedule](/bea/2020#schedule) for the first ever virtual BEA 2020 is up! All authors should already have received instructions to pre-record their talks. {: .notice}
+**July 9, 2020**.  We have posted some [useful notes](/bea/2020#attending-virtually) for the new virtual workshop format. Note that this is the first ever virtual BEA, so please bear with us if things don't work as expected! 
+{: .notice}
+
+**June 12, 2020**.  The [schedule](/bea/2020#schedule) for the first ever virtual BEA 2020 is up! All authors should already have received instructions to pre-record their talks. 
+{: .notice}
 
 **June 9, 2020**.  The 1st shared task on Automatic Prerequisite Learning (PRELEARN) will be held in Bologna, Italia (November 30th-December 3rd  2020). See [this blog post](/blog/guest/PRELEARN-shared-task/) for further information about PRELEARN call for participation!
 {: .notice}

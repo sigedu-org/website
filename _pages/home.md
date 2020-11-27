@@ -10,10 +10,10 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>News</h2>
 
-**July 15, 2020**. Thanks everyone for a great virtual BEA workshop! Slides for the workshop presentations are now linked from the [schedule](/bea/2020#schedule). If you don't see your slides yet, make sure you [email](mailto:bea.nlp.workshop@gmail.com) them to us.
+**November 27, 2020**. The [BEA 2021](/bea/current) workshop has been accepted and will be co-located with EACL. BEA 2021 will be held entirely online on either Monday, April 19 or Tuesday, April 10, 2021 (TBD). The submission deadline is Monday, January 18, 2021. Looking forward to your submissions!
 {: .notice--info}
 
-**July 9, 2020**.  We have posted some [useful notes](/bea/2020#attending-virtually) for the new virtual workshop format. Note that this is the first ever virtual BEA, so please bear with us if things don't work as expected! 
+**July 15, 2020**. Thanks everyone for a great virtual BEA workshop! Slides for the workshop presentations are now linked from the [schedule](/bea/2020#schedule). If you don't see your slides yet, make sure you [email](mailto:bea.nlp.workshop@gmail.com) them to us.
 {: .notice}
 
 <div class="text-center">
