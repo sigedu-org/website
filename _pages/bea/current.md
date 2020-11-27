@@ -118,7 +118,7 @@ We have also included conflict of interest in the submission form. You should ma
 
 We have also included conflict of interest in the submission form. You should mark all potential reviewers who have been authors on the paper, are from the same research group or institution, or who have seen versions of this paper or discussed it with you.
 
-<!-- We will be using the START conference system to manage submissions: [https://www.softconf.com/acl2020/bea/](https://www.softconf.com/acl2020/bea/) -->
+We will be using the START conference system to manage submissions: [https://www.softconf.com/eacl2021/bea2021/](https://www.softconf.com/eacl2021/bea2021/)
 
 ## Double Submission Policy
 
