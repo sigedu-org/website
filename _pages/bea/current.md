@@ -137,8 +137,8 @@ Papers being submitted both to BEA and another conference or workshop must:
 - [Ronja Laarmann-Quante](https://www.ltl.uni-due.de/team/ronja-laarmann-quante), University of Duisburg-Essen
 - [Claudia Leacock](https://www.linkedin.com/in/claudialeacockphd/), Grammarly 
 - [Nitin Madnani](https://desilinguist.org), Educational Testing Service
-- [Ildikó Pilán](https://spraakbanken.gu.se/eng/personal/ildiko), University of Oslo 
-- [Helen Yannakoudakis](https://www.cl.cam.ac.uk/~hy260/), University of Cambridge
+- [Ildikó Pilán](https://www.linkedin.com/in/ildiko-pilan/), Norwegian Computing Center 
+- [Helen Yannakoudakis](https://www.cl.cam.ac.uk/~hy260/), University of Cambridge & King's College, London
 - [Torsten Zesch](https://www.ltl.uni-due.de/team/torsten-zesch/), University of Duisburg-Essen
 
 ## Program Committee
