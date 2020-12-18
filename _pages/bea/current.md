@@ -190,7 +190,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Detmar Meurers, University of Tübingen
 - Natawut Monaikul, University of Illinois at Chicago
 - Farah Nadeem, University of Washington
-- Diane Napolitano, Refinitiv
+- Diane Napolitano, Associated Press
 - Hwee Tou Ng, National University of Singapore
 - Huy Nguyen, LingoChamp
 - Ulrike Pado, HFT Stuttgart
