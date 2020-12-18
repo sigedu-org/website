@@ -148,6 +148,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Jason Angel, Instituto Politécnico Nacional
 - Piper Armstrong, Brigham Young University
 - Timo Baumann, Universität Hamburg
+- Lee Becker, Pearson
 - Kay Berkling, DHBW Cooperative State University Karlsruhe
 - Chris Bryant, University of Cambridge
 - Guanliang Chen, Monash University
