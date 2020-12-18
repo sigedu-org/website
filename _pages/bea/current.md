@@ -143,80 +143,80 @@ Papers being submitted both to BEA and another conference or workshop must:
 
 ## Program Committee
 
-Tazin Afrin, University of Pittsburgh
-David Alfter, University of Gothenburg
-Jason Angel, Instituto Politécnico Nacional
-Piper Armstrong, Brigham Young University
-Timo Baumann, Universität Hamburg
-Kay Berkling, DHBW Cooperative State University Karlsruhe
-Chris Bryant, University of Cambridge
-Guanliang Chen, Monash University
-Mei-Hua Chen, Department of Foreign Languages and Literature
-Leshem Choshen, Hebrew University of Jerusalem
-Mark Core, University of Southern California
-Scott Crossley, Georgia State University
-Orphée De Clercq, LT3, Ghent University
-Kordula De Kuthy, Tübingen University
-Carrie Demmans Epp, University of Alberta
-Ann Devitt, Trinity College, Dublin 
-Mariano Felice, University of Cambridge
-Michael Flor, Educational Testing Service
-Thomas François, Université catholique de Louvain
-Jennifer-Carmen Frey, Eurac Research
-Michael Gamon, Microsoft Research
-Cyril Goutte, National Research Council Canada
-Jiangang Hao, Educational Testing Service
-Marti Hearst, University of California, Berkeley
-Trude Heift, Simon Fraser University
-Heiko Holz, LEAD Graduate School & Research Network
-Chung-Chi Huang, Frostburg State University
-Yi-Ting Huang, Academia Sinica
-Radu Tudor Ionescu, University of Bucharest
-Elma Kerz, RWTH Aachen University
-Fazel Keshtkar, St. John’s University
-Mamoru Komachi, Tokyo Metropolitan University
-Ji-Ung Lee, UKP Lab, TU Darmstadt
-Diane Litman, University of Pittsburgh
-Zitao Liu, TAL Education Group
-Peter Ljunglöf, University of Gothenburg; Chalmers University of Technology
-Anastassia Loukina, Educational Testing Service
-Fabiana MacMillan, Rosetta Stone
-Montse Maritxalar, University of the Basque Country
-James Martin, University of Colorado Boulder
-Sandeep Mathias, IIT Bombay
-Stephen Mayhew, Duolingo
-Julie Medero, Harvey Mudd College
-Detmar Meurers, University of Tübingen
-Natawut Monaikul, University of Illinois at Chicago
-Farah Nadeem, University of Washington
-Diane Napolitano, Refinitiv
-Hwee Tou Ng, National University of Singapore
-Huy Nguyen, LingoChamp
-Ulrike Pado, HFT Stuttgart
-Long Qin, Singsound Inc
-Mengyang Qiu, University at Buffalo 
-Marti Quixal, University of Tübingen
-Taraka Rama, University of North Texas
-Lakshmi Ramachandran, A9 (Amazon)
-Hanumant Redkar, IIT Bombay
-Robert Reynolds, Brigham Young University
-Alla Rozovskaya, City University of New York
-Helmer Strik, Radboud University Nijmegen
-Jan Švec, University of West Bohemia
-Anaïs Tack, UCLouvain & KU Leuven
-Yuen-Hsien Tseng, National Taiwan University
-Shalaka Vaidya, Research assistant
-Sowmya Vajjala, National Research Council, Canada
-Giulia Venturi, Institute for Computational Linguistics
-Tatiana Vodolazova, University of Alicante
-Elena Volodina, University of Gothenburg, Sweden
-Shuting Wang, Facebook
-Zarah Weiss, University of Tübingen
-Michael White, The Ohio State University; Facebook AI
-Alistair Willis, Open University, UK
-Victoria Yaneva, NBME; University of Wolverhampton
-Seid Muhie Yimam, University of Hamburg
-Mingzhi Yu, University of Pittsburgh
-Zheng Yuan, University of Cambridge
-Klaus Zechner, Educational Testing Service
-Fabian Zehner, DIPF, Leibniz Institute for Research and Information in Education
+- Tazin Afrin, University of Pittsburgh
+- David Alfter, University of Gothenburg
+- Jason Angel, Instituto Politécnico Nacional
+- Piper Armstrong, Brigham Young University
+- Timo Baumann, Universität Hamburg
+- Kay Berkling, DHBW Cooperative State University Karlsruhe
+- Chris Bryant, University of Cambridge
+- Guanliang Chen, Monash University
+- Mei-Hua Chen, Department of Foreign Languages and Literature
+- Leshem Choshen, Hebrew University of Jerusalem
+- Mark Core, University of Southern California
+- Scott Crossley, Georgia State University
+- Orphée De Clercq, LT3, Ghent University
+- Kordula De Kuthy, Tübingen University
+- Carrie Demmans Epp, University of Alberta
+- Ann Devitt, Trinity College, Dublin 
+- Mariano Felice, University of Cambridge
+- Michael Flor, Educational Testing Service
+- Thomas François, Université catholique de Louvain
+- Jennifer-Carmen Frey, Eurac Research
+- Michael Gamon, Microsoft Research
+- Cyril Goutte, National Research Council Canada
+- Jiangang Hao, Educational Testing Service
+- Marti Hearst, University of California, Berkeley
+- Trude Heift, Simon Fraser University
+- Heiko Holz, LEAD Graduate School & Research Network
+- Chung-Chi Huang, Frostburg State University
+- Yi-Ting Huang, Academia Sinica
+- Radu Tudor Ionescu, University of Bucharest
+- Elma Kerz, RWTH Aachen University
+- Fazel Keshtkar, St. John’s University
+- Mamoru Komachi, Tokyo Metropolitan University
+- Ji-Ung Lee, UKP Lab, TU Darmstadt
+- Diane Litman, University of Pittsburgh
+- Zitao Liu, TAL Education Group
+- Peter Ljunglöf, University of Gothenburg; Chalmers University of Technology
+- Anastassia Loukina, Educational Testing Service
+- Fabiana MacMillan, Rosetta Stone
+- Montse Maritxalar, University of the Basque Country
+- James Martin, University of Colorado Boulder
+- Sandeep Mathias, IIT Bombay
+- Stephen Mayhew, Duolingo
+- Julie Medero, Harvey Mudd College
+- Detmar Meurers, University of Tübingen
+- Natawut Monaikul, University of Illinois at Chicago
+- Farah Nadeem, University of Washington
+- Diane Napolitano, Refinitiv
+- Hwee Tou Ng, National University of Singapore
+- Huy Nguyen, LingoChamp
+- Ulrike Pado, HFT Stuttgart
+- Long Qin, Singsound Inc
+- Mengyang Qiu, University at Buffalo 
+- Marti Quixal, University of Tübingen
+- Taraka Rama, University of North Texas
+- Lakshmi Ramachandran, A9 (Amazon)
+- Hanumant Redkar, IIT Bombay
+- Robert Reynolds, Brigham Young University
+- Alla Rozovskaya, City University of New York
+- Helmer Strik, Radboud University Nijmegen
+- Jan Švec, University of West Bohemia
+- Anaïs Tack, UCLouvain & KU Leuven
+- Yuen-Hsien Tseng, National Taiwan University
+- Shalaka Vaidya, Research assistant
+- Sowmya Vajjala, National Research Council, Canada
+- Giulia Venturi, Institute for Computational Linguistics
+- Tatiana Vodolazova, University of Alicante
+- Elena Volodina, University of Gothenburg, Sweden
+- Shuting Wang, Facebook
+- Zarah Weiss, University of Tübingen
+- Michael White, The Ohio State University; Facebook AI
+- Alistair Willis, Open University, UK
+- Victoria Yaneva, NBME; University of Wolverhampton
+- Seid Muhie Yimam, University of Hamburg
+- Mingzhi Yu, University of Pittsburgh
+- Zheng Yuan, University of Cambridge
+- Klaus Zechner, Educational Testing Service
+- Fabian Zehner, DIPF, Leibniz Institute for Research and Information in Education
