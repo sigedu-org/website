@@ -54,27 +54,27 @@ gold:
 
 ## Workshop Description
 
-In its 16th year, the BEA Workshop continues to be a leading venue for NLP innovation for educational applications, and one of the largest one-day workshops in the ACL community. ​The workshop’s continuous growth illustrates an alignment between societal need and technological advances. The COVID-19 pandemic brings a necessary expansion for remote learning across the educational space from early primary education through secondary, adult education, and for workforce learning. BEA2021 will have a sub-theme and will welcome research that can support remote and hybrid learning contexts.
+In its 16th year, the BEA Workshop continues to be a leading venue for NLP innovation for educational applications, and one of the largest one-day workshops in the ACL community. The workshop’s continuous growth illustrates an alignment between societal need and technological advances. The COVID-19 pandemic brings a necessary expansion for remote learning across the educational space from early primary education through secondary, adult education, and for workforce learning. BEA2021 will have a sub-theme and will welcome research that can support remote and hybrid learning contexts.
 
-NLP capabilities now support an array of activities for learning domain knowledge, including writing, speaking, reading, science, and mathematics, and the related intra- (e.g., self-confidence) and inter-personal (e.g., collaboration) domains that support achievement across learning domains. Within these domains, the community continues to develop and deploy innovative NLP approaches for use in educational settings.  In the writing and speech domains, automated writing evaluation (AWE) and speech scoring applications, respectively, are commercially deployed for high-stakes assessments and for formative, instructional assessments in classrooms and online learning contexts. The current educational and assessment landscape in K-12, higher education, and adult learning (in academic and workplace settings) fosters a strong interest in technologies that yield user log data and analytics that support proficiency measures for complex constructs across learning domains. For writing, there is a focus on innovation that supports writing tasks requiring source use, argumentative discourse, and factual content accuracy. For speech, there is an interest in advancing automated scoring to include the evaluation of discourse and content features in responses to spoken assessments. General advances in speech technology have renewed interest in spoken dialog and multimodal systems for instruction and assessment, for instance, for workplace interviews and & simulated teaching environments. The explosive growth of mobile applications for game-based and simulation applications for instruction and assessment is another place where NLP can ​play​ ​a​ ​large​ ​role,​ ​especially​ ​in​ ​language​ ​learning. Due to the immediate need for greater online learning and resources, we expect that NLP technology for education will broaden its reach and expand into the essential personalized learning space with text, speech, and multimodal applications.    
+NLP capabilities now support an array of activities for learning domain knowledge, including writing, speaking, reading, science, and mathematics, and the related intra- (e.g., self-confidence) and inter-personal (e.g., collaboration) domains that support achievement across learning domains. Within these domains, the community continues to develop and deploy innovative NLP approaches for use in educational settings.  In the writing and speech domains, automated writing evaluation (AWE) and speech scoring applications, respectively, are commercially deployed for high-stakes assessments and for formative, instructional assessments in classrooms and online learning contexts. The current educational and assessment landscape in K-12, higher education, and adult learning (in academic and workplace settings) fosters a strong interest in technologies that yield user log data and analytics that support proficiency measures for complex constructs across learning domains. For writing, there is a focus on innovation that supports writing tasks requiring source use, argumentative discourse, and factual content accuracy. For speech, there is an interest in advancing automated scoring to include the evaluation of discourse and content features in responses to spoken assessments. General advances in speech technology have renewed interest in spoken dialog and multimodal systems for instruction and assessment, for instance, for workplace interviews and & simulated teaching environments. The explosive growth of mobile applications for game-based and simulation applications for instruction and assessment is another place where NLP can play a large role, especially in language learning. Due to the immediate need for greater online learning and resources, we expect that NLP technology for education will broaden its reach and expand into the essential personalized learning space with text, speech, and multimodal applications.    
 
-The 16th BEA workshop will have oral presentation sessions and a large poster session to maximize the amount of original work presented. The workshop will continue to expose the NLP community to technologies that identify novel opportunities for the use of NLP in education in English, and languages other than English. The workshop will solicit both full and short papers for either oral or poster presentation. We will solicit papers that incorporate NLP methods, including, but not limited to: automated scoring of open-ended textual and spoken responses; game-based instruction and assessment; educational data mining; intelligent tutoring; peer review, grammatical error detection; learner cognition; spoken dialog; multimodal applications; tools for teachers & test developers; and use of corpora. Research that incorporates NLP methods for use with mobile and game-based platforms will be of​ ​special​ ​interest.​ ​We also plan to hold an expert panel to address how NLP technology can support urgent issues in education brought on by the COVID-19 pandemic. 
+The 16th BEA workshop will have oral presentation sessions and a large poster session to maximize the amount of original work presented. The workshop will continue to expose the NLP community to technologies that identify novel opportunities for the use of NLP in education in English, and languages other than English. The workshop will solicit both full and short papers for either oral or poster presentation. We will solicit papers that incorporate NLP methods, including, but not limited to: automated scoring of open-ended textual and spoken responses; game-based instruction and assessment; educational data mining; intelligent tutoring; peer review, grammatical error detection; learner cognition; spoken dialog; multimodal applications; tools for teachers & test developers; and use of corpora. Research that incorporates NLP methods for use with mobile and game-based platforms will be of special interest. We also plan to hold an expert panel to address how NLP technology can support urgent issues in education brought on by the COVID-19 pandemic. 
 
 Suggested topics are listed below. We also welcome and urge submission of work in any of the suggested topics that addresses personalized learning. Papers with research that specifically addresses the urgent needs in education due to the pandemic, but also make sense in post-pandemic educational contexts are especially welcome.
 
 **Automated scoring/evaluation for written student responses**
-- Content​ ​analysis​ ​for​ ​scoring/assessment 
-- Grammatical​ ​error​ ​detection​ ​and​ ​correction 
-- Argumentation,​ ​discourse,​ ​sentiment,​ ​stylistic​ ​analysis,​ ​&​ ​non-literal​ ​language 
-- Plagiarism​ ​detection 
-- Non-traditional​ ​genres​ ​(beyond​ ​essays) 
-- Interest,​ ​motivation,​ ​and​ ​values​ ​in​ ​writing​ ​tasks
+- Content analysis for scoring/assessment 
+- Grammatical error detection and correction 
+- Argumentation, discourse, sentiment, stylistic analysis, & non-literal language 
+- Plagiarism detection 
+- Non-traditional genres (beyond essays) 
+- Interest, motivation, and values in writing tasks
 
 **Intelligent Tutoring (IT), Collaborative Learning Environments**
 - Educational Data Mining: Collection of user log data from educational applications
 - Game-based learning
 - Multimodal communication (including dialog systems) between students and computers
-- Knowledge​ ​representation​ & concept visualization ​in​ ​learning​ ​systems
+- Knowledge representation & concept visualization in learning systems
 
 **Learner cognition**
 - Assessment of learners' language and cognitive skill levels
@@ -86,11 +86,11 @@ Suggested topics are listed below. We also welcome and urge submission of work i
 - Annotation standards and schemas / annotator agreement
 
 **Tools and applications for classroom teachers and/or test developers**
-- NLP​ ​tools​ ​for​ ​second​ ​and​ ​foreign​ ​language​ ​learners 
-- Semantic-based​ ​access​ ​to​ ​instructional​ ​materials​ ​to​ ​identify​ ​appropriate​ ​texts 
-- Tools​ ​that​ ​automatically​ ​generate​ ​test​ ​questions & for curriculum development
-- Processing​ ​of​ ​and​ ​access​ ​to​ ​lecture​ ​materials​ ​across​ ​topics​ ​and​ ​genres 
-- Adaptation​ ​of​ ​instructional​ ​text​ ​to​ ​individual​ ​learners' ​grade​ ​levels 
+- NLP tools for second and foreign language learners 
+- Semantic-based access to instructional materials to identify appropriate texts 
+- Tools that automatically generate test questions & for curriculum development
+- Processing of and access to lecture materials across topics and genres 
+- Adaptation of instructional text to individual learners' grade levels 
 
 ## Panel
 
@@ -143,93 +143,80 @@ Papers being submitted both to BEA and another conference or workshop must:
 
 ## Program Committee
 
-- Tazin Afrin, University of Pittsburgh
-- David Alfter, University of Gothenburg
-- Fernando Alva-Manchego, University of Sheffield
-- Jason Angel, Instituto Politécnico Nacional
-- Piper Armstrong, Brigham Young University
-- Timo Baumann, Universität Hamburg
-- Lisa Beinborn, University of Amsterdam
-- Kay Berkling, DHBW Cooperative State University Karlsruhe
-- Chris Bryant, University of Cambridge
-- Guanliang Chen, Monash University
-- Mei-Hua Chen, Department of Foreign Languages and Literature
-- Leshem Choshen, Hebrew University of Jerusalem
-- Mark Core, University of Southern California
-- Scott Crossley, Georgia State University
-- Luis Fernando D'Haro, Universidad Politécnica de Madrid
-- Orphée De Clercq, LT3, Ghent University
-- Kordula De Kuthy, Tübingen University
-- Carrie Demmans Epp, University of Alberta
-- Ann Devitt, Trinity College, Dublin 
-- Mariano Felice, University of Cambridge
-- Michael Flor, Educational Testing Service
-- Thomas François, Université catholique de Louvain
-- Jennifer-Carmen Frey, Eurac Research
-- Michael Gamon, Microsoft Research
-- Cyril Goutte, National Research Council Canada
-- Masato Hagiwara, Octanove Labs LLC
-- Jiangang Hao, Educational Testing Service
-- Marti Hearst, University of California, Berkeley
-- Trude Heift, Simon Fraser University
-- Heiko Holz, LEAD Graduate School & Research Network
-- Andrea Horbach, University Duisburg-Essen
-- Chung-Chi Huang, Frostburg State University
-- Yi-Ting Huang, Academia Sinica
-- Radu Tudor Ionescu, University of Bucharest
-- Elma Kerz, RWTH Aachen University
-- Fazel Keshtkar, St. John’s University
-- Mamoru Komachi, Tokyo Metropolitan University
-- Ji-Ung Lee, UKP Lab, TU Darmstadt
-- Diane Litman, University of Pittsburgh
-- Zitao Liu, TAL Education Group
-- Peter Ljunglöf, University of Gothenburg; Chalmers University of Technology
-- Anastassia Loukina, Educational Testing Service
-- Lieve Macken, Ghent University
-- Fabiana MacMillan, Rosetta Stone
-- Montse Maritxalar, University of the Basque Country
-- James Martin, University of Colorado Boulder
-- Ditty Mathew, Accenture
-- Sandeep Mathias, IIT Bombay
-- Stephen Mayhew, Duolingo
-- Julie Medero, Harvey Mudd College
-- Detmar Meurers, University of Tübingen
-- Natawut Monaikul, University of Illinois at Chicago
-- William Murray, Pearson
-- Farah Nadeem, University of Washington
-- Diane Napolitano, Refinitiv
-- Hwee Tou Ng, National University of Singapore
-- Huy Nguyen, LingoChamp
-- Ulrike Pado, HFT Stuttgart
-- Ted Pedersen, University of Minnesota, Duluth
-- Patti Price, PPRICE Speech and Language Technology
-- Long Qin, Singsound Inc
-- Mengyang Qiu, University at Buffalo 
-- Marti Quixal, University of Tübingen
-- Taraka Rama, University of North Texas
-- Lakshmi Ramachandran, A9 (Amazon)
-- Vikram Ramanarayanan, Educational Testing Service; University of California, San Francisco
-- Hanumant Redkar, IIT Bombay
-- Robert Reynolds, Brigham Young University
-- Brian Riordan, Educational Testing Service
-- Mark Rosenstein, Pearson
-- Alla Rozovskaya, City University of New York
-- Helmer Strik, Radboud University Nijmegen
-- Jan Švec, University of West Bohemia
-- Anaïs Tack, UCLouvain & KU Leuven
-- Yuen-Hsien Tseng, National Taiwan University
-- Shalaka Vaidya, Research assistant
-- Sowmya Vajjala, National Research Council, Canada
-- Giulia Venturi, Institute for Computational Linguistics
-- Tatiana Vodolazova, University of Alicante
-- Elena Volodina, University of Gothenburg, Sweden
-- Shuting Wang, Facebook
-- Zarah Weiss, University of Tübingen
-- Michael White, The Ohio State University; Facebook AI
-- Alistair Willis, Open University, UK
-- Victoria Yaneva, NBME; University of Wolverhampton
-- Seid Muhie Yimam, University of Hamburg
-- Mingzhi Yu, University of Pittsburgh
-- Zheng Yuan, University of Cambridge
-- Klaus Zechner, Educational Testing Service
-- Fabian Zehner, DIPF, Leibniz Institute for Research and Information in Education
+Tazin Afrin, University of Pittsburgh
+David Alfter, University of Gothenburg
+Jason Angel, Instituto Politécnico Nacional
+Piper Armstrong, Brigham Young University
+Timo Baumann, Universität Hamburg
+Kay Berkling, DHBW Cooperative State University Karlsruhe
+Chris Bryant, University of Cambridge
+Guanliang Chen, Monash University
+Mei-Hua Chen, Department of Foreign Languages and Literature
+Leshem Choshen, Hebrew University of Jerusalem
+Mark Core, University of Southern California
+Scott Crossley, Georgia State University
+Orphée De Clercq, LT3, Ghent University
+Kordula De Kuthy, Tübingen University
+Carrie Demmans Epp, University of Alberta
+Ann Devitt, Trinity College, Dublin 
+Mariano Felice, University of Cambridge
+Michael Flor, Educational Testing Service
+Thomas François, Université catholique de Louvain
+Jennifer-Carmen Frey, Eurac Research
+Michael Gamon, Microsoft Research
+Cyril Goutte, National Research Council Canada
+Jiangang Hao, Educational Testing Service
+Marti Hearst, University of California, Berkeley
+Trude Heift, Simon Fraser University
+Heiko Holz, LEAD Graduate School & Research Network
+Chung-Chi Huang, Frostburg State University
+Yi-Ting Huang, Academia Sinica
+Radu Tudor Ionescu, University of Bucharest
+Elma Kerz, RWTH Aachen University
+Fazel Keshtkar, St. John’s University
+Mamoru Komachi, Tokyo Metropolitan University
+Ji-Ung Lee, UKP Lab, TU Darmstadt
+Diane Litman, University of Pittsburgh
+Zitao Liu, TAL Education Group
+Peter Ljunglöf, University of Gothenburg; Chalmers University of Technology
+Anastassia Loukina, Educational Testing Service
+Fabiana MacMillan, Rosetta Stone
+Montse Maritxalar, University of the Basque Country
+James Martin, University of Colorado Boulder
+Sandeep Mathias, IIT Bombay
+Stephen Mayhew, Duolingo
+Julie Medero, Harvey Mudd College
+Detmar Meurers, University of Tübingen
+Natawut Monaikul, University of Illinois at Chicago
+Farah Nadeem, University of Washington
+Diane Napolitano, Refinitiv
+Hwee Tou Ng, National University of Singapore
+Huy Nguyen, LingoChamp
+Ulrike Pado, HFT Stuttgart
+Long Qin, Singsound Inc
+Mengyang Qiu, University at Buffalo 
+Marti Quixal, University of Tübingen
+Taraka Rama, University of North Texas
+Lakshmi Ramachandran, A9 (Amazon)
+Hanumant Redkar, IIT Bombay
+Robert Reynolds, Brigham Young University
+Alla Rozovskaya, City University of New York
+Helmer Strik, Radboud University Nijmegen
+Jan Švec, University of West Bohemia
+Anaïs Tack, UCLouvain & KU Leuven
+Yuen-Hsien Tseng, National Taiwan University
+Shalaka Vaidya, Research assistant
+Sowmya Vajjala, National Research Council, Canada
+Giulia Venturi, Institute for Computational Linguistics
+Tatiana Vodolazova, University of Alicante
+Elena Volodina, University of Gothenburg, Sweden
+Shuting Wang, Facebook
+Zarah Weiss, University of Tübingen
+Michael White, The Ohio State University; Facebook AI
+Alistair Willis, Open University, UK
+Victoria Yaneva, NBME; University of Wolverhampton
+Seid Muhie Yimam, University of Hamburg
+Mingzhi Yu, University of Pittsburgh
+Zheng Yuan, University of Cambridge
+Klaus Zechner, Educational Testing Service
+Fabian Zehner, DIPF, Leibniz Institute for Research and Information in Education
