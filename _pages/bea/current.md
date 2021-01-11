@@ -166,6 +166,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Jennifer-Carmen Frey, Eurac Research
 - Michael Gamon, Microsoft Research
 - Cyril Goutte, National Research Council Canada
+- Masato Hagiwara, Octanove Labs
 - Jiangang Hao, Educational Testing Service
 - Marti Hearst, University of California, Berkeley
 - Trude Heift, Simon Fraser University
@@ -182,9 +183,11 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Peter Ljunglöf, University of Gothenburg; Chalmers University of Technology
 - Anastassia Loukina, Educational Testing Service
 - Fabiana MacMillan, Rosetta Stone
+- Lieve Macken, Ghent University
 - Montse Maritxalar, University of the Basque Country
 - James Martin, University of Colorado Boulder
 - Sandeep Mathias, IIT Bombay
+- Ditty Mathew, IIT Madras
 - Stephen Mayhew, Duolingo
 - Julie Medero, Harvey Mudd College
 - Detmar Meurers, University of Tübingen
@@ -201,6 +204,7 @@ Papers being submitted both to BEA and another conference or workshop must:
 - Lakshmi Ramachandran, A9 (Amazon)
 - Hanumant Redkar, IIT Bombay
 - Robert Reynolds, Brigham Young University
+- Brian Riordan, Educational Testing Service
 - Alla Rozovskaya, City University of New York
 - Helmer Strik, Radboud University Nijmegen
 - Jan Švec, University of West Bohemia
