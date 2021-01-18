@@ -35,7 +35,9 @@ gold:
         </tr>
         <tr>
             <td><strong>Deadline</strong></td>
-            <td>Monday, January 18, 2021 11:59pm UTC-12 (anywhere on earth)</td>
+            <td><span style="text-decoration: line-through;">Monday, January 18,
+            2021 11:59pm UTC-12 (anywhere on earth)</span><br/>Monday, January 25, 2021 11:59pm UTC-12 (extended)</td>
+            <td></td>
         </tr>   
         <tr>
             <td><strong>Date</strong></td>
