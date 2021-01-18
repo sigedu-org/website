@@ -7,6 +7,9 @@ toc: false
 toc_icon: "cog"
 ---
 
+**July 15, 2020**. Thanks everyone for a great virtual BEA workshop! Slides for the workshop presentations are now linked from the [schedule](/bea/2020#schedule). If you don't see your slides yet, make sure you [email](mailto:bea.nlp.workshop@gmail.com) them to us.
+{: .notice}
+
 **July 9, 2020**.  We have posted some [useful notes](/bea/2020#attending-virtually) for the new virtual workshop format. Note that this is the first ever virtual BEA, so please bear with us if things don't work as expected! 
 {: .notice}
 
