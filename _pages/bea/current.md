@@ -104,8 +104,8 @@ In 2021, we will be hosting a virtual 1-hour panel on *New Challenges for Educat
 <span style="font-size: smaller;"><em>Note</em>: these dates are still preliminary and may change. All deadlines are 11:59pm UTC-12 (anywhere on earth).</span>
 
 - Submission Deadline: <span style="text-decoration: line-through;">Thursday, Januuary 18, 2021</span>&nbsp;**Monday, January 25, 2021**
-- Notification of Acceptance: <span style="text-decoration: line-through;">Thursday, February 18, 2021</span>&nbsp;**Monday, February 22, 2021**
-- Camera-ready Papers Due: **Monday, March 1, 2021**
+- Notification of Acceptance: <span style="text-decoration: line-through;">Thursday, February 18, 2021</span>&nbsp;**Thursday, February 25, 2021**
+- Camera-ready Papers Due: **Thursday, March 4, 2021**
 - Workshop: Monday, April 19 or Tuesday, April 20, 2021 (TBD)
 
 ## Submission Information
