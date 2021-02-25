@@ -98,7 +98,6 @@ Suggested topics are listed below. We also welcome and urge submission of work i
 
 In 2021, we will be hosting a virtual 1-hour panel on *New Challenges for Educational Technology in the Time of the Pandemic* that will cover such questions as (1) What areas / subjects / aspects of education will be most affected by the pandemic? (2) How can AI / educational technology help tackle these issues? (3) What long-term consequences will the current situation have on education? We have 2 confirmed panelists so far: [Prof. Dr Gaëlle Molinari](https://distanceuniversity.ch/gaelle-molinari/) (Faculty of Psychology, Swiss Distance University Institute) and [Prof Carolyn Rosé](http://www.cs.cmu.edu/~cprose/) (Language Technologies Institute and HCI Institute, Carnegie Mellon University).
 
-
 ## Important Dates
 
 <span style="font-size: smaller;"><em>Note</em>: these dates are still preliminary and may change. All deadlines are 11:59pm UTC-12 (anywhere on earth).</span>
@@ -107,6 +106,60 @@ In 2021, we will be hosting a virtual 1-hour panel on *New Challenges for Educat
 - Notification of Acceptance: <span style="text-decoration: line-through;">Thursday, February 18, 2021</span>&nbsp;**Thursday, February 25, 2021**
 - Camera-ready Papers Due: **Thursday, March 4, 2021**
 - Workshop: Monday, April 19 or Tuesday, April 20, 2021 (TBD)
+
+## Accepted Papers
+
+The following papers have been accepted at BEA 2021. A detailed schedule will be added in the future.
+
+- **Negation Scope Resolution for Chinese as a Second Language**. *Mengyu Zhang, Weiqi Wang, Shuqiao Sun and Weiwei Sun*
+
+- **Text Simplification by Tagging**. *Kostiantyn Omelianchuk, Vipul Raheja and Oleksandr Skurzhanskyi*
+
+- **Employing Distributional Semantics to Organize Task-focused Vocabulary Learning**. *Haemanth Santhi Ponnusamy and Detmar Meurers*
+
+- **Synthetic Data Generation for Grammatical Error Correction with Tagged Corruption Models**. *Felix Stahlberg and Shankar Kumar*
+
+- **Broad Linguistic Complexity Analysis for Greek Readability Classification**. *Savvas Chatzipanagiotidis, Maria Giagkou and Detmar Meurers*
+
+- **Character Set Construction for Chinese Language Learning**. *Chak Yan Yeung and John Lee*
+
+- **Detecting Negative Language Transfer Using Models that Represent Language Structure**. *Leticia Farias Wanderley and Carrie Demmans Epp*
+
+- **Document-level Grammatical Error Correction**. *Zheng Yuan and Christopher Bryant*
+
+- **Essay Quality Signals as Weak Supervision for Source-based Essay Scoring**. *Haoran Zhang and Diane Litman*
+
+- **Parsing Argumentative Structure in English-as-Foreign-Language Essays**. *Jan Wira Gotama Putra, Simone Teufel and Takenobu Tokunaga*
+
+- **Training and Domain Adaptation for Supervised Text Segmentation**. *Goran Glavaš, Ananya Ganesh and Swapna Somasundaran*
+
+- **Data Strategies for Low-Resource Grammatical Error Correction**. *Simon Flachs, Felix Stahlberg and Shankar Kumar*
+
+- **Towards a Data Analytics Pipeline for the Visualisation of Complexity Metrics in L2 Writings**. *Thomas Gaillat, Anas Knefati and Antoine Lafontaine*
+
+- **Teacher’s Tools for Estonian as a Second Language in Language Portal**. *Sõnaveeb,Tiiu Üksik, Jelena Kallas, Kristina Koppel, Katrin Tsepelina and Raili Pool*
+
+- **Assessing Grammatical Correctness in Language Learning**. *Anisia Katinskaia and Roman Yangarber*
+
+- **On the Application of Transformers for Estimating the Difficulty of Multiple-Choice Questions from Text**. *Luca Benedetto, Giovanni Aradelli, Paolo Cremonesi, Andrea Cappelli, Andrea Giussani and Roberto Turrin*
+
+- **Automatically Generating Cause-and-Effect Questions from Passages**. *Katherine Stasaski, Manav Rathod, Tony Tu, Yunfang Xiao and Marti A. Hearst*
+
+- **Interventions Recommendation: Professionals’ Observations Analysis in Special Needs Education**. *Javier Muñoz and Felipe Bravo-Marquez*
+
+- **C-Test Collector: A Proficiency Testing Application to Collect Training Data for C-Tests**. *Christian Haring, Rene Lehmann, Andrea Horbach and Torsten Zesch*
+
+- **Virtual Pre-Training Teacher Assessment and Feedback via Conversational Agents**. *Debajyoti Datta, Maria Phillips, Jennifer Chiu, Ginger S. Watson, James P. Bywater, Laura Barnes and Donald Brown*
+
+- **Automated Classification of Written Proficiency Levels on the CEFR-Scale through Complexity Contours and RNNs**. *Elma Kerz, Daniel Wiechmann, Yu Qiao, Emma Tseng and Marcus Ströbel*
+
+- **"Sharks are not the threat humans are": Argument Component Segmentation in School Student Essays**.* Tariq Alhindi and Debanjan Ghosh*
+
+- **Using Linguistic Features to Predict the Response Process Complexity Associated with Answering Clinical MCQs**. *Victoria Yaneva, Daniel Jurich, Le An Ha and Peter Baldwin*
+
+## Attending the Workshop
+
+The BEA 2021 workshop is co-located with the 2021 Conference of the European Chapter of the Association for Computational Linguistics or [EACL 2021](https://2021.eacl.org). To attend the workshop, you need to register on the conference website and choose the BEA workshop on the registration form. Conference registration should open in March 2021.
 
 ## Submission Information
 
@@ -129,7 +182,6 @@ We will follow the official ACL double-submission [policy](https://www.aclweb.or
 Papers being submitted both to BEA and another conference or workshop must:
 - Note on the title page the other conference or workshop to which they are being submitted.  
 - State on the title page that if the authors choose to present their paper at BEA (assuming it was accepted), then the paper will be withdrawn from other conferences and workshops.
-
 
 ## Organizing Committee
 
