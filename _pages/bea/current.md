@@ -41,7 +41,7 @@ gold:
         </tr>   
         <tr>
             <td><strong>Date</strong></td>
-            <td>Monday, April 19 or Tuesday, April 20, 2021 (TBD)</td>
+            <td>Tuesday, April 20, 2021 (TBD)</td>
         </tr>   
         <tr>
             <td><strong>Organizers</strong></td>
@@ -105,7 +105,7 @@ In 2021, we will be hosting a virtual 1-hour panel on *New Challenges for Educat
 - Submission Deadline: <span style="text-decoration: line-through;">Thursday, Januuary 18, 2021</span>&nbsp;**Monday, January 25, 2021**
 - Notification of Acceptance: <span style="text-decoration: line-through;">Thursday, February 18, 2021</span>&nbsp;**Thursday, February 25, 2021**
 - Camera-ready Papers Due: **Thursday, March 4, 2021**
-- Workshop: Monday, April 19 or Tuesday, April 20, 2021 (TBD)
+- Workshop: Tuesday, April 20, 2021 (TBD)
 
 ## Accepted Papers
 
