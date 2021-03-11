@@ -96,7 +96,12 @@ Suggested topics are listed below. We also welcome and urge submission of work i
 
 ## Panel
 
-In 2021, we will be hosting a virtual 1-hour panel on *New Challenges for Educational Technology in the Time of the Pandemic* that will cover such questions as (1) What areas / subjects / aspects of education will be most affected by the pandemic? (2) How can AI / educational technology help tackle these issues? (3) What long-term consequences will the current situation have on education? We have 2 confirmed panelists so far: [Prof. Dr Gaëlle Molinari](https://distanceuniversity.ch/gaelle-molinari/) (Faculty of Psychology, Swiss Distance University Institute) and [Prof Carolyn Rosé](http://www.cs.cmu.edu/~cprose/) (Language Technologies Institute and HCI Institute, Carnegie Mellon University).
+In 2021, we will be hosting a virtual 1-hour panel on *New Challenges for Educational Technology in the Time of the Pandemic* that will cover such questions as (1) What areas / subjects / aspects of education will be most affected by the pandemic? (2) How can AI / educational technology help tackle these issues? (3) What long-term consequences will the current situation have on education? We will have 4 panelists: 
+
+1. [Prof. Dr Gaëlle Molinari](https://distanceuniversity.ch/gaelle-molinari/) (Faculty of Psychology, Swiss Distance University Institute)
+2. [Prof. Carolyn Rosé](http://www.cs.cmu.edu/~cprose/) (Language Technologies Institute and HCI Institute, Carnegie Mellon University)
+3. [Prof. Diane Litman](http://people.cs.pitt.edu/~litman/) (Learning Research & Development Center and Department of Computer Science, University of Pittsburgh)
+4. [Burr Settles](http://burrsettles.com) (Director of Research, Duolingo)
 
 ## Important Dates
 
