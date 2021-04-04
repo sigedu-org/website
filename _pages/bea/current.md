@@ -164,7 +164,9 @@ The following papers have been accepted at BEA 2021. A detailed schedule will be
 
 ## Attending the Workshop
 
-The BEA 2021 workshop is co-located with the 2021 Conference of the European Chapter of the Association for Computational Linguistics or [EACL 2021](https://2021.eacl.org). To attend the workshop, you need to register on the conference website and choose the BEA workshop on the registration form. Conference registration should open in March 2021.
+The BEA 2021 workshop is co-located with the 2021 Conference of the European Chapter of the Association for Computational Linguistics or [EACL 2021](https://2021.eacl.org). To attend the workshop, you need to register on the conference website and choose the BEA workshop on the registration form. 
+
+EACL 2021 workshop poster sessions will be hosted by Virtual Chair and will take place on the [gather.town](https://gather.town) platform. For more details, see the Virtual Chair [event page for EACL 2021](https://www.virtualchair.net/events/eacl-2021) and the [attendee guide](https://www.virtualchair.net/guide). 
 
 ## Submission Information
 
