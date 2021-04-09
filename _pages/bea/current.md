@@ -168,6 +168,8 @@ The BEA 2021 workshop is co-located with the 2021 Conference of the European Cha
 
 EACL 2021 workshop poster sessions will be hosted by Virtual Chair and will take place on the [gather.town](https://gather.town) platform. For more details, see the Virtual Chair [event page for EACL 2021](https://www.virtualchair.net/events/eacl-2021) and the [attendee guide](https://www.virtualchair.net/guide). 
 
+The Virtual Chair help desk staff will be monitoring the support inbox during the event, so any technical or troubleshooting questions from attendees should be sent to [help+eacl-2021@virtualchair.net](mailto:help+eacl-2021@virtualchair.net) instead of the workshop organizers to ensure the fastest possible response. 
+
 ## Submission Information
 
 We will be using the EACL Submission Guidelines for the BEA Workshop this year. Authors are invited to submit a full paper of up to eight (8) pages of content, plus unlimited references; final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers' comments can be taken into account. We also invite short papers of up to of up to four (4) pages of content, plus unlimited references. Upon acceptance, short papers will be given five (5) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewers’ comments in their final versions.
