@@ -94,6 +94,155 @@ Suggested topics are listed below. We also welcome and urge submission of work i
 - Processing of and access to lecture materials across topics and genres 
 - Adaptation of instructional text to individual learners' grade levels 
 
+## Schedule
+
+<ol style="font-size: smaller;">
+    <li>Note that BEA 2021 will be fully virtual just like EACL 2021.</li>
+    <li>All times are 24 hours CET.</li>
+</ol>
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="2"><span style="font-size: larger;">April 20, 2021 (All times are in CET; For EDT, subtract 6 hours)</span></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr> 
+            <td style="width: 30%; font-weight: bold;">10:10&ndash;10:20</td>
+            <td><strong>Opening Remarks</strong></td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">10:20&ndash;11:00</td>
+            <td><strong>Paper Session 1</strong></td>
+        </tr>
+        <tr>
+            <td style="width: 30%">10:20&ndash;10:40</td>
+            <td><i>Parsing Argumentative Structure in English-as-Foreign-Language Essays</i>. Jan Wira Gotama Putra, Simone Teufel, and Takenobu Tokunaga.</td>
+        </tr>
+        <tr>
+            <td style="width: 30%">10:40&ndash;11:00</td>
+            <td><i>Employing distributional semantics to organize task-focused vocabulary learning</i>. Haemanth Santhi Ponnusamy, and Detmar Meurers. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">11:00&ndash;11:30</td>
+            <td><strong>Break</strong></td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">11:30&ndash;12:10</td>
+            <td><strong>Paper Session 2</strong></td>
+        </tr>
+        <tr>
+            <td style="width: 30%">11:30&ndash;11:50</td>
+            <td><i>Negation Scope Resolution for Chinese as a Second Language</i>. Mengyu Zhang, Weiqi Wang, Shuqiao Sun, and Weiwei Sun. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%">11:50&ndash;12:10</td>
+            <td><i>On the Application of Transformers for Estimating the Difficulty of Multiple-choice Questions from Text</i>. Luca Benedetto, Giovanni Aradelli, Paolo Cremonesi, Andrea Cappelli,Andrea Giussani, and Roberto Turrin. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">12:10&ndash;13:30</td>
+            <td><strong>Poster Session 1</strong></td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">&nbsp;</td>
+            <td><i>Character Set Construction for Chinese Language Learning</i>. Chak Yan Yeung and John Lee. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">&nbsp;</td>
+            <td><i>Training and Domain Adaptation for Supervised Text Segmentation</i>. Goran Glavaš, Ananya Ganesh, and Swapna Somasundaran. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">&nbsp;</td>
+            <td><i>Data Strategies for Low-Resource Grammatical Error Correction</i>. Simon Flachs, Felix Stahlberg, and Shankar Kumar. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">&nbsp;</td>
+            <td><i>Towards a Data Analytics Pipeline for the Visualisation of Complexity Metrics in L2 writings</i>. Thomas Gaillat, Anas Knefati, and Antoine Lafontaine. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">&nbsp;</td>
+            <td><i>Estonian as a Second Language Teacher’s Tools</i>. Tiiu Üksik, Jelena Kallas, Kristina Koppel, Katrin Tsepelina, and Raili Pool. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">&nbsp;</td>
+            <td><i>Assessing Grammatical Correctness in Language Learning</i>. Anisia Katinskaia and Roman Yangarber. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">&nbsp;</td>
+            <td><i>Automated Classification of Written Proficiency Levels on the CEFR-Scale through Complexity Contours and RNNs</i>. Elma Kerz, Daniel Wiechmann, Yu Qiao, Emma Tseng, and Marcus Ströbel. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">&nbsp;</td>
+            <td><i>Using Linguistic Features to Predict the Response Process Complexity Associated with Answering Clinical MCQs</i>. Victoria Yaneva, Daniel Jurich, Le An Ha, and Peter Baldwin. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">13:30&ndash;15:00</td>
+            <td><strong>Break</strong></td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">15:00&ndash;15:40</td>
+            <td><strong>Paper Session 3</strong></td>
+        </tr>
+        <tr>
+            <td style="width: 30%">15:00&ndash;15:20</td>
+            <td><i>Synthetic Data Generation for Grammatical Error Correction with Tagged Corruption Models</i>. Felix Stahlberg and Shankar Kumar. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%">15:20&ndash;15:40</td>
+            <td><i>"Sharks are not the threat humans are": Argument Component Segmentation in School Student Essays</i>. Tariq Alhindi and Debanjan Ghosh. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">15:40&ndash;16:50</td>
+            <td><strong>Poster Session 2</strong></td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">&nbsp;</td>
+            <td><i>Text Simplification by Tagging</i>. Kostiantyn Omelianchuk, Vipul Raheja, and Oleksandr Skurzhanskyi. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">&nbsp;</td>
+            <td><i>Broad Linguistic Complexity Analysis for Greek Readability Classification</i>. GSavvas Chatzipanagiotidis, Maria Giagkou, and Detmar Meurers. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">&nbsp;</td>
+            <td><i>Identifying Negative Language Transfer in Learner Errors Using POS Information</i>. Leticia Farias Wanderley and Carrie Demmans Epp. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">&nbsp;</td>
+            <td><i>Document-level Grammatical Error Correction</i>. Zheng Yuan and Christopher Bryant. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">&nbsp;</td>
+            <td><i>Essay Quality Signals as Weak Supervision for Source-based Essay Scoring</i>. Haoran Zhang and Diane Litman. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">&nbsp;</td>
+            <td><i>Automatically Generating Cause-and-Effect Questions from Passages</i>. Katherine Stasaski, Manav Rathod, Tony Tu, Yunfang Xiao, and Marti A. Hearst. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">&nbsp;</td>
+            <td><i>Interventions Recommendation: Professionals' Observations Analysis in Special Needs Education</i>. Javier Muñoz and Felipe Bravo-Marquez. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">&nbsp;</td>
+            <td><i>C-Test Collector: A Proficiency Testing Application to Collect Training Data for C-Tests</i>. Christian Haring, Rene Lehmann, Andrea Horbach, and Torsten Zesch. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold">&nbsp;</td>
+            <td><i>Virtual Pre-Service Teacher Assessment and Feedback via Conversational Agents</i>. Debajyoti Datta, Maria Phillips, James P. Bywater, Jennifer Chiu, Ginger S. Watson, Laura Barnes, and Donald Brown. </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">16:50&ndash;17:50</td>
+            <td><a href="#panel">Discussion Panel</a></td>
+        </tr>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">17:50&ndash;18:00</td>
+            <td>Closing Remarks</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Panel
 
 In 2021, we will be hosting a virtual 1-hour panel on *New Challenges for Educational Technology in the Time of the Pandemic* that will cover such questions as (1) What areas / subjects / aspects of education will be most affected by the pandemic? (2) How can AI / educational technology help tackle these issues? (3) What long-term consequences will the current situation have on education? We will have 4 panelists: 
@@ -111,56 +260,6 @@ In 2021, we will be hosting a virtual 1-hour panel on *New Challenges for Educat
 - Notification of Acceptance: <span style="text-decoration: line-through;">Thursday, February 18, 2021</span>&nbsp;**Thursday, February 25, 2021**
 - Camera-ready Papers Due: **Thursday, March 4, 2021**
 - Workshop: Tuesday, April 20, 2021
-
-## Accepted Papers
-
-The following papers have been accepted at BEA 2021. A detailed schedule will be added in the future.
-
-- **Negation Scope Resolution for Chinese as a Second Language**. *Mengyu Zhang, Weiqi Wang, Shuqiao Sun and Weiwei Sun*
-
-- **Text Simplification by Tagging**. *Kostiantyn Omelianchuk, Vipul Raheja and Oleksandr Skurzhanskyi*
-
-- **Employing Distributional Semantics to Organize Task-focused Vocabulary Learning**. *Haemanth Santhi Ponnusamy and Detmar Meurers*
-
-- **Synthetic Data Generation for Grammatical Error Correction with Tagged Corruption Models**. *Felix Stahlberg and Shankar Kumar*
-
-- **Broad Linguistic Complexity Analysis for Greek Readability Classification**. *Savvas Chatzipanagiotidis, Maria Giagkou and Detmar Meurers*
-
-- **Character Set Construction for Chinese Language Learning**. *Chak Yan Yeung and John Lee*
-
-- **Detecting Negative Language Transfer Using Models that Represent Language Structure**. *Leticia Farias Wanderley and Carrie Demmans Epp*
-
-- **Document-level Grammatical Error Correction**. *Zheng Yuan and Christopher Bryant*
-
-- **Essay Quality Signals as Weak Supervision for Source-based Essay Scoring**. *Haoran Zhang and Diane Litman*
-
-- **Parsing Argumentative Structure in English-as-Foreign-Language Essays**. *Jan Wira Gotama Putra, Simone Teufel and Takenobu Tokunaga*
-
-- **Training and Domain Adaptation for Supervised Text Segmentation**. *Goran Glavaš, Ananya Ganesh and Swapna Somasundaran*
-
-- **Data Strategies for Low-Resource Grammatical Error Correction**. *Simon Flachs, Felix Stahlberg and Shankar Kumar*
-
-- **Towards a Data Analytics Pipeline for the Visualisation of Complexity Metrics in L2 Writings**. *Thomas Gaillat, Anas Knefati and Antoine Lafontaine*
-
-- **Teacher’s Tools for Estonian as a Second Language in Language Portal**. *Sõnaveeb,Tiiu Üksik, Jelena Kallas, Kristina Koppel, Katrin Tsepelina and Raili Pool*
-
-- **Assessing Grammatical Correctness in Language Learning**. *Anisia Katinskaia and Roman Yangarber*
-
-- **On the Application of Transformers for Estimating the Difficulty of Multiple-Choice Questions from Text**. *Luca Benedetto, Giovanni Aradelli, Paolo Cremonesi, Andrea Cappelli, Andrea Giussani and Roberto Turrin*
-
-- **Automatically Generating Cause-and-Effect Questions from Passages**. *Katherine Stasaski, Manav Rathod, Tony Tu, Yunfang Xiao and Marti A. Hearst*
-
-- **Interventions Recommendation: Professionals’ Observations Analysis in Special Needs Education**. *Javier Muñoz and Felipe Bravo-Marquez*
-
-- **C-Test Collector: A Proficiency Testing Application to Collect Training Data for C-Tests**. *Christian Haring, Rene Lehmann, Andrea Horbach and Torsten Zesch*
-
-- **Virtual Pre-Training Teacher Assessment and Feedback via Conversational Agents**. *Debajyoti Datta, Maria Phillips, Jennifer Chiu, Ginger S. Watson, James P. Bywater, Laura Barnes and Donald Brown*
-
-- **Automated Classification of Written Proficiency Levels on the CEFR-Scale through Complexity Contours and RNNs**. *Elma Kerz, Daniel Wiechmann, Yu Qiao, Emma Tseng and Marcus Ströbel*
-
-- **"Sharks are not the threat humans are": Argument Component Segmentation in School Student Essays**.* Tariq Alhindi and Debanjan Ghosh*
-
-- **Using Linguistic Features to Predict the Response Process Complexity Associated with Answering Clinical MCQs**. *Victoria Yaneva, Daniel Jurich, Le An Ha and Peter Baldwin*
 
 ## Attending the Workshop
 

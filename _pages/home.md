@@ -10,13 +10,13 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>News</h2>
 
-**February 25, 2021**. The decisions for BEA 2021 submissions have been emailed to the authors. Thanks everyone for for your hard work! See [here](/bea/current#accepted-papers) for the list of accepted papers. Camera-ready versions are due March 4th!
+**April 15, 2021**. The [final schedule](bea/current#schedule) for BEA 2021 is now availale! We look forward to seeing everyone at the workshop!
 {: .notice--info}
 
-**January 18, 2021**. Due to multiple requests, we have extended the [BEA 2021](/bea/current) paper submission deadline to **January 25th, 11:59 pm UTC-12**.
+**February 25, 2021**. The decisions for BEA 2021 submissions have been emailed to the authors. Thanks everyone for for your hard work! See [here](/bea/current#accepted-papers) for the list of accepted papers. Camera-ready versions are due March 4th!
 {: .notice}
 
-**November 27, 2020**. The [BEA 2021](/bea/current) workshop has been accepted and will be co-located with EACL. BEA 2021 will be held entirely online on Tuesday, April 20, 2021. The submission deadline is Monday, January 18, 2021. Looking forward to your submissions!
+**January 18, 2021**. Due to multiple requests, we have extended the [BEA 2021](/bea/current) paper submission deadline to **January 25th, 11:59 pm UTC-12**.
 {: .notice}
 
 <div class="text-center">
