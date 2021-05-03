@@ -68,7 +68,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Peter Gault, Quill.org<br/>
 - Debanjan Ghosh, Educational Testing Service<br/>
 - Dan Goldwasser, Purdue University<br/>
-<a href="http://samuelgonzalez-lopez.com/">Samuel González-López</a>, Technological University of Nogales<br/>
+- <a href="http://samuelgonzalez-lopez.com/">Samuel González-López</a>, Technological University of Nogales<br/>
 - Sian Gooding, University of Cambridge<br/>
 - <a href="https://isi.edu/~jgordon">Jonathan Gordon</a>, University of Southern California<br/>
 - Andrew Gorman, Pearson<br/>
