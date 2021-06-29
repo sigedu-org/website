@@ -52,6 +52,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://glose.com">Arthur Darcet</a>, Glose<br/>
 - <a href="http://textmining.lt">Vidas Daudaravicius</a>, UAB VTeX<br/>
 - <a href="https://www.lt3.ugent.be/people/orphee-de-clercq/">Orphee De Clercq</a>, LT3, Ghent University<br/>
+- <a href="https://research.flw.ugent.be/en/jasper.degraeuwe">Jasper Degraeuwe</a>, Ghent University<br/>
 - <a href="https://www.cdemmansepp.com/">Carrie Demmans Epp</a>, University of Alberta<br/>
 - <a href="people.tcd.ie/devittan">Ann Devitt</a>, Trinity College Dublin<br/>
 - <a href="https://nlp.cs.uic.edu/">Barbara Di Eugenio</a>, University of Illinois at Chicago<br/>
@@ -63,11 +64,14 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Michael Flor, Educational Testing Service<br/>
 - <a href="https://www.computing.dcu.ie/~jfoster">Jennifer Foster</a>, Dublin City University<br/>
 - Jennifer-Carmen Frey, Eurac Research Bolzano & Dipartimento di Interpretazione e Traduzione Forlì, Università di Bologna<br/>
+- <a href="https://suzenfylke.com">Suzen Fylke</a>, Twitter<br/>
 - <a href="https://www.microsoft.com/en-us/research/people/mgamon/">Michael Gamon</a>, Microsoft Research<br/>
 - Lingyu Gao, TTIC<br/>
+- <a href="http://homes.sice.indiana.edu/gasser/">Michael Gasser</a>, Indiana University<br/>
 - Peter Gault, Quill.org<br/>
 - Debanjan Ghosh, Educational Testing Service<br/>
 - Dan Goldwasser, Purdue University<br/>
+- <a href="https://edutec.science/team/sebastian-gombert/">Sebastian Gombert</a>, Leibniz Institute for Research and Information in Education<br/>
 - <a href="http://samuelgonzalez-lopez.com/">Samuel González-López</a>, Technological University of Nogales<br/>
 - Sian Gooding, University of Cambridge<br/>
 - <a href="https://isi.edu/~jgordon">Jonathan Gordon</a>, University of Southern California<br/>
@@ -91,6 +95,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://raduionescu.herokuapp.com">Radu Tudor Ionescu</a>, University of Bucharest<br/>
 - Xuejun Ji, The University of British Columbia<br/>
 - <a href="https://www.pitt.edu/~pjordan">Pamela Jordan</a>, University of Pittsburgh<br/>
+- <a href="https://sites.google.com/view/njoshi">Nisheeth Joshi</a>, Banasthali VIdyapith<br/>
 - <a href="http://cl.sd.tmu.ac.jp/~kajiwara/cv.pdf">Tomoyuki Kajiwara</a>, Osaka University<br/>
 - Masahiro Kaneko, Tokyo Metropolitan University<br/>
 - Satoru Katsumata, Tokyo Metropolitan University<br/>
@@ -164,6 +169,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://www.linkedin.com/in/ildiko-pilan/?locale=en_US">Ildikó&nbsp;Pilán</a>, University of Gothenburg<br/>
 - Marina Escobar Planas, Universitat Politecnica de Valencia<br/>
 - <a href="https://www.let.rug.nl/~bplank">Barbara Plank</a>, IT University of Copenhagen<br/>
+- Stanislaw Pstrokonski, Busuu Ltd<br/>
 - <a href="http://www.singsound.com">Long Qin</a>, SingSound<br/>
 - Mengyang Qiu, University at Buffalo<br/>
 - <a href="http://www.martiquixal.org">Martí Quixal</a>, Universitat Oberta de Catalunya<br/>
@@ -186,6 +192,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://frankie.robertson.name">Frankie Robertson</a>, University of Jyväskylä<br/>
 - Rebecca Rust, Rosetta Stone<br/>
 - <a href="http://www.sfs.uni-tuebingen.de/~brzdwtz/">Björn&nbsp;Rudzewitz</a>,&nbsp;Universität&nbsp;Tübingen<br/>
+- Andre Rusli, Tokyo Denki University<br/>
 - C. Anton Rytting, University of Maryland<br/>
 - <a href="https://scholar.google.com/citations?user=ULNaeowAAAAJ&hl=en">Farig Sadeque</a>, Educational Testing Service<br/>
 - <a href="https://cs.jhu.edu/~keisuke/">Keisuke Sakaguchi</a>, Allen Institute for Artificial Intelligence<br/>
@@ -217,10 +224,12 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Tatiana Vodolazova, University of Alicante<br/>
 - <a href="https://spraakbanken.gu.se/personal/elena/">Elena Volodina</a>, University of Gothenburg<br/>
 - <a href="https://www.rmit.edu.au/contact/staff-contacts/academic-staff/u/uitdenbogerd-dr-sandra">Alexandra Uitdenbogerd</a>, RMIT University<br/>
+- <a href="http://zw16.web.rice.edu">Jack Wang</a>, Rice University<br/>
 - <a href="https://www.personal.psu.edu/sxw327/">Shuting Wang</a>, Facebook<br/>
+- Xinhao Wang, Educational Testing Service<br/>
 - Xinyu Wang, Riiid Labs<br/>
 - Yiyi Wang, University of Illinois at Urbana-Champaign<br/>
-- Xinhao Wang, Educational Testing Service<br/>
+- Rebecka Weegar, Stockholm University<br/>
 - <a href="https://www.sfs.uni-tuebingen.de/~zweiss/">Zarah Weiss</a>, University of Tübingen<br/>
 - <a href="http://u.osu.edu/mwhite/">Michael White</a>, The Ohio State University<br/>
 - Michael Wojatzki, LTL University of Duisburg-Essen<br/>
