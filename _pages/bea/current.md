@@ -118,7 +118,7 @@ Suggested topics are listed below. We also welcome and urge submission of work i
         </tr>
         <tr>
             <td style="width: 30%">10:20&ndash;10:40</td>
-            <td><i>Parsing Argumentative Structure in English-as-Foreign-Language Essays</i>. Jan Wira Gotama Putra, Simone Teufel, and Takenobu Tokunaga.</td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gTjC4UN5JnmsrthE?e=cglz6o">Parsing Argumentative Structure in English-as-Foreign-Language Essays</a></i>. Jan Wira Gotama Putra, Simone Teufel, and Takenobu Tokunaga.</td>
         </tr>
         <tr>
             <td style="width: 30%">10:40&ndash;11:00</td>
@@ -138,7 +138,7 @@ Suggested topics are listed below. We also welcome and urge submission of work i
         </tr>
         <tr>
             <td style="width: 30%">11:50&ndash;12:10</td>
-            <td><i>On the Application of Transformers for Estimating the Difficulty of Multiple-choice Questions from Text</i>. Luca Benedetto, Giovanni Aradelli, Paolo Cremonesi, Andrea Cappelli,Andrea Giussani, and Roberto Turrin. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gTMmQczWqbPC85-C?e=zLvi33">On the Application of Transformers for Estimating the Difficulty of Multiple-choice Questions from Text</a></i>. Luca Benedetto, Giovanni Aradelli, Paolo Cremonesi, Andrea Cappelli,Andrea Giussani, and Roberto Turrin. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold">12:10&ndash;13:30</td>
@@ -150,7 +150,7 @@ Suggested topics are listed below. We also welcome and urge submission of work i
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold">&nbsp;</td>
-            <td><i>Training and Domain Adaptation for Supervised Text Segmentation</i>. Goran Glavaš, Ananya Ganesh, and Swapna Somasundaran. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gTQp4zI-KIs0i28j?e=Rbkf0N">Training and Domain Adaptation for Supervised Text Segmentation</a></i>. Goran Glavaš, Ananya Ganesh, and Swapna Somasundaran. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold">&nbsp;</td>
@@ -158,7 +158,7 @@ Suggested topics are listed below. We also welcome and urge submission of work i
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold">&nbsp;</td>
-            <td><i>Towards a Data Analytics Pipeline for the Visualisation of Complexity Metrics in L2 writings</i>. Thomas Gaillat, Anas Knefati, and Antoine Lafontaine. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gTLTIjMvENSsIV6p?e=Wp51au">Towards a Data Analytics Pipeline for the Visualisation of Complexity Metrics in L2 writings</a></i>. Thomas Gaillat, Anas Knefati, and Antoine Lafontaine. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold">&nbsp;</td>
@@ -166,7 +166,7 @@ Suggested topics are listed below. We also welcome and urge submission of work i
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold">&nbsp;</td>
-            <td><i>Assessing Grammatical Correctness in Language Learning</i>. Anisia Katinskaia and Roman Yangarber. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gTehyOO5pbSt5hu9?e=UxZak5">Assessing Grammatical Correctness in Language Learning</a></i>. Anisia Katinskaia and Roman Yangarber. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold">&nbsp;</td>
@@ -174,7 +174,7 @@ Suggested topics are listed below. We also welcome and urge submission of work i
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold">&nbsp;</td>
-            <td><i>Using Linguistic Features to Predict the Response Process Complexity Associated with Answering Clinical MCQs</i>. Victoria Yaneva, Daniel Jurich, Le An Ha, and Peter Baldwin. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gTXHo_GjdNXSklXE?e=RhfQrv">Using Linguistic Features to Predict the Response Process Complexity Associated with Answering Clinical MCQs</a></i>. Victoria Yaneva, Daniel Jurich, Le An Ha, and Peter Baldwin. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">13:30&ndash;15:00</td>
@@ -186,11 +186,11 @@ Suggested topics are listed below. We also welcome and urge submission of work i
         </tr>
         <tr>
             <td style="width: 30%">15:00&ndash;15:20</td>
-            <td><i>Synthetic Data Generation for Grammatical Error Correction with Tagged Corruption Models</i>. Felix Stahlberg and Shankar Kumar. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gS9rFvV5x2K1YZp6?e=l3EBoX">Synthetic Data Generation for Grammatical Error Correction with Tagged Corruption Models</a></i>. Felix Stahlberg and Shankar Kumar. </td>
         </tr>
         <tr>
             <td style="width: 30%">15:20&ndash;15:40</td>
-            <td><i>"Sharks are not the threat humans are": Argument Component Segmentation in School Student Essays</i>. Tariq Alhindi and Debanjan Ghosh. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gTkElhtzw6b_LNvY?e=xdMVp2">"Sharks are not the threat humans are": Argument Component Segmentation in School Student Essays</a></i>. Tariq Alhindi and Debanjan Ghosh. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">15:40&ndash;16:50</td>
@@ -206,11 +206,11 @@ Suggested topics are listed below. We also welcome and urge submission of work i
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold">&nbsp;</td>
-            <td><i>Identifying Negative Language Transfer in Learner Errors Using POS Information</i>. Leticia Farias Wanderley and Carrie Demmans Epp. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gS0vtijkPVm3imEd?e=dIFuiE">Identifying Negative Language Transfer in Learner Errors Using POS Information</a></i>. Leticia Farias Wanderley and Carrie Demmans Epp. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold">&nbsp;</td>
-            <td><i>Document-level Grammatical Error Correction</i>. Zheng Yuan and Christopher Bryant. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gTbuAsusJ-WiORWF?e=IlLhJB">Document-level Grammatical Error Correction</a></i>. Zheng Yuan and Christopher Bryant. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold">&nbsp;</td>
@@ -230,7 +230,7 @@ Suggested topics are listed below. We also welcome and urge submission of work i
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold">&nbsp;</td>
-            <td><i>Virtual Pre-Service Teacher Assessment and Feedback via Conversational Agents</i>. Debajyoti Datta, Maria Phillips, James P. Bywater, Jennifer Chiu, Ginger S. Watson, Laura Barnes, and Donald Brown. </td>
+            <td><i><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gTANh3G5NbHgyHHN?e=88ELU6">Virtual Pre-Service Teacher Assessment and Feedback via Conversational Agents</a></i>. Debajyoti Datta, Maria Phillips, James P. Bywater, Jennifer Chiu, Ginger S. Watson, Laura Barnes, and Donald Brown. </td>
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">16:50&ndash;17:50</td>
@@ -238,7 +238,7 @@ Suggested topics are listed below. We also welcome and urge submission of work i
         </tr>
         <tr>
             <td style="width: 30%; font-weight: bold;">17:50&ndash;18:00</td>
-            <td>Closing Remarks</td>
+            <td><a href="https://1drv.ms/b/s!AnFJWBBU0mI4gTEeJ4gO-g5J6X8t?e=ggjnMq">Closing Remarks</a></td>
         </tr>
     </tbody>
 </table>
