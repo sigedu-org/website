@@ -7,6 +7,9 @@ toc: false
 toc_icon: "cog"
 ---
 
+**April 15, 2021**. The [final schedule](bea/current#schedule) for BEA 2021 is now availale! We look forward to se
+20 {: .notice}
+
 **February 25, 2021**. The decisions for BEA 2021 submissions have been emailed to the authors. Thanks everyone for for your hard work! See [here](/bea/current#accepted-papers) for the list of accepted papers. Camera-ready versions are due March 4th!
 {: .notice}
 

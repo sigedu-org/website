@@ -10,10 +10,10 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>News</h2>
 
-**June 29, 2020**. Thanks everyone for a great virtual BEA workshop! Slides for the workshop presentations are now linked from the [schedule](/bea/current#schedule). If you don't see your slides yet, make sure you [email](mailto:bea.nlp.workshop@gmail.com) them to us.
+**August 4, 2021**. The [results](/blog/election-results/) of the SIGEDU elections have been announced!
 {: .notice--info}
 
-**April 15, 2021**. The [final schedule](bea/current#schedule) for BEA 2021 is now availale! We look forward to seeing everyone at the workshop!
+**June 29, 2021**. Thanks everyone for a great virtual BEA workshop! Slides for the workshop presentations are now linked from the [schedule](/bea/current#schedule). If you don't see your slides yet, make sure you [email](mailto:bea.nlp.workshop@gmail.com) them to us.
 {: .notice}
 
 <div class="text-center">
