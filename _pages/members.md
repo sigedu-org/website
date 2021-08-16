@@ -12,7 +12,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://www.upf.edu/web/ahmed-aburaed">Ahmed Ghassan Tawfiq AbuRa'ed</a>, LaSTUS lab, TALN, UPF University<br/>
 - <a href="https://people.cs.pitt.edu/~tazinafrin/">Tazin Afrin</a>, University of Pittsburgh<br/>
 - Soroosh Akef, Sharif University of Technology<br/>
-- <a href="https://spraakbanken.gu.se/swe/personal/david">David Alfter</a>, University of Gothenburg<br/>
+- <a href="https://spraakbanken.gu.se/swe/personal/david">David Alfter</a>, Université catholique de Louvain<br/>
 - <a href="https://da352.user.srcf.net">Dimitris Alikaniotis</a>,&nbsp;Grammarly<br/>
 - <a href="https://feralvam.github.io">Fernando Alva-Manchego</a>, University of Sheffield<br/>
 - Jason Angel, Instituto Politecnico Nacional<br/>
