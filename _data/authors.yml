@@ -14,13 +14,13 @@ guest:
 jill:
   name        : "Jill Burstein"
   uri         : "https://sites.google.com/site/jbursteinets/"
-  bio         : "President | Director of Research, ETS"
+  bio         : "Executive Board Member | Principal Assessment Scientist, Duolingo"
   avatar      : "assets/images/avatars/general-chair.png"
   twitter     : "JillBurstein"
 
 nitin:
   name        : "Nitin Madnani"
   uri         : "http://desilinguist.org"
-  bio         : "Executive Board Member | Senior Research Scientist, ETS"
+  bio         : "Executive Board Member | Distinguished Research Engineer, ETS"
   avatar      : "https://secure.gravatar.com/avatar/65a5e38cb0ce9a77841d3567fb3cc156.png?r=PG&s=150"
   twitter     : "haikuman"
