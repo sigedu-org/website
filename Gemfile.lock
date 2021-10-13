@@ -121,6 +121,3 @@ DEPENDENCIES
   bundler
   minimal-mistakes-jekyll!
   rake (~> 12.3)
-
-BUNDLED WITH
-   1.16.1
