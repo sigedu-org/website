@@ -34,20 +34,10 @@ It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.githu
 
 GitHub Pages doesn't allow deploying changes in test mode so that they can be previewed before publishing. Therefore, if you want to see what the changes would look like, you need to build the website on your local machine. This section describes two possible options to do that:
 
-## Using Ruby
-
-This requires installing Ruby and various dependencies. If you are having trouble doing so, you may want to use the [Docker-based](#local-testing-with-docker) solution instead.
-
-1. Install bundler: `sudo gem install bundler`. Make sure you have Ruby and Bundler versions > 2.4.
-2. Check out this repository.
-3. Run the gems needed by this repository: `sudo bundle install`. 
-   *Note*: This step might fail when installing the `nokogiri` gem. If this happens, run `bundle config build.nokogiri --use-system-libraries` and then run `bundle install` again.
-4. Start the jekyll server by running `bundle exec jekyll serve`.
-5. You can then see the website at http://localhost:4000.
-
 ## Using Docker
 
-Alternately, if you would prefer using Docker rather than installing and configuring Ruby, that's also possible. 
+The easiest option is to use Docker since that doesn't require you to install
+any dependencies yourself. 
 
 First you need to install Docker.
 
@@ -60,6 +50,17 @@ First you need to install Docker.
 To test your installation, just type: `docker --version` at the terminal/command prompt. A successful install will result in something that looks like: `Docker version 17.05.0-ce, build 89658be`.
 
 Once docker is up and running, you have two options. 
+
+## Using Ruby
+
+This requires installing Ruby and various dependencies. If you are having trouble doing so, you may want to use the Docker-based solution above.
+
+1. Install bundler: `sudo gem install bundler`. Make sure you have Ruby and Bundler versions > 2.4.
+2. Check out this repository.
+3. Run the gems needed by this repository: `sudo bundle install`. 
+   *Note*: This step might fail when installing the `nokogiri` gem. If this happens, run `bundle config build.nokogiri --use-system-libraries` and then run `bundle install` again.
+4. Start the jekyll server by running `bundle exec jekyll serve`.
+5. You can then see the website at http://localhost:4000.
 
 ### Run and Go
 
