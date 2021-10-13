@@ -51,17 +51,6 @@ To test your installation, just type: `docker --version` at the terminal/command
 
 Once docker is up and running, you have two options. 
 
-## Using Ruby
-
-This requires installing Ruby and various dependencies. If you are having trouble doing so, you may want to use the Docker-based solution above.
-
-1. Install bundler: `sudo gem install bundler`. Make sure you have Ruby and Bundler versions > 2.4.
-2. Check out this repository.
-3. Run the gems needed by this repository: `sudo bundle install`. 
-   *Note*: This step might fail when installing the `nokogiri` gem. If this happens, run `bundle config build.nokogiri --use-system-libraries` and then run `bundle install` again.
-4. Start the jekyll server by running `bundle exec jekyll serve`.
-5. You can then see the website at http://localhost:4000.
-
 ### Run and Go
 
 If you need to build the website very infrequently, this option is for you. The following command will help you run the container locally from within the root directory of the project without any intermediate steps:
@@ -85,6 +74,18 @@ where `sigedu/website` is the docker tag for our image. After that command compl
 ```
 docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll sigedu/website
 ```
+
+## Using Ruby
+
+This requires installing Ruby and various dependencies. If you are having trouble doing so, you may want to use the Docker-based solution above.
+
+1. Install bundler: `sudo gem install bundler`. Make sure you have Ruby and Bundler versions > 2.4.
+2. Check out this repository.
+3. Run the gems needed by this repository: `sudo bundle install`. 
+   *Note*: This step might fail when installing the `nokogiri` gem. If this happens, run `bundle config build.nokogiri --use-system-libraries` and then run `bundle install` again.
+4. Start the jekyll server by running `bundle exec jekyll serve`.
+5. You can then see the website at http://localhost:4000.
+
 
 # License
 
