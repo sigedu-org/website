@@ -7,7 +7,7 @@ It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.githu
 # Table of Contents
 
 * [Submitting a Guest Blog Post](#submitting-a-guest-blog-post)
-* [Builidng Locally](#building-locally)
+* [Building Locally](#building-locally)
    * [Using Docker](#using-docker)
       * [Run and Go](#run-and-go)
       * [Build and Reuse](#build-and-reuse)
