@@ -26,6 +26,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Zack Bennett, Turnitin<br/> 
 - Marc Benzahra, LIMSI, Glose<br/>
 - Delphine Bernhard, Université&nbsp;de Strasbourg<br/>
+- Marie Bexte, University of Duisburg-Essen<br/>
 - <a href="https://serge.bibauw.be">Serge Bibauw</a>, KU Leuven &amp; Université catholique de Louvain<br/>
 - <a href="http://www.klintonbicknell.com">Klinton Bicknell</a>, Duolingo<br/>
 - <a href="https://jbingel.github.io">Joachim Bingel</a>, University of Copenhagen<br/>
@@ -58,6 +59,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://www.cdemmansepp.com/">Carrie Demmans Epp</a>, University of Alberta<br/>
 - <a href="people.tcd.ie/devittan">Ann Devitt</a>, Trinity College Dublin<br/>
 - <a href="https://nlp.cs.uic.edu/">Barbara Di Eugenio</a>, University of Illinois at Chicago<br/>
+- <a href="https://scholar.google.com/citations?user=UpSxcSEAAAAJ&hl">Yuning Ding</a>, FernUniversität in Hagen<br/>
 - <a href="www.rahulrdiv.com">Rahul Divekar</a>, Educational Testing Service<br/> 
 - George Dueñas, Universidad Pedagógica Nacional<br/>
 - <a href="https://researchmap.jp/yo_ehara/">Yo Ehara</a>, Shizuoka Institute of Science and Technology<br/>
