@@ -10,10 +10,10 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>News</h2>
 
-**August 4, 2021**. The [results](/blog/election-results/) of the SIGEDU elections have been announced!
+**November 29, 2021**. The [BEA 2022](/bea/2022) workshop will be co-located with [NAACL 2022](https://2022.naacl.org/) in Seattle, Washington, USA. The workshop will take place on either Thursday, July 14 or Friday, July 15, 2022 (TBD). We hope to see you there!
 {: .notice--info}
 
-**June 29, 2021**. Thanks everyone for a great virtual BEA workshop! Slides for the workshop presentations are now linked from the [schedule](/bea/current#schedule). If you don't see your slides yet, make sure you [email](mailto:bea.nlp.workshop@gmail.com) them to us.
+**August 4, 2021**. The [results](/blog/election-results/) of the SIGEDU elections have been announced!
 {: .notice}
 
 <div class="text-center">
