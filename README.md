@@ -8,10 +8,10 @@ It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.githu
 
 * [Submitting a Guest Blog Post](#submitting-a-guest-blog-post)
 * [Building Locally](#building-locally)
-   * [Using Ruby](#using-ruby)
    * [Using Docker](#using-docker)
       * [Run and Go](#run-and-go)
       * [Build and Reuse](#build-and-reuse)
+   * [Using Ruby](#using-ruby)
 * [License](#license)
 
 # Submitting a Guest Blog Post
@@ -34,20 +34,10 @@ It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.githu
 
 GitHub Pages doesn't allow deploying changes in test mode so that they can be previewed before publishing. Therefore, if you want to see what the changes would look like, you need to build the website on your local machine. This section describes two possible options to do that:
 
-## Using Ruby
-
-This requires installing Ruby and various dependencies. If you are having trouble doing so, you may want to use the [Docker-based](#local-testing-with-docker) solution instead.
-
-1. Install bundler: `sudo gem install bundler`. Make sure you have Ruby and Bundler versions > 2.4.
-2. Check out this repository.
-3. Run the gems needed by this repository: `sudo bundle install`. 
-   *Note*: This step might fail when installing the `nokogiri` gem. If this happens, run `bundle config build.nokogiri --use-system-libraries` and then run `bundle install` again.
-4. Start the jekyll server by running `bundle exec jekyll serve`.
-5. You can then see the website at http://localhost:4000.
-
 ## Using Docker
 
-Alternately, if you would prefer using Docker rather than installing and configuring Ruby, that's also possible. 
+The easiest option is to use Docker since that doesn't require you to install
+any dependencies yourself. 
 
 First you need to install Docker.
 
@@ -84,6 +74,18 @@ where `sigedu/website` is the docker tag for our image. After that command compl
 ```
 docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll sigedu/website
 ```
+
+## Using Ruby
+
+This requires installing Ruby and various dependencies. If you are having trouble doing so, you may want to use the Docker-based solution above.
+
+1. Install bundler: `sudo gem install bundler`. Make sure you have Ruby and Bundler versions > 2.4.
+2. Check out this repository.
+3. Run the gems needed by this repository: `sudo bundle install`. 
+   *Note*: This step might fail when installing the `nokogiri` gem. If this happens, run `bundle config build.nokogiri --use-system-libraries` and then run `bundle install` again.
+4. Start the jekyll server by running `bundle exec jekyll serve`.
+5. You can then see the website at http://localhost:4000.
+
 
 # License
 
