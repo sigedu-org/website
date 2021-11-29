@@ -7,19 +7,19 @@ toc: false
 toc_icon: "cog"
 ---
 
-**June 29, 2021**. Thanks everyone for a great virtual BEA workshop! Slides for the workshop presentations are now linked from the [schedule](/bea/current#schedule). If you don't see your slides yet, make sure you [email](mailto:bea.nlp.workshop@gmail.com) them to us.
+**June 29, 2021**. Thanks everyone for a great virtual BEA workshop! Slides for the workshop presentations are now linked from the [schedule](/bea/2021#schedule). If you don't see your slides yet, make sure you [email](mailto:bea.nlp.workshop@gmail.com) them to us.
 {: .notice}
 
-**April 15, 2021**. The [final schedule](bea/current#schedule) for BEA 2021 is now availale! We look forward to seeing you!
+**April 15, 2021**. The [final schedule](/bea/2021#schedule) for BEA 2021 is now availale! We look forward to seeing you!
 {: .notice}
 
-**February 25, 2021**. The decisions for BEA 2021 submissions have been emailed to the authors. Thanks everyone for for your hard work! See [here](/bea/current#accepted-papers) for the list of accepted papers. Camera-ready versions are due March 4th!
+**February 25, 2021**. The decisions for BEA 2021 submissions have been emailed to the authors. Thanks everyone for for your hard work! See [here](/bea/2021#accepted-papers) for the list of accepted papers. Camera-ready versions are due March 4th!
 {: .notice}
 
-**January 18, 2021**. Due to multiple requests, we have extended the [BEA 2021](/bea/current) paper submission deadline to **January 25th, 11:59 pm UTC-12**.
+**January 18, 2021**. Due to multiple requests, we have extended the [BEA 2021](/bea/2021) paper submission deadline to **January 25th, 11:59 pm UTC-12**.
 {: .notice}
 
-**November 27, 2020**. The [BEA 2021](/bea/current) workshop has been accepted and will be co-located with EACL. BEA 2021 will be held entirely online on Tuesday, April 20, 2021. The submission deadline is Monday, January 18, 2021. Looking forward to your submissions!
+**November 27, 2020**. The [BEA 2021](/bea/2021) workshop has been accepted and will be co-located with EACL. BEA 2021 will be held entirely online on Tuesday, April 20, 2021. The submission deadline is Monday, January 18, 2021. Looking forward to your submissions!
 {: .notice}
 
 **July 15, 2020**. Thanks everyone for a great virtual BEA workshop! Slides for the workshop presentations are now linked from the [schedule](/bea/2020#schedule). If you don't see your slides yet, make sure you [email](mailto:bea.nlp.workshop@gmail.com) them to us.
