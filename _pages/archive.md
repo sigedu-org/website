@@ -7,8 +7,11 @@ toc: false
 toc_icon: "cog"
 ---
 
-**April 15, 2021**. The [final schedule](bea/current#schedule) for BEA 2021 is now availale! We look forward to se
-20 {: .notice}
+**June 29, 2021**. Thanks everyone for a great virtual BEA workshop! Slides for the workshop presentations are now linked from the [schedule](/bea/current#schedule). If you don't see your slides yet, make sure you [email](mailto:bea.nlp.workshop@gmail.com) them to us.
+{: .notice}
+
+**April 15, 2021**. The [final schedule](bea/current#schedule) for BEA 2021 is now availale! We look forward to seeing you!
+{: .notice}
 
 **February 25, 2021**. The decisions for BEA 2021 submissions have been emailed to the authors. Thanks everyone for for your hard work! See [here](/bea/current#accepted-papers) for the list of accepted papers. Camera-ready versions are due March 4th!
 {: .notice}
