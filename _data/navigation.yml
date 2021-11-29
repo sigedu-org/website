@@ -18,8 +18,10 @@ main:
 bea:
   - title: BEA Workshops
     children:
-      - title: "2021"
+      - title: "2022"
         url: /bea/current
+      - title: "2021"
+        url: /bea/2021
       - title: "2020"
         url: /bea/2020
       - title: "2019"
