@@ -101,7 +101,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://www.pitt.edu/~pjordan">Pamela Jordan</a>, University of Pittsburgh<br/>
 - <a href="https://sites.google.com/view/njoshi">Nisheeth Joshi</a>, Banasthali VIdyapith<br/>
 - <a href="http://cl.sd.tmu.ac.jp/~kajiwara/cv.pdf">Tomoyuki Kajiwara</a>, Osaka University<br/>
-- <a href="KTH Royal Institute of Technology">Dmytro Kalpakchi</a>, KTH Royal Institute of Technology<br/>
+- <a href="https://dkalpakchi.github.io/">Dmytro Kalpakchi</a>, KTH Royal Institute of Technology<br/>
 - Masahiro Kaneko, Tokyo Metropolitan University<br/>
 - Satoru Katsumata, Tokyo Metropolitan University<br/>
 - <a href="https://www.linkedin.com/in/taahakazi/">Taaha Kazi</a>, Don Bosco Institute of Technology<br/>
