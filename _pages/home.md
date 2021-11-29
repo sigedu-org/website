@@ -10,7 +10,7 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>News</h2>
 
-**November 29, 2021**. The [BEA 2022](/bea/current) workshop has been accepted and will be co-located with [NAACL 2022](https://2022.naacl.org/) in Seattle, Washington, USA. The workshop will take place on either Thursday, July 14 or Friday, July 15, 2022 (TBD). The submission deadline is Friday, April 1, 2021.
+**November 29, 2021**. The [BEA 2022](/bea/current) workshop has been accepted and will be co-located with [NAACL 2022](https://2022.naacl.org/) in Seattle, Washington, USA. The workshop will take place on either Thursday, July 14 or Friday, July 15, 2022 (TBD). The submission deadline is Friday, April 1, 2022.
 {: .notice--info}
 
 **August 4, 2021**. The [results](/blog/election-results/) of the SIGEDU elections have been announced!
