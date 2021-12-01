@@ -86,7 +86,7 @@ We will solicit papers that incorporate NLP methods, including, but not limited 
 
 - **Alexandra Cristea, University of Durham**
 
-  [Alexandra I. Cristea](https://www.durham.ac.uk/staff/alexandra-i-cristea/) is Professor, Deputy Head, Director of Research and Head of the Artificial Intelligence in Human Systems research group in the Department of Computer Science at Durham University. She is Advisory Board Member at the Ustinov College, N8 CIR Digital Humanities team lead for Durham. She is Honorary Professor at the Computer Science Department, Warwick University. Her research includes web science, learning analytics, user modelling and personalisation, semantic web, social web, authoring. Especially, her work on frameworks for adaptive systems has influenced many researchers and is highly cited.
+  [Alexandra I. Cristea](https://www.durham.ac.uk/staff/alexandra-i-cristea/) is Professor, Deputy Head, Director of Research and Head of the Artificial Intelligence in Human Systems research group in the Department of Computer Science at Durham University. She is also an Advisory Board Member at the Ustinov College, the N8 CIR Digital Humanities team lead for Durham, and an Honorary Professor at the Computer Science Department, Warwick University. Her research includes web science, learning analytics, user modelling and personalisation, semantic web, social web, authoring. Her work on frameworks for adaptive systems has especially influenced many researchers and is highly cited.
 
 - **Ambassador paper** (TBC)
 
