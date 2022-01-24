@@ -136,7 +136,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Zitao Liu, TAL AI Lab<br/>
 - <a href="https://zoeyliu18.github.io/">Zoey Liu</a>, Boston College<br/>
 - Peter Ljunglöf, University of Gothenburg<br/>
-- <a href="http://www.aloukina.com">Anastassia Loukina</a>, Educational Testing Service<br/>
+- <a href="http://www.aloukina.com">Anastassia Loukina</a>, Grammarly<br/>
 - Jarrett Lovelett, UCSD<br/>
 - <a href="http://www.personal.psu.edu/xxl13">Xiaofei Lu</a>, Pennsylvania State University<br/>
 - Luca Lugini, University of Pittsburgh<br/>
