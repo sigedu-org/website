@@ -91,7 +91,18 @@ We are extremely grateful to our sponsors for the past workshops: in the recent 
 
   [Alexandra I. Cristea](https://www.durham.ac.uk/staff/alexandra-i-cristea/) is Professor, Deputy Head, Director of Research and Head of the Artificial Intelligence in Human Systems research group in the Department of Computer Science at Durham University. She is also an Advisory Board Member at the Ustinov College, the N8 CIR Digital Humanities team lead for Durham, and an Honorary Professor at the Computer Science Department, Warwick University. Her research includes web science, learning analytics, user modelling and personalisation, semantic web, social web, authoring. Her work on frameworks for adaptive systems has especially influenced many researchers and is highly cited.
 
-- **Ambassador paper** (TBC)
+- **Ambassador paper** James Fiacco, Carnegie Mellon University ([ISLS 2021](https://2021.isls.org/proceedings/))
+
+## Submission Information
+
+We will be using the EACL Submission Guidelines for the BEA Workshop this year. Authors are invited to submit a long paper of up to eight (8) pages of content, plus unlimited references; final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers' comments can be taken into account. We also invite short papers of up to of up to four (4) pages of content, plus unlimited references. Upon acceptance, short papers will be given five (5) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewers’ comments in their final versions.
+Papers which describe systems are also invited to give a demo of their system. If you would like to present a demo in addition to presenting the paper, please make sure to select either "long paper + demo" or "short paper + demo" under "Submission Category" in the START submission page.
+
+Previously published papers cannot be accepted. The submissions will be reviewed by the program committee. As reviewing will be blind, please ensure that papers are anonymous. Self-references that reveal the author’s identity, e.g., "We previously showed (Smith, 1991) ...", should be avoided. Instead, use citations such as “Smith previously showed (Smith, 1991) ...”.
+
+We have also included conflict of interest in the submission form. You should mark all potential reviewers who have been authors on the paper, are from the same research group or institution, or who have seen versions of this paper or discussed it with you.
+
+We will be using the START conference system to manage submissions: [https://www.softconf.com/naacl2022/BEA2022/](https://www.softconf.com/naacl2022/BEA2022/)
 
 ## Important Dates
 
