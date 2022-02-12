@@ -31,7 +31,7 @@ gold:
         </tr>
         <tr>
             <td><strong>Location</strong></td>
-            <td>Online</td>
+            <td>Seattle/hybrid</td>
         </tr>
         <tr>
             <td><strong>Deadline</strong></td>
@@ -56,30 +56,27 @@ gold:
 ## Workshop Description
 
 The BEA Workshop is a leading venue for NLP innovation in the context of educational applications. It is one of the largest one-day workshops in the ACL community with over 100 registered attendees in the past several years. The growing interest in educational applications and a diverse community of researchers involved resulted in the creation of the [Special Interest Group in Educational Applications (SIGEDU)](https://www.aclweb.org/adminwiki/index.php?title=2019Q3_Reports:_SIGEDU) in 2017, which currently has 240 members.
-
-The workshop’s continuing growth highlights the alignment between societal needs and technological advances: for instance, BEA16 in 2021 hosted a panel discussion on New Challenges for Educational Technology in the Time of the Pandemic addressing the pressing issues around COVID19. NLP capabilities can now support an array of learning domains, including writing, speaking, reading, science, and mathematics, as well as the related intra-personal (e.g., self-confidence) and inter-personal (e.g., peer collaboration) skills. Within these areas, the community continues to develop and deploy innovative NLP approaches for use in educational settings. Another breakthrough for educational applications within the CL community is the presence of a number of shared-task competitions organized by the BEA workshop over the past several years, including four shared tasks on grammatical error detection and correction alone. NLP/Education shared tasks have also seen new areas of research, such as the Automated Evaluation of Scientific Writing at BEA11, Native Language Identification at BEA12, Second Language Acquisition Modelling at BEA13, and Complex Word Identification at BEA13. These competitions increased the visibility of, and interest in, our field. 
-
-The 17th BEA workshop will have keynotes by Burr Settles (Duolingo) and Alexandra Cristea (University of Durham), an invited paper presentation by a member of one of the educational societies from the International Alliance to Advance Learning in the Digital Era (IAALDE), oral presentation sessions, a large poster session to maximize the amount of original work presented, and a panel discussion to encourage interaction between workshop participants. We expect that the workshop will continue to highlight novel technologies and opportunities for educational NLP in English as well as other languages. The workshop will solicit both full papers and short papers for either oral or poster presentation. 
-
-We will solicit papers that incorporate NLP methods, including, but not limited to: 
+ 
+The workshop’s continuing growth highlights the alignment between societal needs and technological advances: for instance, BEA16 in 2021 hosted a panel discussion on New Challenges for Educational Technology in the Time of the Pandemic addressing the pressing issues around COVID19. NLP capabilities can now support an array of learning domains, including writing, speaking, reading, science, and mathematics, as well as the related intra-personal (e.g., self-confidence) and inter-personal (e.g., peer collaboration) skills. Within these areas, the community continues to develop and deploy innovative NLP approaches for use in educational settings. Another breakthrough for educational applications within the CL community is the presence of a number of shared-task competitions organized by the BEA workshop over the past several years, including four shared tasks on grammatical error detection and correction alone. NLP/Education shared tasks have also seen new areas of research, such as the Automated Evaluation of Scientific Writing at BEA11, Native Language Identification at BEA12, Second Language Acquisition Modelling at BEA13, and Complex Word Identification at BEA13. These competitions increased the visibility of, and interest in, our field.
+ 
+The 17th BEA workshop will have keynotes by Burr Settles (Duolingo) and Alexandra Cristea (University of Durham), an invited paper presentation by a member of one of the educational societies from the International Alliance to Advance Learning in the Digital Era (IAALDE), oral presentation sessions, a large poster session to maximize the amount of original work presented, and a panel discussion to encourage interaction between workshop participants. We expect that the workshop will continue to highlight novel technologies and opportunities for educational NLP in English as well as other languages. The workshop will solicit both full papers and short papers for either oral or poster presentation.
+ 
+We will solicit papers that incorporate NLP methods, including, but not limited to:
+ 
 - automated scoring of open-ended textual and spoken responses;
 - automated scoring/evaluation for written student responses (across multiple genres);
-- game-based instruction and assessment; 
-- educational data mining; 
-- intelligent tutoring; 
+- game-based instruction and assessment;
+- educational data mining;
+- intelligent tutoring;
 - collaborative learning environments;
-- peer review; 
-- grammatical error detection and correction; 
-- learner cognition; 
-- spoken dialog; 
+- peer review;
+- grammatical error detection and correction;
+- learner cognition;
+- spoken dialog;
 - multimodal applications;
 - annotation standards and schemas;
-- tools and applications for classroom teachers, learners and/or test developers; and 
-- use of corpora in educational tools. 
-
-## Sponsors
-
-We are extremely grateful to our sponsors for the past workshops: in the recent years, we have been supported by [Duolingo](https://duolingo.com/), [Grammarly](https://grammarly.com/), [NBME](https://nbme.org/), [iLexIR](https://ilexir.co.uk/), [Educational Testing Service](https://www.ets.org/), and [Newsela](https://newsela.com/). This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner (in case the workshop runs offline) and offering student grants covering the BEA registration fees. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold sponsorship) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor the BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
+- tools and applications for classroom teachers, learners and/or test developers; and
+- use of corpora in educational tools.
 
 ## Invited Talks
 
@@ -93,17 +90,6 @@ We are extremely grateful to our sponsors for the past workshops: in the recent 
 
 - **Ambassador paper** James Fiacco, Carnegie Mellon University ([ISLS 2021](https://2021.isls.org/proceedings/))
 
-## Submission Information
-
-We will be using the NAACL Submission Guidelines for the BEA Workshop this year. Authors are invited to submit a long paper of up to eight (8) pages of content, plus unlimited references; final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers' comments can be taken into account. We also invite short papers of up to of up to four (4) pages of content, plus unlimited references. Upon acceptance, short papers will be given five (5) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewers’ comments in their final versions.
-Papers which describe systems are also invited to give a demo of their system. If you would like to present a demo in addition to presenting the paper, please make sure to select either "long paper + demo" or "short paper + demo" under "Submission Category" in the START submission page.
-
-Previously published papers cannot be accepted. The submissions will be reviewed by the program committee. As reviewing will be blind, please ensure that papers are anonymous. Self-references that reveal the author’s identity, e.g., "We previously showed (Smith, 1991) ...", should be avoided. Instead, use citations such as “Smith previously showed (Smith, 1991) ...”.
-
-We have also included conflict of interest in the submission form. You should mark all potential reviewers who have been authors on the paper, are from the same research group or institution, or who have seen versions of this paper or discussed it with you.
-
-We will be using the START conference system to manage submissions: [https://www.softconf.com/naacl2022/BEA2022/](https://www.softconf.com/naacl2022/BEA2022/)
-
 ## Important Dates
 
 <span style="font-size: smaller;"><b>Note</b>: These dates are still preliminary and may change. All deadlines are 11:59pm UTC-12 (anywhere on earth).</span>
@@ -112,19 +98,42 @@ We will be using the START conference system to manage submissions: [https://www
 - Submission Deadline: **Friday, April 1, 2022**
 - Notification of Acceptance: **Friday, May 6, 2022**
 - Camera-ready Papers Due: **Friday, May 20, 2022**
-- Workshop: July 14 or 15, 2022
+- Workshop: **Thursday, July 14 or Friday, July 15, 2022 (TBD)**
+
+## Submission Information
+
+We will be using the NAACL Submission Guidelines for the BEA Workshop this year. Authors are invited to submit a long paper of up to eight (8) pages of content, plus unlimited references; final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers’ comments can be taken into account. We also invite short papers of up to four (4) pages of content, plus unlimited references. Upon acceptance, short papers will be given five (5) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewers’ comments in their final versions. Papers which describe systems are also invited to give a demo of their system. If you would like to present a demo in addition to presenting the paper, please make sure to select either “long paper + demo” or “short paper + demo” under “Submission Category” in the START submission page.
+
+Previously published papers cannot be accepted. The submissions will be reviewed by the program committee. As reviewing will be blind, please ensure that papers are anonymous. Self-references that reveal the author’s identity, e.g., “We previously showed (Smith, 1991) …”, should be avoided. Instead, use citations such as “Smith previously showed (Smith, 1991) …”.
+
+We have also included conflict of interest in the submission form. You should mark all potential reviewers who have been authors on the paper, are from the same research group or institution, or who have seen versions of this paper or discussed it with you.
+
+We will be using the START conference system to manage submissions: [https://www.softconf.com/naacl2022/BEA2022/](https://www.softconf.com/naacl2022/BEA2022/)
+
+## Double Submission Policy
+
+We will follow the official ACL double-submission policy. Specifically:
+Papers being submitted both to BEA and another conference or workshop must:
+- Note on the title page the other conference or workshop to which they are being submitted.
+- State on the title page that if the authors choose to present their paper at BEA (assuming it was accepted), then the paper will be withdrawn from other conferences and workshops.
+
+## Sponsors
+
+We are extremely grateful to our sponsors for the past workshops: in the recent years, we have been supported by [Duolingo](https://duolingo.com/), [Grammarly](https://grammarly.com/), [NBME](https://nbme.org/), [iLexIR](https://ilexir.co.uk/), [Educational Testing Service](https://www.ets.org/), and [Newsela](https://newsela.com/). This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner (in case the workshop runs offline) and offering student grants covering the BEA registration fees. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold sponsorship) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor the BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
 
 ## Organizing Committee
 
-- Ekaterina Kochmar, University of Bath
-- Jill Burstein, Duolingo
-- Andrea Horbach, University Duisburg-Essen
-- Ronja Laarmann-Quante, University of Duisburg-Essen
-- Nitin Madnani, Educational Testing Service
-- Anaïs Tack, Stanford University
-- Victoria Yaneva, National Board of Medical Examiners
-- Zheng Yuan, University of Cambridge
-- Torsten Zesch, University of Duisburg-Essen
+- [Ekaterina Kochmar](https://www.cl.cam.ac.uk/~ek358/), University of Bath
+- [Jill Burstein](https://sites.google.com/site/jbursteinets/), Duolingo
+- [Andrea Horbach](https://www.ltl.uni-due.de/team/andrea-horbach/), University Duisburg-Essen
+- [Ronja Laarmann-Quante](https://www.ltl.uni-due.de/team/ronja-laarmann-quante), University of Duisburg-Essen
+- [Nitin Madnani](https://desilinguist.org/), Educational Testing Service
+- [Anaïs Tack](https://anaistack.github.io/), Stanford University
+- [Victoria Yaneva](http://www.victoriayaneva.info/), National Board of Medical Examiners
+- [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/), University of Cambridge
+- [Torsten Zesch](https://www.ltl.uni-due.de/team/torsten-zesch), University of Duisburg-Essen
+
+Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.workshop@gmail.com)
 
 ## Program Committee
 
@@ -135,11 +144,12 @@ We will be using the START conference system to manage submissions: [https://www
 - Jason Angel, IPN - Computing Research Center
 - Piper Armstrong, Brigham Young University
 - Timo Baumann, Universität Hamburg
+- Kay Berkling, Cooperative State University, Germany
 - Lee Becker, Educational Testing Service
 - Beata Beigman Klebanov, ETS
 - Lisa Beinborn, Vrije Universiteit Amsterdam
 - Marie Bexte, University of Duisburg-Essen
-- Suma Bhat, Univ.  of Illinois at Urbana-Champaign
+- Suma Bhat, Univ. of Illinois at Urbana-Champaign
 - Daniel Brenner, ETS
 - Dominique Brunato, Institute for computational linguistics, cnr, pisa
 - Chris Bryant, University of Cambridge
@@ -164,11 +174,13 @@ We will be using the START conference system to manage submissions: [https://www
 - Jennifer-Carmen Frey, Institute for Applied Linguistics, Eurac Research
 - Michael Gamon, Microsoft Research
 - Lingyu Gao, Toyota Technological Institute at Chicago
-- Samuel González-López, Technological University of Nogales 
+- Samuel González-López, Technological University of Nogales
 - Cyril Goutte, National Research Council Canada
 - Floriana Grasso, University of Liverpool
 - Masato Hagiwara, Octanove Labs
+- Na-Rae Han, University of Pittsburgh
 - Jiangang Hao, Educational Testing Service
+- Nicolas Hernandez, Université de Nantes
 - Chung-Chi Huang, Frostburg State University
 - Yi-Ting Huang, Sinica Academia
 - Radu Tudor Ionescu, University of Bucharest
@@ -176,15 +188,16 @@ We will be using the START conference system to manage submissions: [https://www
 - Lis Kanashiro Pereira, Ochanomizu University
 - Elma Kerz, RWTH Aachen University
 - Ekaterina Kochmar, University of Bath
-- Mamoru Komachi, Tokyo Metropolitan University 
+- Mamoru Komachi, Tokyo Metropolitan University
 - Sandra Kuebler, Indiana University
-- Ritesh  Kumar , Dr. Bhimrao Ambedkar University 
+- Ritesh Kumar , Dr. Bhimrao Ambedkar University
 - Kristopher Kyle, University of Oregon
-- Ji-Ung Lee, UKP, Technical University of Darmstadt 
+- Ji-Ung Lee, UKP, Technical University of Darmstadt
 - Hang Li, TAL Education Group
 - Diane Litman, University of Pittsburgh
 - Yudong Liu, Western Washington University
 - Peter Ljunglöf, University of Gothenburg
+- Anastassia Loukina, Grammarly
 - Lieve Macken, Language and Translation Technology Team
 - Irina Maslowski, non-affiliated
 - Sandeep Mathias, Presidency University
@@ -198,9 +211,10 @@ We will be using the START conference system to manage submissions: [https://www
 - Kamel Nebhi, Education First
 - Hwee Tou Ng, National University of Singapore
 - Huy Nguyen, Data Scientist at Amazon
+- Robert Östling, Department of Linguistics, Stockholm University
 - Ulrike Pado, HFT Stuttgart
 - Barbara Plank, IT University of Copenhagen
-- Mengyang Qiu, University at Buffalo 
+- Mengyang Qiu, University at Buffalo
 - Martí Quixal, University of Tübingen
 - Vipul Raheja, Grammarly
 - Lakshmi Ramachandran, Amazon
@@ -211,9 +225,10 @@ We will be using the START conference system to manage submissions: [https://www
 - C. Anton Rytting, University of Maryland, College Park
 - Katherine Stasaski, UC Berkeley
 - Helmer Strik, Radboud University, Nijmegen, The Netherlands
+- Jan Švec, University of West Bohemia
 - Anaïs Tack, Stanford University
 - Shalaka Vaidya, NYU
-- Giulia Venturi, Institute of Computational Linguistics "A. Zampolli" (ILC-CNR), Pisa, Italy
+- Giulia Venturi, Institute of Computational Linguistics “A. Zampolli” (ILC-CNR), Pisa, Italy
 - Naresh Verma, Washington Adventist University
 - Carl Vogel
 - Elena Volodina, University of Gothenburg, Sweden
@@ -224,13 +239,10 @@ We will be using the START conference system to manage submissions: [https://www
 - Michael White, The Ohio State University
 - David Wible
 - Alistair Willis, The Open University, UK
+- Yunkai Xiao, North Carolina State University
 - Yiqiao Xu, North Carolina State University
 - Zheng Yuan, University of Cambridge
 - Marcos Zampieri, Rochester Institute of Technology
 - Klaus Zechner, ETS
 - Fabian Zehner, DIPF / Leibniz Institute for Research and Information in Education
 - Qingyu Zhou, Tencent
-- kay berkling, Cooperative State University, Germany
-- nicolas hernandez, Université de Nantes
-- Robert Östling, Department of Linguistics, Stockholm University
-- Jan Švec, University of West Bohemia
