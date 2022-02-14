@@ -7,6 +7,9 @@ toc: false
 toc_icon: "cog"
 ---
 
+**August 4, 2021**. The [results](/blog/election-results/) of the SIGEDU elections have been announced!
+{: .notice}
+
 **June 29, 2021**. Thanks everyone for a great virtual BEA workshop! Slides for the workshop presentations are now linked from the [schedule](/bea/2021#schedule). If you don't see your slides yet, make sure you [email](mailto:bea.nlp.workshop@gmail.com) them to us.
 {: .notice}
 
