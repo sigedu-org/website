@@ -110,7 +110,7 @@ We have also included conflict of interest in the submission form. You should ma
 
 We will be using the START conference system to manage submissions: https://www.softconf.com/naacl2022/BEA2022/ 
 
-## Double Submission Policy
+## Double Submission Policy
 
 We will follow the official ACL double-submission policy. Specifically:
 Papers being submitted both to BEA and another conference or workshop must:
