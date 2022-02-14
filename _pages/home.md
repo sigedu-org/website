@@ -38,18 +38,21 @@ SIGEDU was founded in 2017 and is ACL's newest SIG. SIGEDU has the following goa
  
 - promote collaboration both within the ACL community as well as between the ACL and other communities working on educational applications.
 
-<h2>BEA 2020</h2>
+<h2>BEA 2022</h2>
 
-The [2020 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](/bea/2020) was held virtually on Friday, July 10, 2020. The [schedule](/bea/2020#schedule) is available on the website and proceedings are also [online](https://www.aclweb.org/anthology/events/ws-2020/#2020bea-1).
+The [2022 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](/bea/current) will be held in Seattle, Washington on July 14 or 15, 2022.
 
 <h3>Organizers</h3>
-Jill Burstein, Educational Testing Service<br/>
-Ekaterina Kochmar, University of Cambridge<br/>
-Claudia Leacock, Grammarly<br/>
-Nitin Madnani, Educational Testing Service<br/>
-Ildikó Pilán, Develop Diverse<br/>
-Helen Yannakoudakis, University of Cambridge<br/>
-Torsten Zesch, University of Duisburg-Essen
+
+- [Ekaterina Kochmar](https://www.cl.cam.ac.uk/~ek358/), University of Bath
+- [Jill Burstein](https://sites.google.com/site/jbursteinets/), Duolingo
+- [Andrea Horbach](https://www.ltl.uni-due.de/team/andrea-horbach/), University Duisburg-Essen
+- [Ronja Laarmann-Quante](https://www.ltl.uni-due.de/team/ronja-laarmann-quante), University of Duisburg-Essen
+- [Nitin Madnani](https://desilinguist.org/), Educational Testing Service
+- [Anaïs Tack](https://anaistack.github.io/), Stanford University
+- [Victoria Yaneva](http://www.victoriayaneva.info/), National Board of Medical Examiners
+- [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/), University of Cambridge
+- [Torsten Zesch](https://www.ltl.uni-due.de/team/torsten-zesch), University of Duisburg-Essen
 
 <h2>Anti-Harassment Policy</h2>
 SIGEDU adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy">ACL Anti-Harassment Policy</a> for the BEA workshops. Any participant of the workshop who experiences harassment or hostile behavior may contact any current member of the <a href="https://www.aclweb.org/portal/about">ACL Executive Committee</a> or contact <a href="mailto:acl@aclweb.org">Priscilla Rasmussen</a>, who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
