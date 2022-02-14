@@ -108,7 +108,7 @@ Previously published papers cannot be accepted. The submissions will be reviewed
 
 We have also included conflict of interest in the submission form. You should mark all potential reviewers who have been authors on the paper, are from the same research group or institution, or who have seen versions of this paper or discussed it with you.
 
-We will be using the START conference system to manage submissions: https://www.softconf.com/naacl2022/BEA2022/ 
+We will be using the START conference system to manage submissions: [https://www.softconf.com/naacl2022/BEA2022/](https://www.softconf.com/naacl2022/BEA2022/)
 
 ## Double Submission Policy
 
