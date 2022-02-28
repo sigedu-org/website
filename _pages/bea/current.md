@@ -125,13 +125,13 @@ We are extremely grateful to our sponsors for the past workshops: in the recent 
 
 - [Ekaterina Kochmar](https://www.cl.cam.ac.uk/~ek358/), University of Bath
 - [Jill Burstein](https://sites.google.com/site/jbursteinets/), Duolingo
-- [Andrea Horbach](https://www.ltl.uni-due.de/team/andrea-horbach/), University Duisburg-Essen
+- [Andrea Horbach](https://www.fernuni-hagen.de/forschung/schwerpunkte/d2l2/team/andrea.horbach.shtml), FernUniversität in Hagen
 - [Ronja Laarmann-Quante](https://www.ltl.uni-due.de/team/ronja-laarmann-quante), University of Duisburg-Essen
 - [Nitin Madnani](https://desilinguist.org/), Educational Testing Service
 - [Anaïs Tack](https://anaistack.github.io/), Stanford University
 - [Victoria Yaneva](http://www.victoriayaneva.info/), National Board of Medical Examiners
 - [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/), University of Cambridge
-- [Torsten Zesch](https://www.ltl.uni-due.de/team/torsten-zesch), University of Duisburg-Essen
+- [Torsten Zesch](https://www.ltl.uni-due.de/team/torsten-zesch), FernUniversität in Hagen
 
 Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.workshop@gmail.com)
 
@@ -237,7 +237,7 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Yiyi Wang, RWS Group (Language Weaver)
 - Zarah Weiss, University of Tübingen
 - Michael White, The Ohio State University
-- David Wible
+- David Wible, National Central University, Taiwan
 - Alistair Willis, The Open University, UK
 - Yunkai Xiao, North Carolina State University
 - Yiqiao Xu, North Carolina State University
