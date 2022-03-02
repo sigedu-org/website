@@ -40,7 +40,7 @@ gold:
         </tr>
         <tr>
             <td><strong>Date</strong></td>
-            <td>July 14 or 15, 2022 (TBD)</td>
+            <td>July 15, 2022</td>
         </tr>   
         <tr>
             <td><strong>Organizers</strong></td>
@@ -98,7 +98,7 @@ We will solicit papers that incorporate NLP methods, including, but not limited 
 - Submission Deadline: **Friday, April 1, 2022**
 - Notification of Acceptance: **Friday, May 6, 2022**
 - Camera-ready Papers Due: **Friday, May 20, 2022**
-- Workshop: **Thursday, July 14 or Friday, July 15, 2022 (TBD)**
+- Workshop: **Friday, July 15, 2022**
 
 ## Submission Information
 

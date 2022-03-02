@@ -13,7 +13,7 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 **February 11, 2022**. The first Call for Papers for the [BEA17](/bea/current) workshop is out. We are looking forward to your submissions!
 {: .notice--info}
 
-**November 29, 2021**. The [BEA 2022](/bea/current) workshop has been accepted and will be co-located with [NAACL 2022](https://2022.naacl.org/) in Seattle, Washington, USA. The workshop will take place on either Thursday, July 14 or Friday, July 15, 2022 (TBD). The submission deadline is Friday, April 1, 2022.
+**November 29, 2021**. The [BEA 2022](/bea/current) workshop has been accepted and will be co-located with [NAACL 2022](https://2022.naacl.org/) in Seattle, Washington, USA. The workshop will take place on Friday, July 15, 2022. The submission deadline is Friday, April 1, 2022.
 {: .notice--info}
 
 <div class="text-center">
