@@ -230,7 +230,7 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Shalaka Vaidya, NYU
 - Giulia Venturi, Institute of Computational Linguistics “A. Zampolli” (ILC-CNR), Pisa, Italy
 - Naresh Verma, Washington Adventist University
-- Carl Vogel
+- Carl Vogel, Trinity College Dublin
 - Elena Volodina, University of Gothenburg, Sweden
 - Xinyu Wang, Riiid Labs
 - Hongfei Wang, Tokyo Metropolitan University
