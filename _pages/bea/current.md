@@ -35,8 +35,7 @@ gold:
         </tr>
         <tr>
             <td><strong>Deadline</strong></td>
-            <td>Friday, April 1, 2022</td>
-            <td></td>
+            <td><s>Friday, April 1, 2022</s><br/>Friday, April 8, 2022 (extended)</td>
         </tr>
         <tr>
             <td><strong>Date</strong></td>
@@ -95,7 +94,7 @@ We will solicit papers that incorporate NLP methods, including, but not limited 
 <span style="font-size: smaller;"><b>Note</b>: These dates are still preliminary and may change. All deadlines are 11:59pm UTC-12 (anywhere on earth).</span>
 {: .notice--danger}
 
-- Submission Deadline: **Friday, April 1, 2022**
+- Submission Deadline: <s>Friday, April 1, 2022</s> **Friday, April 8, 2022**
 - Notification of Acceptance: **Friday, May 6, 2022**
 - Camera-ready Papers Due: **Friday, May 20, 2022**
 - Workshop: **Friday, July 15, 2022**
