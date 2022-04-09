@@ -109,6 +109,10 @@ We have also included conflict of interest in the submission form. You should ma
 
 We will be using the START conference system to manage submissions: [https://www.softconf.com/naacl2022/BEA2022/](https://www.softconf.com/naacl2022/BEA2022/)
 
+### LaTeX and Word Templates
+
+Paper submissions must use the official ACL style templates, which are available from [here](https://github.com/acl-org/acl-style-files). Please follow the paper formatting guidelines general to "*ACL" conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). Authors may not modify these style files or use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
+
 ## Double Submission Policy
 
 We will follow the official ACL double-submission policy. Specifically:
