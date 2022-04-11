@@ -79,9 +79,9 @@ We will solicit papers that incorporate NLP methods, including, but not limited 
 
 ## Invited Talks
 
-- **Burr Settles, Duolingo**
+- **Klinton Bicknell, Duolingo**
 
-  [Burr Settles](http://burrsettles.com/) is Research Director at Duolingo, the world’s largest language-learning platform. He is also the author of "Active Learning," a text on adaptive machine learning algorithms. His research has been published in Cognitive Science, NeurIPS, ICML, ACL, EMNLP, AAAI, and KDD, and has been covered by The New York Times, Forbes, WIRED, and the BBC. Previously, Burr was a postdoc at Carnegie Mellon and earned a PhD from UW-Madison.
+  [Klinton Bicknell](https://www.klintonbicknell.com) is a staff research scientist at Duolingo, where he co-leads the Learning AI Lab. He works at the intersection of machine learning and cognitive science, and his research has been published in venues including ACL, PNAS, NAACL, Psychological Science, EDM, CogSci, and Cognition. Prior to Duolingo, he was an assistant professor at Northwestern University.
 
 - **Alexandra Cristea, University of Durham**
 
