@@ -34,7 +34,7 @@ the SIGEDU team
 
 - **The 14th Workshop on Innovative Use of NLP for Building Educational Applications (BEA14)**
 - **Location**: Florence, Italy; August 2, 2019 (co-located with ACL)
-- **Website**: [https://sig-edu.org/bea/current](https://sig-edu.org/bea/current)
+- **Website**: [https://sig-edu.org/bea/2019](https://sig-edu.org/bea/2019)
 - **Submission Deadline**: Friday, April 26, 2019, 11:59pm EST
 
 ### Workshop Description

@@ -10,10 +10,10 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 <h2>News</h2>
 
-**February 11, 2022**. The first Call for Papers for the [BEA17](/bea/current) workshop is out. We are looking forward to your submissions!
+**February 11, 2022**. The first Call for Papers for the [BEA17](/bea/2022) workshop is out. We are looking forward to your submissions!
 {: .notice--info}
 
-**November 29, 2021**. The [BEA 2022](/bea/current) workshop has been accepted and will be co-located with [NAACL 2022](https://2022.naacl.org/) in Seattle, Washington, USA. The workshop will take place on Friday, July 15, 2022. The submission deadline is <s>Friday, April 1</s> extended to Friday, April 8, 2022.
+**November 29, 2021**. The [BEA 2022](/bea/2022) workshop has been accepted and will be co-located with [NAACL 2022](https://2022.naacl.org/) in Seattle, Washington, USA. The workshop will take place on Friday, July 15, 2022. The submission deadline is <s>Friday, April 1</s> extended to Friday, April 8, 2022.
 {: .notice--info}
 
 <div class="text-center">
@@ -40,7 +40,7 @@ SIGEDU was founded in 2017 and is ACL's newest SIG. SIGEDU has the following goa
 
 <h2>BEA 2022</h2>
 
-The [2022 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](/bea/current) will be held in Seattle, Washington on July 14 or 15, 2022.
+The [2022 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](/bea/2022) will be held in Seattle, Washington on Friday, July 15, 2022.
 
 <h3>Organizers</h3>
 
