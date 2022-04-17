@@ -8,6 +8,7 @@ PATH
       jekyll-gist (~> 1.5)
       jekyll-include-cache (~> 0.1)
       jekyll-paginate (~> 1.1)
+      jekyll-redirect-from
       jekyll-sitemap (~> 1.2)
       jemoji (~> 0.10)
       kramdown-parser-gfm
@@ -62,6 +63,8 @@ GEM
     jekyll-include-cache (0.2.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-paginate (1.1.0)
+    jekyll-redirect-from (0.16.0)
+      jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-sitemap (1.4.0)
@@ -121,3 +124,6 @@ DEPENDENCIES
   bundler
   minimal-mistakes-jekyll!
   rake (~> 12.3)
+
+BUNDLED WITH
+   2.2.29
