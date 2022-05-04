@@ -94,7 +94,7 @@ We will solicit papers that incorporate NLP methods, including, but not limited 
 {: .notice--danger}
 
 - Submission Deadline: <s>Friday, April 1, 2022</s> **Friday, April 8, 2022**
-- Notification of Acceptance: **Friday, May 6, 2022**
+- Notification of Acceptance: <s>Friday, May 6, 2022</s> **Tuesday, May 10, 2022**
 - Camera-ready Papers Due: **Friday, May 20, 2022**
 - Workshop: **Friday, July 15, 2022**
 
