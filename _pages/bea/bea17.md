@@ -90,7 +90,10 @@ We will solicit papers that incorporate NLP methods, including, but not limited 
 
 ## Important Dates
 
-<span style="font-size: smaller;"><b>Note</b>: These dates are still preliminary and may change. All deadlines are 11:59pm UTC-12 (anywhere on earth).</span>
+<!---
+These dates are still preliminary and may change. 
+-->
+<span style="font-size: smaller;"><b>Note</b>: All deadlines are 11:59pm UTC-12 (anywhere on earth).</span>
 {: .notice--danger}
 
 - Submission Deadline: <s>Friday, April 1, 2022</s> **Friday, April 8, 2022**
