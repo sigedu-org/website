@@ -141,8 +141,10 @@ These dates are still preliminary and may change.
 
 ## Registration
 
-If you wish to attend the workshop, you must register with the NAACL conference and select BEA from the list of offered workshops. More information can be found [here](https://2022.naacl.org/registration/). There is no need to have a paper accepted. The workshop is open to anyone who wishes to attend. 
+At least one author of each accepted paper must register by the early registration deadline.
+{: .notice--danger}
 
+If you wish to attend the workshop, you must register with the NAACL conference and select BEA from the list of offered workshops. More information can be found [here](https://2022.naacl.org/registration/). There is no need to have a paper accepted. The workshop is open to anyone who wishes to attend. 
 
 ## Submission Information
 
