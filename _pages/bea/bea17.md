@@ -76,7 +76,9 @@ We will solicit papers that incorporate NLP methods, including, but not limited 
 - tools and applications for classroom teachers, learners and/or test developers; and
 - use of corpora in educational tools.
 
-## Invited Talks
+## Workshop Program
+
+### Invited Talks
 
 - **Klinton Bicknell, Duolingo**
 
@@ -88,7 +90,7 @@ We will solicit papers that incorporate NLP methods, including, but not limited 
 
 - **Ambassador paper** James Fiacco, Carnegie Mellon University ([ISLS 2021](https://2021.isls.org/proceedings/))
 
-## Accepted Papers
+### Accepted Papers
 
 We received 66 submissions and accepted 31 papers (acceptance rate: 47%).
 
@@ -136,6 +138,11 @@ These dates are still preliminary and may change.
 - Notification of Acceptance: <s>Friday, May 6, 2022</s> **Tuesday, May 10, 2022**
 - Camera-ready Papers Due: **Friday, May 20, 2022**
 - Workshop: **Friday, July 15, 2022**
+
+## Registration
+
+If you wish to attend the workshop, you must register with the NAACL conference and select BEA from the list of offered workshops. More information can be found [here](https://2022.naacl.org/registration/). There is no need to have a paper accepted. The workshop is open to anyone who wishes to attend. 
+
 
 ## Submission Information
 
