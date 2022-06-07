@@ -80,15 +80,45 @@ We will solicit papers that incorporate NLP methods, including, but not limited 
 
 ### Invited Talks
 
-- **Klinton Bicknell, Duolingo**
+The workshop will have **two keynote presentations** and **one ambassador paper presentation** from the 2021 Annual Meeting of the [ISLS](https://www.isls.org) (International Society of the Learning Sciences), a member society of the [IAALDE](https://alliancelss.com) (International Alliance to Advance Learning in the Digital Era).
 
-  [Klinton Bicknell](https://www.klintonbicknell.com) is a staff research scientist at Duolingo, where he co-leads the Learning AI Lab. He works at the intersection of machine learning and cognitive science, and his research has been published in venues including ACL, PNAS, NAACL, Psychological Science, EDM, CogSci, and Cognition. Prior to Duolingo, he was an assistant professor at Northwestern University.
+---
 
-- **Alexandra Cristea, University of Durham**
+#### ![Keynote](https://img.shields.io/badge/%20-KEYNOTE-orange?style=flat-square) <a name="#klinton-bicknell" style="visibility: hidden;">K. Bicknell (Duolingo)</a> 
 
-  [Alexandra I. Cristea](https://www.durham.ac.uk/staff/alexandra-i-cristea/) is Professor, Deputy Head, Director of Research and Head of the Artificial Intelligence in Human Systems research group in the Department of Computer Science at Durham University. She is also an Advisory Board Member at the Ustinov College, the N8 CIR Digital Humanities team lead for Durham, and an Honorary Professor at the Computer Science Department, Warwick University. Her research includes web science, learning analytics, user modelling and personalisation, semantic web, social web, authoring. Her work on frameworks for adaptive systems has especially influenced many researchers and is highly cited.
+**Klinton Bicknell**, Duolingo<br>
+<i>Title TBA</i>
 
-- **Ambassador paper** James Fiacco, Carnegie Mellon University ([ISLS 2021](https://2021.isls.org/proceedings/))
+**Abstract:** TBA
+{: .notice--primary}
+  
+**Bio:** [Klinton Bicknell](https://www.klintonbicknell.com) is a staff research scientist at Duolingo, where he co-leads the Learning AI Lab. He works at the intersection of machine learning and cognitive science, and his research has been published in venues including ACL, PNAS, NAACL, Psychological Science, EDM, CogSci, and Cognition. Prior to Duolingo, he was an assistant professor at Northwestern University.
+{: .notice}
+
+---
+
+#### ![Keynote](https://img.shields.io/badge/%20-KEYNOTE-orange?style=flat-square) <a name="#alexandra-cristea" style="visibility: hidden;">A. Cristea (Durham University)</a>  
+
+**Alexandra Cristea**, Durham University <br>
+<i>Title TBA</i>
+
+**Abstract:** TBA
+{: .notice--primary}
+
+**Bio:** [Alexandra I. Cristea](https://www.durham.ac.uk/staff/alexandra-i-cristea/) is Professor, Deputy Head, Director of Research and Head of the Artificial Intelligence in Human Systems research group in the Department of Computer Science at Durham University. She is also an Advisory Board Member at the Ustinov College, the N8 CIR Digital Humanities team lead for Durham, and an Honorary Professor at the Computer Science Department, Warwick University. Her research includes web science, learning analytics, user modelling and personalisation, semantic web, social web, authoring. Her work on frameworks for adaptive systems has especially influenced many researchers and is highly cited.
+{: .notice}
+
+---
+
+#### <a href="https://2021.isls.org/proceedings/">![Ambassador Paper](https://img.shields.io/badge/ISLS%202021-AMBASSADOR%20PAPER-orange?style=flat-square)</a> <a name="#james-fiacco" style="visibility: hidden;">J. Fiacco (CMU)</a> 
+
+**James Fiacco**, Carnegie Mellon University <br/>
+<i>Taking Transactivity to the Next Level</i>
+
+**Abstract:** Transactivity is a valued collaborative process, which has been associated with elevated learning gains, collaborative product quality, and knowledge transfer within teams. Dynamic forms of collaboration support have made use of real time monitoring of transactivity, and automation of its analysis has been affirmed as valuable to the field. Early models were able to achieve high reliability within restricted domains. More recent approaches have achieved a level of generality across learning domains. In this study, we investigate generalizability of models developed primarily in computer science courses to a new student population, namely, masters students in a leadership course, where we observe strikingly different patterns of transactive exchange than in prior studies. This difference prompted both a reformulation of the coding standards and innovation in the modeling approach, both of which we report on here.
+  {: .notice--primary}
+
+---
 
 ### Accepted Papers
 
@@ -126,6 +156,30 @@ We received 66 submissions and accepted 31 papers (acceptance rate: 47%).
 - *Towards an open-domain chatbot for language practice*, Gladys Tyen, Mark Brenchley, Andrew Caines and Paula Buttery
 - *Using Item Response Theory to Measure Gender and Racial Bias of a BERT-based Automated English Speech Assessment System*, Alexander Kwako, Yixin Wan, Jieyu Zhao, Kai-Wei Chang, Li Cai and Mark Hansen
 
+<!-- ### Schedule
+
+| July 15, 2022 |
+| ------------- |
+| 08:30–09:00 | Loading of Oral Presentations |
+| 09:00-09:15 | Opening remarks        |
+| 09:15–10:00 | Keynote by Alexandra Cristea |
+| 10:00–10:30 | Ambassador paper | 
+| 10:30–11:00 | Coffee Break |
+| ------------- |
+| 11:00-12:30 | Oral Presentations |
+| 11:00–11:25 | Long paper 1 |
+| 11:25–11:50 | Long paper 2 |
+| 11:50–12:10 | Short paper 1 |
+| 12:10–12:30 | Short paper 2 |
+| 12:30–14:00 | Lunch |
+| 14:00–14:45 | Poster Session |
+| 14:00–14:45 | Poster Session A |
+| 14:45–15:30 | Poster Session B |
+| 15:30–16:00 | Mid-Afternoon Snacks |
+| 16:00–16:45 | Keynote by Klinton Bicknell |
+| 17:45–17:00 | Closing remarks |
+| 19:00–22:00 | Social (dinner) | -->
+
 ## Important Dates
 
 <!---
@@ -141,10 +195,7 @@ These dates are still preliminary and may change.
 
 ## Registration
 
-At least one author of each accepted paper must register by the early registration deadline.
-{: .notice--danger}
-
-If you wish to attend the workshop, you must register with the NAACL conference and select BEA from the list of offered workshops. More information can be found [here](https://2022.naacl.org/registration/). There is no need to have a paper accepted. The workshop is open to anyone who wishes to attend. 
+If you wish to attend the workshop, you must register with the NAACL conference and select BEA from the list of offered workshops. More information can be found [here](https://2022.naacl.org/registration/). There is no need to have a paper accepted. The workshop is open to anyone who wishes to attend. **Importantly, at least one author of each accepted paper must register.**
 
 ## Submission Information
 
