@@ -87,12 +87,12 @@ The workshop will have **two keynote presentations** and **one ambassador paper 
 #### ![Keynote](https://img.shields.io/badge/%20-KEYNOTE-orange?style=flat-square) <a name="#klinton-bicknell" style="visibility: hidden;">K. Bicknell (Duolingo)</a> 
 
 **Klinton Bicknell**, Duolingo<br>
-<i>Title TBA</i>
+<i>ML and NLP for Language Learning at Scale</i>
 
-**Abstract:** TBA
+**Abstract:** As scalable learning technologies become ubiquitous, it generates a large amount of student data, which can be used with machine learning and NLP to develop new instructional technologies, such as personalized practice schedules and adaptive lessons. Additionally, machine learning and NLP are uniquely poised to solve the problems inherent in scaling language instruction to a large number of languages and courses. In this talk, I will describe several projects illustrating these two uses of ML and NLP in language learning at scale at Duolingo – the world’s largest language education platform with over 100 courses and around 40 million monthly active learners.
 {: .notice--primary}
   
-**Bio:** [Klinton Bicknell](https://www.klintonbicknell.com) is a staff research scientist at Duolingo, where he co-leads the Learning AI Lab. He works at the intersection of machine learning and cognitive science, and his research has been published in venues including ACL, PNAS, NAACL, Psychological Science, EDM, CogSci, and Cognition. Prior to Duolingo, he was an assistant professor at Northwestern University.
+**Bio:** [Klinton Bicknell](https://www.klintonbicknell.com) is a staff research scientist at Duolingo, where he leads the Learning AI Lab. He works at the intersection of machine learning and cognitive science, and his research has been published in venues including ACL, PNAS, NAACL, Psychological Science, EDM, CogSci, and Cognition. Prior to Duolingo, he was an assistant professor at Northwestern University.
 {: .notice}
 
 ---
