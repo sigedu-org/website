@@ -100,9 +100,20 @@ The workshop will have **two keynote presentations** and **one ambassador paper 
 #### ![Keynote](https://img.shields.io/badge/%20-KEYNOTE-orange?style=flat-square) <a name="#alexandra-cristea" style="visibility: hidden;">A. Cristea (Durham University)</a>  
 
 **Alexandra Cristea**, Durham University <br>
-<i>Title TBA</i>
+<i>Aspects of Learning Analytics</i>
 
-**Abstract:** TBA
+**Abstract:** My favourite definition of Learning Analytics (LA) is Eric Duval’s: LA means 
+”collecting traces that learners leave behind and using those traces to improve 
+learning.”, and I’ll tell you more about why during my talk.  Whilst the term LA 
+was coined relatively recently (2011), it is a growing area of interest, with 
+immediate practical application, albeit a growing research area at the same 
+time, bringing together many classic as well as cutting edge methodologies, such
+as statistics, data mining, machine learning (including deep learning), network 
+analysis and visualisation. This talk will bring together an understanding of LA as 
+an emerging discipline and research area, as well as new research directions in 
+LA, such as applications in gamification, explainable AI, predicting certification of
+students, urgent instructor intervenion (where we do use a bit of NLP), and 
+further predict the development and maturity of this area as a whole.
 {: .notice--primary}
 
 **Bio:** [Alexandra I. Cristea](https://www.durham.ac.uk/staff/alexandra-i-cristea/) is Professor, Deputy Head, Director of Research and Head of the Artificial Intelligence in Human Systems research group in the Department of Computer Science at Durham University. She is also an Advisory Board Member at the Ustinov College, the N8 CIR Digital Humanities team lead for Durham, and an Honorary Professor at the Computer Science Department, Warwick University. Her research includes web science, learning analytics, user modelling and personalisation, semantic web, social web, authoring. Her work on frameworks for adaptive systems has especially influenced many researchers and is highly cited.
