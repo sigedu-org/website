@@ -183,32 +183,32 @@ We received 66 submissions and accepted 31 papers (acceptance rate: 47%).
 | **12:00–13:30** | **Lunch** |
 | **13:30–15:00** | **Poster Sessions** |
 | 13:30–14:15 | Poster Session A |
-| |	*Using Item Response Theory to Measure Gender and Racial Bias of a BERT-based Automated English Speech Assessment System* (Alexander Kwako, Yixin Wan, Jieyu Zhao, Kai-Wei Chang, Li Cai and Mark Hansen) – ?
-| | *Mitigating Learnerese Effects for CEFR Classification* (Rricha Jalota, Peter Bourgonje, Jan van Sas and Huiyan Huang) – ? |
-| | *Generation of Synthetic Error Data of Verb Order Errors for Swedish* (Judit Casademont Moner and Elena Volodina) – Remote (recording) |
-| | *Cross-corpora experiments of automatic proficiency assessment and error detection for spoken English* (Stefano Bannò and Marco Matassoni) – Remote (recording) |
+| |	*Using Item Response Theory to Measure Gender and Racial Bias of a BERT-based Automated English Speech Assessment System* (Alexander Kwako, Yixin Wan, Jieyu Zhao, Kai-Wei Chang, Li Cai and Mark Hansen) – Remote |
+| | *Mitigating Learnerese Effects for CEFR Classification* (Rricha Jalota, Peter Bourgonje, Jan van Sas and Huiyan Huang) |
+| | *Generation of Synthetic Error Data of Verb Order Errors for Swedish* (Judit Casademont Moner and Elena Volodina) – Remote |
+| | *Cross-corpora experiments of automatic proficiency assessment and error detection for spoken English* (Stefano Bannò and Marco Matassoni) – Remote |
 | | *Activity focused Speech Recognition of Preschool Children in Early Childhood Classrooms* (Satwik Dutta, Dwight Irvin, Jay Buzhardt and John H.L. Hansen) – In person |
-| | *Structural information in mathematical formulas for exercise difficulty prediction: a comparison of NLP representations* (Ekaterina Loginova and Dries F. Benoit) – Remote (recording + Zoom) |
+| | *Structural information in mathematical formulas for exercise difficulty prediction: a comparison of NLP representations* (Ekaterina Loginova and Dries F. Benoit) – Remote |
 | | *Similarity-Based Content Scoring - How to Make S-BERT Keep Up With BERT* (Marie Bexte, Andrea Horbach and Torsten Zesch) – Remote (recording) |
 | | *Don’t Drop the Topic - The Role of the Prompt in Argument Identification in Student Writing* (Yuning Ding, Marie Bexte and Andrea Horbach) – In person |
-| | *ALEN App: Argumentative Writing Support To Foster English Language Learning* (Thiemo Wambsganss, Andrew Caines and Paula Buttery) – Remote (Zoom) |
+| | *ALEN App: Argumentative Writing Support To Foster English Language Learning* (Thiemo Wambsganss, Andrew Caines and Paula Buttery) – Remote |
 | | *Assessing sentence readability for German language learners with broad linguistic modeling or readability formulas: When do linguistic insights make a difference?* (Zarah Weiss and Detmar Meurers) – In person |
-| | *‘Meet me at the ribary’ – Acceptability of spelling variants in free-text answers to listening comprehension prompts* (Ronja Laarmann-Quante, Leska Schwarz, Andrea Horbach and Torsten Zesch) – Remote (recording) |
-| | *Educational Tools for Mapuzugun* (Cristian Ahumada, Claudio Gutierrez and Antonios Anastasopoulos) – ? |
+| | *‘Meet me at the ribary’ – Acceptability of spelling variants in free-text answers to listening comprehension prompts* (Ronja Laarmann-Quante, Leska Schwarz, Andrea Horbach and Torsten Zesch) – Remote |
+| | *Educational Tools for Mapuzugun* (Cristian Ahumada, Claudio Gutierrez and Antonios Anastasopoulos) |
 | | *Response Construct Tagging: NLP-Aided Assessment for Engineering Education* (Ananya Ganesh, Hugh Scribner, Jasdeep Singh, Katherine Goodman, Jean Hertzberg and Katharina Kann) – In person |
 | | *Incremental Disfluency Detection for Spoken Learner English* (Lucy Skidmore and Roger Moore) – In person |
 | 14:15–15:00 | Poster Session B |
 | | *Automatic scoring of short answers using justification cues estimated by BERT* (Shunya Takano and Osamu Ichikawa) – Remote (recording) |
-| | *A Baseline Readability Model for Cebuano* (Joseph Marvin Imperial, Lloyd Lois Antonie Reyes, Michael Antonio Ibanez, Ranz Sapinit and Mohammed Hussien) – Remote (recording + Zoom) |
+| | *A Baseline Readability Model for Cebuano* (Joseph Marvin Imperial, Lloyd Lois Antonie Reyes, Michael Antonio Ibanez, Ranz Sapinit and Mohammed Hussien) – Remote |
 | | *A Dependency Treebank of Spoken Second Language English* (Kristopher Kyle, Masaki Eguchi, Aaron Miller and Theodore Sither) – In person |
-| | *Starting from "Zero'': An Incremental Zero-shot Learning Approach for Assessing Peer Feedback Comments* (Qinjin Jia, Yupeng Cao and Edward F. Gehringer) – Remote (recording) |
+| | *Starting from "Zero'': An Incremental Zero-shot Learning Approach for Assessing Peer Feedback Comments* (Qinjin Jia, Yupeng Cao and Edward F. Gehringer) – Remote |
 | | *Automatic True/False Question Generation for Educational Purpose* (Bowei Zou, Pengfei Li, Liangming Pan and Ai Ti Aw) – Remote (recording) |
-| | *Fine-tuning Transformers with Additional Context to Classify Discursive Moves in Mathematics Classrooms* (Abhijit Suresh, Jennifer Jacobs, Margaret Perkoff, James H. Martin and Tamara Sumner) – ? |
+| | *Fine-tuning Transformers with Additional Context to Classify Discursive Moves in Mathematics Classrooms* (Abhijit Suresh, Jennifer Jacobs, Margaret Perkoff, James H. Martin and Tamara Sumner) |
 | | *Parametrizable exercise generation from authentic texts: Effectively targeting the language means on the curriculum* (Tanja Heck and Detmar Meurers) – In person |
 | | *Selecting Context Clozes for Lightweight Reading Compliance* (Greg Keim and Michael Littman) – In person |
 | | *An Evaluation of Binary Comparative Lexical Complexity Models* (Kai North, Marcos Zampieri and Matthew Shardlow) – Remote (recording + Zoom) |
-| | *Toward Automatic Discourse Parsing of Student Writing Motivated by Neural Interpretation* (James Fiacco, Shiyan Jiang, David Adamson and Carolyn Rosé) – ? |
-| | *Computationally Identifying Funneling and Focusing Questions in Classroom Discourse* (Sterling Alic, Dorottya Demszky, Zid Mancenido, Jing Liu, Heather Hill and Dan Jurafsky) – ? |
+| | *Toward Automatic Discourse Parsing of Student Writing Motivated by Neural Interpretation* (James Fiacco, Shiyan Jiang, David Adamson and Carolyn Rosé) |
+| | *Computationally Identifying Funneling and Focusing Questions in Classroom Discourse* (Sterling Alic, Dorottya Demszky, Zid Mancenido, Jing Liu, Heather Hill and Dan Jurafsky) |
 | | *Towards an open-domain chatbot for language practice* (Gladys Tyen, Mark Brenchley, Andrew Caines and Paula Buttery) – In person |
 | | *Towards Automatic Short Answer Assessment for Finnish as a Paraphrase Retrieval Task* (Li-Hsin Chang, Jenna Kanerva and Filip Ginter) – In person |
 | **15:00–15:30** | **Mid-Afternoon Snacks** |
