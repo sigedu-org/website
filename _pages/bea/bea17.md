@@ -203,12 +203,12 @@ We received 66 submissions and accepted 31 papers (acceptance rate: 47%).
 | | *A Dependency Treebank of Spoken Second Language English* (Kristopher Kyle, Masaki Eguchi, Aaron Miller and Theodore Sither) – In person |
 | | *Starting from "Zero'': An Incremental Zero-shot Learning Approach for Assessing Peer Feedback Comments* (Qinjin Jia, Yupeng Cao and Edward F. Gehringer) – Remote |
 | | *Automatic True/False Question Generation for Educational Purpose* (Bowei Zou, Pengfei Li, Liangming Pan and Ai Ti Aw) – Remote (recording) |
-| | *Fine-tuning Transformers with Additional Context to Classify Discursive Moves in Mathematics Classrooms* (Abhijit Suresh, Jennifer Jacobs, Margaret Perkoff, James H. Martin and Tamara Sumner) |
+| | *Fine-tuning Transformers with Additional Context to Classify Discursive Moves in Mathematics Classrooms* (Abhijit Suresh, Jennifer Jacobs, Margaret Perkoff, James H. Martin and Tamara Sumner) – In person |
 | | *Parametrizable exercise generation from authentic texts: Effectively targeting the language means on the curriculum* (Tanja Heck and Detmar Meurers) – In person |
 | | *Selecting Context Clozes for Lightweight Reading Compliance* (Greg Keim and Michael Littman) – In person |
 | | *An Evaluation of Binary Comparative Lexical Complexity Models* (Kai North, Marcos Zampieri and Matthew Shardlow) – Remote (recording + Zoom) |
-| | *Toward Automatic Discourse Parsing of Student Writing Motivated by Neural Interpretation* (James Fiacco, Shiyan Jiang, David Adamson and Carolyn Rosé) |
-| | *Computationally Identifying Funneling and Focusing Questions in Classroom Discourse* (Sterling Alic, Dorottya Demszky, Zid Mancenido, Jing Liu, Heather Hill and Dan Jurafsky) |
+| | *Toward Automatic Discourse Parsing of Student Writing Motivated by Neural Interpretation* (James Fiacco, Shiyan Jiang, David Adamson and Carolyn Rosé) – In person |
+| | *Computationally Identifying Funneling and Focusing Questions in Classroom Discourse* (Sterling Alic, Dorottya Demszky, Zid Mancenido, Jing Liu, Heather Hill and Dan Jurafsky) – In person |
 | | *Towards an open-domain chatbot for language practice* (Gladys Tyen, Mark Brenchley, Andrew Caines and Paula Buttery) – In person |
 | | *Towards Automatic Short Answer Assessment for Finnish as a Paraphrase Retrieval Task* (Li-Hsin Chang, Jenna Kanerva and Filip Ginter) – In person |
 | **15:00–15:30** | **Mid-Afternoon Snacks** |
