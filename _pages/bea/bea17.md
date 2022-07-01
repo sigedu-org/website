@@ -170,6 +170,7 @@ We received 66 submissions and accepted 31 papers (acceptance rate: 47%).
 ### Schedule
 
 | | July 15, 2022 (General Time in PDT, GMT-7)   |
+| | **Location:** 501 - Chiwawa                  |
 |:--------------- | ----------------------------- |
 | **08:30-09:00** | **Loading of Oral Presentations** |
 | **09:00-09:15** | **Opening remarks** |
