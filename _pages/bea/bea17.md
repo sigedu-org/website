@@ -183,6 +183,7 @@ We received 66 submissions and accepted 31 papers (acceptance rate: 47%).
 | 11:40–12:00 | *Educational Multi-Question Generation for Reading Comprehension* (Manav Rathod, Tony Tu and Katherine Stasaski) – In person |
 | **12:00–13:30** | **Lunch** |
 | **13:30–15:00** | **Poster Sessions** |
+|                 | **Location:** Regency ballroom / GatherTown |
 | 13:30–14:15 | Poster Session A |
 | |	*Using Item Response Theory to Measure Gender and Racial Bias of a BERT-based Automated English Speech Assessment System* (Alexander Kwako, Yixin Wan, Jieyu Zhao, Kai-Wei Chang, Li Cai and Mark Hansen) – Remote |
 | | *Mitigating Learnerese Effects for CEFR Classification* (Rricha Jalota, Peter Bourgonje, Jan van Sas and Huiyan Huang) |
