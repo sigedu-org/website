@@ -196,7 +196,7 @@ We received 66 submissions and accepted 31 papers (acceptance rate: 47%).
 | | *ALEN App: Argumentative Writing Support To Foster English Language Learning* (Thiemo Wambsganss, Andrew Caines and Paula Buttery) – Remote |
 | | *Assessing sentence readability for German language learners with broad linguistic modeling or readability formulas: When do linguistic insights make a difference?* (Zarah Weiss and Detmar Meurers) – In person |
 | | *‘Meet me at the ribary’ – Acceptability of spelling variants in free-text answers to listening comprehension prompts* (Ronja Laarmann-Quante, Leska Schwarz, Andrea Horbach and Torsten Zesch) – Remote |
-| | *Educational Tools for Mapuzugun* (Cristian Ahumada, Claudio Gutierrez and Antonios Anastasopoulos) |
+| | *Educational Tools for Mapuzugun* (Cristian Ahumada, Claudio Gutierrez and Antonios Anastasopoulos) – In person |
 | | *Response Construct Tagging: NLP-Aided Assessment for Engineering Education* (Ananya Ganesh, Hugh Scribner, Jasdeep Singh, Katherine Goodman, Jean Hertzberg and Katharina Kann) – In person |
 | | *Incremental Disfluency Detection for Spoken Learner English* (Lucy Skidmore and Roger Moore) – In person |
 | 14:15–15:00 | Poster Session B |
@@ -216,7 +216,7 @@ We received 66 submissions and accepted 31 papers (acceptance rate: 47%).
 | **15:00–15:30** | **Mid-Afternoon Snacks** |
 | **15:30–16:00** | **Ambassador paper by James Fiacco** <br> *Taking Transactivity to the Next Level* |
 | **16:00–16:45** | **Keynote by Klinton Bicknell** <br> *ML and NLP for Language Learning at Scale* |
-| **17:45–17:00** | **Closing remarks** |
+| **16:45–17:00** | **Closing remarks** |
 | **19:00–22:00** | **Workshop dinner** (location TBD) |
 
 ## Important Dates
