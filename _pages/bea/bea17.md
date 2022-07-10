@@ -170,7 +170,7 @@ We received 66 submissions and accepted 31 papers (acceptance rate: 47%).
 ### Schedule
 
 | | July 15, 2022 (General Time in PDT, GMT-7)   |
-| | **Location:** 501 - Chiwawa                  |
+| | **Location:** 501 - Chiwawa (in person) or [Underline.io](https://underline.io/events/325/sessions?eventSessionId=11197) (remote) |
 |:--------------- | ----------------------------- |
 | **08:30-09:00** | **Loading of Oral Presentations** |
 | **09:00-09:15** | **Opening remarks** |
