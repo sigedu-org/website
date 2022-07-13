@@ -60,4 +60,4 @@ SIGEDU adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=
 
 ## Follow us on Twitter @ACLSIGEDU
 
-{% twitter https://twitter.com/aclsigedu limit=1 %}
+<!-- twitter https://twitter.com/aclsigedu limit=1 -->
