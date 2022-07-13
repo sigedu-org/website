@@ -234,7 +234,7 @@ As is the tradition, the dinner will be free for student participants. Unlike th
 <!---
 These dates are still preliminary and may change. 
 -->
-<span style="font-size: smaller;"><b>Note</b>: All deadlines are 11:59pm UTC-| 12 (anywhere|  on earth).</span>
+<span style="font-size: smaller;"><b>Note</b>: All deadlines are 11:59pm UTC-12 (anywhere on earth).</span>
 {: .notice--danger}
 
 - Submission Deadline: <s>Friday, April 1, 2022</s> **Friday, April 8, 2022**
