@@ -7,12 +7,23 @@ toc: true
 toc_sticky: true
 toc_icon: 'cog'
 gold:
+  - url: https://duolingo.com
+    image_path: "/assets/images/logos/sponsors/bea2022/duolingo.png"
+    alt: "Duolingo Logo"
+    title: "Duolingo"
+  - url: https://www.ets.org
+    image_path: "/assets/images/logos/sponsors/bea2022/ets.jpg"
+    alt: "ETS Logo"
+    title: "ETS"
+  - url: https://ilexir.co.uk
+    image_path: "/assets/images/logos/sponsors/bea2022/ilexir.jpg"
+    alt: "iLexIR Logo"
+    title: "iLexIR"
   - url: https://nbme.org
-    image_path: "/assets/images/logos/sponsors/bea2020/nbme-logo.png"
+    image_path: "/assets/images/logos/sponsors/bea2022/nbme.png"
     alt: "NBME Logo"
     title: "NBME"
-  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
-  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
+
 ---
 
 ![seattle-aerial](/assets/images/venues/seattle.jpg)
@@ -267,6 +278,12 @@ Papers being submitted both to BEA and another conference or workshop must:
 - State on the title page that if the authors choose to present their paper at BEA (assuming it was accepted), then the paper will be withdrawn from other conferences and workshops.
 
 ## Sponsors
+
+### Gold Sponsors
+
+{% include gallery id="gold" class="fourth" %}
+
+### Sponsoring Opportunities
 
 We are extremely grateful to our sponsors for the past workshops: in the recent years, we have been supported by [Duolingo](https://duolingo.com/), [Grammarly](https://grammarly.com/), [NBME](https://nbme.org/), [iLexIR](https://ilexir.co.uk/), [Educational Testing Service](https://www.ets.org/), and [Newsela](https://newsela.com/). This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner (in case the workshop runs offline) and offering student grants covering the BEA registration fees. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold sponsorship) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor the BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
 
