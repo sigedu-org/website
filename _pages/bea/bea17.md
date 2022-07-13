@@ -169,7 +169,7 @@ We received 66 submissions and accepted 31 papers (acceptance rate: 47%).
 
 ### Dinner
 
-All presenters and registered participants are cordially invited to attend our annual workshop dinner. This time it will take place in [Thai Ginger](https://thaiginger.com/) at 600 Pine Street, level 4 (Cinema Level), Seattle, WA 98101 just 5 minutes away from the conference venue.
+All presenters and registered participants are cordially invited to attend our annual workshop dinner. This time it will take place in [Thai Ginger](https://thaiginger.com/) at 600 Pine Street, level 4 (Cinema Level), Seattle, WA 98101. The restaurant is just 5 minutes away from the conference venue.
 
 As is the tradition, the dinner will be free for student participants. Unlike the previous years, this time it will take place on the evening before the workshop – on **Thursday, July 14, at 7pm**. We hope that this way more of you will be able to attend, and it will be a great opportunity to network and meet each other before the workshop on Friday!
 
@@ -193,8 +193,7 @@ As is the tradition, the dinner will be free for student participants. Unlike th
 | 11:20–11:40 | *Automatically Detecting Reduced-formed English Pronunciations by Using Deep Learning* (Lei Chen, Chenglin Jiang, Yiwei Gu, Yang Liu and Jiahong Yuan) – In person |
 | 11:40–12:00 | *Educational Multi-Question Generation for Reading Comprehension* (Manav Rathod, Tony Tu and Katherine Stasaski) – In person |
 | **12:00–13:30** | **Lunch** |
-| **13:30–15:00** | **Poster Sessions** |
-|                 | **Location:** Regency ballroom / GatherTown |
+| **13:30–15:00** | **Poster Sessions** <br> **Location:** Regency ballroom / GatherTown |
 | 13:30–14:15 | Poster Session A |
 | |	*Using Item Response Theory to Measure Gender and Racial Bias of a BERT-based Automated English Speech Assessment System* (Alexander Kwako, Yixin Wan, Jieyu Zhao, Kai-Wei Chang, Li Cai and Mark Hansen) – Remote |
 | | *Mitigating Learnerese Effects for CEFR Classification* (Rricha Jalota, Peter Bourgonje, Jan van Sas and Huiyan Huang) – In person |
