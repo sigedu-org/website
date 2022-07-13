@@ -7,12 +7,23 @@ toc: true
 toc_sticky: true
 toc_icon: 'cog'
 gold:
+  - url: https://duolingo.com
+    image_path: "/assets/images/logos/sponsors/bea2022/duolingo.png"
+    alt: "Duolingo Logo"
+    title: "Duolingo"
+  - url: https://www.ets.org
+    image_path: "/assets/images/logos/sponsors/bea2022/ets.jpg"
+    alt: "ETS Logo"
+    title: "ETS"
+  - url: https://ilexir.co.uk
+    image_path: "/assets/images/logos/sponsors/bea2022/ilexir.jpg"
+    alt: "iLexIR Logo"
+    title: "iLexIR"
   - url: https://nbme.org
-    image_path: "/assets/images/logos/sponsors/bea2020/nbme-logo.png"
+    image_path: "/assets/images/logos/sponsors/bea2022/nbme.png"
     alt: "NBME Logo"
     title: "NBME"
-  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
-  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
+
 ---
 
 ![seattle-aerial](/assets/images/venues/seattle.jpg)
@@ -169,19 +180,17 @@ We received 66 submissions and accepted 31 papers (acceptance rate: 47%).
 
 ### Dinner
 
-All presenters and registered participants are cordially invited to attend our annual workshop dinner. This time it will take place in [Thai Ginger](https://thaiginger.com/) at 600 Pine Street, level 4 (Cinema Level), Seattle, WA 98101 just 5 minutes away from the conference venue.
+All presenters and registered participants are cordially invited to attend our annual workshop dinner. This time it will take place in [Thai Ginger](https://thaiginger.com/) at 600 Pine Street, level 4 (Cinema Level), Seattle, WA 98101. The restaurant is just 5 minutes away from the conference venue.
 
 As is the tradition, the dinner will be free for student participants. Unlike the previous years, this time it will take place on the evening before the workshop – on **Thursday, July 14, at 7pm**. We hope that this way more of you will be able to attend, and it will be a great opportunity to network and meet each other before the workshop on Friday!
 
 ### Schedule
 
-| | July 14, 2022 (General Time in PDT, GMT-7)   |
-| | **Location:** [Thai Ginger](https://thaiginger.com/) at 600 Pine Street, level 4 (Cinema Level), Seattle, WA 98101 |
+| | July 14, 2022 (General Time in PDT, GMT-7) <br> **Location:** [Thai Ginger](https://thaiginger.com/) at 600 Pine Street, level 4 (Cinema Level), Seattle, WA 98101 |
 |:--------------- | ----------------------------- |
 | **19:00–22:00** | **Workshop dinner** |
 
-| | July 15, 2022 (General Time in PDT, GMT-7)   |
-| | **Location:** 501 - Chiwawa (in person) or [Underline.io](https://underline.io/events/325/sessions?eventSessionId=11197) (remote) |
+| | July 15, 2022 (General Time in PDT, GMT-7) <br> **Location:** 501 - Chiwawa (in person) or [Underline.io](https://underline.io/events/325/sessions?eventSessionId=11197) (remote) |
 |:--------------- | ----------------------------- |
 | **08:30-09:00** | **Loading of Oral Presentations** |
 | **09:00-09:15** | **Opening remarks** |
@@ -193,8 +202,7 @@ As is the tradition, the dinner will be free for student participants. Unlike th
 | 11:20–11:40 | *Automatically Detecting Reduced-formed English Pronunciations by Using Deep Learning* (Lei Chen, Chenglin Jiang, Yiwei Gu, Yang Liu and Jiahong Yuan) – In person |
 | 11:40–12:00 | *Educational Multi-Question Generation for Reading Comprehension* (Manav Rathod, Tony Tu and Katherine Stasaski) – In person |
 | **12:00–13:30** | **Lunch** |
-| **13:30–15:00** | **Poster Sessions** |
-|                 | **Location:** Regency ballroom / GatherTown |
+| **13:30–15:00** | **Poster Sessions** <br> **Location:** Regency ballroom / GatherTown |
 | 13:30–14:15 | Poster Session A |
 | |	*Using Item Response Theory to Measure Gender and Racial Bias of a BERT-based Automated English Speech Assessment System* (Alexander Kwako, Yixin Wan, Jieyu Zhao, Kai-Wei Chang, Li Cai and Mark Hansen) – Remote |
 | | *Mitigating Learnerese Effects for CEFR Classification* (Rricha Jalota, Peter Bourgonje, Jan van Sas and Huiyan Huang) – In person |
@@ -229,12 +237,16 @@ As is the tradition, the dinner will be free for student participants. Unlike th
 | **16:00–16:45** | **Keynote by Klinton Bicknell** <br> *ML and NLP for Language Learning at Scale* |
 | **16:45–17:00** | **Closing remarks** |
 
+## Anti-Harassment Policy
+
+SIGEDU adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy">ACL Anti-Harassment Policy</a> for the BEA workshops. Any participant of the workshop who experiences harassment or hostile behavior may contact any current member of the <a href="https://www.aclweb.org/portal/about">ACL Executive Committee</a> or contact <a href="mailto:acl@aclweb.org">Priscilla Rasmussen</a>, who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
+
 ## Important Dates
 
 <!---
 These dates are still preliminary and may change. 
 -->
-<span style="font-size: smaller;"><b>Note</b>: All deadlines are 11:59pm UTC-| 12 (anywhere|  on earth).</span>
+<span style="font-size: smaller;"><b>Note</b>: All deadlines are 11:59pm UTC-12 (anywhere on earth).</span>
 {: .notice--danger}
 
 - Submission Deadline: <s>Friday, April 1, 2022</s> **Friday, April 8, 2022**
@@ -268,6 +280,12 @@ Papers being submitted both to BEA and another conference or workshop must:
 - State on the title page that if the authors choose to present their paper at BEA (assuming it was accepted), then the paper will be withdrawn from other conferences and workshops.
 
 ## Sponsors
+
+### Gold Sponsors
+
+{% include gallery id="gold" class="fourth" %}
+
+### Sponsoring Opportunities
 
 We are extremely grateful to our sponsors for the past workshops: in the recent years, we have been supported by [Duolingo](https://duolingo.com/), [Grammarly](https://grammarly.com/), [NBME](https://nbme.org/), [iLexIR](https://ilexir.co.uk/), [Educational Testing Service](https://www.ets.org/), and [Newsela](https://newsela.com/). This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner (in case the workshop runs offline) and offering student grants covering the BEA registration fees. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold sponsorship) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor the BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
 
