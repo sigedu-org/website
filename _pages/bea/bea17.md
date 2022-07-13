@@ -167,7 +167,18 @@ We received 66 submissions and accepted 31 papers (acceptance rate: 47%).
 - *Towards an open-domain chatbot for language practice*, Gladys Tyen, Mark Brenchley, Andrew Caines and Paula Buttery
 - *Using Item Response Theory to Measure Gender and Racial Bias of a BERT-based Automated English Speech Assessment System*, Alexander Kwako, Yixin Wan, Jieyu Zhao, Kai-Wei Chang, Li Cai and Mark Hansen
 
+### Dinner
+
+All presenters and registered participants are cordially invited to attend our annual workshop dinner. This time it will take place in [Thai Ginger](https://thaiginger.com/) at 600 Pine Street, level 4 (Cinema Level), Seattle, WA 98101 just 5 minutes away from the conference venue.
+
+As is the tradition, the dinner will be free for student participants. Unlike the previous years, this time it will take place on the evening before the workshop – on **Thursday, July 14, at 7pm**. We hope that this way more of you will be able to attend, and it will be a great opportunity to network and meet each other before the workshop on Friday!
+
 ### Schedule
+
+| | July 14, 2022 (General Time in PDT, GMT-7)   |
+| | **Location:** [Thai Ginger](https://thaiginger.com/) at 600 Pine Street, level 4 (Cinema Level), Seattle, WA 98101 |
+|:--------------- | ----------------------------- |
+| **19:00–22:00** | **Workshop dinner** |
 
 | | July 15, 2022 (General Time in PDT, GMT-7)   |
 | | **Location:** 501 - Chiwawa (in person) or [Underline.io](https://underline.io/events/325/sessions?eventSessionId=11197) (remote) |
@@ -217,7 +228,6 @@ We received 66 submissions and accepted 31 papers (acceptance rate: 47%).
 | **15:30–16:00** | **Ambassador paper by James Fiacco** <br> *Taking Transactivity to the Next Level* |
 | **16:00–16:45** | **Keynote by Klinton Bicknell** <br> *ML and NLP for Language Learning at Scale* |
 | **16:45–17:00** | **Closing remarks** |
-| **19:00–22:00** | **Workshop dinner** (location TBD) |
 
 ## Important Dates
 
