@@ -186,13 +186,11 @@ As is the tradition, the dinner will be free for student participants. Unlike th
 
 ### Schedule
 
-| | July 14, 2022 (General Time in PDT, GMT-7)   |
-| | **Location:** [Thai Ginger](https://thaiginger.com/) at 600 Pine Street, level 4 (Cinema Level), Seattle, WA 98101 |
+| | July 14, 2022 (General Time in PDT, GMT-7) <br> **Location:** [Thai Ginger](https://thaiginger.com/) at 600 Pine Street, level 4 (Cinema Level), Seattle, WA 98101 |
 |:--------------- | ----------------------------- |
 | **19:00–22:00** | **Workshop dinner** |
 
-| | July 15, 2022 (General Time in PDT, GMT-7)   |
-| | **Location:** 501 - Chiwawa (in person) or [Underline.io](https://underline.io/events/325/sessions?eventSessionId=11197) (remote) |
+| | July 15, 2022 (General Time in PDT, GMT-7) <br> **Location:** 501 - Chiwawa (in person) or [Underline.io](https://underline.io/events/325/sessions?eventSessionId=11197) (remote) |
 |:--------------- | ----------------------------- |
 | **08:30-09:00** | **Loading of Oral Presentations** |
 | **09:00-09:15** | **Opening remarks** |
