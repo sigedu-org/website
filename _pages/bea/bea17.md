@@ -175,6 +175,11 @@ As is the tradition, the dinner will be free for student participants. Unlike th
 
 ### Schedule
 
+| | July 14, 2022 (General Time in PDT, GMT-7)   |
+| | **Location:** [Thai Ginger](https://thaiginger.com/) at 600 Pine Street, level 4 (Cinema Level), Seattle, WA 98101 |
+|:--------------- | ----------------------------- |
+| **19:00–22:00** | **Workshop dinner** |
+
 | | July 15, 2022 (General Time in PDT, GMT-7)   |
 | | **Location:** 501 - Chiwawa (in person) or [Underline.io](https://underline.io/events/325/sessions?eventSessionId=11197) (remote) |
 |:--------------- | ----------------------------- |
@@ -223,7 +228,6 @@ As is the tradition, the dinner will be free for student participants. Unlike th
 | **15:30–16:00** | **Ambassador paper by James Fiacco** <br> *Taking Transactivity to the Next Level* |
 | **16:00–16:45** | **Keynote by Klinton Bicknell** <br> *ML and NLP for Language Learning at Scale* |
 | **17:45–17:00** | **Closing remarks** |
-| **19:00–22:00** | **Workshop dinner** (location TBD) |
 
 ## Important Dates
 
