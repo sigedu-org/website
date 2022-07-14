@@ -123,7 +123,7 @@ as statistics, data mining, machine learning (including deep learning), network
 analysis and visualisation. This talk will bring together an understanding of LA as 
 an emerging discipline and research area, as well as new research directions in 
 LA, such as applications in gamification, explainable AI, predicting certification of
-students, urgent instructor intervenion (where we do use a bit of NLP), and 
+students, urgent instructor intervention (where we do use a bit of NLP), and 
 further predict the development and maturity of this area as a whole.
 {: .notice--primary}
 
