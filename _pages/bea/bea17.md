@@ -178,6 +178,8 @@ We received 66 submissions and accepted 31 papers (acceptance rate: 47%).
 - *Towards an open-domain chatbot for language practice*, Gladys Tyen, Mark Brenchley, Andrew Caines and Paula Buttery
 - *Using Item Response Theory to Measure Gender and Racial Bias of a BERT-based Automated English Speech Assessment System*, Alexander Kwako, Yixin Wan, Jieyu Zhao, Kai-Wei Chang, Li Cai and Mark Hansen
 
+**BEA 2022 proceedings:** https://aclanthology.org/volumes/2022.bea-1/
+
 ### Dinner
 
 All presenters and registered participants are cordially invited to attend our annual workshop dinner. This time it will take place in [Thai Ginger](https://thaiginger.com/) at 600 Pine Street, level 4 (Cinema Level), Seattle, WA 98101. The restaurant is just 5 minutes away from the conference venue.
@@ -193,7 +195,7 @@ As is the tradition, the dinner will be free for student participants. Unlike th
 | | July 15, 2022 (General Time in PDT, GMT-7) <br> **Location:** 501 - Chiwawa (in person) or [Underline.io](https://underline.io/events/325/sessions?eventSessionId=11197) (remote) |
 |:--------------- | ----------------------------- |
 | **08:30-09:00** | **Loading of Oral Presentations** |
-| **09:00-09:15** | **Opening remarks** |
+| **09:00-09:15** | [**Opening remarks**](https://drive.google.com/file/d/1bF4V7AZ3x498C90fnXSB2uBZp-Q7FRWm/view?usp=sharing) |
 | **09:15-10:00** | **Keynote by Alexandra Cristea** <br> *Aspects of Learning Analytics* |
 | **10:00–10:30** | **Coffee Break** |
 | **10:30-12:00** | **Paper Session** |
@@ -225,7 +227,7 @@ As is the tradition, the dinner will be free for student participants. Unlike th
 | | *Starting from "Zero'': An Incremental Zero-shot Learning Approach for Assessing Peer Feedback Comments* (Qinjin Jia, Yupeng Cao and Edward F. Gehringer) – Remote |
 | | *Automatic True/False Question Generation for Educational Purpose* (Bowei Zou, Pengfei Li, Liangming Pan and Ai Ti Aw) – Remote |
 | | *Fine-tuning Transformers with Additional Context to Classify Discursive Moves in Mathematics Classrooms* (Abhijit Suresh, Jennifer Jacobs, Margaret Perkoff, James H. Martin and Tamara Sumner) – In person |
-| | *Parametrizable exercise generation from authentic texts: Effectively targeting the language means on the curriculum* (Tanja Heck and Detmar Meurers) – In person |
+| | [*Parametrizable exercise generation from authentic texts: Effectively targeting the language means on the curriculum*](https://drive.google.com/file/d/1-e2VRfOL2cPeRu54ogAaaq0jDff49KBL/view?usp=sharing) (Tanja Heck and Detmar Meurers) – In person |
 | | *Selecting Context Clozes for Lightweight Reading Compliance* (Greg Keim and Michael Littman) – In person |
 | | *An Evaluation of Binary Comparative Lexical Complexity Models* (Kai North, Marcos Zampieri and Matthew Shardlow) – Remote |
 | | *Toward Automatic Discourse Parsing of Student Writing Motivated by Neural Interpretation* (James Fiacco, Shiyan Jiang, David Adamson and Carolyn Rosé) – In person |
@@ -235,7 +237,7 @@ As is the tradition, the dinner will be free for student participants. Unlike th
 | **15:00–15:30** | **Mid-Afternoon Snacks** |
 | **15:30–16:00** | **Ambassador paper by James Fiacco** <br> *Taking Transactivity to the Next Level* |
 | **16:00–16:45** | **Keynote by Klinton Bicknell** <br> *ML and NLP for Language Learning at Scale* |
-| **16:45–17:00** | **Closing remarks** |
+| **16:45–17:00** | [**Closing remarks**](https://drive.google.com/file/d/1lYiuFR1Ex7_l30AO_55IDkaFyJnmsbi9/view?usp=sharing) |
 
 
 ## Anti-Harassment Policy
