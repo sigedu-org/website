@@ -10,7 +10,7 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 
 ## News
 
-**July 15, 2022**. Proceedings of the [BEA17](/bea/2022) workshop are out: https://aclanthology.org/volumes/2022.bea-1/
+**July 15, 2022**. Proceedings of the [BEA17](/bea/2022) workshop are out: [https://aclanthology.org/volumes/2022.bea-1/](https://aclanthology.org/volumes/2022.bea-1/)
 {: .notice--info}
 
 **February 11, 2022**. The first Call for Papers for the [BEA17](/bea/2022) workshop is out. We are looking forward to your submissions!
