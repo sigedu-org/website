@@ -178,7 +178,7 @@ We received 66 submissions and accepted 31 papers (acceptance rate: 47%).
 - *Towards an open-domain chatbot for language practice*, Gladys Tyen, Mark Brenchley, Andrew Caines and Paula Buttery
 - *Using Item Response Theory to Measure Gender and Racial Bias of a BERT-based Automated English Speech Assessment System*, Alexander Kwako, Yixin Wan, Jieyu Zhao, Kai-Wei Chang, Li Cai and Mark Hansen
 
-**BEA 2022 proceedings:** https://aclanthology.org/volumes/2022.bea-1/
+**BEA 2022 proceedings:** [https://aclanthology.org/volumes/2022.bea-1/](https://aclanthology.org/volumes/2022.bea-1/)
 
 ### Dinner
 
@@ -216,7 +216,7 @@ As is the tradition, the dinner will be free for student participants. Unlike th
 | | *Don’t Drop the Topic - The Role of the Prompt in Argument Identification in Student Writing* (Yuning Ding, Marie Bexte and Andrea Horbach) – In person |
 | | *ALEN App: Argumentative Writing Support To Foster English Language Learning* (Thiemo Wambsganss, Andrew Caines and Paula Buttery) – Remote |
 | | *Assessing sentence readability for German language learners with broad linguistic modeling or readability formulas: When do linguistic insights make a difference?* (Zarah Weiss and Detmar Meurers) – In person |
-| | *‘Meet me at the ribary’ – Acceptability of spelling variants in free-text answers to listening comprehension prompts* (Ronja Laarmann-Quante, Leska Schwarz, Andrea Horbach and Torsten Zesch) – Remote |
+| | [*‘Meet me at the ribary’ – Acceptability of spelling variants in free-text answers to listening comprehension prompts*](https://drive.google.com/file/d/1sgp9XKZVxcT0OL3KpMrnXgw0RHh8gZ0A/view?usp=sharing) (Ronja Laarmann-Quante, Leska Schwarz, Andrea Horbach and Torsten Zesch) – Remote |
 | | *Educational Tools for Mapuzugun* (Cristian Ahumada, Claudio Gutierrez and Antonios Anastasopoulos) – In person |
 | | *Response Construct Tagging: NLP-Aided Assessment for Engineering Education* (Ananya Ganesh, Hugh Scribner, Jasdeep Singh, Katherine Goodman, Jean Hertzberg and Katharina Kann) – In person |
 | | *Incremental Disfluency Detection for Spoken Learner English* (Lucy Skidmore and Roger Moore) – In person |
@@ -232,8 +232,8 @@ As is the tradition, the dinner will be free for student participants. Unlike th
 | | *An Evaluation of Binary Comparative Lexical Complexity Models* (Kai North, Marcos Zampieri and Matthew Shardlow) – Remote |
 | | *Toward Automatic Discourse Parsing of Student Writing Motivated by Neural Interpretation* (James Fiacco, Shiyan Jiang, David Adamson and Carolyn Rosé) – In person |
 | | *Computationally Identifying Funneling and Focusing Questions in Classroom Discourse* (Sterling Alic, Dorottya Demszky, Zid Mancenido, Jing Liu, Heather Hill and Dan Jurafsky) – In person |
-| | *Towards an open-domain chatbot for language practice* (Gladys Tyen, Mark Brenchley, Andrew Caines and Paula Buttery) – In person |
-| | *Towards Automatic Short Answer Assessment for Finnish as a Paraphrase Retrieval Task* (Li-Hsin Chang, Jenna Kanerva and Filip Ginter) – In person |
+| | [*Towards an open-domain chatbot for language practice*](https://drive.google.com/file/d/1iAF3wZcYRjzNF7TPxOwubc6ZPpOCbtdh/view?usp=sharing) (Gladys Tyen, Mark Brenchley, Andrew Caines and Paula Buttery) – In person |
+| | [*Towards Automatic Short Answer Assessment for Finnish as a Paraphrase Retrieval Task*](https://drive.google.com/file/d/1sKYsJhay88_xfgvcckh285dEv1UhIuEw/view?usp=sharing) (Li-Hsin Chang, Jenna Kanerva and Filip Ginter) – In person |
 | **15:00–15:30** | **Mid-Afternoon Snacks** |
 | **15:30–16:00** | **Ambassador paper by James Fiacco** <br> *Taking Transactivity to the Next Level* |
 | **16:00–16:45** | **Keynote by Klinton Bicknell** <br> *ML and NLP for Language Learning at Scale* |
