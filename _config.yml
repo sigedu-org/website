@@ -296,3 +296,11 @@ defaults:
       share: false
       related: true
       sidebar: false
+
+
+collections:
+  news:
+#    defaults:
+#      layout: posts
+#    output: true
+#    permalink: /news/:path/
