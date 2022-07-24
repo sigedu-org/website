@@ -80,6 +80,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Jennifer-Carmen Frey, Eurac Research Bolzano & Dipartimento di Interpretazione e Traduzione Forlì, Università di Bologna<br/>
 - <a href="https://suzenfylke.com">Suzen Fylke</a>, Twitter<br/>
 - <a href="https://www.microsoft.com/en-us/research/people/mgamon/">Michael Gamon</a>, Microsoft Research<br/>
+- <a href="https://ananyaganesh.github.io">Ananya Ganesh</a>, University of Colorado<br/>
 - Lingyu Gao, TTIC<br/>
 - <a href="http://homes.sice.indiana.edu/gasser/">Michael Gasser</a>, Indiana University<br/>
 - Peter Gault, Quill.org<br/>
@@ -112,6 +113,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://www.josephimperial.com/">Joseph Marvin Imperial</a>, National University Philippines<br/>
 - <a href="https://raduionescu.herokuapp.com">Radu Tudor Ionescu</a>, University of Bucharest<br/>
 - Xuejun Ji, The University of British Columbia<br/>
+- <a href="https://scholar.google.com/citations?user=9FHa7lsAAAAJ&hl=en">Qinjin Jia</a>, North Carolina State University<br/>
 - <a href="https://www.pitt.edu/~pjordan">Pamela Jordan</a>, University of Pittsburgh<br/>
 - <a href="https://sites.google.com/view/njoshi">Nisheeth Joshi</a>, Banasthali VIdyapith<br/>
 - <a href="http://cl.sd.tmu.ac.jp/~kajiwara/cv.pdf">Tomoyuki Kajiwara</a>, Osaka University<br/>
@@ -132,7 +134,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="http://cl.indiana.edu/~skuebler">Sandra Kuebler</a>, Indiana University<br/>
 - Girish Kumar, Stanford<br/>
 - Ritesh Kumar, Dr. Bhimrao Ambedkar University<br/>
-- <a href="http://www.kristopherkyle.com">Kristopher Kyle</a>, Department of Second Language Studies, University of Hawaii at Manoa<br/>
+- <a href="https://github.com/kristopherkyle/">Kristopher Kyle</a>, University of Oregon<br/>
 - Ronja Laarmann-Quante, University Duisburg-Essen<br/>
 - Claudia Leacock, Grammarly<br/>
 - <a href="https://www.lhlee.net/">Lung-Hao Lee</a>, National Central University<br/>
