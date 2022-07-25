@@ -43,7 +43,7 @@ SIGEDU was founded in 2017 and is ACL's newest SIG. SIGEDU has the following goa
 
 ## BEA 2022
 
-The [2022 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](/bea/2022) will be held in Seattle, Washington on Friday, July 15, 2022.
+The [2022 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](/bea/2022) was held in Seattle, Washington on Friday, July 15, 2022.
 
 <h3>Organizers</h3>
 
