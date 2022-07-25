@@ -33,7 +33,8 @@ It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.githu
 > :warning:
 > Please note that the date YYYY-MM-DD cannot be later than the current date. 
 > If you use a date set in the future, the post will not be included in the list of blog posts. 
-> When you are writing a draft blog post that you wish to publish in the future and you are building the site locally, you must use a date that is not set in the future, which you can edit to a future date once your draft is complete.
+> When you are writing a draft blog post that you wish to publish in the future and you are building the site locally, you must use a date that is not set in the future in order to see the blog post.
+> You can then set this date to a future publish date once your draft is complete.
 
 # Building Locally
 
