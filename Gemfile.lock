@@ -10,7 +10,6 @@ PATH
       jekyll-paginate (~> 1.1)
       jekyll-redirect-from
       jekyll-sitemap (~> 1.2)
-      jekyll-twitter-plugin
       jemoji (~> 0.10)
       kramdown-parser-gfm
 
@@ -70,7 +69,6 @@ GEM
       sass (~> 3.4)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-twitter-plugin (2.1.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     jemoji (0.12.0)
