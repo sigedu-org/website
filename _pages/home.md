@@ -60,7 +60,3 @@ The [2022 NAACL Workshop on Innovative Use of NLP for Building Educational Appli
 ## Anti-Harassment Policy
 
 SIGEDU adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy">ACL Anti-Harassment Policy</a> for the BEA workshops. Any participant of the workshop who experiences harassment or hostile behavior may contact any current member of the <a href="https://www.aclweb.org/portal/about">ACL Executive Committee</a> or contact <a href="mailto:acl@aclweb.org">Priscilla Rasmussen</a>, who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
-
-## Follow us on Twitter @ACLSIGEDU
-
-<!-- twitter https://twitter.com/aclsigedu limit=1 -->
