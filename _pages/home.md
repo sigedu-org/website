@@ -8,7 +8,7 @@ header:
 excerpt: "Special Interest Group for Building Educational Applications<br/><br/>Organizer of BEA Workshop"
 ---
 
-## News
+## Latest News
 
 **July 15, 2022**. Proceedings of the [BEA17](/bea/2022) workshop are out: [https://aclanthology.org/volumes/2022.bea-1/](https://aclanthology.org/volumes/2022.bea-1/)
 {: .notice--info}
