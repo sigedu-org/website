@@ -95,6 +95,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="http://www.csc.liv.ac.uk/~floriana">Floriana Grasso</a>, University of Liverpool<br/>
 - Roman Grundkiewicz, University of Edinburgh<br/>
 - Abigail Gurin Schleifer, Weizmann Institute of Science<br/>
+- <a href="https://www.linkedin.com/in/hansel-guzman-soto/">Hansel Guzman-Soto</a>, Western Washington University<br/>
 - Binod Gyawali, Educational Testing Service<br/>
 - <a href="https://glose.education/">Mehdi Hamoumi</a>, Glose<br/>
 - <a href="unand.ac.id">Handoko Handoko</a>, Andalas University<br/>
