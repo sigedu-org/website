@@ -8,7 +8,7 @@ header:
 excerpt: "Special Interest Group for Building Educational Applications<br/><br/>Organizer of BEA Workshop"
 ---
 
-## News
+## Latest News
 
 {%- assign news = site.news | reverse -%}
 {%- for item in news limit: page.news_limit %}
@@ -44,7 +44,7 @@ SIGEDU was founded in 2017 and is ACL's newest SIG. SIGEDU has the following goa
 
 ## BEA 2022
 
-The [2022 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](/bea/2022) will be held in Seattle, Washington on Friday, July 15, 2022.
+The [2022 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](/bea/2022) was held in Seattle, Washington on Friday, July 15, 2022.
 
 <h3>Organizers</h3>
 
@@ -61,7 +61,3 @@ The [2022 NAACL Workshop on Innovative Use of NLP for Building Educational Appli
 ## Anti-Harassment Policy
 
 SIGEDU adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy">ACL Anti-Harassment Policy</a> for the BEA workshops. Any participant of the workshop who experiences harassment or hostile behavior may contact any current member of the <a href="https://www.aclweb.org/portal/about">ACL Executive Committee</a> or contact <a href="mailto:acl@aclweb.org">Priscilla Rasmussen</a>, who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
-
-## Follow us on Twitter @ACLSIGEDU
-
-<!-- twitter https://twitter.com/aclsigedu limit=1 -->

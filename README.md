@@ -30,6 +30,12 @@ It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.githu
 6. Address any comments you receive after the pull request is reviewed.
 7. If your post is approved, it will be merged and will appear on the SIGEDU [blog](https://sig-edu.org/blog).
 
+> :warning:
+> Please note that the date YYYY-MM-DD cannot be later than the current date. 
+> If you use a date set in the future, the post will not be included in the list of blog posts. 
+> When you are writing a draft blog post that you wish to publish in the future and you are building the site locally, you must use a date that is not set in the future in order to see the blog post.
+> You can then set this date to a future publish date once your draft is complete.
+
 # Building Locally
 
 GitHub Pages doesn't allow deploying changes in test mode so that they can be previewed before publishing. Therefore, if you want to see what the changes would look like, you need to build the website on your local machine. This section describes two possible options to do that:
