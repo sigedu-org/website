@@ -6,6 +6,7 @@ header:
   overlay_image: "/assets/images/sigedu-splash.png"
   overlay_filter: 0.25
 excerpt: "Special Interest Group for Building Educational Applications<br/><br/>Organizer of BEA Workshop"
+news_limit: 3
 ---
 
 ## Latest News
@@ -21,7 +22,7 @@ excerpt: "Special Interest Group for Building Educational Applications<br/><br/>
 {%- endfor %}
 
 <div class="text-center">
-    <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
+    <a href="/news/" style="font-size: smaller; font-decoration: italic;">All News</a>
 </div>
 
 ## Welcome!
