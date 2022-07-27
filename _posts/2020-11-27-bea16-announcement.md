@@ -1,4 +1,12 @@
 ---
+title: BEA16 Announcement
+author: bea
+author_profile: true
+tags:
+  conferences
+categories:
+  news
+toc: false
 inline: true
 ---
 

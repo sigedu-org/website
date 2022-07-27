@@ -1,4 +1,12 @@
 ---
+title: BEA15 Useful Notes
+author: bea
+author_profile: true
+tags:
+
+categories:
+  news
+toc: false
 inline: true
 ---
 

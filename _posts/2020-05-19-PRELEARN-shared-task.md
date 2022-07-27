@@ -4,12 +4,15 @@ author: guest
 author_profile: true
 excerpt: "The 1st shared task on Prerequisite Relation Learning will be held in Bologna from Nov 30-Dec 3rd, 2020."
 tags:
-    shared task
+  shared task
 categories:
-    blog
-    guest
+  blog
+  guest
+  news
 toc: false
 published: true
+# publish a news item linked to this blog post
+news: "The 1st shared task on Automatic Prerequisite Learning (PRELEARN) will be held in Bologna, Italia (November 30th-December 3rd 2020)."
 ---
 
 Dear SIGEDU Community,

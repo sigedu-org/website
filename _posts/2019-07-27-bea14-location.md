@@ -1,4 +1,12 @@
 ---
+title: BEA14 Location
+author: bea
+author_profile: true
+tags:
+
+categories:
+  news
+toc: false
 inline: true
 ---
 

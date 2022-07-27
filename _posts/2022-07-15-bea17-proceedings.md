@@ -1,4 +1,12 @@
 ---
+title: BEA17 Proceedings
+author: bea
+author_profile: true
+tags:
+  proceedings
+categories:
+  news
+toc: false
 inline: true
 ---
 

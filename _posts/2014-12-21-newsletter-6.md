@@ -6,7 +6,7 @@ excerpt: "The sixth edition of the BEA Newsletter."
 tags:
   newsletter
 categories:
-    blog
+  blog
 toc: true
 toc_sticky: true
 toc_label: "Sections"

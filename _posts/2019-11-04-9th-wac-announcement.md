@@ -4,12 +4,15 @@ author: Jill Burstein
 author_profile: true
 excerpt: "The 9th Writing Analytics Conference will take place on Feb. 6-8 at the University of South Florida."
 tags:
-   conferences
+  conferences
 categories:
-    blog
-    guest
+  blog
+  guest
+  news
 toc: false
 published: true
+# publish a news item linked to this blog post
+news: "The proposal submission deadline for the 9th Writing Analytics Conference has been extended to November 15, 2019. Consider submitting! It’s a great opportunity to meet and interact with writing researchers!"
 ---
 
 Dear SIGEDU Community,

@@ -7,7 +7,10 @@ tags:
   elections
 categories:
   blog
+  news
 toc: false
+# publish a news item linked to this blog post
+news: "The results of the SIGEDU elections have been announced!"
 ---
 
 Hi Everyone,

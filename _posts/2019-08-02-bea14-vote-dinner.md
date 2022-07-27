@@ -1,4 +1,12 @@
 ---
+title: BEA14 Vote for the Ambassador Paper
+author: bea
+author_profile: true
+tags:
+
+categories:
+  news
+toc: false
 inline: true
 ---
 

@@ -1,4 +1,12 @@
 ---
+title: BEA14 Double Submissions Policy
+author: bea
+author_profile: true
+tags:
+
+categories:
+  news
+toc: false
 inline: true
 ---
 

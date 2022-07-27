@@ -6,11 +6,14 @@ excerpt: "The second edition of the SIGEDU/BEA Newsletter."
 tags:
   newsletter
 categories:
-    blog
+  blog
+  news
 toc: true
 toc_sticky: true
 toc_label: "Sections"
 toc_icon: "cog"
+# publish a news item linked to this blog post
+news: "A new edition of the SIGEDU/BEA newsletter has been posted!"
 ---
 
 Hi Everyone,

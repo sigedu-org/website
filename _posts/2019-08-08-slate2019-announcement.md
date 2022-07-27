@@ -4,12 +4,15 @@ author: guest
 author_profile: true
 excerpt: "SLaTE 2019 will take place on Sept. 20-21 in Graz, Austria, co-located with Interspeech."
 tags:
-    conferences
+  conferences
 categories:
-    blog
-    guest
+  blog
+  guest
+  news
 toc: false
 published: true
+# publish a news item linked to this blog post
+news: "The 8th ISCA Workshop on Speech and Language Technology in Education (SLaTE 2019) will be held in Graz, Austria, on September 20 - 21, co-located with Interspeech."
 ---
 
 Dear SIGEDU Community,

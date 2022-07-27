@@ -11,18 +11,10 @@ news_limit: 3
 
 ## Latest News
 
-{%- assign news = site.news | reverse -%}
-{%- for item in news limit: page.news_limit %}
-**{{ item.date | date: "%b %-d, %Y" }}**.&nbsp;
-{%- if item.inline -%}
-{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}{: .notice--info}
-{%- else -%}
-<a href="{{ item.url | relative_url }}">{{ item.title }}</a>{: .notice--info}
-{%- endif %}
-{%- endfor %}
+{% include news_list.md %}
 
 <div class="text-center">
-    <a href="/news/" style="font-size: smaller; font-decoration: italic;">All News</a>
+    <a href="/news/" class="btn btn--info">All News</a>
 </div>
 
 ## Welcome!
