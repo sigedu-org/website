@@ -228,7 +228,7 @@ As is the tradition, the dinner will be free for student participants. Unlike th
 | | *Automatic True/False Question Generation for Educational Purpose* (Bowei Zou, Pengfei Li, Liangming Pan and Ai Ti Aw) – Remote |
 | | *Fine-tuning Transformers with Additional Context to Classify Discursive Moves in Mathematics Classrooms* (Abhijit Suresh, Jennifer Jacobs, Margaret Perkoff, James H. Martin and Tamara Sumner) – In person |
 | | [*Parametrizable exercise generation from authentic texts: Effectively targeting the language means on the curriculum*](https://drive.google.com/file/d/1-e2VRfOL2cPeRu54ogAaaq0jDff49KBL/view?usp=sharing) (Tanja Heck and Detmar Meurers) – In person |
-| | *Selecting Context Clozes for Lightweight Reading Compliance* (Greg Keim and Michael Littman) – In person |
+| | [*Selecting Context Clozes for Lightweight Reading Compliance*](https://drive.google.com/file/d/1pc-H_AfD-OUQwGm0jlZRlMNpTFJ4Jak0/view?usp=sharing) (Greg Keim and Michael Littman) – In person |
 | | *An Evaluation of Binary Comparative Lexical Complexity Models* (Kai North, Marcos Zampieri and Matthew Shardlow) – Remote |
 | | *Toward Automatic Discourse Parsing of Student Writing Motivated by Neural Interpretation* (James Fiacco, Shiyan Jiang, David Adamson and Carolyn Rosé) – In person |
 | | *Computationally Identifying Funneling and Focusing Questions in Classroom Discourse* (Sterling Alic, Dorottya Demszky, Zid Mancenido, Jing Liu, Heather Hill and Dan Jurafsky) – In person |
