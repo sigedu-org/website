@@ -84,6 +84,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Lingyu Gao, TTIC<br/>
 - <a href="http://homes.sice.indiana.edu/gasser/">Michael Gasser</a>, Indiana University<br/>
 - Peter Gault, Quill.org<br/>
+- Srikanth Gedela, ACM<br/>
 - Debanjan Ghosh, Educational Testing Service<br/>
 - Dan Goldwasser, Purdue University<br/>
 - <a href="https://edutec.science/team/sebastian-gombert/">Sebastian Gombert</a>, Leibniz Institute for Research and Information in Education<br/>
@@ -109,6 +110,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Andrea Horbach, University Duisburg-Essen<br/>
 - Jue Hou, University of Helsinki<br/>
 - Renfen Hu, Beijing Normal University<br/>
+- <a href="https://evahu.netlify.app/">Yinuo Hu</a>, University of California, Berkeley<br/>
 - Chung-Chi Huang, Frostburg State University<br/>
 - <a href="https://coralythuang.github.io/">Yi-Ting Huang</a>, Texas A&amp;M University<br/>
 - <a href="https://www.josephimperial.com/">Joseph Marvin Imperial</a>, National University Philippines<br/>
@@ -176,6 +178,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="http://pages.di.unipi.it/miaschi">Alessio Miaschi</a>, University of Pisa<br/>
 - Roger Midmore, Sykopomp Industries<br/>
 - Maria Moritz, German Research Center for Artificial Intelligence<br/>
+- Bradford Mott, North Carolina State University<br/>
 - Verena Möller, Université catholique de Louvain<br/>
 - <a href="http://www.cs.columbia.edu/~smara/">Smaranda	Muresan</a>, Columbia University<br/>
 - <a href="https://sites.google.com/site/nadeemf0755/home">Farah Nadeem</a>, University of Washington<br/>
@@ -248,6 +251,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://makemis.com">Mariana Shimabukuro</a>, University of Ontario Institute of Technology<br/>
 - Katira Soleymanzadeh, Ege University<br/>
 - <a href="https://www.somasundaran.net">Swapna Somasundaran</a>, Educational Testing Service (ETS)<br/>
+- Shashank Sonkar, Rice University <br/>
 - Julie St. John, Measurement Inc.<br/>
 - <a href="https://people.eecs.berkeley.edu/~katie_stasaski/">Katie Stasaski</a>, UC Berkeley<br/>
 - Bernardo Stearns, National University of Ireland<br/>
