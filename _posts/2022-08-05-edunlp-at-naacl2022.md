@@ -1,12 +1,12 @@
 ---
-title: EduNLP @NAACL2022
+title: Educational NLP at NAACL 2022
 author: bea
 author_profile: true
-excerpt: "EduNLP @NAACL2022"
+excerpt: "A list of interesting papers on EduNLP at the 2022 NAACL conference"
 tags:
-  blog
+  conferences
 categories:
-    blog
+  blog
 ---
 
 
