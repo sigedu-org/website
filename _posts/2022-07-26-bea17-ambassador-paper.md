@@ -4,12 +4,18 @@ author: bea
 author_profile: true
 excerpt: '"Educational Multi-Question Generation for Reading Comprehension" by Manav Rathod, Tony Tu, and Katherine Stasaski'
 tags:
-    IAALDE
-    ambassador
+  IAALDE
+  ambassador
 categories:
-    blog
+  blog
+  news  # <-- [!] use this category to publish the post on the news feed
+news_summary:   
+  # [!] when publishing the post on the news feed,
+  # [!] it is important to write a short summary if the post is too long (~several paragraphs)
+  # [!] otherwise, the content below will be truncated to 280 characters on the news feed
+  # [!] however, if the post is short enough (~one paragraph, <280 characters), you may disregard this option
+  'The following paper was voted the ambassador paper at the 17th BEA workshop: "Educational Multi-Question Generation for Reading Comprehension" by Manav Rathod, Tony Tu and Katherine Stasaski.'
 toc: false
-published: true
 ---
 
 As we are part of the International Alliance to Advance Learning in the Digital Era ([IAALDE](https://alliancelss.com/)), every year we select an ambassador paper that will represent our society (SIGEDU) at another conference affiliated with a "sister" society from IAALDE. All BEA workshop attendees can vote for their favorite ambassador paper (either an oral presentation or a poster).

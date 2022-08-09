@@ -1,5 +1,5 @@
 ---
-title: BEA Newsletter \#8
+title: "BEA Newsletter #8"
 author: bea
 author_profile: true
 excerpt: "The eighth edition of the BEA Newsletter."

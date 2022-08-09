@@ -1,5 +1,5 @@
 ---
-title: SIGEDU/BEA Newsletter \#1
+title: "SIGEDU/BEA Newsletter #1"
 author: bea
 author_profile: true
 excerpt: "The inaugural edition of the SIGEDU/BEA Newsletter."

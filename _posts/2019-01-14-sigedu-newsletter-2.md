@@ -1,5 +1,5 @@
 ---
-title: SIGEDU/BEA Newsletter \#2
+title: "SIGEDU/BEA Newsletter #2"
 author: bea
 author_profile: true
 excerpt: "The second edition of the SIGEDU/BEA Newsletter."
@@ -7,13 +7,17 @@ tags:
   newsletter
 categories:
   blog
-  news
+  news  # <-- [!] use this category to publish the post on the news feed
+news_summary: 
+  # [!] when publishing the post on the news feed,
+  # [!] it is important to write a short summary if the post is too long (~several paragraphs)
+  # [!] otherwise, the content below will be truncated to 280 characters on the news feed
+  # [!] however, if the post is short enough (< 280 characters), you may disregard this option
+  "A new edition of the SIGEDU/BEA newsletter has been posted!"
 toc: true
 toc_sticky: true
 toc_label: "Sections"
 toc_icon: "cog"
-# publish a news item linked to this blog post
-news: "A new edition of the SIGEDU/BEA newsletter has been posted!"
 ---
 
 Hi Everyone,
