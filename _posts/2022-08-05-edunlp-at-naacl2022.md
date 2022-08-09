@@ -5,6 +5,7 @@ author_profile: true
 excerpt: "A list of interesting papers on EduNLP at the 2022 NAACL conference"
 tags:
   conferences
+  NAACL
 categories:
   blog
 ---
