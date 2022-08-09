@@ -4,10 +4,17 @@ author: Jill Burstein
 author_profile: true
 excerpt: "The 9th Writing Analytics Conference will take place on Feb. 6-8 at the University of South Florida."
 tags:
-   conferences
+  conferences
 categories:
-    blog
-    guest
+  blog
+  guest
+  news  # <-- [!] use this category to publish the post on the news feed  
+news_summary: 
+  # [!] when publishing the post on the news feed,
+  # [!] it is important to write a short summary if the post is too long (~several paragraphs)
+  # [!] otherwise, the content below will be truncated to 280 characters on the news feed
+  # [!] however, if the post is short enough (< 280 characters), you may disregard this option
+  "The proposal submission deadline for the 9th Writing Analytics Conference has been extended to November 15, 2019. Consider submitting! It’s a great opportunity to meet and interact with writing researchers!"
 toc: false
 published: true
 ---

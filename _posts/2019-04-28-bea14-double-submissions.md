@@ -1,14 +1,10 @@
 ---
-title: Title goes here
-author: guest
+title: BEA14 Double Submissions Policy
+author: bea
 author_profile: true
-excerpt: "Short excerpt."
 tags:
-  tag1
-  tag2
+
 categories:
-  blog
-  guest
   news  # <-- [!] use this category to publish the post on the news feed  
 news_summary: 
   # [!] when publishing the post on the news feed,
@@ -17,7 +13,6 @@ news_summary:
   # [!] however, if the post is short enough (< 280 characters), you may disregard this option
   ""
 toc: false
-published: false
 ---
 
-Markdown goes here.
+We have added an explicit [double-submission policy](/bea/14#double-submission-policy) to the call for papers for BEA.

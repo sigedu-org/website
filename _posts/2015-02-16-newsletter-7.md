@@ -1,12 +1,12 @@
 ---
-title: BEA Newsletter \#7
+title: "BEA Newsletter #7"
 author: bea
 author_profile: true
 excerpt: "The seventh edition of the BEA Newsletter."
 tags:
   newsletter
 categories:
-    blog
+  blog
 toc: true
 toc_sticky: true
 toc_label: "Sections"

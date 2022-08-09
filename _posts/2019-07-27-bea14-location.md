@@ -1,14 +1,10 @@
 ---
-title: Title goes here
-author: guest
+title: BEA14 Location
+author: bea
 author_profile: true
-excerpt: "Short excerpt."
 tags:
-  tag1
-  tag2
+
 categories:
-  blog
-  guest
   news  # <-- [!] use this category to publish the post on the news feed  
 news_summary: 
   # [!] when publishing the post on the news feed,
@@ -17,7 +13,6 @@ news_summary:
   # [!] however, if the post is short enough (< 280 characters), you may disregard this option
   ""
 toc: false
-published: false
 ---
 
-Markdown goes here.
+BEA 2019 will take place in [Hall 2](http://www.acl2019.org/EN/workshops.xhtml). ACL instructions for presenters are now [available](http://www.acl2019.org/EN/instructions-for-presenters.xhtml)!

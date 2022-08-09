@@ -1,12 +1,12 @@
 ---
-title: SIGEDU/BEA Newsletter \#1
+title: "SIGEDU/BEA Newsletter #1"
 author: bea
 author_profile: true
 excerpt: "The inaugural edition of the SIGEDU/BEA Newsletter."
 tags:
   newsletter
 categories:
-    blog
+  blog
 toc: true
 toc_sticky: true
 toc_label: "Sections"

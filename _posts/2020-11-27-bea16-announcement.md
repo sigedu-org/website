@@ -1,14 +1,10 @@
 ---
-title: Title goes here
-author: guest
+title: BEA16 Announcement
+author: bea
 author_profile: true
-excerpt: "Short excerpt."
 tags:
-  tag1
-  tag2
+  conferences
 categories:
-  blog
-  guest
   news  # <-- [!] use this category to publish the post on the news feed  
 news_summary: 
   # [!] when publishing the post on the news feed,
@@ -17,7 +13,6 @@ news_summary:
   # [!] however, if the post is short enough (< 280 characters), you may disregard this option
   ""
 toc: false
-published: false
 ---
 
-Markdown goes here.
+The [BEA 2021](/bea/2021) workshop has been accepted and will be co-located with EACL. BEA 2021 will be held entirely online on Tuesday, April 20, 2021. The submission deadline is Monday, January 18, 2021. Looking forward to your submissions!
