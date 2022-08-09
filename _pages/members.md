@@ -13,6 +13,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Adaeze Adigwe, University of Helsinki<br/>
 - <a href="https://people.cs.pitt.edu/~tazinafrin/">Tazin Afrin</a>, University of Pittsburgh<br/>
 - Soroosh Akef, Sharif University of Technology<br/>
+- Erfan Al-Hossami, UNC Charlotte <br/>
 - <a href="https://spraakbanken.gu.se/swe/personal/david">David Alfter</a>, Université catholique de Louvain<br/>
 - Amin Alhashim, Arizona State University
 - <a href="https://www.weizmann.ac.il/ScienceTeaching/Alexandron/">Giora Alexandron</a>, Weizmann Institute of Science<br/>
@@ -162,6 +163,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="http://www.personal.psu.edu/xxl13">Xiaofei Lu</a>, Pennsylvania State University<br/>
 - Luca Lugini, University of Pittsburgh<br/>
 - Fan Luo, University of Arizona<br/>
+- <a href="https://ai.ethz.ch/about-us/people/jakub-macina.html">Jakub Macina</a>, ETH Zurich<br/>
 - <a href="https://research.flw.ugent.be/lieve.macken">Lieve Macken</a>, Ghent University<br/>
 - <a href="https://desilinguist.org">Nitin Madnani</a>, Educational Testing Service<br/>
 - <a href="https://sites.google.com/view/amagooda/home">Ahmed Magooda</a>, University of Pittsburgh<br/>
