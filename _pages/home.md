@@ -6,21 +6,15 @@ header:
   overlay_image: "/assets/images/sigedu-splash.png"
   overlay_filter: 0.25
 excerpt: "Special Interest Group for Building Educational Applications<br/><br/>Organizer of BEA Workshop"
+news_limit: 3
 ---
 
 ## Latest News
 
-**July 15, 2022**. Proceedings of the [BEA17](/bea/2022) workshop are out: [https://aclanthology.org/volumes/2022.bea-1/](https://aclanthology.org/volumes/2022.bea-1/)
-{: .notice--info}
-
-**February 11, 2022**. The first Call for Papers for the [BEA17](/bea/2022) workshop is out. We are looking forward to your submissions!
-{: .notice--info}
-
-**November 29, 2021**. The [BEA 2022](/bea/2022) workshop has been accepted and will be co-located with [NAACL 2022](https://2022.naacl.org/) in Seattle, Washington, USA. The workshop will take place on Friday, July 15, 2022. The submission deadline is <s>Friday, April 1</s> extended to Friday, April 8, 2022.
-{: .notice--info}
+{% include news_list.md %}
 
 <div class="text-center">
-    <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
+    <a href="/news/" class="btn btn--info">All News</a>
 </div>
 
 ## Welcome!

@@ -1,14 +1,10 @@
 ---
-title: Title goes here
-author: guest
+title: BEA14 Proceedings
+author: bea
 author_profile: true
-excerpt: "Short excerpt."
 tags:
-  tag1
-  tag2
+  proceedings
 categories:
-  blog
-  guest
   news  # <-- [!] use this category to publish the post on the news feed  
 news_summary: 
   # [!] when publishing the post on the news feed,
@@ -17,7 +13,6 @@ news_summary:
   # [!] however, if the post is short enough (< 280 characters), you may disregard this option
   ""
 toc: false
-published: false
 ---
 
-Markdown goes here.
+The Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Application (bea2019) are now available [online](https://www.aclweb.org/anthology/volumes/W19-44/).

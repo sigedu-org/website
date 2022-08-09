@@ -1,14 +1,10 @@
 ---
-title: Title goes here
-author: guest
+title: BEA15 Deadline Extension
+author: bea
 author_profile: true
-excerpt: "Short excerpt."
 tags:
-  tag1
-  tag2
+
 categories:
-  blog
-  guest
   news  # <-- [!] use this category to publish the post on the news feed  
 news_summary: 
   # [!] when publishing the post on the news feed,
@@ -17,7 +13,6 @@ news_summary:
   # [!] however, if the post is short enough (< 280 characters), you may disregard this option
   ""
 toc: false
-published: false
 ---
 
-Markdown goes here.
+Due to multiple requests and in view of the current situation, we have extended the [BEA 2020](/bea/2020) paper submission deadline to **April 13th, 11:59 pm EST**. For COVID-19 updates on ACL 2020, please refer to the [conference website](https://acl2020.org).
