@@ -21,6 +21,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://feralvam.github.io">Fernando Alva-Manchego</a>, University of Sheffield<br/>
 - Jason Angel, Instituto Politecnico Nacional<br/>
 - Quoc Tien Au, GradeSlam<br/>
+- Grant Bailey, e-learning startup founder<br/>
 - <a href="https://www.rbanchs.com">Rafael Banchs</a>, I2R<br/>
 - <a href="www.linkedin.com/in/michael-bayona">Michael Gringo Angelo Bayona</a>, Trinity College Dublin<br/>
 - <a href="https://leebecker.com">Lee Becker</a>, Pearson<br/>
@@ -71,7 +72,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="www.rahulrdiv.com">Rahul Divekar</a>, Educational Testing Service<br/> 
 - George Dueñas, Universidad Pedagógica Nacional<br/>
 - Hanh Duong, independent researcher<br/>
-- <a href="https://researchmap.jp/yo_ehara/">Yo Ehara</a>, Shizuoka Institute of Science and Technology<br/>
+- <a href="https://researchmap.jp/yo_ehara/">Yo Ehara</a>, Tokyo Gakugei University<br/>
 - Noureddine Elouazizi, Faculty of Science, UBC<br/>
 - <a href="http://evanini.com/keelan.html">Keelan Evanini</a>, Educational Testing Service<br/>
 - <a href="https://www.cl.cam.ac.uk/~mf501/">Mariano Felice</a>, University of Cambridge<br/>
@@ -142,6 +143,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Ronja Laarmann-Quante, University Duisburg-Essen<br/>
 - Claudia Leacock, Grammarly<br/>
 - <a href="https://www.lhlee.net/">Lung-Hao Lee</a>, National Central University<br/>
+- Seiyon Lee, UPenn<br/>
 - <a href="https://a2un.github.io">Arun Balajiee Lekshmi Narayanan</a>, University of Pittsburgh<br/>
 - <a href="https://lpmi-13.github.io/">Adam Leskis</a>, Independent Researcher<br/>
 - Greg Lessard, Queen's University<br/>
@@ -283,6 +285,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Rebecka Weegar, Stockholm University<br/>
 - <a href="https://www.sfs.uni-tuebingen.de/~zweiss/">Zarah Weiss</a>, University of Tübingen<br/>
 - <a href="http://u.osu.edu/mwhite/">Michael White</a>, The Ohio State University<br/>
+- Joshua Wilson, University of Delaware<br/>
 - Michael Wojatzki, LTL University of Duisburg-Essen<br/>
 - Guowei Xu, TAL AI Lab<br/>
 - <a href="https://web.cse.ohio-state.edu/~weixu/">Wei Xu</a>, Ohio State University<br/>
