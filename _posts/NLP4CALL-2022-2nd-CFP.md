@@ -1,0 +1,88 @@
+---
+title: NLP4CALL 2022 Second call for papers
+author: guest
+author_profile: true
+excerpt: "11th NLP4CALL, Louvain-la-Neuve, Belgium."
+tags:
+  conferences
+categories:
+  blog
+  guest
+  news  # <-- [!] use this category to publish the post on the news feed  
+news_summary: 
+  # [!] when publishing the post on the news feed,
+  # [!] it is important to write a short summary if the post is too long (~several paragraphs)
+  # [!] otherwise, the content below will be truncated to 280 characters on the news feed
+  # [!] however, if the post is short enough (< 280 characters), you may disregard this option
+  "The 11th NLP4CALL will be held in Louvain-la-Neuve, Belgium, on 9 December 2022."
+toc: false
+published: true
+---
+
+The workshop series on Natural Language Processing (NLP) for Computer-Assisted Language Learning (NLP4CALL) is a meeting place for researchers working on the integration of Natural Language Processing and Speech Technologies in CALL systems and exploring the theoretical and methodological issues arising in this connection. The latter includes, among others, insights from Second Language Acquisition (SLA) research, on the one hand, and promote development of "Computational SLA" through setting up Second Language research infrastructure(s), on the other.
+
+The intersection of Natural Language Processing (or Language Technology / Computational Linguistics) and Speech Technology with Computer-Assisted Language Learning (CALL) brings "understanding" of language to CALL tools, thus making CALL intelligent. This fact has given the name for this area of research – Intelligent CALL, ICALL. As the definition suggests, apart from having excellent knowledge of Natural Language Processing and/or Speech Technology, ICALL researchers need good insights into second language acquisition theories and practices, as well as knowledge of second language pedagogy and didactics. This workshop invites therefore a wide range of ICALL-relevant research, including studies where NLP-enriched tools are used for testing SLA and pedagogical theories, and vice versa, where SLA theories, pedagogical practices or empirical data are modeled in ICALL tools.
+
+The NLP4CALL workshop series is aimed at bringing together competences from these areas for sharing experiences and brainstorming around the future of the field.
+
+We welcome papers:
+
+- that describe research directly aimed at ICALL;
+- that demonstrate actual or discuss the potential use of existing Language and Speech Technologies or resources for language learning;
+- that describe the ongoing development of resources and tools with potential usage in ICALL, either directly in interactive applications, or indirectly in materials, application or curriculum development, e.g. learning material generation, assessment of learner texts and responses, individualized learning solutions, provision of feedback;
+- that discuss challenges and/or research agenda for ICALL
+- that describe empirical studies on language learner data.
+
+This year a special focus is given to work done on second language vocabulary and grammar profiling, as well as the use of crowdsourcing for creating, collecting and curating data in NLP projects.
+
+We encourage paper presentations and software demonstrations describing the above-mentioned themes primarily, but not exclusively, for the Nordic languages.
+
+ 
+**==Invited speakers==**
+
+This year, we have the pleasure to announce two invited talks.
+
+The first talk is by Christopher Bryant from Reverso and the University of Cambridge.
+The second talk is given by Marije Michel from the University of Amsterdam.
+
+
+**==Submission information==**
+
+Authors are invited to submit long papers (8-12 pages) alternatively short papers (4-7 pages), page count not including references. We will be using the NLP4CALL workshop template for the workshop this year. The author kit, including LaTeX and Microsoft Word templates can be accessed here, alternatively on Overleaf:
+
+- <[https://spraakbanken.gu.se/sites/default/files/2022/NLP4CALL%20workshop%20template.zip](https://spraakbanken.gu.se/sites/default/files/2022/NLP4CALL%20workshop%20template.zip)> 
+- <[https://spraakbanken.gu.se/sites/default/files/2022/nlp4call%20template.doc](https://spraakbanken.gu.se/sites/default/files/2022/nlp4call%20template.doc)>
+- <[https://www.overleaf.com/latex/templates/nlp4call-workshop-template/qqqzqqyvtqqv](https://www.overleaf.com/latex/templates/nlp4call-workshop-template/qqqzqqyvtqqv)>
+
+
+Submissions will be managed through the electronic conference management system [EasyChair](https://easychair.org/conferences/?conf=nlp4call2022). Papers must be submitted digitally through the conference management system, in PDF format. Final camera-ready versions of accepted papers will be given an additional page to address reviewer comments.
+
+Papers should describe original unpublished work or work-in-progress. Papers will be peer reviewed by at least two members of the program committee in a double-blind fashion. All accepted papers will be collected into a proceedings volume to be submitted for publication in the NEALT Proceeding Series (Linköping Electronic Conference Proceedings) and, additionally, double-published through the ACL anthology, following experiences from the previous NLP4CALL editions 
+(<[https://www.aclweb.org/anthology/venues/nlp4call/](https://www.aclweb.org/anthology/venues/nlp4call/)>).
+
+
+
+**==Important dates==**
+
+- **7 October 2022: paper submission deadline**
+- 4 November 2022: notification of acceptance
+- 25 November 2022: camera-ready papers for publication
+- 9 December 2022: workshop date
+
+
+**==Organizers==**
+
+David Alfter (1,2), Elena Volodina (2), Thomas François (1), Piet Desmet (3), Frederik Cornillie (3), Arne Jönsson (4), Eveline Rennes (4)
+
+- (1) CENTAL, Institute for Language and Communication, Université Catholique de Louvain, Belgium
+- (2) Språkbanken, Department of Swedish, Multilingualism, Language Technology, University of Gothenburg, Sweden
+- (3) Itec, Department of Linguistics at KU Leuven & imec, Belgium
+- (4) Department of Computer and Information Science, Linköping University, Sweden
+
+**==Contact==**
+
+For any questions, please contact David Alfter, david.alfter@uclouvain.be
+
+For further information, see the [workshop website](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2022)
+
+Follow us on Twitter [@NLP4CALL](https://twitter.com/NLP4CALL/)
