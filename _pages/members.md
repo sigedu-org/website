@@ -265,7 +265,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Carlo Strapparava, FBK-irst<br/>
 - <a href="qiuyisun.com">Qiuyi Sun</a>, University of Birmingham<br/>
 - <a href="https://hksung.github.io">Hakyung Sung</a>, University of Oregon<br/>
-- <a href="https://anaistack.github.io/">Anaïs Tack</a>, Stanford University<br/>
+- <a href="https://anaistack.github.io">Anaïs Tack</a>, KU Leuven<br/>
 - <a href="https://scholar.google.com/citations?user=IRMBXF4AAAAJ&hl=en">Kaveh Taghipour</a>, National University of Singapore<br/>
 - <a href="https://scholar.google.com/citations?user=5GsrJYYAAAAJ&hl=en">Z Taylor</a>, The University of Texas at Austin<br/>
 - <a href="https://www.cs.rochester.edu/~tetreaul/academic.html">Joel Tetreault</a>, Grammarly<br/>
