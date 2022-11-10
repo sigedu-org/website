@@ -2,6 +2,7 @@
 title: "14th Workshop on Innovative Use of NLP for Building Educational Applications"
 layout: single
 permalink: /bea/2019
+redirect_from: /bea/14
 sidebar: 
     nav: "bea"
 toc: true

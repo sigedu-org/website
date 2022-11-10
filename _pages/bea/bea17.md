@@ -1,6 +1,7 @@
 ---
 title: 17th Workshop on Innovative Use of NLP for Building Educational Applications
 permalink: /bea/2022
+redirect_from: /bea/17
 sidebar: 
     nav: "bea"
 toc: true
