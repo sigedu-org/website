@@ -15,7 +15,7 @@ toc: false
 | Treasurer | [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/) | University of Cambridge | 2021-2024 |
 | Executive Board Member | [Jill Burstein](https://sites.google.com/site/jbursteinets/) | Duolingo | 2021-2024 |
 | Executive Board Member | [Nitin Madnani](https://desilinguist.org) | Educational Testing Service | 2021-2024 |
-| Executive Board Member | [Anais Tack](https://anaistack.github.io) | KU Leuven | 2021-2024 |
+| Executive Board Member | [Anaïs Tack](https://anaistack.github.io) | KU Leuven | 2021-2024 |
 | Executive Board Member | [Victoria Yaneva](http://www.victoriayaneva.info) | National Board of Medical Examiners | 2021-2024 |
 
 
