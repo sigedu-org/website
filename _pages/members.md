@@ -13,7 +13,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://www.upf.edu/web/ahmed-aburaed">Ahmed Ghassan Tawfiq AbuRa'ed</a>, LaSTUS lab, TALN, UPF University<br/>
 - Adaeze Adigwe, University of Helsinki<br/>
 - <a href="https://people.cs.pitt.edu/~tazinafrin/">Tazin Afrin</a>, University of Pittsburgh<br/>
-- Soroosh Akef, Sharif University of Technology<br/>
+- Soroosh Akef, Universidade de Lisboa<br/>
 - Erfan Al-Hossami, UNC Charlotte <br/>
 - <a href="https://spraakbanken.gu.se/swe/personal/david">David Alfter</a>, Université catholique de Louvain<br/>
 - Amin Alhashim, Arizona State University
