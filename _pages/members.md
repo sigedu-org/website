@@ -294,10 +294,10 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Guowei Xu, TAL AI Lab<br/>
 - <a href="https://web.cse.ohio-state.edu/~weixu/">Wei Xu</a>, Ohio State University<br/>
 - Yiqiao Xu, NC State University<br/>
-- <a href="http://victoriayaneva.info">Victoria Yaneva</a>, University of Wolverhampton<br/>
-- <a href="https://www.cl.cam.ac.uk/~hy260/">Helen Yannakoudakis</a>, University of Cambridge<br/>
+- <a href="http://victoriayaneva.info">Victoria Yaneva</a>, National Board of Medical Examiners (NBME)<br/>
+- <a href="https://www.cl.cam.ac.uk/~hy260/">Helen Yannakoudakis</a>, King's College London<br/>
 - <a href="https://seyyaw.github.io/">Seid Muhie Yimam</a>, UHH - LT Lab<br/>
-- <a href="https://www.cl.cam.ac.uk/~zy249/">Zheng Yuan</a>, University of Cambridge<br/>
+- <a href="https://www.cl.cam.ac.uk/~zy249/">Zheng Yuan</a>, King's College London<br/>
 - <a href="http://pers-www.wlv.ac.uk/~u22984/">Marcos Zampieri</a>, University of Wolverhampton<br/>
 - Klaus Zechner, ETS<br/>
 - <a href="https://www.dipf.de/en/institute/staff/zehner-fabian">Fabian Zehner</a>, DIPF \| Leibniz Institute for Research and Information in Education<br/>
