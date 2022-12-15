@@ -2,6 +2,7 @@
 title: "16th Workshop on Innovative Use of NLP for Building Educational Applications"
 layout: single
 permalink: /bea/2021
+redirect_from: /bea/16
 sidebar: 
     nav: "bea"
 toc: true
