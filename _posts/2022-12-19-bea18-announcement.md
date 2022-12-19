@@ -16,4 +16,4 @@ toc: false
 published: true
 ---
 
-We are thrilled to announce that the proposal for the *18th Workshop on Innovative Use of NLP for Building Educational Applications* has been accepted. The workshop will be co-located with [ACL 2023](https://2023.aclweb.org) in Toronto, Canada and will take place on July 13 or 14, 2023.
+We are thrilled to announce that the 18th edition of the BEA workshop will take place at [ACL 2023](https://2023.aclweb.org) in Toronto, Canada on July 13 or 14, 2023.
