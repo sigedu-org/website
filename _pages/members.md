@@ -9,10 +9,11 @@ toc: false
 
 The following is a list of the current SIGEDU members and their affiliations. Membership is open to everyone. [Become a member](https://docs.google.com/forms/d/e/1FAIpQLSep9q-QLIvCIVIcdyoJJA8y2Ql32YRCQfVWDNJx1FwNXD3L6Q/viewform).
 
+- Rania Abdelghani, INRIA Bordeaux<br/>
 - <a href="https://www.upf.edu/web/ahmed-aburaed">Ahmed Ghassan Tawfiq AbuRa'ed</a>, LaSTUS lab, TALN, UPF University<br/>
 - Adaeze Adigwe, University of Helsinki<br/>
 - <a href="https://people.cs.pitt.edu/~tazinafrin/">Tazin Afrin</a>, University of Pittsburgh<br/>
-- Soroosh Akef, Sharif University of Technology<br/>
+- Soroosh Akef, Universidade de Lisboa<br/>
 - Erfan Al-Hossami, UNC Charlotte <br/>
 - <a href="https://spraakbanken.gu.se/swe/personal/david">David Alfter</a>, Université catholique de Louvain<br/>
 - Amin Alhashim, Arizona State University
@@ -80,6 +81,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Michael Flor, Educational Testing Service<br/>
 - <a href="https://www.computing.dcu.ie/~jfoster">Jennifer Foster</a>, Dublin City University<br/>
 - Jennifer-Carmen Frey, Eurac Research Bolzano & Dipartimento di Interpretazione e Traduzione Forlì, Università di Bologna<br/>
+- <a href="https://hiro819.github.io/">Hiroaki Funayama</a>, Tohoku university / RIKEN<br/>
 - <a href="https://suzenfylke.com">Suzen Fylke</a>, Twitter<br/>
 - <a href="https://www.microsoft.com/en-us/research/people/mgamon/">Michael Gamon</a>, Microsoft Research<br/>
 - <a href="https://ananyaganesh.github.io">Ananya Ganesh</a>, University of Colorado<br/>
@@ -235,6 +237,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Allen Riddell, Indiana University Bloomington<br/>
 - <a href="http://clul.ulisboa.pt/en/pessoa/iagayo">Iria del Río</a>, University of Lisbon<br/>
 - <a href="https://frankie.robertson.name">Frankie Robertson</a>, University of Jyväskylä<br/>
+- <a href="https://www.fing.edu.uy/inco/grupos/pln/">Aiala Rosá</a>, Instituto de Computación, Facultad de Ingeniería, Udelar<br/>
 - Martha Shaka, University College Cork<br/>
 - Rebecca Rust, Rosetta Stone<br/>
 - <a href="http://www.sfs.uni-tuebingen.de/~brzdwtz/">Björn&nbsp;Rudzewitz</a>,&nbsp;Universität&nbsp;Tübingen<br/>
@@ -261,6 +264,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Bernardo Stearns, National University of Ireland<br/>
 - Carlo Strapparava, FBK-irst<br/>
 - <a href="qiuyisun.com">Qiuyi Sun</a>, University of Birmingham<br/>
+- <a href="https://hksung.github.io">Hakyung Sung</a>, University of Oregon<br/>
 - <a href="https://anaistack.github.io">Anaïs Tack</a>, KU Leuven<br/>
 - <a href="https://scholar.google.com/citations?user=IRMBXF4AAAAJ&hl=en">Kaveh Taghipour</a>, National University of Singapore<br/>
 - <a href="https://scholar.google.com/citations?user=5GsrJYYAAAAJ&hl=en">Z Taylor</a>, The University of Texas at Austin<br/>
@@ -290,10 +294,10 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Guowei Xu, TAL AI Lab<br/>
 - <a href="https://web.cse.ohio-state.edu/~weixu/">Wei Xu</a>, Ohio State University<br/>
 - Yiqiao Xu, NC State University<br/>
-- <a href="http://victoriayaneva.info">Victoria Yaneva</a>, University of Wolverhampton<br/>
-- <a href="https://www.cl.cam.ac.uk/~hy260/">Helen Yannakoudakis</a>, University of Cambridge<br/>
+- <a href="http://victoriayaneva.info">Victoria Yaneva</a>, National Board of Medical Examiners (NBME)<br/>
+- <a href="https://www.cl.cam.ac.uk/~hy260/">Helen Yannakoudakis</a>, King's College London<br/>
 - <a href="https://seyyaw.github.io/">Seid Muhie Yimam</a>, UHH - LT Lab<br/>
-- <a href="https://www.cl.cam.ac.uk/~zy249/">Zheng Yuan</a>, University of Cambridge<br/>
+- <a href="https://www.cl.cam.ac.uk/~zy249/">Zheng Yuan</a>, King's College London<br/>
 - <a href="http://pers-www.wlv.ac.uk/~u22984/">Marcos Zampieri</a>, University of Wolverhampton<br/>
 - Klaus Zechner, ETS<br/>
 - <a href="https://www.dipf.de/en/institute/staff/zehner-fabian">Fabian Zehner</a>, DIPF \| Leibniz Institute for Research and Information in Education<br/>
