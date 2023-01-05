@@ -1,4 +1,3 @@
-# main links
 main:
   - title: "Constitution"
     url: /constitution
@@ -21,6 +20,8 @@ main:
 bea:
   - title: BEA Workshops
     children:
+      - title: "2023"
+        url: /bea/2023
       - title: "2022"
         url: /bea/2022
       - title: "2021"
@@ -31,30 +32,3 @@ bea:
         url: /bea/2019
       - title: "2018 & Older"
         url: /bea/past
-
-# program:
-#   - title: Program Details
-#     children:
-#       - title: "Keynote Speakers"
-#         url: /program/keynotes/
-#       - title: "Tutorials"
-#         url: /program/tutorials/
-#       - title: "Workshops"
-#         url: /program/workshops/
-
-
-# participants:
-#   - title: "Information for Participants"
-#     children:
-#       - title: "Accommodation"
-#         url: /participants/accommodation/
-#       - title: "Social Event"
-#         url: /participants/social/
-
-# sponsors:
-#   - title: Sponsorship
-#     children:
-#       - title: "List of Sponsors"
-#         url: /sponsors/list/
-#       - title: "Tiers &amp; Pricing"
-#         url: /sponsors/benefits/
