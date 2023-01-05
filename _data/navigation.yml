@@ -32,3 +32,10 @@ bea:
         url: /bea/2019
       - title: "2018 & Older"
         url: /bea/past
+
+beasharedtask2023:
+  - title: CodaLab
+    text: TBA
+    children:
+      - title: "Registration"
+        url: ~
