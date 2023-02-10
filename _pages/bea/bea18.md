@@ -47,7 +47,7 @@ toc_icon: 'cog'
 
 ## Workshop Description
 
-The BEA Workshop is a leading venue for NLP innovation in the context of educational applications. It is one of the largest one-day workshops in the ACL community with over 100 registered attendees in the past several years. The growing interest in educational applications and a diverse community of researchers involved resulted in the creation of the [Special Interest Group in Educational Applications (SIGEDU)](https://www.aclweb.org/adminwiki/index.php?title=2019Q3_Reports:_SIGEDU) in 2017, which currently has 240 members.
+The BEA Workshop is a leading venue for NLP innovation in the context of educational applications. It is one of the largest one-day workshops in the ACL community with over 100 registered attendees in the past several years. The growing interest in educational applications and a diverse community of researchers involved resulted in the creation of the [Special Interest Group in Educational Applications (SIGEDU)](https://www.aclweb.org/adminwiki/index.php?title=2019Q3_Reports:_SIGEDU) in 2017, which currently has over 300 members.
 
 The workshop’s continuing growth highlights the alignment between societal needs and technological advances: for instance, BEA16 in 2021 hosted a panel discussion on New Challenges for Educational Technology in the Time of the Pandemic addressing the pressing issues around COVID19. NLP capabilities can now support an array of learning domains, including writing, speaking, reading, science, and mathematics, as well as the related intra-personal (e.g., self-confidence) and inter-personal (e.g., peer collaboration) skills. Within these areas, the community continues to develop and deploy innovative NLP approaches for use in educational settings. Another breakthrough for educational applications within the CL community is the presence of a number of shared-task competitions organized by the BEA workshop over the past several years, including four shared tasks on grammatical error detection and correction alone. NLP/Education shared tasks have also seen new areas of research, such as the Automated Evaluation of Scientific Writing at BEA11, Native Language Identification at BEA12, Second Language Acquisition Modelling at BEA13, and Complex Word Identification at BEA13. These competitions increased the visibility of, and interest in, our field.
 
@@ -93,6 +93,7 @@ If you are interested in sharing your code and data with the BEA community, we c
 <span style="font-size: smaller;"><b>Note</b>: All deadlines are 11:59pm UTC-12 (anywhere on earth).</span>
 {: .notice--danger}
 
+- Anonymity period: **Friday, March 24, 2023**
 - Submission Deadline: **Monday, April 24, 2023**
 - Notification of Acceptance: **Monday, May 22, 2023**
 - Camera-ready Papers Due: **Tuesday, May 30, 2023**
@@ -122,3 +123,117 @@ Paper submissions must use the official ACL style templates, which are available
 We will follow the official ACL double-submission policy. Specifically, papers being submitted both to BEA and another conference or workshop must:
 - Note on the title page the other conference or workshop to which they are being submitted.
 - State on the title page that if the authors choose to present their paper at BEA (assuming it was accepted), then the paper will be withdrawn from other conferences and workshops.
+
+
+## Organizing Committee
+
+- [Ekaterina Kochmar](https://ekochmar.github.io/about/), MBZUAI
+- [Jill Burstein](https://sites.google.com/site/jbursteinets/), Duolingo
+- [Andrea Horbach](https://www.fernuni-hagen.de/forschung/schwerpunkte/d2l2/team/andrea.horbach.shtml), FernUniversität in Hagen
+- [Ronja Laarmann-Quante](https://www.ltl.uni-due.de/team/ronja-laarmann-quante), FernUniversität in Hagen
+- [Nitin Madnani](https://desilinguist.org/), Educational Testing Service
+- [Anaïs Tack](https://anaistack.github.io/), KU Leuven
+- [Victoria Yaneva](http://www.victoriayaneva.info/), National Board of Medical Examiners
+- [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/), King's College London
+- [Torsten Zesch](https://www.ltl.uni-due.de/team/torsten-zesch), FernUniversität in Hagen
+
+Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.workshop@gmail.com)
+
+## Program Committee
+
+- Rania Abdelghani, INRIA Bordeaux - EvidenceB Paris
+- Tazin Afrin, Educational Testing Services
+- David Alfter, Université catholique de Louvain
+- Erfan Al-Hossami, University of North Carolina at Charlotte
+- Michael Gringo Angelo Bayona, Trinity College Dublin
+- Lee Becker, Pearson
+- Marie Bexte, FernUniversität in Hagen
+- Serge Bibauw, Universidad Central del Ecuador; KU Leuven
+- Daniel Brenner, ETS
+- Dominique Brunato, Institute of Computational Linguistics / CNR (Pisa, Italy)
+- Christopher Bryant, University of Cambridge
+- Dumitru-Clementin Cercel, University Politehnica of Bucharest
+- Li-Hsin Chang, University of Turku
+- Guanliang Chen, Monash University
+- Hyundong Cho, USC ISI
+- Martin Chodorow, The City University of New York
+- Mark Core, University of Southern California
+- Kordula De Kuthy, University of Tübingen
+- Jasper Degraeuwe, Ghent University
+- Carrie Demmans Epp, University of Alberta
+- Yuning Ding, FernUniversität in Hagen
+- Rahul Divekar, ETS
+- George Duenas, Universidad Pedagogica Nacional
+- Mariano Felice, British Council
+- Michael Flor, Educational Testing Service
+- Yo Ehara, Tokyo Gakugei University
+- Ananya Ganesh, University of Colorado Boulder
+- Lingyu Gao, TTIC
+- Samuel González-López, Technological University of Nogales Sonora 
+- Tanja Heck, University of Tübingen
+- Nicolas Hernandez, Nantes University - LS2N
+- Chung-Chi Huang, Frostburg State University
+- Yi-Ting Huang, NTUST
+- Joseph Marvin Imperial, University of Bath
+- Radu Tudor Ionescu, University of Bucharest
+- Qinjin Jia, North Carolina State University
+- Richard Johansson, University of Gothenburg
+- Elma Kerz, RWTH Aachen University
+- Mamoru Komachi, Tokyo Metropolitan University
+- Kristopher Kyle, University of Oregon
+- Ji-Ung Lee, UKP Lab, TU Darmstadt, Germany
+- Arun Balajiee Lekshmi Narayanan, University of Pittsburgh
+- Xu Li, Zhejiang University
+- Diane Litman, University of Pittsburgh
+- Yudong Liu, Western Washington University
+- Zhexiong Liu, University of Pittsburgh 
+- Zoey Liu, University of Florida
+- Peter Ljunglöf, University of Gothenburg
+- Anastassia Loukina, Grammarly Inc.
+- Gunnar Lund, Grammarly
+- Jakub Macina, ETH Zurich
+- Lieve Macken, Ghent University, Belgium
+- James Martin, University of Colorado Boulder
+- Sandeep Mathias, Presidency University, Bangalore
+- Janet Mee, NBME
+- Detmar Meurers, University of Tübingen
+- Farah Nadeem, UNICEF
+- Ben Naismith, Duolingo
+- Sungjin Nam, ACT Inc.
+- Diane Napolitano, Associated Press
+- Kamel Nebhi, Education First
+- Hwee Tou Ng, National University of Singapore
+- Huy Nguyen, Amazon
+- Kostiantyn Omelianchuk, Grammarly
+- Simon Ostermann, Deutsches Forschungszentrum für Künstliche Intelligenz
+- Robert Östling, Department of Linguistics, Stockholm University
+- Ulrike Pado, Hochschule fuer Technik Stuttgart
+- Lis Pereira, Ochanomizu University
+- Reinald Adrian Pugoy, University of the Philippines
+- Long Qin, Alibaba Cloud
+- Mengyang Qiu, University at Buffalo
+- Martí Quixal, University of Tübingen
+- Vipul Raheja, Grammarly
+- Vivi Rantung, Universitas Negeri Manado
+- Arjun Ranesh Rao, Microsoft
+- Manav Rathod, Glean
+- Brian Riordan, ETS
+- Frankie Robertson, University of Jyväskylä
+- Aiala Rosá, Instituto de Computación, Facultad de Ingeniería, Udelar
+- Alla Rozovskaya, Queens College, CUNY
+- Katherine Stasaski, Salesforce Research
+- Helmer Strik, Radboud University
+- Jan Švec, University of West Bohemia
+- Anaïs Tack, KU Leuven, UCLouvain
+- Elaine Uí Dhonnchadha, Trinity College Dublin
+- Alexandra Uitdenbogerd, RMIT
+- Sowmya Vajjala, National Research Council, Canada
+- Giulia Venturi, Institute for Computational Linguistics "A. Zampolli" (CNR-ILC)
+- Carl Vogel, Trinity College Dublin
+- Elena Volodina, University of Gothenburg, Sweden
+- Michael White, The Ohio State University
+- Alistair Willis, The Open University
+- Yiqiao Xu, North Carolina State University
+- Klaus Zechner, ETS
+- Torsten Zesch, FernUniversität in Hagen
+
