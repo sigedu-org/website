@@ -93,7 +93,7 @@ If you are interested in sharing your code and data with the BEA community, we c
 <span style="font-size: smaller;"><b>Note</b>: All deadlines are 11:59pm UTC-12 (anywhere on earth).</span>
 {: .notice--danger}
 
-- Anonymity period: **Friday, March 24, 2023**
+- Anonymity Period Begins: **Friday, March 24, 2023**
 - Submission Deadline: **Monday, April 24, 2023**
 - Notification of Acceptance: **Monday, May 22, 2023**
 - Camera-ready Papers Due: **Tuesday, May 30, 2023**
@@ -124,14 +124,13 @@ We will follow the official ACL double-submission policy. Specifically, papers b
 - Note on the title page the other conference or workshop to which they are being submitted.
 - State on the title page that if the authors choose to present their paper at BEA (assuming it was accepted), then the paper will be withdrawn from other conferences and workshops.
 
-
 ## Organizing Committee
 
 - [Ekaterina Kochmar](https://ekochmar.github.io/about/), MBZUAI
 - [Jill Burstein](https://sites.google.com/site/jbursteinets/), Duolingo
 - [Andrea Horbach](https://www.fernuni-hagen.de/forschung/schwerpunkte/d2l2/team/andrea.horbach.shtml), FernUniversität in Hagen
 - [Ronja Laarmann-Quante](https://www.ltl.uni-due.de/team/ronja-laarmann-quante), FernUniversität in Hagen
-- [Nitin Madnani](https://desilinguist.org/), Educational Testing Service
+- [Nitin Madnani](https://desilinguist.org/), ETS
 - [Anaïs Tack](https://anaistack.github.io/), KU Leuven
 - [Victoria Yaneva](http://www.victoriayaneva.info/), National Board of Medical Examiners
 - [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/), King's College London
@@ -169,7 +168,7 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Yo Ehara, Tokyo Gakugei University
 - Ananya Ganesh, University of Colorado Boulder
 - Lingyu Gao, TTIC
-- Samuel González-López, Technological University of Nogales Sonora 
+- Samuel González-López, Technological University of Nogales Sonora
 - Tanja Heck, University of Tübingen
 - Nicolas Hernandez, Nantes University - LS2N
 - Chung-Chi Huang, Frostburg State University
@@ -186,7 +185,7 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Xu Li, Zhejiang University
 - Diane Litman, University of Pittsburgh
 - Yudong Liu, Western Washington University
-- Zhexiong Liu, University of Pittsburgh 
+- Zhexiong Liu, University of Pittsburgh
 - Zoey Liu, University of Florida
 - Peter Ljunglöf, University of Gothenburg
 - Anastassia Loukina, Grammarly Inc.
@@ -236,4 +235,3 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Yiqiao Xu, North Carolina State University
 - Klaus Zechner, ETS
 - Torsten Zesch, FernUniversität in Hagen
-
