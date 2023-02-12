@@ -72,7 +72,7 @@ The 18th BEA workshop will follow the format of BEA in 2022 and will be hybrid. 
 
 ### Invited Talks
 
-The workshop will feature invited talks from Susan Lottridge, Cambium Assessment; Jordana Heller, Textio (speakers confirmed); and a speaker from one of the [IAALDE societies](https://alliancelss.com).
+The workshop will feature invited talks from Susan Lottridge, Cambium Assessment; Jordana Heller, Textio; and a speaker from one of the [IAALDE societies](https://alliancelss.com).
 
 ### Shared Task
 
@@ -129,7 +129,7 @@ We will follow the official ACL double-submission policy. Specifically, papers b
 - [Ekaterina Kochmar](https://ekochmar.github.io/about/), MBZUAI
 - [Jill Burstein](https://sites.google.com/site/jbursteinets/), Duolingo
 - [Andrea Horbach](https://www.fernuni-hagen.de/forschung/schwerpunkte/d2l2/team/andrea.horbach.shtml), FernUniversität in Hagen
-- [Ronja Laarmann-Quante](https://www.ltl.uni-due.de/team/ronja-laarmann-quante), FernUniversität in Hagen
+- [Ronja Laarmann-Quante](https://www.ltl.uni-due.de/team/ronja-laarmann-quante), Ruhr University Bochum
 - [Nitin Madnani](https://desilinguist.org/), ETS
 - [Anaïs Tack](https://anaistack.github.io/), KU Leuven
 - [Victoria Yaneva](http://www.victoriayaneva.info/), National Board of Medical Examiners
