@@ -2,7 +2,7 @@
 title: LANGLEARN Shared Task Call for Participation
 author: guest
 author_profile: true
-excerpt: "The EVALITA 2023 shared task on Language Learning Development will be held in Parma (Italy) from September 7th-8th, 2023."
+excerpt: "The shared task on Language Learning Development will be held in Parma (Italy) from September 7th-8th, 2023."
 tags:
   shared task
 categories:
@@ -14,7 +14,7 @@ news_summary:
   # [!] it is important to write a short summary if the post is too long (~several paragraphs)
   # [!] otherwise, the content below will be truncated to 280 characters on the news feed
   # [!] however, if the post is short enough (< 280 characters), you may disregard this option
-  "The EVALITA 2023 shared task on Language Learning Development (LANGLEARN) will be held in Parma, Italia (September 7th-8th 2023)."
+  "The shared task on Language Learning Development (LANGLEARN) will be held in Parma, Italia (September 7th-8th 2023)."
 toc: false
 published: true
 ---
