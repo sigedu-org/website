@@ -301,4 +301,4 @@ defaults:
 scholar:
   style: generic-style-rules-for-linguistics
   source:	./_bibliography
-  bibliography: references.bib
+  #bibliography: references.bib
