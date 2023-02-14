@@ -32,7 +32,7 @@ toc_icon: 'cog'
         </tr>
         <tr>
             <td><strong>Date</strong></td>
-            <td>July 13 or 14, 2023 (TBD)</td>
+            <td>July 13, 2023</td>
         </tr>
         <tr>
             <td><strong>Organizers</strong></td>
@@ -98,7 +98,7 @@ If you are interested in sharing your code and data with the BEA community, we c
 - Notification of Acceptance: **Monday, May 22, 2023**
 - Camera-ready Papers Due: **Tuesday, May 30, 2023**
 - Pre-recorded Videos Due: **Monday, June 12, 2023**
-- Workshop: **Thursday, July 13, 2023** OR **Friday, July 14, 2023**
+- Workshop: **Thursday, July 13, 2023**
 
 ## Registration
 
