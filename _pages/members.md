@@ -21,6 +21,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://www.weizmann.ac.il/ScienceTeaching/Alexandron/">Giora Alexandron</a>, Weizmann Institute of Science<br/>
 - <a href="https://da352.user.srcf.net">Dimitris Alikaniotis</a>,&nbsp;Grammarly<br/>
 - <a href="https://feralvam.github.io">Fernando Alva-Manchego</a>, University of Sheffield<br/>
+- Jatin Ambasana, Indian Institute of Technology Bombay<br/>
 - Jason Angel, Instituto Politecnico Nacional<br/>
 - Quoc Tien Au, GradeSlam<br/>
 - Grant Bailey, e-learning startup founder<br/>
@@ -31,6 +32,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://www.ukp.tu-darmstadt.de/people/postdoctoral-researchers/dr-lisa-beinborn">Lisa Beinborn</a>, UKP Lab,&nbsp;TU Darmstadt<br/>
 - <a href="https://sites.google.com/site/beatabeigmanklebanov/">Beata Beigman Klebanov</a>, Educational Testing Service<br/>
 - <a href="https://samueljamesbell.com/">Samuel Bell</a>, University of Cambridge<br/>
+- <a href="https://lucabenedetto.github.io/">Luca	Benedetto</a>, University of Cambridge<br/>
 - Zack Bennett, Turnitin<br/> 
 - Marc Benzahra, LIMSI, Glose<br/>
 - Delphine Bernhard, Université&nbsp;de Strasbourg<br/>
@@ -48,6 +50,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Paula Buttery, University of Cambridge<br/>
 - <a href="http://www.aoifecahill.com">Aoife Cahill</a>, Educational Testing Service<br/>
 - Andrew Caines, University of Cambridge<br/>
+- <a href="https://mlciv.com">Jie Cao</a>, University of Colorado, Boulder<br/>
 - Dumitru-Clementin Cercel, University Politehnica of Bucharest<br/>
 - Li-Hsin Chang, University of Turku<br/>
 - <a href="https://angusglchen.github.io/">Guanliang Chen</a>, Monash University<br/>
@@ -74,6 +77,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://scholar.google.com/citations?user=UpSxcSEAAAAJ&hl">Yuning Ding</a>, FernUniversität in Hagen<br/>
 - <a href="www.rahulrdiv.com">Rahul Divekar</a>, Educational Testing Service<br/> 
 - George Dueñas, Universidad Pedagógica Nacional<br/>
+- Kosuke Doi, Nara Institute of Science and Technology<br/>
 - Hanh Duong, independent researcher<br/>
 - <a href="https://researchmap.jp/yo_ehara/">Yo Ehara</a>, Tokyo Gakugei University<br/>
 - Noureddine Elouazizi, Faculty of Science, UBC<br/>
