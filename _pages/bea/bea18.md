@@ -222,6 +222,7 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Alla Rozovskaya, Queens College, CUNY
 - Katherine Stasaski, Salesforce Research
 - Helmer Strik, Radboud University
+- Abhijit Suresh, Reddit Inc.
 - Jan Švec, University of West Bohemia
 - Anaïs Tack, KU Leuven, UCLouvain
 - Elaine Uí Dhonnchadha, Trinity College Dublin
