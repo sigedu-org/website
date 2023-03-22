@@ -37,5 +37,9 @@ beasharedtask2023:
   - title: CodaLab
     text: TBA
     children:
-      - title: "Registration"
-        url: ~
+      - title: "Competition"
+        url: https://codalab.lisn.upsaclay.fr/competitions/11705
+  - title: Contact
+    children:
+      - title: "bea.nlp.workshop@gmail.com"
+        url: mailto:bea.nlp.workshop@gmail.com
