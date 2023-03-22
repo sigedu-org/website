@@ -222,6 +222,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-redirect-from
+  - jekyll-scholar
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -295,3 +296,9 @@ defaults:
       share: false
       related: true
       sidebar: false
+
+# Jekyll Scholar
+scholar:
+  style: generic-style-rules-for-linguistics
+  source:	./_bibliography
+  #bibliography: references.bib

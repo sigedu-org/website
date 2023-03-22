@@ -32,3 +32,14 @@ bea:
         url: /bea/2019
       - title: "2018 & Older"
         url: /bea/past
+
+beasharedtask2023:
+  - title: CodaLab
+    text: TBA
+    children:
+      - title: "Competition"
+        url: https://codalab.lisn.upsaclay.fr/competitions/11705
+  - title: Contact
+    children:
+      - title: "bea.nlp.workshop@gmail.com"
+        url: mailto:bea.nlp.workshop@gmail.com
