@@ -37,6 +37,8 @@ beasharedtask2023:
   - title: CodaLab
     text: TBA
     children:
+      - title: "Registration"
+        url: https://forms.gle/JhDtAMiJwadNmgKv7
       - title: "Competition"
         url: https://codalab.lisn.upsaclay.fr/competitions/11705
   - title: Contact
