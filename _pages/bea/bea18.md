@@ -76,9 +76,11 @@ The workshop will feature invited talks from Susan Lottridge, Cambium Assessment
 
 ### Shared Task
 
+**Webpage**: https://sig-edu.org/sharedtask/2023
+
 The workshop will host a shared task on generation of teacher responses in educational dialogues. Participants will be provided with teacher–student dialogue samples from the Teacher Student Chatroom Corpus (Caines et al., 2020) of real-world teacher–student interactions and will be asked to generate teacher responses using NLP and AI methods. Submissions will be ranked according to automated evaluation metrics, with the top submissions selected for further human evaluation. Given active participation in the previous BEA-hosted shared tasks, we expect to attract around 20 participating teams.
 
-**Organizers**: Anaïs Tack, KU Leuven; Ekaterina Kochmar, University of Bath; Zheng Yuan, King’s College London; Chris Piech, Stanford University; Andrew Caines, Cambridge University.
+**Organizers**: Anaïs Tack, KU Leuven; Ekaterina Kochmar, MBZUAI; Zheng Yuan, King’s College London; Serge Bibauw, Universidad Central del Ecuador; Chris Piech, Stanford University
 
 ## Anti-Harassment Policy
 
