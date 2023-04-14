@@ -114,6 +114,8 @@ Previously published papers cannot be accepted. The submissions will be reviewed
 
 We have also included conflict of interest in the submission form. You should mark all potential reviewers who have been authors on the paper, are from the same research group or institution, or who have seen versions of this paper or discussed it with you.
 
+**Note on Ethics Statement and Limitations sections**: We welcome submissions with Ethics Statement and Limitations sections included. Thses sections will not count towards the page limit in accordance with ACL guidelines. This year, such sections are not yet mandatory and papers missing them will not be penalized. Next year, we will include more detailed information on these sections in our submission guidelines.
+
 We will be using the START conference system to manage submissions: [https://www.softconf.com/acl2023/bea2023/](https://www.softconf.com/acl2023/bea2023/)
 
 ### LaTeX and Word Templates
