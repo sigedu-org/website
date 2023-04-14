@@ -7,6 +7,28 @@ sidebar:
 toc: true
 toc_sticky: true
 toc_icon: 'cog'
+gold:
+  - url: ~
+    image_path: "/assets/images/logos/sponsors/bea2023/cambridge-upa.png"
+    alt: "Cambridge University Press & Assessment Logo"
+    title: "Cambridge University Press & Assessment"
+  - url: https://www.fernuni-hagen.de/english/research/clusters/catalpa/
+    image_path: "/assets/images/logos/sponsors/bea2023/CATALPA.JPG"
+    alt: "CATALPA Logo"
+    title: "CATALPA"
+  - url: https://www.ets.org
+    image_path: "/assets/images/logos/sponsors/bea2023/ets.jpg"
+    alt: "ETS Logo"
+    title: "ETS"
+  - url: https://grammarly.com
+    image_path: "/assets/images/logos/sponsors/bea2023/logo-grammarly.png"
+    alt: "Grammarly Logo"
+    title: "Grammarly"
+  - url: https://nbme.org
+    image_path: "/assets/images/logos/sponsors/bea2023/nbme.png"
+    alt: "NBME Logo"
+    title: "NBME"
+
 ---
 
 ![toronto](/assets/images/venues/toronto.jpeg)
@@ -128,6 +150,10 @@ We will follow the official ACL double-submission policy. Specifically, papers b
 
 
 ## Sponsors
+
+### Gold Sponsors
+
+{% include gallery id="gold" layout="half" %}
 
 ### Sponsoring Opportunities
 
