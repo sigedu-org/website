@@ -147,7 +147,7 @@ Paper submissions must use the official ACL style templates, which are available
 ### Double Submission Policy
 
 We will follow the official ACL double-submission policy. Specifically, papers being submitted both to BEA and another conference or workshop must:
-- Note on the title page the other conference or workshop to which they are being submitted.
+- Note on the title page (as a footnote on the abstract) the other conference or workshop to which they are being submitted.
 - State on the title page that if the authors choose to present their paper at BEA (assuming it was accepted), then the paper will be withdrawn from other conferences and workshops.
 
 
