@@ -50,7 +50,7 @@ gold:
         </tr>
         <tr>
             <td><strong>Deadline</strong></td>
-            <td>April 24, 2023</td>
+            <td><s>April 24,</s> May 2, 2023</td>
         </tr>
         <tr>
             <td><strong>Date</strong></td>
@@ -118,7 +118,7 @@ If you are interested in sharing your code and data with the BEA community, we c
 {: .notice--danger}
 
 - Anonymity Period Begins: **Friday, March 24, 2023**
-- Submission Deadline: **Monday, April 24, 2023**
+- Submission Deadline: **~~Monday, April 24,~~ Tuesday, May 2, 2023**
 - Notification of Acceptance: **Monday, May 22, 2023**
 - Camera-ready Papers Due: **Tuesday, May 30, 2023**
 - Pre-recorded Videos Due: **Monday, June 12, 2023**
@@ -136,6 +136,8 @@ Previously published papers cannot be accepted. The submissions will be reviewed
 
 We have also included conflict of interest in the submission form. You should mark all potential reviewers who have been authors on the paper, are from the same research group or institution, or who have seen versions of this paper or discussed it with you.
 
+**Note on Ethics Statement and Limitations sections**: We welcome submissions with Ethics Statement and Limitations sections included. These sections will not count towards the page limit in accordance with ACL guidelines. This year, such sections are not yet mandatory and papers missing them will not be penalized. Next year, we will include more detailed information on these sections in our submission guidelines.
+
 We will be using the START conference system to manage submissions: [https://www.softconf.com/acl2023/bea2023/](https://www.softconf.com/acl2023/bea2023/)
 
 ### LaTeX and Word Templates
@@ -145,7 +147,7 @@ Paper submissions must use the official ACL style templates, which are available
 ### Double Submission Policy
 
 We will follow the official ACL double-submission policy. Specifically, papers being submitted both to BEA and another conference or workshop must:
-- Note on the title page the other conference or workshop to which they are being submitted.
+- Note on the title page (as a footnote on the abstract) the other conference or workshop to which they are being submitted.
 - State on the title page that if the authors choose to present their paper at BEA (assuming it was accepted), then the paper will be withdrawn from other conferences and workshops.
 
 
