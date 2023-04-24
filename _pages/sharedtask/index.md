@@ -15,14 +15,14 @@ BEA 2023 Shared Task @ [ACL/BEA 2023](/bea/2023/)
 : [Generating AI Teacher Responses in Educational Dialogues](/sharedtask/2023)
 
 BEA 2019 Shared Task @ [ACL/BEA 2019](/bea/2019/)
-: [Grammatical Error Correction](https://www.cl.cam.ac.uk/research/nl/bea2019st/) 
+: [Grammatical Error Correction](/sharedtask/2019) 
 
 BEA 2018 Shared Tasks @ [NAACL/BEA 2018](/bea/2018/)
-: [Second Language Acquisition Modeling](http://sharedtask.duolingo.com) <br>
-  [Complex Word Identification](https://sites.google.com/view/cwisharedtask2018/)
+: [Second Language Acquisition Modeling](/sharedtask/2018-SLAM) <br>
+  [Complex Word Identification](/sharedtask/2018-CWI)
 
 BEA 2017 Shared Task @ [EMNLP/BEA 2017](/bea/2017/)
-: [Native Language Identification](https://sites.google.com/site/nlisharedtask/) 
+: [Native Language Identification](/sharedtask/2017/) 
 
 BEA 2016 Shared Task @ [NAACL/BEA 2016](/bea/2016/)
-: [Automated Evaluation of Scientific Writing](http://textmining.lt/aesw/index.html) 
+: [Automated Evaluation of Scientific Writing](/sharedtask/2016/) 
