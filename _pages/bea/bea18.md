@@ -60,7 +60,7 @@ gold:
             <td><strong>Organizers</strong></td>
             <td>Ekaterina Kochmar, Jill Burstein, Andrea Horbach, Ronja Laarmann-Quante, Nitin Madnani, Anaïs Tack, Victoria Yaneva, Zheng Yuan, and Torsten Zesch</td>
         </tr>
-        <
+        <tr>
             <td><strong>Contact</strong></td>
             <td><a href="mailto:bea.nlp.workshop@gmail.com">bea.nlp.workshop@gmail.com</a></td>
         </tr>
