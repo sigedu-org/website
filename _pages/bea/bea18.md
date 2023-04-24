@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 toc_icon: 'cog'
 gold:
-  - url: ~
+  - url: https://www.cambridge.org/
     image_path: "/assets/images/logos/sponsors/bea2023/cambridge-upa.png"
     alt: "Cambridge University Press & Assessment Logo"
     title: "Cambridge University Press & Assessment"
