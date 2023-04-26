@@ -17,6 +17,9 @@ main:
   - title: "BEA Workshop"
     url: /bea/current
 
+  - title: "Shared Tasks"
+    url: /sharedtasks
+
 bea:
   - title: BEA Workshops
     children:
