@@ -11,18 +11,18 @@ On this page, we have compiled a list of current and past shared tasks organized
 
 We always welcome new proposals for a shared task. If you are interested in organizing a shared task during a next edition of our BEA workshop, do not hesitate to contact us at <a href="mailto:bea.nlp.workshop@gmail.com">bea.nlp.workshop@gmail.com</a>. 
 
-BEA 2023 Shared Task @ [ACL/BEA 2023](/bea/2023/)
+BEA 2023 Shared Task @ [ACL/BEA 2023](/bea/2023)
 : [Generating AI Teacher Responses in Educational Dialogues](/sharedtask/2023)
 
-BEA 2019 Shared Task @ [ACL/BEA 2019](/bea/2019/)
+BEA 2019 Shared Task @ [ACL/BEA 2019](/bea/2019)
 : [Grammatical Error Correction](/sharedtask/2019) 
 
-BEA 2018 Shared Tasks @ [NAACL/BEA 2018](/bea/2018/)
+BEA 2018 Shared Tasks @ [NAACL/BEA 2018](/bea/2018)
 : [Second Language Acquisition Modeling](/sharedtask/2018-SLAM) <br>
   [Complex Word Identification](/sharedtask/2018-CWI)
 
-BEA 2017 Shared Task @ [EMNLP/BEA 2017](/bea/2017/)
-: [Native Language Identification](/sharedtask/2017/) 
+BEA 2017 Shared Task @ [EMNLP/BEA 2017](/bea/2017)
+: [Native Language Identification](/sharedtask/2017) 
 
-BEA 2016 Shared Task @ [NAACL/BEA 2016](/bea/2016/)
-: [Automated Evaluation of Scientific Writing](/sharedtask/2016/) 
+BEA 2016 Shared Task @ [NAACL/BEA 2016](/bea/2016)
+: [Automated Evaluation of Scientific Writing](/sharedtask/2016) 
