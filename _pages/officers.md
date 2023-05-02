@@ -10,9 +10,9 @@ toc: false
 
 | Position | Name | Affiliation | Term |
 | -------- | ---- | ----------- | ---- | 
-| President | [Ekaterina Kochmar](https://researchportal.bath.ac.uk/en/persons/ekaterina-kochmar) | University of Bath | 2021-2024 |
-| Secretary | [Andrea Horbach](https://www.ltl.uni-due.de/team/andrea-horbach) | University of Duisburg-Essen | 2021-2024 |
-| Treasurer | [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/) | University of Cambridge | 2021-2024 |
+| President | [Ekaterina Kochmar](https://ekochmar.github.io/about/) | MBZUAI | 2021-2024 |
+| Secretary | [Andrea Horbach](https://www.ltl.uni-due.de/team/andrea-horbach) | FernUniversität in Hagen | 2021-2024 |
+| Treasurer | [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/) | King's College London | 2021-2024 |
 | Executive Board Member | [Jill Burstein](https://sites.google.com/site/jbursteinets/) | Duolingo | 2021-2024 |
 | Executive Board Member | [Nitin Madnani](https://desilinguist.org) | Educational Testing Service | 2021-2024 |
 | Executive Board Member | [Anaïs Tack](https://anaistack.github.io) | KU Leuven | 2021-2024 |
