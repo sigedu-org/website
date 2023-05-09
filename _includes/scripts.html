@@ -37,3 +37,14 @@
     <script src="{{ script_path }}"></script>
   {% endfor %}
 {% endif %}
+
+<!-- https://www.datatables.net -->
+<script src="https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
+<script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script>
+  $(document).ready(function () {
+    $('table.display').DataTable({
+        responsive: true
+    });
+  });
+</script>
