@@ -11,6 +11,8 @@ On this page, we have compiled a list of current and past shared tasks organized
 
 We always welcome new proposals for a shared task. If you are interested in organizing a shared task during a next edition of our BEA workshop, do not hesitate to contact us at <a href="mailto:bea.nlp.workshop@gmail.com">bea.nlp.workshop@gmail.com</a>. 
 
+---
+
 BEA 2023 Shared Task @ [ACL/BEA 2023](/bea/2023)
 : [Generating AI Teacher Responses in Educational Dialogues](/sharedtask/2023)
 
