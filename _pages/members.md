@@ -55,7 +55,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://mlciv.com">Jie Cao</a>, University of Colorado, Boulder<br/>
 - Dumitru-Clementin Cercel, University Politehnica of Bucharest<br/>
 - Li-Hsin Chang, University of Turku<br/>
-- Jeevan Chapagain, University of Memphis<br/>
+- <a href="jeevanchaps.github.io">Jeevan Chapagain</a>, University of Memphis<br/>
 - <a href="https://angusglchen.github.io/">Guanliang Chen</a>, Monash University<br/>
 - Jiahao Chen, TAL AI Lab<br/>
 - Mei-Hua Chen, Department of Foreign Languages and Literature, Tunghai University<br/>
@@ -96,7 +96,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://www.gashwin.com">Ashwinkumar Ganesan</a>, Amazon LLC<br/>
 - <a href="https://ananyaganesh.github.io">Ananya Ganesh</a>, University of Colorado<br/>
 - Lingyu Gao, TTIC<br/>
-- <a href="https://scholar.google.com/citations?user=itvDIHoAAAAJ&hl=en&oi=ao">Rujun Gao</a>, Texas A\&M University<br/>
+- <a href="https://scholar.google.com/citations?user=itvDIHoAAAAJ&hl=en">Rujun Gao</a>, Texas A\&M University<br/>
 - <a href="http://homes.sice.indiana.edu/gasser/">Michael Gasser</a>, Indiana University<br/>
 - Peter Gault, Quill.org<br/>
 - Srikanth Gedela, ACM<br/>
@@ -224,6 +224,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Diane Nicholls, English Language iTutoring (part of Cambridge University Press & Assessment)<br/>
 - <a href="https://www.cse.unt.edu/~Nielsen">Rodney Nielsen</a>, University of North Texas<br/>
 - <a href="https://ninikolov.github.io/">Nikola Nikolov</a>, ETH Zurich<br/>
+- <a href="https://www.nitt.edu/home/academics/departments/cse/faculty/jnirmala/">S Jaya Nirmala</a>, National Institute of Technology Tiruchirapalli<br/>
 - Elisa Di Nuovo, University of Turin<br/>
 - Yoo Rhee Oh, ETRI<br/>
 - <a href="[http://dinel.org.uk](https://scholar.google.com/citations?user=kXL_QLgAAAAJ)">Eda	Okur</a>, Intel Labs<br/>
