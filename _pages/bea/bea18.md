@@ -119,7 +119,7 @@ If you are interested in sharing your code and data with the BEA community, we c
 
 - Anonymity Period Begins: **Friday, March 24, 2023**
 - Submission Deadline: **~~Monday, April 24,~~ Tuesday, May 2, 2023**
-- Notification of Acceptance: **Monday, May 22, 2023**
+- Notification of Acceptance: **~~Monday, May 22, 2023~~ Tuesday, May 23, 2023**
 - Camera-ready Papers Due: **Tuesday, May 30, 2023**
 - Pre-recorded Videos Due: **Monday, June 12, 2023**
 - Workshop: **Thursday, July 13, 2023**
