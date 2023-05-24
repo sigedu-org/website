@@ -94,7 +94,47 @@ The 18th BEA workshop will follow the format of BEA in 2022 and will be hybrid. 
 
 ### Invited Talks
 
-The workshop will feature invited talks from Susan Lottridge, Cambium Assessment; Jordana Heller, Textio; and a speaker from one of the [IAALDE societies](https://alliancelss.com).
+The workshop will have **two keynote presentations** and **one ambassador paper presentation** from [EDM 2022](https://edm2022.webspace.durham.ac.uk) (15th iteration of the Educational Data Mining Conference Series), a member society of the [IAALDE](https://alliancelss.com) (International Alliance to Advance Learning in the Digital Era).
+
+---
+
+#### ![Keynote](https://img.shields.io/badge/%20-KEYNOTE-orange?style=flat-square) <a name="#sue-lottridge" style="visibility: hidden;">S. Lottridge (Cambium Assessment)</a> 
+
+**Susan Lottridge**, Cambium Assessment<br>
+<i>Building Educational Applications using NLP: A Measurement Perspective</i>
+
+**Abstract:** The domains of NLP, data science, software engineering, and educational measurement are becoming increasingly interdependent when creating NLP-based educational applications. Indeed, the domains themselves are merging in key ways, with each incorporating one another's methods and tools into their work. For example, many software engineers regularly deploy machine learning models and many linguists, data scientists, and measurement staff regularly develop software. Even so, each discipline approaches this complex task with the assumptions, priorities, and values of their field. The best educational applications are the result of multi-disciplinary teams that can leverage one another's strengths and can recognize and honor the values of each disciplinary perspective.
+
+This talk will describe the educational measurement perspective within this collaborative process. At a high level, educational measurement is the design, use, and analysis of assessments in order to make inferences about what students know and can do. Given this, the measurement experts on a team focus heavily on defining what students need to know and do, what evidence supports inferences about what students know and can do, and whether the data are accurate, reliable, and fair to all students. This perspective can impact the full life-cycle development of educational applications, from designing the core product focus, data collection activities, NLP modelling, analysis of model outputs, and information provided to students. It can also help ensure that educational applications produce information that is valuable to teachers and students. Because these perspectives can be opaque to those outside of measurement, the development process of various NLP educational tools will be used to illustrate key areas where measurement can contribute in product design.
+{: .notice--primary}
+  
+**Bio:** Sue Lottridge is a Chief Scientist of Natural Language Applications at Cambium Assessment, Inc. She has a Ph.D. in Assessment and Measurement from James Madison University and Masters' degrees in Mathematics and Computer Science from the University of Wisconsin – Madison. In this role, she leads CAI's machine learning and scoring team on the research, development, and operation of CAI's automated scoring and feedback software. Dr. Lottridge has worked in automated scoring for fifteen years and has contributed to the design, research, and use of multiple automated scoring engines including equation scoring, essay scoring, short answer scoring, speech scoring, crisis alert detection, and essay feedback.
+{: .notice}
+
+---
+
+#### ![Keynote](https://img.shields.io/badge/%20-KEYNOTE-orange?style=flat-square) <a name="#jordana-heller" style="visibility: hidden;">J. Heller (Textio)</a>  
+
+**Jordana Heller**, Textio<br>
+<i>Interrupting Linguistic Bias in Written Communication with NLP tools</i>
+
+**Abstract:** Unconscious bias is hard to detect, but when we identify it in language usage, we can take steps to interrupt and reduce it. At Textio, we focus on using NLP to detect, interrupt, and educate writers about bias in written workforce communications. Unconscious bias affects many facets of the employee lifecycle. Exclusionary language in recruiting communications can deter candidates from diverse backgrounds from even applying to a position, hindering efforts to build inclusive workplaces. Once a candidate has accepted a position, the language used to provide them feedback on their performance affects how they develop professionally, and we have found stark inequities in the language of feedback to members of different demographic groups. This talk will discuss how Textio uses NLP to interrupt these patterns of bias by assessing these texts for bias and providing 1) real-time iterative, educational feedback to the writer on how to improve a specific document, including guidance toward less-biased language alternatives, and 2) an assessment at a workplace level of exclusionary and inclusive language, so that companies can set goals around language improvement and track their progress toward them.
+{: .notice--primary}
+
+**Bio:** Jordana Heller, PhD, is Director of Data Intelligence at Textio, a tech company focused on interrupting bias in performance feedback and recruiting. Textio identifies bias in written documents and provides data to writers in real time that helps them write more effectively and equitably. At Textio, Jordana applies her background as a computational psycholinguist and cognitive scientist to her leadership of R&D teams who are focused on using data and NLP to help employers reduce bias and accelerate professional growth equitably. 
+{: .notice}
+
+---
+
+#### <a href="https://edm2022.webspace.durham.ac.uk">![Ambassador Paper](https://img.shields.io/badge/EDM%202022-AMBASSADOR%20PAPER-orange?style=flat-square)</a> <a name="#anais-tack" style="visibility: hidden;">A. Tack (KU Leuven)</a> 
+
+**Anaïs Tack**, KU Leuven<br/>
+<i>TDB</i>
+
+**Abstract:** TBD
+{: .notice--primary}
+
+---
 
 ### Shared Task
 
@@ -104,6 +144,15 @@ The workshop will host a shared task on generation of teacher responses in educa
 
 **Organizers**: Anaïs Tack, KU Leuven; Ekaterina Kochmar, MBZUAI; Zheng Yuan, King’s College London; Serge Bibauw, Universidad Central del Ecuador; Chris Piech, Stanford University
 
+---
+
+### Accepted Papers
+
+We received 110 submissions and accepted 58 papers (acceptance rate: 53%).
+
+The list of accepted papers will be posted here soon.
+    
+    
 ## Anti-Harassment Policy
 
 SIGEDU adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy">ACL Anti-Harassment Policy</a> for the BEA workshops. Any participant of the workshop who experiences harassment or hostile behavior may contact any current member of the <a href="https://www.aclweb.org/portal/about">ACL Executive Committee</a> or contact <a href="mailto:acl@aclweb.org">Priscilla Rasmussen</a>, who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
@@ -111,7 +160,8 @@ SIGEDU adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=
 ## Share Code & Data on GitHub
 
 If you are interested in sharing your code and data with the BEA community, we created the [#bea-workshop](https://github.com/topics/bea-workshop) topic on GitHub.
-
+ 
+    
 ## Important Dates
 
 <span style="font-size: smaller;"><b>Note</b>: All deadlines are 11:59pm UTC-12 (anywhere on earth).</span>
