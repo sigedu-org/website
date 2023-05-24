@@ -118,9 +118,9 @@ If you are interested in sharing your code and data with the BEA community, we c
 {: .notice--danger}
 
 - Anonymity Period Begins: **Friday, March 24, 2023**
-- Submission Deadline: **~~Monday, April 24,~~ Tuesday, May 2, 2023**
-- Notification of Acceptance: **~~Monday, May 22, 2023~~ Tuesday, May 23, 2023**
-- Camera-ready Papers Due: **Tuesday, May 30, 2023**
+- Submission Deadline: **~~Monday, April 24~~ Tuesday, May 2, 2023**
+- Notification of Acceptance: **~~Monday, May 22~~ Tuesday, May 23, 2023**
+- Camera-ready Papers Due: **~~Tuesday, May 30~~ Wednesday, May 31, 2023**
 - Pre-recorded Videos Due: **Monday, June 12, 2023**
 - Workshop: **Thursday, July 13, 2023**
 
@@ -178,23 +178,39 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 
 ## Program Committee
 
-- Rania Abdelghani, INRIA Bordeaux - EvidenceB Paris
+- Sihat Afnan, Bangladesh University of Engineering and Technology
 - Tazin Afrin, Educational Testing Services
-- David Alfter, Université catholique de Louvain
 - Erfan Al-Hossami, University of North Carolina at Charlotte
+- Desislava Aleksandrova, Université de Montréal
+- Aderajew Alem, Wollo University Ethiopia
+- Giora Alexandron, Weizmann Institute of Science
+- David Alfter, Université catholique de Louvain
+- Alejandro Andrade, Pearson Knowledge Technologies
+- Nischal Ashok Kumar, University of Massachusetts Amherst
+- Berk Atil, Pennsylvania State University
+- Rabin Banjade, University of Memphis
 - Michael Gringo Angelo Bayona, Trinity College Dublin
 - Lee Becker, Pearson
+- Beata Beigman Klebanov, Educational Testing Service
 - Marie Bexte, FernUniversität in Hagen
+- Abhidip Bhattacharyya, University of Colorado Boulder
 - Serge Bibauw, Universidad Central del Ecuador; KU Leuven
+- Shayekh Bin Islam, University of Dhaka
 - Daniel Brenner, ETS
+- Ted Briscoe, MBZUAI
 - Dominique Brunato, Institute of Computational Linguistics / CNR (Pisa, Italy)
-- Christopher Bryant, University of Cambridge
+- Chris Callison-Burch, University of Pennsylvania
+- Jie Cao, University of Colorado Boulder
+- Brian Carpenter, Indiana University of Pennsylvania
 - Dumitru-Clementin Cercel, University Politehnica of Bucharest
-- Li-Hsin Chang, University of Turku
 - Guanliang Chen, Monash University
+- Li-Hsin Chang, University of Turku
 - Hyundong Cho, USC ISI
 - Martin Chodorow, The City University of New York
+- Aubrey Condor, University of California, Berkeley
 - Mark Core, University of Southern California
+- Steven Coyne, Tohoku University
+- Scott Crossley, Vanderbilt University
 - Kordula De Kuthy, University of Tübingen
 - Jasper Degraeuwe, Ghent University
 - Carrie Demmans Epp, University of Alberta
