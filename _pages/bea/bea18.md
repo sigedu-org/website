@@ -94,7 +94,7 @@ The 18th BEA workshop will follow the format of BEA in 2022 and will be hybrid. 
 
 ### Invited Talks
 
-The workshop will have **two keynote presentations** and **one ambassador paper presentation** from [EDM 2022](https://edm2022.webspace.durham.ac.uk) (15th iteration of the Educational Data Mining Conference Series), a member society of the [IAALDE](https://alliancelss.com) (International Alliance to Advance Learning in the Digital Era).
+The workshop will have **two keynote presentations** and **one ambassador paper presentation** from [EDM 2022](https://educationaldatamining.org/edm2022/) (The 15th International Conference on Educational Data Mining), a member society of the [IAALDE](https://alliancelss.com) (International Alliance to Advance Learning in the Digital Era).
 
 ---
 
@@ -103,8 +103,7 @@ The workshop will have **two keynote presentations** and **one ambassador paper 
 **Susan Lottridge**, Cambium Assessment<br>
 <i>Building Educational Applications using NLP: A Measurement Perspective</i>
 
-**Abstract:** The domains of NLP, data science, software engineering, and educational measurement are becoming increasingly interdependent when creating NLP-based educational applications. Indeed, the domains themselves are merging in key ways, with each incorporating one another's methods and tools into their work. For example, many software engineers regularly deploy machine learning models and many linguists, data scientists, and measurement staff regularly develop software. Even so, each discipline approaches this complex task with the assumptions, priorities, and values of their field. The best educational applications are the result of multi-disciplinary teams that can leverage one another's strengths and can recognize and honor the values of each disciplinary perspective.
-
+**Abstract:** The domains of NLP, data science, software engineering, and educational measurement are becoming increasingly interdependent when creating NLP-based educational applications. Indeed, the domains themselves are merging in key ways, with each incorporating one another's methods and tools into their work. For example, many software engineers regularly deploy machine learning models and many linguists, data scientists, and measurement staff regularly develop software. Even so, each discipline approaches this complex task with the assumptions, priorities, and values of their field. The best educational applications are the result of multi-disciplinary teams that can leverage one another's strengths and can recognize and honor the values of each disciplinary perspective.<br/>
 This talk will describe the educational measurement perspective within this collaborative process. At a high level, educational measurement is the design, use, and analysis of assessments in order to make inferences about what students know and can do. Given this, the measurement experts on a team focus heavily on defining what students need to know and do, what evidence supports inferences about what students know and can do, and whether the data are accurate, reliable, and fair to all students. This perspective can impact the full life-cycle development of educational applications, from designing the core product focus, data collection activities, NLP modelling, analysis of model outputs, and information provided to students. It can also help ensure that educational applications produce information that is valuable to teachers and students. Because these perspectives can be opaque to those outside of measurement, the development process of various NLP educational tools will be used to illustrate key areas where measurement can contribute in product design.
 {: .notice--primary}
   
@@ -126,12 +125,14 @@ This talk will describe the educational measurement perspective within this coll
 
 ---
 
-#### <a href="https://edm2022.webspace.durham.ac.uk">![Ambassador Paper](https://img.shields.io/badge/EDM%202022-AMBASSADOR%20PAPER-orange?style=flat-square)</a> <a name="#anais-tack" style="visibility: hidden;">A. Tack (KU Leuven)</a> 
+#### <a href="https://educationaldatamining.org/edm2022/proceedings/2022.EDM-short-papers.54/index.html">![Ambassador Paper](https://img.shields.io/badge/EDM%202022-AMBASSADOR%20PAPER-orange?style=flat-square)</a> <a href="/sharedtask/2023">![BEA 2023 Shared Task](https://img.shields.io/badge/BEA%202023-SHARED%20TASK-teal?style=flat-square)</a> <a name="#anais-tack" style="visibility: hidden;">A. Tack (KU Leuven)</a> 
 
 **Anaïs Tack**, KU Leuven<br/>
-<i>TDB</i>
+<i>Generating AI Teacher Responses in Educational Dialogues: The AI Teacher Test & BEA 2023 Shared Task</i>
 
-**Abstract:** TBD
+**Abstract:** How can we test whether state-of-the-art generative models, such as Blender and GPT-3, are good AI teachers, capable of replying to a student in an educational dialogue? Designing an AI teacher test is challenging: although evaluation methods are much-needed, there is no off-the-shelf solution to measuring pedagogical ability. <br/>
+In the first part of this talk, I will describe our paper *The AI Teacher Test: Measuring the Pedagogical Ability of Blender and GPT-3 in Educational Dialogues* presented at EDM 2022. The paper reported on a first attempt at an AI teacher test. We built a solution around the insight that you can run conversational agents in parallel to human teachers in real-world dialogues, simulate how different agents would respond to a student, and compare these counterpart responses in terms of three abilities: speak like a teacher, understand a student, help a student. Our method builds on the reliability of comparative judgments in education and uses a probabilistic model and Bayesian sampling to infer estimates of pedagogical ability. We find that, even though conversational agents (Blender in particular) perform well on conversational uptake, they are quantifiably worse than real teachers on several pedagogical dimensions, especially with regard to helpfulness. <br>
+In the second part of this talk, I will describe the results of the *BEA 2023 Shared Task on Generating AI Teacher Responses in Educational Dialogues*, which was a continuation of our EDM paper. 
 {: .notice--primary}
 
 ---
