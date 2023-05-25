@@ -127,7 +127,7 @@ This talk will describe the educational measurement perspective within this coll
 
 #### <a href="https://educationaldatamining.org/edm2022/proceedings/2022.EDM-short-papers.54/index.html">![Ambassador Paper](https://img.shields.io/badge/EDM%202022-AMBASSADOR%20PAPER-orange?style=flat-square)</a> <a href="/sharedtask/2023">![BEA 2023 Shared Task](https://img.shields.io/badge/BEA%202023-SHARED%20TASK-teal?style=flat-square)</a> <a name="#anais-tack" style="visibility: hidden;">A. Tack (KU Leuven)</a> 
 
-**Anaïs Tack**, KU Leuven<br/>
+**Anaïs Tack**, KU Leuven, imec<br/>
 <i>Generating Teacher Responses in Educational Dialogues: The AI Teacher Test & BEA 2023 Shared Task</i>
 
 **Abstract:** How can we test whether state-of-the-art generative models, such as Blender and GPT-3, are good AI teachers, capable of replying to a student in an educational dialogue? Designing an AI teacher test is challenging: although evaluation methods are much-needed, there is no off-the-shelf solution to measuring pedagogical ability. <br/>
@@ -143,7 +143,7 @@ In the second part of this talk, I will describe the results of the *BEA 2023 Sh
 
 The workshop will host a shared task on generation of teacher responses in educational dialogues. Participants will be provided with teacher–student dialogue samples from the Teacher Student Chatroom Corpus (Caines et al., 2020) of real-world teacher–student interactions and will be asked to generate teacher responses using NLP and AI methods. Submissions will be ranked according to automated evaluation metrics, with the top submissions selected for further human evaluation. Given active participation in the previous BEA-hosted shared tasks, we expect to attract around 20 participating teams.
 
-**Organizers**: Anaïs Tack, KU Leuven; Ekaterina Kochmar, MBZUAI; Zheng Yuan, King’s College London; Serge Bibauw, Universidad Central del Ecuador; Chris Piech, Stanford University
+**Organizers**: Anaïs Tack, KU Leuven, imec; Ekaterina Kochmar, MBZUAI; Zheng Yuan, King’s College London; Serge Bibauw, Universidad Central del Ecuador; Chris Piech, Stanford University
 
 ---
 
@@ -220,7 +220,7 @@ We are extremely grateful to our sponsors for the past workshops: in the recent 
 - [Andrea Horbach](https://www.fernuni-hagen.de/forschung/schwerpunkte/d2l2/team/andrea.horbach.shtml), FernUniversität in Hagen
 - [Ronja Laarmann-Quante](https://www.ltl.uni-due.de/team/ronja-laarmann-quante), Ruhr University Bochum
 - [Nitin Madnani](https://desilinguist.org/), ETS
-- [Anaïs Tack](https://anaistack.github.io/), KU Leuven
+- [Anaïs Tack](https://anaistack.github.io/), KU Leuven, imec
 - [Victoria Yaneva](http://www.victoriayaneva.info/), National Board of Medical Examiners
 - [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/), King's College London
 - [Torsten Zesch](https://www.ltl.uni-due.de/team/torsten-zesch), FernUniversität in Hagen
