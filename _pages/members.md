@@ -297,7 +297,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="qiuyisun.com">Qiuyi Sun</a>, University of Birmingham<br/>
 - <a href="https://hksung.github.io">Hakyung Sung</a>, University of Oregon<br/>
 - <a href="https://abhijit-suresh.github.io/">Abhijit Suresh</a>, University of Colorado Boulder<br/>
-- <a href="https://anaistack.github.io">Anaïs Tack</a>, KU Leuven<br/>
+- <a href="https://anaistack.github.io">Anaïs Tack</a>, KU Leuven, imec<br/>
 - <a href="https://scholar.google.com/citations?user=IRMBXF4AAAAJ&hl=en">Kaveh Taghipour</a>, National University of Singapore<br/>
 - Lasang Tamang, University of Memphis<br/>
 - <a href="https://scholar.google.com/citations?user=5GsrJYYAAAAJ&hl=en">Z Taylor</a>, The University of Texas at Austin<br/>
