@@ -151,8 +151,77 @@ The workshop will host a shared task on generation of teacher responses in educa
 
 We received 110 submissions and accepted 58 papers (acceptance rate: 53%).
 
-The list of accepted papers will be posted here soon.
-    
+#### Oral presentations:
+
+- *Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank.* Nischal Ashok Kumar, Nigel Steven Fernandez, Zichao Wang, and Andrew Lan
+- *Grammatical Error Correction for Sentence-level Assessment in Language Learning.* Anisia Katinskaia and Roman Yangarber 
+
+#### Poster presentations:
+
+- *A Closer Look at k-Nearest Neighbors Grammatical Error Correction.* Justin Vasselli and Taro Watanabe 
+- *Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods.* Mengsay Loem, Masahiro Kaneko, sho Takase, and Naoaki Okazaki
+- *Gender-Inclusive Grammatical Error Correction through Augmentation.* Gunnar Lund, Kostiantyn Omelianchuk, and Igor Samokhin 
+- *Recognizing Learner Handwriting Retaining Orthographic Errors for Enabling Fine-Grained Error Feedback.* Christian Gold, Ronja Laarmann-Quante, and Torsten Zesch 
+- *Towards automatically extracting morphosyntactical error patterns from L1-L2 parallel dependency treebanks.* Arianna Masciolini, Elena Volodina, and Dana Dannélls 
+- *Training for Grammatical Error Correction Entirely Without Human-annotated L2 Learners' Corpora.* Mikio Oda
+- *A dynamic model of lexical experience for tracking of oral reading fluency.* Beata Beigman Klebanov, Michael Suhan, Zuowei Wang, and Tenaha O'Reilly
+- *ALEXSIS+: Improving Substitute Generation and Selection for Lexical Simplification with Information Retrieval.* Kai North, Alphaeus Dmonte, Tharindu Ranasinghe, Matthew Shardlow, and Marcos Zampieri
+- *CEFR-based Contextual Lexical Complexity Classifier in English and French.* Desislava Aleksandrova and Vincent Pouliot 
+- *"Geen makkie": Interpretable Classification and Simplification of Dutch Text Complexity.* Eliza Hobo, Charlotte Pouw, and Lisa Beinborn
+- *Hybrid Models for Sentence Readability Assessment.* Fengkai Liu and John Lee
+- *Japanese Lexical Complexity for Non-Native Readers: a New Dataset.* Yusuke Ide, Masato Mita, Adam Nohejl, Hiroki Ouchi, and Taro Watanabe
+- *You've Got a Friend in ... a Language Model? A Comparison of Explanations of Multiple-Choice Items of Reading Comprehension between ChatGPT and Humans.* George Duenas, Sergio Jimenez, and Geral Eduardo Mateus Ferro 
+- *ACTA: Short-Answer Grading in High-Stakes Medical Exams.* King Yiu Suen, Victoria Yaneva, Le An Ha, Janet Mee, Yiyun Zhou, and Polina Harik
+- *Automated evaluation of written discourse coherence using GPT-4.* Ben Naismith, Phoebe Mulcaire, and Jill Burstein 
+- *ExASAG: Explainable Framework for Automatic Short Answer Grading.* Maximilian Tornqvist, Mosleh Mahamud, Erick Mendez Guzman, and Alexandra Farazouli
+- *Predicting the Quality of Revisions in Argumentative Writing.* Zhexiong Liu, Diane Litman, Elaine Lin Wang, Lindsay C. Matsumura, and Richard Correnti
+- *Rating Short L2 Essays on the CEFR Scale with GPT-4.* Kevin P. Yancey, Geoffrey T. LaFlair, Anthony R. Verardi, and Jill Burstein
+- *Span Identification of Epistemic Stance-Taking in Academic Written English.* Masaki Eguchi and Kristopher Kyle
+- *Towards Extracting and Understanding the Implicit Rubrics of Transformer Based Automatic Essay Scoring Models.* James Fiacco, David Adamson, and Carolyn Rosé 
+- *Transformer-based Hebrew NLP models for Short Answer Scoring in Biology.* Abigail Gurin Schleifer, Beata Beigman Klebanov, Moriah Ariely, and Giora Alexandron
+- *Analyzing Bias in Large Language Model Solutions for Assisted Writing Feedback Tools: Lessons from the Feedback Prize Competition Series.* Perpetual Baffour, Tor Saxberg, and Scott Crossley 
+- *Labels are not necessary: Assessing peer-review helpfulness using domain adaptation based on self-training.* Chengyuan Liu, Divyang Doshi, Muskaan Bhargava, Ruixuan Shang, Jialin Cui, Dongkuan Xu, and Edward Gehringer 
+- *Reviewriter: AI-Generated Instructions For Peer Review Writing.* Xiaotian Su, Roman Rietsche, Seyed Parsa Neshaei, Thiemo Wambsganss, and Tanja Käser
+- *Assisting Language Learners: Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning.* Hengyuan Zhang, Dawei Li, Yanran Li, Chenming Shang, Chufan Shi, and Yong Jiang
+- *Comparing Neural Question Generation Architectures for Reading Comprehension.* E. Margaret Perkoff, Abhidip Bhattacharyya, Jon Z. Cai, and Jie Cao
+- *Difficulty-Controllable Neural Question Generation for Reading Comprehension using Item Response Theory.* Masaki Uto, Yuto Tomikawa, and Ayaka Suzuki 
+- *Generating Better Items for Cognitive Assessments Using Large Language Models.* Antonio Laverghetta Jr., and John Licato
+- *Generating Dialog Responses with Specified Grammatical Items for Second Language Learning.* Yuki Okano, Kotaro Funakoshi, Ryo Nagata and Manabu Okumura
+- *Learning from Partially Annotated Data: Example-aware Creation of Gap-filling Exercises for Language Learning.* Semere Kiros Bitew, Johannes Deleu, A. Seza Doğruöz, Chris Develder, and Thomas Demeester 
+- *MultiQG-TI: Towards Question Generation from Multi-modal Sources.* Zichao Wang and Richard Baraniuk
+- *Using Learning Analytics for Adaptive Exercise Generation.* Tanja Heck and Detmar Meurers
+- *GrounDialog: A Dataset for Repair and Grounding in Task-oriented Spoken Dialogues for Language Learning.* Xuanming Zhang, Rahul Divekar, Rutuja Ubale, and Zhou Yu 
+- *SIGHT: A Large Annotated Dataset on Student Insights Gathered from Higher Education Transcripts.* Rose Wang, Pawan Wirawarn, Noah Goodman, and Dorottya Demszky
+- *Socratic Questioning of Novice Debuggers: A Benchmark Dataset and Preliminary Evaluations.* Erfan Al-Hossami, Razvan Bunescu, Ryan Teehan, Laurel Powell, Khyati Mahajan, and Mohsen Dorodchi 
+- *Towards L2-friendly pipelines for learner corpora: A case of written production by L2-Korean learners.* Hakyung Sung and Gyu-Ho Shin
+- *Improving Mathematics Tutoring With A Code Scratchpad.* Shriyash Upadhyay, Etan Ginsberg, and Chris Callison-Burch 
+- *Scalable and Explainable Automated Scoring for Open-Ended Constructed Response Math Word Problems.* Scott Hellman, Alejandro Andrade, and Kyle Habermehl
+- *The NCTE Transcripts: A Dataset of Elementary Math Classroom Transcripts.* Dorottya Demszky and Heather Hill 
+- *Does BERT Exacerbate Gender or L1 Biases in Automated English Speaking Assessment?* Alexander Kwako, Yixin Wan, Jieyu Zhao, Mark Hansen, Kai-Wei Chang, and Li Cai 
+- *Inspecting Spoken Language Understanding from Kids for Basic Math Learning at Home.* Eda Okur, Roddy Fuentes Alba, Saurav Sahay, and Lama Nachman
+- *Exploring a New Grammatico-functional Type of Measure as Part of a Language Learning Expert System.* Cyriel Mallart, Andrew Simpkin, Rémi Venant, Nicolas Ballier, Bernardo Stearns, Jen Yu Li, and Thomas Gaillat 
+- *Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction.* Rose Wang and Dorottya Demszky
+- *Reconciling Adaptivity and Task Orientation in the Student Dashboard of an Intelligent Language Tutoring System.* Leona Colling, Tanja Heck, and Detmar Meurers 
+- *A Transfer Learning Pipeline for Educational Resource Discovery with Application in Survey Generation.* Irene Li, Thomas George, Alex Fabbri, Tammy Liao, Benjamin Chen, Rina Kawamura, Richard Zhou, Vanessa Yan, Swapnil Hingmire, and Dragomir Radev
+- *Enhancing Human Summaries for Question-Answer Generation in Education.* Hannah Gonzalez, Liam Dugan, Eleni Miltsakaki, Zhiqi Cui, Jiaxuan Ren, Bryan Li, Shriyash Upadhyay, Etan Ginsberg, and Chris Callison-Burch
+- *Automatically Generated Summaries of Video Lectures Enhance Students' Learning Experience.* Hannah Gonzalez, Jiening Li, Helen Jin, Jiaxuan Ren, Hongyu Zhang, Ayotomiwa Akinyele, Adrian Wang, Eleni Miltsakaki, Ryan Baker, and Chris Callison-Burch 
+- *Handcrafted Features in Computational Linguistics.* Bruce W. Lee and Jason Lee
+
+#### Demonstrations:
+
+- *ChatBack: Investigating Methods of Providing Grammatical Error Feedback in a GUI-based Language Learning Chatbot.* Kai-Hui Liang, Sam Davidson, Xun Yuan, Shehan Panditharatne, Chun-Yen Chen, Ryan Shea, Derek Pham, Yinghua Tan, Erik Voss, Luke Fryer, and Zhou Yu 
+- *Enhancing Video-based Learning Using Knowledge Tracing: Personalizing Students' Learning Experience with ORBITS.* Shady Shehata, David Santandreu Calonge, Philip Purnell, and Mark Thompson
+- *Evaluating Classroom Potential for Card-it: Digital Flashcards for Studying and Learning Italian Morphology.* Mariana Shimabukuro, Jessica Zipf, Shawn Yama, and Christopher Collins
+- *ReadAlong-Studio Web Interface for Digital Interactive Storytelling.* Aidan Pine, David Huggins-Daines, Eric Joanis, Patrick Littell, Marc Tessier, Delasie Torkornoo, Rebecca Knowles, Roland Kuhn, and Delaney Lothian
+- *UKP-SQuARE: An Interactive Tool for Teaching Question Answering.* Haishuo Fang, Haritz Puerto, and Iryna Gurevych
+- *Auto-req: Automatic detection of pre-requisite dependencies between academic videos.* Rushil Thareja, Ritik Garg, Shiva Baghel, Deep Dwivedi, Mukesh Mohania, and Ritvik Kulshrestha
+- *Evaluating Reading Comprehension Exercises Generated by LLMs: A Showcase of ChatGPT in Education Applications.* Changrong Xiao, Sean Xin Xu, Kunpeng Zhang, Yufang Wang, and Lei Xia
+- *Beyond Black Box AI generated Plagiarism Detection: From Sentence to Document Level.* Chunhui Li, Parijat Dube, and Ali Quidwai
+
+#### Special track: BEA 2023 shared task posters:
+
+To be announced soon.
+
     
 ## Anti-Harassment Policy
 
@@ -177,7 +246,13 @@ If you are interested in sharing your code and data with the BEA community, we c
 
 ## Registration
 
-If you wish to attend the workshop, you must register with the ACL conference once the registration opens. Select BEA from the list of offered workshops. There is no need to have a paper accepted. The workshop is open to anyone who wishes to attend. **Importantly, at least one author of each accepted paper must register.**
+If you wish to attend the workshop, you must register with the ACL conference [here](https://2023.aclweb.org/registration/). Select BEA from the list of offered workshops. There is no need to have a paper accepted. The workshop is open to anyone who wishes to attend. **Importantly, at least one author of each accepted paper must register.**
+
+## Visa information
+
+All visa requests are processed by the ACL's dedicated visa assistance team. To apply for an invitation letter, please follow the information from https://2023.aclweb.org/blog/visa-info/. Specifically, for invitation letters and further questions, it is advised that you reach out at [acl2023_visa_help@googlegroups.com](acl2023_visa_help@googlegroups.com), communicating the following: name, institution, address, role in conference (author/reviewer/workshop organizer/invited speakers/other participants), additional reasons/justifications for attending. ACL's dedicated visa assistance team will be in touch to help out with the visa letter request.
+
+ACL 2023 invitation letter form can be found [here](https://2023.aclweb.org/participants/invitation_letter/).
 
 ## Submission Information
 
@@ -262,17 +337,30 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Mark Core, University of Southern California
 - Steven Coyne, Tohoku University
 - Scott Crossley, Vanderbilt University
+- Sam Davidson, University of California, Davis
 - Kordula De Kuthy, University of Tübingen
 - Jasper Degraeuwe, Ghent University
+- Thomas Demeester, Internet Technology and Data Science Lab (IDLab), Ghent University
 - Carrie Demmans Epp, University of Alberta
+- Dorottya Demszky, Stanford University
 - Yuning Ding, FernUniversität in Hagen
 - Rahul Divekar, ETS
 - George Duenas, Universidad Pedagogica Nacional
-- Mariano Felice, British Council
-- Michael Flor, Educational Testing Service
+- Masaki Eguchi, University of Oregon
 - Yo Ehara, Tokyo Gakugei University
+- Mariano Felice, British Council
+- Wanyong Feng, University of North Carolina at Chapel Hill
+- Nigel Steven Fernandez, University of Massachusetts Amherst
+- James Fiacco, Carnegie Mellon University
+- Michael Flor, Educational Testing Service
+- Estibaliz Fraca, University College London
+- Kotaro Funakoshi, Tokyo Institute of Technology
+- Thomas Gaillat, University of Rennes 2
 - Ananya Ganesh, University of Colorado Boulder
 - Lingyu Gao, TTIC
+- Rujun Gao, Texas A&M University
+- Ritik Garg, Extramarks Education India
+- Christian Gold, FernUniversität in Hagen
 - Samuel González-López, Technological University of Nogales Sonora
 - Tanja Heck, University of Tübingen
 - Nicolas Hernandez, Nantes University - LS2N
