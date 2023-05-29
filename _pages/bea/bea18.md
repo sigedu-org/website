@@ -362,40 +362,60 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Ritik Garg, Extramarks Education India
 - Christian Gold, FernUniversität in Hagen
 - Samuel González-López, Technological University of Nogales Sonora
-- Tanja Heck, University of Tübingen
+- Le An Ha, University of Wolverhampton
+- Ching Nam Hang, City University of Hong Kong
 - Nicolas Hernandez, Nantes University - LS2N
 - Chung-Chi Huang, Frostburg State University
+- Ping-Yu Huang, The General Education Center, Ming Chi University of Technology
 - Yi-Ting Huang, NTUST
+- David Huggins-Daines, independent researcher
+- Yusuke Ide, NAIST
 - Joseph Marvin Imperial, University of Bath
 - Radu Tudor Ionescu, University of Bucharest
 - Qinjin Jia, North Carolina State University
+- Helen Jin, University of Pennsylvania
 - Richard Johansson, University of Gothenburg
+- Masahiro Kaneko, Tokyo Institute of Technology
+- Neha Kardam, University of Washington
+- Anisia Katinskaia, University of Helsinki
 - Elma Kerz, RWTH Aachen University
 - Mamoru Komachi, Tokyo Metropolitan University
+- Roland Kuhn, National Research Council of Canada
+- Alexander Kwako, UCLA
 - Kristopher Kyle, University of Oregon
+- Geoffrey LaFlair, Duolingo
+- Antonio Laverghetta Jr., University of South Florida
 - Ji-Ung Lee, UKP Lab, TU Darmstadt, Germany
+- Jaewook Lee, University of Washington
 - Arun Balajiee Lekshmi Narayanan, University of Pittsburgh
 - Xu Li, Zhejiang University
-- Diane Litman, University of Pittsburgh
+- Chengyuan Liu, North Carolina State University
 - Yudong Liu, Western Washington University
 - Zhexiong Liu, University of Pittsburgh
 - Zoey Liu, University of Florida
-- Peter Ljunglöf, University of Gothenburg
+- Susan Lottridge, Cambium Assessment
 - Anastassia Loukina, Grammarly Inc.
-- Gunnar Lund, Grammarly
+- Jiaying Lu, Emory University
 - Jakub Macina, ETH Zurich
 - Lieve Macken, Ghent University, Belgium
 - James Martin, University of Colorado Boulder
 - Sandeep Mathias, Presidency University, Bangalore
 - Janet Mee, NBME
 - Detmar Meurers, University of Tübingen
+- Phoebe Mulcaire, Duolingo
+- Tsegay Mullu, Wachemo University
+- Faizan E Mustafa, NLP Engineer / Researcher, Stuttgart
 - Farah Nadeem, UNICEF
 - Ben Naismith, Duolingo
 - Sungjin Nam, ACT Inc.
 - Diane Napolitano, Associated Press
 - Kamel Nebhi, Education First
+- Seyed Parsa Neshaei, Sharif University of Technology
 - Hwee Tou Ng, National University of Singapore
 - Huy Nguyen, Amazon
+- Gebregziabihier Nigusie, Mizan-Tepi University
+- S Jaya Nirmala, National Institute of Technology, Tiruchirapalli
+- Kai North, George Mason University
 - Kostiantyn Omelianchuk, Grammarly
 - Simon Ostermann, Deutsches Forschungszentrum für Künstliche Intelligenz
 - Robert Östling, Department of Linguistics, Stockholm University
