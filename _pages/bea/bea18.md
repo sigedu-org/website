@@ -349,7 +349,7 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Masaki Eguchi, University of Oregon
 - Yo Ehara, Tokyo Gakugei University
 - Mariano Felice, British Council
-- Wanyong Feng, University of North Carolina at Chapel Hill
+- Wanyong Feng, UMass Amherst
 - Nigel Steven Fernandez, University of Massachusetts Amherst
 - James Fiacco, Carnegie Mellon University
 - Michael Flor, Educational Testing Service
@@ -386,7 +386,7 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Geoffrey LaFlair, Duolingo
 - Antonio Laverghetta Jr., University of South Florida
 - Ji-Ung Lee, UKP Lab, TU Darmstadt, Germany
-- Jaewook Lee, University of Washington
+- Jaewook Lee, UMass Amherst
 - Arun Balajiee Lekshmi Narayanan, University of Pittsburgh
 - Xu Li, Zhejiang University
 - Chengyuan Liu, North Carolina State University
@@ -480,6 +480,6 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Su-Youn Yoon, EduLab
 - Kamyar Zeinalipour, University of Siena
 - Hengyuan Zhang, Tsinghua University
-- Jing Zhang, Renmin University of China
+- Jing Zhang, Emory University
 - Jessica Zipf, University of Konstanz
 - Michael Zock, CNRS, (LIF) university of Aix-Marseille
