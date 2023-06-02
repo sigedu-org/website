@@ -28,7 +28,15 @@ gold:
     image_path: "/assets/images/logos/sponsors/bea2023/nbme.png"
     alt: "NBME Logo"
     title: "NBME"
-
+  - url: https://www.duolingo.com
+    image_path: "/assets/images/logos/sponsors/bea2023/Duolingo.png"
+    alt: "Duolingo Logo"
+    title: "Duolingo"
+silver:
+  - url: https://www.cognii.com
+    image_path: "/assets/images/logos/sponsors/bea2023/Cognii.jpeg"
+    alt: "Cognii Logo"
+    title: "Cognii"
 ---
 
 ![toronto](/assets/images/venues/toronto.jpeg)
@@ -283,6 +291,10 @@ We will follow the official ACL double-submission policy. Specifically, papers b
 
 {% include gallery id="gold" layout="half" %}
 
+### Solver Sponsors
+
+{% include gallery id="silver" layout="half" %}
+
 ### Sponsoring Opportunities
 
 We are extremely grateful to our sponsors for the past workshops: in the recent years, we have been supported by [Duolingo](https://duolingo.com/), [Grammarly](https://grammarly.com/), [NBME](https://nbme.org/), [iLexIR](https://ilexir.co.uk/), [Educational Testing Service](https://www.ets.org/), and [Newsela](https://newsela.com/). This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner (in case the workshop runs offline) and offering student grants covering the BEA registration fees. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold sponsorship) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor the BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
@@ -305,7 +317,7 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 ## Program Committee
 
 - Sihat Afnan, Bangladesh University of Engineering and Technology
-- Tazin Afrin, Educational Testing Services
+- Tazin Afrin, Educational Testing Service
 - Erfan Al-Hossami, University of North Carolina at Charlotte
 - Desislava Aleksandrova, Université de Montréal
 - Aderajew Alem, Wollo University Ethiopia
@@ -321,11 +333,12 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Marie Bexte, FernUniversität in Hagen
 - Abhidip Bhattacharyya, University of Colorado Boulder
 - Serge Bibauw, Universidad Central del Ecuador; KU Leuven
-- Shayekh Bin Islam, University of Dhaka
+- Shayekh Bin Islam, Bangladesh University of Engineering and Technology
 - Daniel Brenner, ETS
 - Ted Briscoe, MBZUAI
 - Dominique Brunato, Institute of Computational Linguistics / CNR (Pisa, Italy)
 - Chris Callison-Burch, University of Pennsylvania
+- Hannan Cao, National University of Singapore
 - Jie Cao, University of Colorado Boulder
 - Brian Carpenter, Indiana University of Pennsylvania
 - Dumitru-Clementin Cercel, University Politehnica of Bucharest
@@ -404,8 +417,8 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Detmar Meurers, University of Tübingen
 - Phoebe Mulcaire, Duolingo
 - Tsegay Mullu, Wachemo University
-- Faizan E Mustafa, NLP Engineer / Researcher, Stuttgart
-- Farah Nadeem, UNICEF
+- Faizan E Mustafa, QUIBIQ GmbH
+- Farah Nadeem, World Bank
 - Ben Naismith, Duolingo
 - Sungjin Nam, ACT Inc.
 - Diane Napolitano, Associated Press
@@ -432,8 +445,9 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Reinald Adrian Pugoy, University of the Philippines
 - Long Qin, Alibaba Cloud
 - Mengyang Qiu, University at Buffalo
+- Muhammad Reza Qorib, National University of Singapore
 - Martí Quixal, University of Tübingen
-- Arjun Ranesh Rao, Microsoft
+- Arjun Ramesh Rao, Microsoft
 - Vivi Rantung, Universitas Negeri Manado
 - Manav Rathod, Glean
 - Brian Riordan, ETS
