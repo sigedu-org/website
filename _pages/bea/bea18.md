@@ -291,7 +291,7 @@ We will follow the official ACL double-submission policy. Specifically, papers b
 
 {% include gallery id="gold" layout="half" %}
 
-### Solver Sponsors
+### Silver Sponsors
 
 {% include gallery id="silver" layout="half" %}
 
