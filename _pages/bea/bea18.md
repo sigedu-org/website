@@ -318,8 +318,8 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Sihat Afnan, Bangladesh University of Engineering and Technology
 - Tazin Afrin, Educational Testing Service
 - Erfan Al-Hossami, University of North Carolina at Charlotte
-- Desislava Aleksandrova, Université de Montréal
-- Aderajew Alem, Wollo University Ethiopia
+- Desislava Aleksandrova, CBC/Radio-Canada
+- Aderajew Alem, Wachemo University
 - Giora Alexandron, Weizmann Institute of Science
 - David Alfter, Université catholique de Louvain
 - Alejandro Andrade, Pearson Knowledge Technologies
@@ -341,8 +341,8 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Jie Cao, University of Colorado Boulder
 - Brian Carpenter, Indiana University of Pennsylvania
 - Dumitru-Clementin Cercel, University Politehnica of Bucharest
+- Chung-Chi Chen, National Institute of Advanced Industrial Science and Technology
 - Guanliang Chen, Monash University
-- Li-Hsin Chang, University of Turku
 - Hyundong Cho, USC ISI
 - Martin Chodorow, The City University of New York
 - Aubrey Condor, University of California, Berkeley
@@ -379,7 +379,7 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Nicolas Hernandez, Nantes University - LS2N
 - Chung-Chi Huang, Frostburg State University
 - Ping-Yu Huang, The General Education Center, Ming Chi University of Technology
-- Yi-Ting Huang, NTUST
+- Yi-Ting Huang, Academia Sinica
 - David Huggins-Daines, independent researcher
 - Yusuke Ide, NAIST
 - Joseph Marvin Imperial, University of Bath
@@ -391,14 +391,14 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Neha Kardam, University of Washington
 - Anisia Katinskaia, University of Helsinki
 - Elma Kerz, RWTH Aachen University
-- Mamoru Komachi, Tokyo Metropolitan University
+- Mamoru Komachi, Hitotsubashi University
 - Roland Kuhn, National Research Council of Canada
 - Alexander Kwako, UCLA
 - Kristopher Kyle, University of Oregon
 - Geoffrey LaFlair, Duolingo
 - Antonio Laverghetta Jr., University of South Florida
-- Ji-Ung Lee, UKP Lab, TU Darmstadt, Germany
 - Jaewook Lee, UMass Amherst
+- Ji-Ung Lee, UKP Lab, TU Darmstadt, Germany
 - Arun Balajiee Lekshmi Narayanan, University of Pittsburgh
 - Xu Li, Zhejiang University
 - Chengyuan Liu, North Carolina State University
@@ -420,7 +420,7 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Farah Nadeem, World Bank
 - Ben Naismith, Duolingo
 - Sungjin Nam, ACT Inc.
-- Diane Napolitano, Associated Press
+- Diane Napolitano, The Associated Press
 - Kamel Nebhi, Education First
 - Seyed Parsa Neshaei, Sharif University of Technology
 - Hwee Tou Ng, National University of Singapore
@@ -433,15 +433,15 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Kostiantyn Omelianchuk, Grammarly
 - Brian Ondov, National Library of Medicine
 - Christopher Ormerod, Cambium Assessment
-- Simon Ostermann, Deutsches Forschungszentrum für Künstliche Intelligenz
+- Simon Ostermann, Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)
 - Ulrike Pado, Hochschule fuer Technik Stuttgart
 - Frank Palma Gomez, CUNY Queens College
 - Chanjun Park, Upstage AI
 - Rebecca Passonneau, Penn State
-- Fabio Perez, University of Campinas
+- Fabio Perez, independent researcher
 - E. Margaret Perkoff, University of Colorado Boulder
 - Jakob Prange, Hong Kong Polytechnic University
-- Reinald Adrian Pugoy, University of the Philippines
+- Reinald Adrian Pugoy, University of the Philippines Open University
 - Long Qin, Alibaba Cloud
 - Mengyang Qiu, University at Buffalo
 - Muhammad Reza Qorib, National University of Singapore
@@ -457,7 +457,7 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Igor Samokhin, Grammarly
 - Alexander Scarlatos, UMass Amherst
 - Matthew Shardlow, Manchester Metropolitan University
-- Anchal Sharma
+- Anchal Sharma, PES University
 - Shady Shehata, MBZUAI
 - Gyu-Ho Shin, Palacký University Olomouc
 - Shashank Sonkar, Rice University
@@ -485,7 +485,7 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Michael White, The Ohio State University
 - Alistair Willis, The Open University
 - Man Fai Wong, City University of Hong Kong
-- Menbere Worku
+- Menbere Worku, Wachemo University
 - Changrong Xiao, Tsinghua University
 - Yiqiao Xu, North Carolina State University
 - Kevin P. Yancey, Duolingo
@@ -495,4 +495,4 @@ Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.work
 - Hengyuan Zhang, Tsinghua University
 - Jing Zhang, Emory University
 - Jessica Zipf, University of Konstanz
-- Michael Zock, CNRS, (LIF) university of Aix-Marseille
+- Michael Zock, CNRS-LIS
