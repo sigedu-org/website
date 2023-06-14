@@ -16,12 +16,14 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Soroosh Akef, Universidade de Lisboa<br/>
 - Erfan Al-Hossami, UNC Charlotte <br/>
 - <a href="https://spraakbanken.gu.se/swe/personal/david">David Alfter</a>, Université catholique de Louvain<br/>
+- <a href="https://basharalhafni.com/">Bashar Alhafni</a>, New York University<br/>
 - Amin Alhashim, Arizona State University
 - <a href="https://mauril.ca/en/">Desislava Aleksandrova</a>, CBC/Radio-Canada<br/>
 - <a href="https://www.weizmann.ac.il/ScienceTeaching/Alexandron/">Giora Alexandron</a>, Weizmann Institute of Science<br/>
 - <a href="https://da352.user.srcf.net">Dimitris Alikaniotis</a>,&nbsp;Grammarly<br/>
 - <a href="https://feralvam.github.io">Fernando Alva-Manchego</a>, University of Sheffield<br/>
 - Jatin Ambasana, Indian Institute of Technology Bombay<br/>
+- Alejandro Andrade, Pearson<br/>
 - Jason Angel, Instituto Politecnico Nacional<br/>
 - Quoc Tien Au, GradeSlam<br/>
 - Shiva Baghel, Extramarks Education India Pvt. Ltd.<br/>
@@ -83,6 +85,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://nlp.cs.uic.edu/">Barbara Di Eugenio</a>, University of Illinois at Chicago<br/>
 - <a href="https://scholar.google.com/citations?user=UpSxcSEAAAAJ&hl">Yuning Ding</a>, FernUniversität in Hagen<br/>
 - <a href="www.rahulrdiv.com">Rahul Divekar</a>, Educational Testing Service<br/> 
+- <a href="https://webpages.charlotte.edu/mdorodch/">Mohsen Dorodchi</a>, UNC, Charlotte<br/>
 - George Dueñas, Universidad Pedagógica Nacional<br/>
 - Kosuke Doi, Nara Institute of Science and Technology<br/>
 - Hanh Duong, independent researcher<br/>
@@ -98,6 +101,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Jennifer-Carmen Frey, Eurac Research Bolzano & Dipartimento di Interpretazione e Traduzione Forlì, Università di Bologna<br/>
 - <a href="https://hiro819.github.io/">Hiroaki Funayama</a>, Tohoku university / RIKEN<br/>
 - <a href="https://suzenfylke.com">Suzen Fylke</a>, Twitter<br/>
+- <a href="www.fledge.health">Jenna Galloway</a>, Founder<br/>
 - <a href="https://www.microsoft.com/en-us/research/people/mgamon/">Michael Gamon</a>, Microsoft Research<br/>
 - <a href="https://www.gashwin.com">Ashwinkumar Ganesan</a>, Amazon LLC<br/>
 - <a href="https://ananyaganesh.github.io">Ananya Ganesh</a>, University of Colorado<br/>
@@ -174,6 +178,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://github.com/kristopherkyle/">Kristopher Kyle</a>, University of Oregon<br/>
 - Ronja Laarmann-Quante, University Duisburg-Essen<br/>
 - <a href="www.andrewslan.com">Andrew Lan</a>, University of Massachusetts Amherst<br/>
+- <a href="https://lanyunshi.github.io">Yunshi Lan</a>, East China Normal University<br/>
 - Than Le, TDTU/TDMU<br/>
 - Claudia Leacock, Grammarly<br/>
 - <a href="https://brucewlee.github.io/">Bruce W. Lee</a>, University of Pennsylvania<br/>
