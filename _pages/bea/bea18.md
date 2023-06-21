@@ -324,7 +324,13 @@ We received 110 submissions and accepted 58 papers (acceptance rate: 53%).
 | **16:40–17:25** | **Keynote by Jordana Heller** <br> *Interrupting Linguistic Bias in Written Communication with NLP tools* |
 | **17:25–17:30** | **Closing remarks** |
 
+### Instructions for presenters
 
+- **In-person posters**: Poster stands at the venue will be provided for A0 posters, portrait orientation. This means that your actual poster may be smaller than that but you should make sure it fits on the stand provided. Apart from this, we do not have any specific requirements regarding font types, sizes, etc. (just keep in mind that since you are presenting in person, the poster has to be well readable from a distance, so the font should not be too small).
+- **Online posters**: We do not have any specific requirements regarding font types, sizes, etc. In line with the physical posters, it might be a good idea to have your digital poster in portrait orientation. During the workshop, you will be presenting your poster in a "virtual" room mimicking the in-person poster sessions (further details to be provided by ACL / Underline). If you have any further technical questions about virtual presentations, please contact Underline directly at acl2023@underline.io.
+- **In-person** and **online demos**: In addition to the poster, please demonstrate how your proposed system works on your laptop. Wi-fi connection will be available at the venue for browser-based systems. If you have any further technical questions about virtual presentations, please contact Underline directly at acl2023@underline.io.
+
+Please note that there are no dedicated templates for BEA posters, but for inspiration, you can take a look at the recorded poster talks from last year's edition of BEA [here](https://underline.io/events/325/sessions?eventSessionId=11197&searchGroup=event_session).
     
 ## Anti-Harassment Policy
 
