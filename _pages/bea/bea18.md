@@ -251,14 +251,12 @@ We received 110 submissions and accepted 58 papers (acceptance rate: 53%).
 | **11:30–12:30** | **Poster / Demo Session A** <br> **Location:** Poster Area / GatherTown |
 | | *A Transfer Learning Pipeline for Educational Resource Discovery with Application in Survey Generation* (Irene Li, Thomas George, Alex Fabbri, Tammy Liao, Benjamin Chen, Rina Kawamura, Richard Zhou, Vanessa Yan, Swapnil Hingmire and Dragomir Radev) – In-person poster |
 | | *Using Learning Analytics for Adaptive Exercise Generation* (Tanja Heck and Detmar Meurers) – In-person poster |
-| | *Towards L2-friendly pipelines for learner corpora: A case of written production by L2-Korean learners* (Hakyung Sung and Gyu-Ho Shin) – In-person poster |
 | | *Enhancing Human Summaries for Question-Answer Generation in Education* (Hannah Gonzalez, Liam Dugan, Eleni Miltsakaki, Zhiqi Cui, Jiaxuan Ren, Bryan Li, Shriyash Upadhyay, Etan Ginsberg and Chris Callison-Burch) – In-person poster |
 | | *Difficulty-Controllable Neural Question Generation for Reading Comprehension using Item Response Theory* (Masaki Uto, Yuto Tomikawa and Ayaka Suzuki) – In-person poster |
 | | *Evaluating Classroom Potential for Card-it: Digital Flashcards for Studying and Learning Italian Morphology* (Mariana Shimabukuro, Jessica Zipf, Shawn Yama and Christopher Collins) – In-person poster |
 | | *Gender-Inclusive Grammatical Error Correction through Augmentation* (Gunnar Lund, Kostiantyn Omelianchuk and Igor Samokhin) – In-person poster |
 | | *Labels are not necessary: Assessing peer-review helpfulness using domain adaptation based on self-training* (Chengyuan Liu, Divyang Doshi, Muskaan Bhargava, Ruixuan Shang, Jialin Cui, Dongkuan Xu and Edward Gehringer) – In-person poster |
 | | *Generating Dialog Responses with Specified Grammatical Items for Second Language Learning* (Yuki Okano, Kotaro Funakoshi, Ryo Nagata and Manabu Okumura) – In-person poster |
-| | *Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods* (Mengsay Loem, Masahiro Kaneko, sho Takase and Naoaki Okazaki) – In-person poster |
 | | *A Closer Look at k-Nearest Neighbors Grammatical Error Correction* (Justin Vasselli and Taro Watanabe) – In-person poster |
 | | *Analyzing Bias in Large Language Model Solutions for Assisted Writing Feedback Tools: Lessons from the Feedback Prize Competition Series* (Perpetual Baffour, Tor Saxberg and Scott Crossley) – In-person poster |
 | | *Predicting the Quality of Revisions in Argumentative Writing* (Zhexiong Liu, Diane Litman, Elaine Lin Wang, Lindsay C. Matsumura and Richard Correnti) – In-person poster |
@@ -269,7 +267,10 @@ We received 110 submissions and accepted 58 papers (acceptance rate: 53%).
 | | *ChatBack: Investigating Methods of Providing Grammatical Error Feedback in a GUI-based Language Learning Chatbot* (Kai-Hui Liang, Sam Davidson, Xun Yuan, Shehan Panditharatne, Chun-Yen Chen, Ryan Shea, Derek Pham, Yinghua Tan, Erik Voss, Luke Fryer and Zhou Yu) – In-person demo |
 | | *Enhancing Video-based Learning Using Knowledge Tracing: Personalizing Students' Learning Experience with ORBITS* (Shady Shehata, David Santandreu Calonge, Philip Purnell and Mark Thompson) – In-person demo |
 | | *Evaluating Classroom Potential for Card-it: Digital Flashcards for Studying and Learning Italian Morphology* (Mariana Shimabukuro, Jessica Zipf, Shawn Yama and Christopher Collins) – In-person demo |
+| | *The NCTE Transcripts: A Dataset of Elementary Math Classroom Transcripts* (Dorottya Demszky and Heather Hill) – Online poster |
 | | *AI-Generated Instructions For Peer Review Writing* (Xiaotian Su, Thiemo Wambsganss, Roman Rietsche, Seyed Parsa Neshaei and Tanja Käser) – Online poster |
+| | *Towards L2-friendly pipelines for learner corpora: A case of written production by L2-Korean learners* (Hakyung Sung and Gyu-Ho Shin) – Online poster |
+| | *Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods* (Mengsay Loem, Masahiro Kaneko, sho Takase and Naoaki Okazaki) – Online poster |
 | | *Recognizing Learner Handwriting Retaining Orthographic Errors for Enabling Fine-Grained Error Feedback* (Christian Gold, Ronja Laarmann-Quante and Torsten Zesch) – Online poster |
 | | *ExASAG: Explainable Framework for Automatic Short Answer Grading* (Maximilian Tornqvist, Mosleh Mahamud, Erick Mendez Guzman and Alexandra Farazouli) – Online poster |
 | | *'Geen makkie': Interpretable Classification and Simplification of Dutch Text Complexity* (Eliza Hobo, Charlotte Pouw and Lisa Beinborn) – Online poster |
@@ -309,7 +310,6 @@ We received 110 submissions and accepted 58 papers (acceptance rate: 53%).
 | | *Auto-req: Automatic detection of pre-requisite dependencies between academic videos* (Rushil Thareja, Ritik Garg, Shiva Baghel, Deep Dwivedi, Mukesh Mohania and Ritvik Kulshrestha) – In-person demo |
 | | *Evaluating Reading Comprehension Exercises Generated by LLMs: A Showcase of ChatGPT in Education Applications* (Changrong Xiao, Sean Xin Xu, Kunpeng Zhang, Yufang Wang and Lei Xia) – In-person demo |
 | | *Generating Better Items for Cognitive Assessments Using Large Language Models* (Antonio Laverghetta Jr. and John Licato) – Online poster |
-| | *The NCTE Transcripts: A Dataset of Elementary Math Classroom Transcripts* (Dorottya Demszky and Heather Hill) – Online poster |
 | | *Does BERT Exacerbate Gender or L1 Biases in Automated English Speaking Assessment?* (Alexander Kwako, Yixin Wan, Jieyu Zhao, Mark Hansen, Kai-Wei Chang and Li Cai) – Online poster |
 | | *Inspecting Spoken Language Understanding from Kids for Basic Math Learning at Home* (Eda Okur, Roddy Fuentes Alba, Saurav Sahay and Lama Nachman) – Online poster |
 | | *Assessing the efficacy of large language models in generating accurate teacher responses* (Yann Hicke, Abhishek Masand, Wentao Guo and Tushaar Gangavarapu) – Online poster |
