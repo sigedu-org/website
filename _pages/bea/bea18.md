@@ -262,7 +262,6 @@ We received 110 submissions and accepted 58 papers (acceptance rate: 53%).
 | | *Predicting the Quality of Revisions in Argumentative Writing* (Zhexiong Liu, Diane Litman, Elaine Lin Wang, Lindsay C. Matsumura and Richard Correnti) – In-person poster |
 | | *Reconciling Adaptivity and Task Orientation in the Student Dashboard of an Intelligent Language Tutoring System* (Leona Colling, Tanja Heck and Detmar Meurers) – In-person poster |
 | | *SIGHT: A Large Annotated Dataset on Student Insights Gathered from Higher Education Transcripts* (Rose Wang, Pawan Wirawarn, Noah Goodman and Dorottya Demszky) – In-person poster |
-| | *You've Got a Friend in ... a Language Model? A Comparison of Explanations of Multiple-Choice Items of Reading Comprehension between ChatGPT and Humans* (George Duenas, Sergio Jimenez and Geral Eduardo Mateus Ferro) – In-person poster |
 | | *Automatically Generated Summaries of Video Lectures May Enhance Students' Learning Experience* (Hannah Gonzalez, Jiening Li, Helen Jin, Jiaxuan Ren, Hongyu Zhang, Ayotomiwa Akinyele, Adrian Wang, Eleni Miltsakaki, Ryan Baker and Chris Callison-Burch) – In-person poster |
 | | *ChatBack: Investigating Methods of Providing Grammatical Error Feedback in a GUI-based Language Learning Chatbot* (Kai-Hui Liang, Sam Davidson, Xun Yuan, Shehan Panditharatne, Chun-Yen Chen, Ryan Shea, Derek Pham, Yinghua Tan, Erik Voss, Luke Fryer and Zhou Yu) – In-person demo |
 | | *Enhancing Video-based Learning Using Knowledge Tracing: Personalizing Students' Learning Experience with ORBITS* (Shady Shehata, David Santandreu Calonge, Philip Purnell and Mark Thompson) – In-person demo |
@@ -273,6 +272,7 @@ We received 110 submissions and accepted 58 papers (acceptance rate: 53%).
 | | *Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods* (Mengsay Loem, Masahiro Kaneko, sho Takase and Naoaki Okazaki) – Online poster |
 | | *Recognizing Learner Handwriting Retaining Orthographic Errors for Enabling Fine-Grained Error Feedback* (Christian Gold, Ronja Laarmann-Quante and Torsten Zesch) – Online poster |
 | | *ExASAG: Explainable Framework for Automatic Short Answer Grading* (Maximilian Tornqvist, Mosleh Mahamud, Erick Mendez Guzman and Alexandra Farazouli) – Online poster |
+| | *You've Got a Friend in ... a Language Model? A Comparison of Explanations of Multiple-Choice Items of Reading Comprehension between ChatGPT and Humans* (George Duenas, Sergio Jimenez and Geral Eduardo Mateus Ferro) – Online poster |
 | | *'Geen makkie': Interpretable Classification and Simplification of Dutch Text Complexity* (Eliza Hobo, Charlotte Pouw and Lisa Beinborn) – Online poster |
 | | *Towards automatically extracting morphosyntactical error patterns from L1-L2 parallel dependency treebanks* (Arianna Masciolini, Elena Volodina and Dana Dannélls) – Online poster |
 | | *Learning from Partially Annotated Data: Example-aware Creation of Gap-filling Exercises for Language Learning* (Semere Kiros Bitew, Johannes Deleu, A. Seza Doğruöz, Chris Develder and Thomas Demeester) – Online poster |
