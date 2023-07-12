@@ -159,6 +159,8 @@ The workshop will host a shared task on generation of teacher responses in educa
 
 We received 110 submissions and accepted 58 papers (acceptance rate: 53%).
 
+BEA 2023 [proceedings](https://aclanthology.org/volumes/2023.bea-1/).
+
 #### Oral Presentations
 
 - *Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank.* Nischal Ashok Kumar, Nigel Steven Fernandez, Zichao Wang, and Andrew Lan
@@ -323,6 +325,7 @@ We received 110 submissions and accepted 58 papers (acceptance rate: 53%).
 | **16:00–16:40** | **Ambassador paper by Anaïs Tack** <br> *Generating Teacher Responses in Educational Dialogues: The AI Teacher Test & BEA 2023 Shared Task* |
 | **16:40–17:25** | **Keynote by Jordana Heller** <br> *Interrupting Linguistic Bias in Written Communication with NLP tools* |
 | **17:25–17:30** | **Closing remarks** |
+| From **17:45** | **Dinner** at [NBA Courtside Restaurant](https://nbarestaurant.com) |
 
 ### Instructions for presenters
 
