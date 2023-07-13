@@ -251,76 +251,76 @@ BEA 2023 [proceedings](https://aclanthology.org/volumes/2023.bea-1/).
 | **10:30–11:00** | **Morning Coffee Break** |
 | **11:00–11:30** | Spotlight talks for Poster / Demo Session A (In-person + Virtual) <br> **Location:** Harbour A (in person) or Underline.io (remote) |
 | **11:30–12:30** | **Poster / Demo Session A** <br> **Location:** Poster Area / GatherTown |
-| | *A Transfer Learning Pipeline for Educational Resource Discovery with Application in Survey Generation* (Irene Li, Thomas George, Alex Fabbri, Tammy Liao, Benjamin Chen, Rina Kawamura, Richard Zhou, Vanessa Yan, Swapnil Hingmire and Dragomir Radev) – In-person poster |
-| | *Using Learning Analytics for Adaptive Exercise Generation* (Tanja Heck and Detmar Meurers) – In-person poster |
-| | *Enhancing Human Summaries for Question-Answer Generation in Education* (Hannah Gonzalez, Liam Dugan, Eleni Miltsakaki, Zhiqi Cui, Jiaxuan Ren, Bryan Li, Shriyash Upadhyay, Etan Ginsberg and Chris Callison-Burch) – In-person poster |
-| | *Difficulty-Controllable Neural Question Generation for Reading Comprehension using Item Response Theory* (Masaki Uto, Yuto Tomikawa and Ayaka Suzuki) – In-person poster |
-| | *Evaluating Classroom Potential for Card-it: Digital Flashcards for Studying and Learning Italian Morphology* (Mariana Shimabukuro, Jessica Zipf, Shawn Yama and Christopher Collins) – In-person poster |
-| | *Gender-Inclusive Grammatical Error Correction through Augmentation* (Gunnar Lund, Kostiantyn Omelianchuk and Igor Samokhin) – In-person poster |
-| | *Labels are not necessary: Assessing peer-review helpfulness using domain adaptation based on self-training* (Chengyuan Liu, Divyang Doshi, Muskaan Bhargava, Ruixuan Shang, Jialin Cui, Dongkuan Xu and Edward Gehringer) – In-person poster |
-| | *Generating Dialog Responses with Specified Grammatical Items for Second Language Learning* (Yuki Okano, Kotaro Funakoshi, Ryo Nagata and Manabu Okumura) – In-person poster |
-| | *A Closer Look at k-Nearest Neighbors Grammatical Error Correction* (Justin Vasselli and Taro Watanabe) – In-person poster |
-| | *Analyzing Bias in Large Language Model Solutions for Assisted Writing Feedback Tools: Lessons from the Feedback Prize Competition Series* (Perpetual Baffour, Tor Saxberg and Scott Crossley) – In-person poster |
-| | *Predicting the Quality of Revisions in Argumentative Writing* (Zhexiong Liu, Diane Litman, Elaine Lin Wang, Lindsay C. Matsumura and Richard Correnti) – In-person poster |
-| | *Reconciling Adaptivity and Task Orientation in the Student Dashboard of an Intelligent Language Tutoring System* (Leona Colling, Tanja Heck and Detmar Meurers) – In-person poster |
-| | *SIGHT: A Large Annotated Dataset on Student Insights Gathered from Higher Education Transcripts* (Rose Wang, Pawan Wirawarn, Noah Goodman and Dorottya Demszky) – In-person poster |
-| | *Automatically Generated Summaries of Video Lectures May Enhance Students' Learning Experience* (Hannah Gonzalez, Jiening Li, Helen Jin, Jiaxuan Ren, Hongyu Zhang, Ayotomiwa Akinyele, Adrian Wang, Eleni Miltsakaki, Ryan Baker and Chris Callison-Burch) – In-person poster |
-| | *ChatBack: Investigating Methods of Providing Grammatical Error Feedback in a GUI-based Language Learning Chatbot* (Kai-Hui Liang, Sam Davidson, Xun Yuan, Shehan Panditharatne, Chun-Yen Chen, Ryan Shea, Derek Pham, Yinghua Tan, Erik Voss, Luke Fryer and Zhou Yu) – In-person demo |
-| | *Enhancing Video-based Learning Using Knowledge Tracing: Personalizing Students' Learning Experience with ORBITS* (Shady Shehata, David Santandreu Calonge, Philip Purnell and Mark Thompson) – In-person demo |
-| | *Evaluating Classroom Potential for Card-it: Digital Flashcards for Studying and Learning Italian Morphology* (Mariana Shimabukuro, Jessica Zipf, Shawn Yama and Christopher Collins) – In-person demo |
-| | *The NCTE Transcripts: A Dataset of Elementary Math Classroom Transcripts* (Dorottya Demszky and Heather Hill) – Online poster |
-| | *AI-Generated Instructions For Peer Review Writing* (Xiaotian Su, Thiemo Wambsganss, Roman Rietsche, Seyed Parsa Neshaei and Tanja Käser) – Online poster |
-| | *Towards L2-friendly pipelines for learner corpora: A case of written production by L2-Korean learners* (Hakyung Sung and Gyu-Ho Shin) – Online poster |
-| | *Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods* (Mengsay Loem, Masahiro Kaneko, sho Takase and Naoaki Okazaki) – Online poster |
-| | *Recognizing Learner Handwriting Retaining Orthographic Errors for Enabling Fine-Grained Error Feedback* (Christian Gold, Ronja Laarmann-Quante and Torsten Zesch) – Online poster |
-| | *ExASAG: Explainable Framework for Automatic Short Answer Grading* (Maximilian Tornqvist, Mosleh Mahamud, Erick Mendez Guzman and Alexandra Farazouli) – Online poster |
-| | *You've Got a Friend in ... a Language Model? A Comparison of Explanations of Multiple-Choice Items of Reading Comprehension between ChatGPT and Humans* (George Duenas, Sergio Jimenez and Geral Eduardo Mateus Ferro) – Online poster |
-| | *'Geen makkie': Interpretable Classification and Simplification of Dutch Text Complexity* (Eliza Hobo, Charlotte Pouw and Lisa Beinborn) – Online poster |
-| | *Towards automatically extracting morphosyntactical error patterns from L1-L2 parallel dependency treebanks* (Arianna Masciolini, Elena Volodina and Dana Dannélls) – Online poster |
-| | *Learning from Partially Annotated Data: Example-aware Creation of Gap-filling Exercises for Language Learning* (Semere Kiros Bitew, Johannes Deleu, A. Seza Doğruöz, Chris Develder and Thomas Demeester) – Online poster |
-| | *Enhancing Educational Dialogues: A Reinforcement Learning Approach for Generating AI Teacher Responses* (Thomas Huber, Christina Niklaus and Siegfried Handschuh) – Online poster |
-| | *Assisting Language Learners: Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning* (Hengyuan Zhang, Dawei Li, Yanran Li, Chenming Shang, Chufan Shi and Yong Jiang) – Online poster |
-| | *GrounDialog: A Dataset for Repair and Grounding in Task-oriented Spoken Dialogues for Language Learning* (Xuanming Zhang, Rahul Divekar, Rutuja Ubale and Zhou Yu) – Online poster |
-| | *Hybrid Models for Sentence Readability Assessment* (Fengkai Liu and John Lee) – Online poster |
-| | *Handcrafted Features in Computational Linguistics* (Bruce W. Lee and Jason Lee) – Online poster |
-| | *Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods* (Mengsay Loem, Masahiro Kaneko, sho Takase and Naoaki Okazaki) – Online poster |
-| | *Span Identification of Epistemic Stance-Taking in Academic Written English* (Masaki Eguchi and Kristopher Kyle) – Online poster |
-| | *Beyond Black Box AI generated Plagiarism Detection: From Sentence to Document Level* (Chunhui Li, Parijat Dube and Ali Quidwai) – Online demo |
-| | *Evaluating Reading Comprehension Exercises Generated by LLMs: A Showcase of ChatGPT in Education Applications* (Changrong Xiao, Sean Xin Xu, Kunpeng Zhang, Yufang Wang and Lei Xia) – Online demo |
-| | *Auto-req: Automatic detection of pre-requisite dependencies between academic videos* (Rushil Thareja, Ritik Garg, Shiva Baghel, Deep Dwivedi, Mukesh Mohania and Ritvik Kulshrestha) – Online demo |
+| 6 | *A Transfer Learning Pipeline for Educational Resource Discovery with Application in Survey Generation* (Irene Li, Thomas George, Alex Fabbri, Tammy Liao, Benjamin Chen, Rina Kawamura, Richard Zhou, Vanessa Yan, Swapnil Hingmire and Dragomir Radev) – In-person poster |
+| 7 | *Using Learning Analytics for Adaptive Exercise Generation* (Tanja Heck and Detmar Meurers) – In-person poster |
+| 14 | *Enhancing Human Summaries for Question-Answer Generation in Education* (Hannah Gonzalez, Liam Dugan, Eleni Miltsakaki, Zhiqi Cui, Jiaxuan Ren, Bryan Li, Shriyash Upadhyay, Etan Ginsberg and Chris Callison-Burch) – In-person poster |
+| 16 | *Difficulty-Controllable Neural Question Generation for Reading Comprehension using Item Response Theory* (Masaki Uto, Yuto Tomikawa and Ayaka Suzuki) – In-person poster |
+| 18 | *Evaluating Classroom Potential for Card-it: Digital Flashcards for Studying and Learning Italian Morphology* (Mariana Shimabukuro, Jessica Zipf, Shawn Yama and Christopher Collins) – In-person poster |
+| 20 | *Gender-Inclusive Grammatical Error Correction through Augmentation* (Gunnar Lund, Kostiantyn Omelianchuk and Igor Samokhin) – In-person poster |
+| 24 | *Labels are not necessary: Assessing peer-review helpfulness using domain adaptation based on self-training* (Chengyuan Liu, Divyang Doshi, Muskaan Bhargava, Ruixuan Shang, Jialin Cui, Dongkuan Xu and Edward Gehringer) – In-person poster |
+| 25 | *Generating Dialog Responses with Specified Grammatical Items for Second Language Learning* (Yuki Okano, Kotaro Funakoshi, Ryo Nagata and Manabu Okumura) – In-person poster |
+| 32 | *A Closer Look at k-Nearest Neighbors Grammatical Error Correction* (Justin Vasselli and Taro Watanabe) – In-person poster |
+| 34 | *Analyzing Bias in Large Language Model Solutions for Assisted Writing Feedback Tools: Lessons from the Feedback Prize Competition Series* (Perpetual Baffour, Tor Saxberg and Scott Crossley) – In-person poster |
+| 40 | *Predicting the Quality of Revisions in Argumentative Writing* (Zhexiong Liu, Diane Litman, Elaine Lin Wang, Lindsay C. Matsumura and Richard Correnti) – In-person poster |
+| 42 | *Reconciling Adaptivity and Task Orientation in the Student Dashboard of an Intelligent Language Tutoring System* (Leona Colling, Tanja Heck and Detmar Meurers) – In-person poster |
+| 45 | *SIGHT: A Large Annotated Dataset on Student Insights Gathered from Higher Education Transcripts* (Rose Wang, Pawan Wirawarn, Noah Goodman and Dorottya Demszky) – In-person poster |
+| 50 | *Automatically Generated Summaries of Video Lectures May Enhance Students' Learning Experience* (Hannah Gonzalez, Jiening Li, Helen Jin, Jiaxuan Ren, Hongyu Zhang, Ayotomiwa Akinyele, Adrian Wang, Eleni Miltsakaki, Ryan Baker and Chris Callison-Burch) – In-person poster |
+| 10 | *ChatBack: Investigating Methods of Providing Grammatical Error Feedback in a GUI-based Language Learning Chatbot* (Kai-Hui Liang, Sam Davidson, Xun Yuan, Shehan Panditharatne, Chun-Yen Chen, Ryan Shea, Derek Pham, Yinghua Tan, Erik Voss, Luke Fryer and Zhou Yu) – In-person demo |
+| 11 | *Enhancing Video-based Learning Using Knowledge Tracing: Personalizing Students' Learning Experience with ORBITS* (Shady Shehata, David Santandreu Calonge, Philip Purnell and Mark Thompson) – In-person demo |
+| 18 | *Evaluating Classroom Potential for Card-it: Digital Flashcards for Studying and Learning Italian Morphology* (Mariana Shimabukuro, Jessica Zipf, Shawn Yama and Christopher Collins) – In-person demo |
+| 75 | *The NCTE Transcripts: A Dataset of Elementary Math Classroom Transcripts* (Dorottya Demszky and Heather Hill) – Online poster |
+|  8 | *AI-Generated Instructions For Peer Review Writing* (Xiaotian Su, Thiemo Wambsganss, Roman Rietsche, Seyed Parsa Neshaei and Tanja Käser) – Online poster |
+|  9 | *Towards L2-friendly pipelines for learner corpora: A case of written production by L2-Korean learners* (Hakyung Sung and Gyu-Ho Shin) – Online poster |
+| 30 | *Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods* (Mengsay Loem, Masahiro Kaneko, sho Takase and Naoaki Okazaki) – Online poster |
+| 47 | *Recognizing Learner Handwriting Retaining Orthographic Errors for Enabling Fine-Grained Error Feedback* (Christian Gold, Ronja Laarmann-Quante and Torsten Zesch) – Online poster |
+| 48 | *ExASAG: Explainable Framework for Automatic Short Answer Grading* (Maximilian Tornqvist, Mosleh Mahamud, Erick Mendez Guzman and Alexandra Farazouli) – Online poster |
+| 49 | *You've Got a Friend in ... a Language Model? A Comparison of Explanations of Multiple-Choice Items of Reading Comprehension between ChatGPT and Humans* (George Duenas, Sergio Jimenez and Geral Eduardo Mateus Ferro) – Online poster |
+| 69 | *'Geen makkie': Interpretable Classification and Simplification of Dutch Text Complexity* (Eliza Hobo, Charlotte Pouw and Lisa Beinborn) – Online poster |
+| 88 | *Towards automatically extracting morphosyntactical error patterns from L1-L2 parallel dependency treebanks* (Arianna Masciolini, Elena Volodina and Dana Dannélls) – Online poster |
+| 90 | *Learning from Partially Annotated Data: Example-aware Creation of Gap-filling Exercises for Language Learning* (Semere Kiros Bitew, Johannes Deleu, A. Seza Doğruöz, Chris Develder and Thomas Demeester) – Online poster |
+| 111 | *Enhancing Educational Dialogues: A Reinforcement Learning Approach for Generating AI Teacher Responses* (Thomas Huber, Christina Niklaus and Siegfried Handschuh) – Online poster |
+|  39 | *Assisting Language Learners: Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning* (Hengyuan Zhang, Dawei Li, Yanran Li, Chenming Shang, Chufan Shi and Yong Jiang) – Online poster |
+|  44 | *GrounDialog: A Dataset for Repair and Grounding in Task-oriented Spoken Dialogues for Language Learning* (Xuanming Zhang, Rahul Divekar, Rutuja Ubale and Zhou Yu) – Online poster |
+| 62 | *Hybrid Models for Sentence Readability Assessment* (Fengkai Liu and John Lee) – Online poster |
+| 3 | *Handcrafted Features in Computational Linguistics* (Bruce W. Lee and Jason Lee) – Online poster |
+| 30 | *Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods* (Mengsay Loem, Masahiro Kaneko, sho Takase and Naoaki Okazaki) – Online poster |
+| 58 | *Span Identification of Epistemic Stance-Taking in Academic Written English* (Masaki Eguchi and Kristopher Kyle) – Online poster |
+| 110 | *Beyond Black Box AI generated Plagiarism Detection: From Sentence to Document Level* (Chunhui Li, Parijat Dube and Ali Quidwai) – Online demo |
+|  93 | *Evaluating Reading Comprehension Exercises Generated by LLMs: A Showcase of ChatGPT in Education Applications* (Changrong Xiao, Sean Xin Xu, Kunpeng Zhang, Yufang Wang and Lei Xia) – Online demo |
+|  76 | *Auto-req: Automatic detection of pre-requisite dependencies between academic videos* (Rushil Thareja, Ritik Garg, Shiva Baghel, Deep Dwivedi, Mukesh Mohania and Ritvik Kulshrestha) – Online demo |
 | **12:30–14:00** | **Lunch** |
 | **14:00–14:30** | Spotlight talks for Poster / Demo Session B (In-person + Virtual) <br> **Location:** Harbour A (in person) or Underline.io (remote) |
 | **14:30–15:30** | **Poster / Demo Session B** <br> **Location:** Poster Area / GatherTown |
-| | *Automated evaluation of written discourse coherence using GPT-4* (Ben Naismith, Phoebe Mulcaire and Jill Burstein) – In-person poster |
-| | *ALEXSIS+: Improving Substitute Generation and Selection for Lexical Simplification with Information Retrieval* (Kai North, Alphaeus Dmonte, Tharindu Ranasinghe, Matthew Shardlow and Marcos Zampieri) – In-person poster |
-| | *ACTA: Short-Answer Grading in High-Stakes Medical Exams* (King Yiu Suen, Victoria Yaneva, Le An Ha, Janet Mee, Yiyun Zhou and Polina Harik) – In-person poster |
-| | *Training for Grammatical Error Correction Without Human-Annotated L2 Learners' Corpora* (Mikio Oda) – In-person poster |
-| | *Exploring a New Grammatico-functional Type of Measure as Part of a Language Learning Expert System* (Cyriel Mallart, Andrew Simpkin, Rémi Venant, Nicolas Ballier, Bernardo Stearns, Jen Yu Li and Thomas Gaillat) – In-person poster |
-| | *Japanese Lexical Complexity for Non-Native Readers: A New Dataset* (Yusuke Ide, Masato Mita, Adam Nohejl, Hiroki Ouchi and Taro Watanabe) – In-person poster |
-| | *CEFR-based Contextual Lexical Complexity Classifier in English and French* (Desislava Aleksandrova and Vincent Pouliot) – In-person poster |
-| | *Transformer-based Hebrew NLP models for Short Answer Scoring in Biology* (Abigail Gurin Schleifer, Beata Beigman Klebanov, Moriah Ariely and Giora Alexandron) – In-person poster |
-| | *Comparing Neural Question Generation Architectures for Reading Comprehension* (E. Margaret Perkoff, Abhidip Bhattacharyya, Jon Z. Cai and Jie Cao) – In-person poster |
-| | *A dynamic model of lexical experience for tracking of oral reading fluency* (Beata Beigman Klebanov, Michael Suhan, Zuowei Wang and Tenaha O'Reilly) – In-person poster |
-| | *Rating Short L2 Essays on the CEFR Scale with GPT-4* (Kevin P. Yancey, Geoffrey T. LaFlair, Anthony R. Verardi and Jill Burstein) – In-person poster |
-| | *Learning from Partially Annotated Data: Example-aware Creation of Gap-filling Exercises for Language Learning* (Semere Kiros Bitew, Johannes Deleu, A. Seza Doğruöz, Chris Develder and Thomas Demeester) – In-person poster |
-| | *Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction* (Rose Wang and Dorottya Demszky) – In-person poster |
-| | *Does BERT Exacerbate Gender or L1 Biases in Automated English Speaking Assessment?* (Alexander Kwako, Yixin Wan, Jieyu Zhao, Mark Hansen, Kai-Wei Chang and Li Cai) – In-person poster |
-| | *MultiQG-TI: Towards Question Generation from Multi-modal Sources* (Zichao Wang and Richard Baraniuk) – In-person poster |
-| | *Socratic Questioning of Novice Debuggers: A Benchmark Dataset and Preliminary Evaluations* (Erfan Al-Hossami, Razvan Bunescu, Ryan Teehan, Laurel Powell, Khyati Mahajan and Mohsen Dorodchi) – In-person poster |
-| | *Empowering Conversational Agents using Semantic In-Context Learning* (Amin Omidvar and Aijun An) – In-person poster |
-| | *NAISTeacher: A Prompt and Rerank Approach to Generating Teacher Utterances in Educational Dialogues* (Justin Vasselli, Christopher Vasselli, Adam Nohejl and Taro Watanabe) – In-person poster |
-| | *ReadAlong Studio Web Interface for Digital Interactive Storytelling* (Aidan Pine, David Huggins-Daines, Eric Joanis, Patrick Littell, Marc Tessier, Delasie Torkornoo, Rebecca Knowles, Roland Kuhn and Delaney Lothian) – In-person demo |
-| | *UKP-SQuARE: An Interactive Tool for Teaching Question Answering* (Haishuo Fang, Haritz Puerto and Iryna Gurevych) – In-person demo |
-| | *Generating Better Items for Cognitive Assessments Using Large Language Models* (Antonio Laverghetta Jr. and John Licato) – Online poster |
-| | *Does BERT Exacerbate Gender or L1 Biases in Automated English Speaking Assessment?* (Alexander Kwako, Yixin Wan, Jieyu Zhao, Mark Hansen, Kai-Wei Chang and Li Cai) – Online poster |
-| | *Inspecting Spoken Language Understanding from Kids for Basic Math Learning at Home* (Eda Okur, Roddy Fuentes Alba, Saurav Sahay and Lama Nachman) – Online poster |
-| | *Assessing the efficacy of large language models in generating accurate teacher responses* (Yann Hicke, Abhishek Masand, Wentao Guo and Tushaar Gangavarapu) – Online poster |
-| | *Scalable and Explainable Automated Scoring for Open-Ended Constructed Response Math Word Problems* (Scott Hellman, Alejandro Andrade and Kyle Habermehl) – Online poster |
-| | *You've Got a Friend in ... a Language Model? A Comparison of Explanations of Multiple-Choice Items of Reading Comprehension between ChatGPT and Humans* (George Duenas, Sergio Jimenez and Geral Eduardo Mateus Ferro) – Online poster |
-| | *Labels are not necessary: Assessing peer-review helpfulness using domain adaptation based on self-training* (Chengyuan Liu, Divyang Doshi, Muskaan Bhargava, Ruixuan Shang, Jialin Cui, Dongkuan Xu and Edward Gehringer) – Online poster |
-| | *ALEXSIS+: Improving Substitute Generation and Selection for Lexical Simplification with Information Retrieval* (Kai North, Alphaeus Dmonte, Tharindu Ranasinghe, Matthew Shardlow and Marcos Zampieri) – Online poster |
-| | *RETUYT-InCo at BEA 2023 Shared Task: Tuning Open-Source LLMs for Generating Teacher Responses* (Alexis Baladón, Ignacio Sastre, Luis Chiruzzo and Aiala Rosá) – Online poster |
-| | *ReadAlong Studio Web Interface for Digital Interactive Storytelling* (Aidan Pine, David Huggins-Daines, Eric Joanis, Patrick Littell, Marc Tessier, Delasie Torkornoo, Rebecca Knowles, Roland Kuhn and Delaney Lothian) – Online demo |
+| 55 | *Automated evaluation of written discourse coherence using GPT-4* (Ben Naismith, Phoebe Mulcaire and Jill Burstein) – In-person poster |
+| 56 | *ALEXSIS+: Improving Substitute Generation and Selection for Lexical Simplification with Information Retrieval* (Kai North, Alphaeus Dmonte, Tharindu Ranasinghe, Matthew Shardlow and Marcos Zampieri) – In-person poster |
+| 61 | *ACTA: Short-Answer Grading in High-Stakes Medical Exams* (King Yiu Suen, Victoria Yaneva, Le An Ha, Janet Mee, Yiyun Zhou and Polina Harik) – In-person poster |
+| 63 | *Training for Grammatical Error Correction Without Human-Annotated L2 Learners' Corpora* (Mikio Oda) – In-person poster |
+| 65 | *Exploring a New Grammatico-functional Type of Measure as Part of a Language Learning Expert System* (Cyriel Mallart, Andrew Simpkin, Rémi Venant, Nicolas Ballier, Bernardo Stearns, Jen Yu Li and Thomas Gaillat) – In-person poster |
+| 66 | *Japanese Lexical Complexity for Non-Native Readers: A New Dataset* (Yusuke Ide, Masato Mita, Adam Nohejl, Hiroki Ouchi and Taro Watanabe) – In-person poster |
+| 74 | *CEFR-based Contextual Lexical Complexity Classifier in English and French* (Desislava Aleksandrova and Vincent Pouliot) – In-person poster |
+| 77 | *Transformer-based Hebrew NLP models for Short Answer Scoring in Biology* (Abigail Gurin Schleifer, Beata Beigman Klebanov, Moriah Ariely and Giora Alexandron) – In-person poster |
+| 78 | *Comparing Neural Question Generation Architectures for Reading Comprehension* (E. Margaret Perkoff, Abhidip Bhattacharyya, Jon Z. Cai and Jie Cao) – In-person poster |
+| 81 | *A dynamic model of lexical experience for tracking of oral reading fluency* (Beata Beigman Klebanov, Michael Suhan, Zuowei Wang and Tenaha O'Reilly) – In-person poster |
+| 86 | *Rating Short L2 Essays on the CEFR Scale with GPT-4* (Kevin P. Yancey, Geoffrey T. LaFlair, Anthony R. Verardi and Jill Burstein) – In-person poster |
+| 90 | *Learning from Partially Annotated Data: Example-aware Creation of Gap-filling Exercises for Language Learning* (Semere Kiros Bitew, Johannes Deleu, A. Seza Doğruöz, Chris Develder and Thomas Demeester) – In-person poster |
+| 97 | *Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction* (Rose Wang and Dorottya Demszky) – In-person poster |
+| 99 | *Does BERT Exacerbate Gender or L1 Biases in Automated English Speaking Assessment?* (Alexander Kwako, Yixin Wan, Jieyu Zhao, Mark Hansen, Kai-Wei Chang and Li Cai) – In-person poster |
+| 100 | *MultiQG-TI: Towards Question Generation from Multi-modal Sources* (Zichao Wang and Richard Baraniuk) – In-person poster |
+| 106 | *Socratic Questioning of Novice Debuggers: A Benchmark Dataset and Preliminary Evaluations* (Erfan Al-Hossami, Razvan Bunescu, Ryan Teehan, Laurel Powell, Khyati Mahajan and Mohsen Dorodchi) – In-person poster |
+| 114 | *Empowering Conversational Agents using Semantic In-Context Learning* (Amin Omidvar and Aijun An) – In-person poster |
+| 115 | *NAISTeacher: A Prompt and Rerank Approach to Generating Teacher Utterances in Educational Dialogues* (Justin Vasselli, Christopher Vasselli, Adam Nohejl and Taro Watanabe) – In-person poster |
+| 21 | *ReadAlong Studio Web Interface for Digital Interactive Storytelling* (Aidan Pine, David Huggins-Daines, Eric Joanis, Patrick Littell, Marc Tessier, Delasie Torkornoo, Rebecca Knowles, Roland Kuhn and Delaney Lothian) – In-person demo |
+| 28 | *UKP-SQuARE: An Interactive Tool for Teaching Question Answering* (Haishuo Fang, Haritz Puerto and Iryna Gurevych) – In-person demo |
+| 57 | *Generating Better Items for Cognitive Assessments Using Large Language Models* (Antonio Laverghetta Jr. and John Licato) – Online poster |
+| 99 | *Does BERT Exacerbate Gender or L1 Biases in Automated English Speaking Assessment?* (Alexander Kwako, Yixin Wan, Jieyu Zhao, Mark Hansen, Kai-Wei Chang and Li Cai) – Online poster |
+| 102 | *Inspecting Spoken Language Understanding from Kids for Basic Math Learning at Home* (Eda Okur, Roddy Fuentes Alba, Saurav Sahay and Lama Nachman) – Online poster |
+| 112 | *Assessing the efficacy of large language models in generating accurate teacher responses* (Yann Hicke, Abhishek Masand, Wentao Guo and Tushaar Gangavarapu) – Online poster |
+| 19 | *Scalable and Explainable Automated Scoring for Open-Ended Constructed Response Math Word Problems* (Scott Hellman, Alejandro Andrade and Kyle Habermehl) – Online poster |
+| 49 | *You've Got a Friend in ... a Language Model? A Comparison of Explanations of Multiple-Choice Items of Reading Comprehension between ChatGPT and Humans* (George Duenas, Sergio Jimenez and Geral Eduardo Mateus Ferro) – Online poster |
+| 24 | *Labels are not necessary: Assessing peer-review helpfulness using domain adaptation based on self-training* (Chengyuan Liu, Divyang Doshi, Muskaan Bhargava, Ruixuan Shang, Jialin Cui, Dongkuan Xu and Edward Gehringer) – Online poster |
+| 56 | *ALEXSIS+: Improving Substitute Generation and Selection for Lexical Simplification with Information Retrieval* (Kai North, Alphaeus Dmonte, Tharindu Ranasinghe, Matthew Shardlow and Marcos Zampieri) – Online poster |
+| 113 | *RETUYT-InCo at BEA 2023 Shared Task: Tuning Open-Source LLMs for Generating Teacher Responses* (Alexis Baladón, Ignacio Sastre, Luis Chiruzzo and Aiala Rosá) – Online poster |
+| 21 | *ReadAlong Studio Web Interface for Digital Interactive Storytelling* (Aidan Pine, David Huggins-Daines, Eric Joanis, Patrick Littell, Marc Tessier, Delasie Torkornoo, Rebecca Knowles, Roland Kuhn and Delaney Lothian) – Online demo |
 | **15:30–16:00** | **Afternoon Coffee Break** |
 | **16:00–16:40** | **Ambassador paper by Anaïs Tack** <br> *Generating Teacher Responses in Educational Dialogues: The AI Teacher Test & BEA 2023 Shared Task* |
 | **16:40–17:25** | **Keynote by Jordana Heller** <br> *Interrupting Linguistic Bias in Written Communication with NLP tools* |
