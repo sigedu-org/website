@@ -32,6 +32,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Rabin	Banjade, University of Memphis<br/>
 - <a href="www.linkedin.com/in/michael-bayona">Michael Gringo Angelo Bayona</a>, Trinity College Dublin<br/>
 - <a href="https://leebecker.com">Lee Becker</a>, Pearson<br/>
+- <a href="https://shabnam-b.github.io/">Shabnam Behzad</a>, Georgetown University<br/>
 - <a href="https://www.ukp.tu-darmstadt.de/people/postdoctoral-researchers/dr-lisa-beinborn">Lisa Beinborn</a>, UKP Lab,&nbsp;TU Darmstadt<br/>
 - <a href="https://sites.google.com/site/beatabeigmanklebanov/">Beata Beigman Klebanov</a>, Educational Testing Service<br/>
 - <a href="https://samueljamesbell.com/">Samuel Bell</a>, University of Cambridge<br/>
@@ -57,6 +58,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Andrew Caines, University of Cambridge<br/>
 - <a href="https://www.cis.upenn.edu/~ccb/">Chris Callison-Burch</a>, University of Pennsylvania<br/>
 - <a href="https://mlciv.com">Jie Cao</a>, University of Colorado, Boulder<br/>
+- Blake Castleman, Columbia University<br/>
 - Dumitru-Clementin Cercel, University Politehnica of Bucharest<br/>
 - Li-Hsin Chang, University of Turku<br/>
 - <a href="jeevanchaps.github.io">Jeevan Chapagain</a>, University of Memphis<br/>
@@ -101,6 +103,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://www.linkedin.com/in/ni9elf/">Nigel Fernandez</a>, University of Massachusetts Amherst<br/>
 - <a href="http://johnfields.tech">John Fields</a>, Concordia University Wisconsin<br/>
 - Michael Flor, Educational Testing Service<br/>
+- Vincent Folny, France Education International<br/>
 - <a href="https://www.computing.dcu.ie/~jfoster">Jennifer Foster</a>, Dublin City University<br/>
 - Jennifer-Carmen Frey, Eurac Research Bolzano & Dipartimento di Interpretazione e Traduzione Forlì, Università di Bologna<br/>
 - <a href="https://hiro819.github.io/">Hiroaki Funayama</a>, Tohoku university / RIKEN<br/>
@@ -151,6 +154,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Yusuke Ide, Nara Institute of Science and Technology<br/>
 - <a href="https://www.josephimperial.com/">Joseph Marvin Imperial</a>, National University Philippines<br/>
 - <a href="https://raduionescu.herokuapp.com">Radu Tudor Ionescu</a>, University of Bucharest<br/>
+- Raghav Jain, Oxford TVG and IIT Patna<br/>
 - Xuejun Ji, The University of British Columbia<br/>
 - <a href="https://scholar.google.com/citations?user=9FHa7lsAAAAJ&hl=en">Qinjin Jia</a>, North Carolina State University<br/>
 - Helen Jin, University of Pennsylvania<br/>
@@ -162,6 +166,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - Masahiro Kaneko, Tokyo Metropolitan University<br/>
 - Kartik Kannapur, Amazon Web Services<br/>
 - <a href="https://nehakardam.github.io/">Neha Kardam</a>, University of Washington<br/>
+- Honeiah	Karimi, University of California, Santa Barbara<br/>
 - Tsegay Kassa, Wachemo University<br/>
 - Anisia Katinskaia, University of Helsinki<br/>
 - Satoru Katsumata, Tokyo Metropolitan University<br/>
@@ -217,6 +222,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://research.flw.ugent.be/lieve.macken">Lieve Macken</a>, Ghent University<br/>
 - <a href="https://desilinguist.org">Nitin Madnani</a>, Educational Testing Service<br/>
 - <a href="https://sites.google.com/view/amagooda/home">Ahmed Magooda</a>, University of Pittsburgh<br/>
+- Khyati Mahajan, UNC Charlotte<br/>
 - Nabin Maharjan, University of Memphis<br/>
 - Ilia Markov, University of Antwerp<br/>
 - <a href="harisont.github.io">Arianna Masciolini</a>, University of Gothenburg<br/>
@@ -350,6 +356,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://www.tc.columbia.edu/faculty/ev2449/">Erik Voss</a>, Teachers College, Columbia University<br/>
 - <a href="https://www.rmit.edu.au/contact/staff-contacts/academic-staff/u/uitdenbogerd-dr-sandra">Alexandra Uitdenbogerd</a>, RMIT University<br/>
 - <a href="http://zw16.web.rice.edu">Jack Wang</a>, Rice University<br/>
+- <a href="https://cs.stanford.edu/~rewang">Rose Wang</a>, Stanford University<br/>
 - <a href="https://www.personal.psu.edu/sxw327/">Shuting Wang</a>, Facebook<br/>
 - Xinhao Wang, Educational Testing Service<br/>
 - Xinyu Wang, Riiid Labs<br/>
