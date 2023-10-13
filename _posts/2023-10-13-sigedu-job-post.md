@@ -1,5 +1,5 @@
 ---
-title: Faculty Professor Assistant Job - Full-Time
+title: Seeking Tenure-Stream Assistant Professor of Artificial Intelligence and Learning Science
 author: SIGEDU Member
 author_profile: true
 excerpt: "Tenure-Stream Faculty Position"
