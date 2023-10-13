@@ -1,6 +1,6 @@
 ---
 title: Faculty Professor Assistant Job - Full-Time
-author: guest
+author: SIGEDU Member
 author_profile: true
 excerpt: "Tenure-Stream Faculty Position"
 tags:
