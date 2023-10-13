@@ -1,5 +1,5 @@
 ---
-title: Seeking Tenure-Stream Assistant Professor of Artificial Intelligence and Learning Science
+title: Tenure-Stream Assistant Professor Job 2023
 author: SIGEDU Member
 author_profile: true
 excerpt: "Tenure-Stream Faculty Position"
