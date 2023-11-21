@@ -73,11 +73,11 @@ The 19th BEA workshop will follow the format of BEA in 2023 and will be hybrid. 
 <span style="font-size: smaller;"><b>Note</b>: All deadlines are 11:59pm UTC-12 (anywhere on earth).</span>
 {: .notice--danger}
 
-- Anonymity Period Begins: *TBD*
-- Submission Deadline: *TBD*
-- Notification of Acceptance: *TBD*
-- Camera-ready Papers Due: *TBD*
-- Pre-recorded Videos Due: *TBD*
+- Anonymity Period Begins: February 10, 2024
+- Submission Deadline: March 10, 2024
+- Notification of Acceptance: April 14, 2024
+- Camera-ready Papers Due: April 24, 2024
+- Pre-recorded Videos Due: May 1, 2024
 - Workshop: **June 20 or 21, 2024**
 
 ## Organizing Committee
