@@ -50,3 +50,11 @@ beasharedtask2023:
     children:
       - title: "bea.nlp.workshop@gmail.com"
         url: mailto:bea.nlp.workshop@gmail.com
+
+beasharedtask2024:
+  - title: Contact
+    children:
+      - title: "Registration"
+        url: https://forms.gle/JhDtAMiJwadNmgKv7
+      - title: "Email"
+        url: mailto:knorth8@gmu.edu
