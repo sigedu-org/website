@@ -15,6 +15,7 @@ We always welcome new proposals for a shared task. If you are interested in orga
 
 BEA 2024 Shared Task @ [NAACL/BEA 2024](/bea/2024)
 : [Automated Prediction of Item Difficulty and Item Response Time](/sharedtask/2024)
+  [Multilingual Lexical Simplification Pipeline](/sharedtask/2024-MLSP)
 
 BEA 2023 Shared Task @ [ACL/BEA 2023](/bea/2023)
 : [Generating AI Teacher Responses in Educational Dialogues](/sharedtask/2023)
