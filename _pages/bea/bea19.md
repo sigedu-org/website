@@ -68,6 +68,12 @@ The 19th BEA workshop will follow the format of BEA in 2023 and will be hybrid. 
 - tools and applications for classroom teachers, learners and/or test developers; and
 - use of corpora in educational tools.
 
+## Workshop Program
+
+### Shared Tasks
+
+The workshop will host two shared tasks: a [shared task on Automated Prediction of Item Difficulty and Item Response Time](/sharedtask/2024), starting on January 15, 2024, and a [shared Task on Multilingual Lexical Simplification Pipeline](/shared-task/2024-MLSP), starting on February 16, 2024. For more information and latest updates, please refer to the shared task websites.
+
 ## Important Dates
 
 <span style="font-size: smaller;"><b>Note</b>: All deadlines are 11:59pm UTC-12 (anywhere on earth).</span>
