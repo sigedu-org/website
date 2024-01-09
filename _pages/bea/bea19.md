@@ -86,6 +86,12 @@ The workshop will host two shared tasks: a [shared task on Automated Prediction 
 - Pre-recorded Videos Due: May 1, 2024
 - Workshop: **June 20 or 21, 2024**
 
+## Sponsors
+
+### Sponsoring Opportunities
+
+We are extremely grateful to our sponsors for the past workshops: in the recent years, we have been supported by [Duolingo](https://duolingo.com/), [Grammarly](https://grammarly.com/), [NBME](https://nbme.org/), [iLexIR](https://ilexir.co.uk/), [Educational Testing Service](https://www.ets.org/), and [Newsela](https://newsela.com/). This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner (in case the workshop runs offline) and offering student grants covering the BEA registration fees. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold sponsorship) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor the BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
+
 ## Organizing Committee
 
 - [Ekaterina Kochmar](https://ekochmar.github.io/about/), MBZUAI
