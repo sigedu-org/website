@@ -28,7 +28,7 @@ toc_icon: 'cog'
         </tr>
         <tr>
             <td><strong>Deadline</strong></td>
-            <td>TBD</td>
+            <td>March 10, 2024</td>
         </tr>
         <tr>
             <td><strong>Date</strong></td>
@@ -98,3 +98,7 @@ The workshop will host two shared tasks: a [shared task on Automated Prediction 
 - [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/), King's College London
 
 Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.workshop@gmail.com)
+
+## Program Committee
+
+Tazin Afrin; Erfan Al-Hossami; Giora Alexandron; Desislava Aleksandrova; Bashar Alhafni; Alejandro Andrade; Nischal Ashok Kumar; Berk Atil; Shiva Baghel; Rabin Banjade; Michael Gringo Angelo Bayona; Lee Becker; Lisa Beinborn; Luca Benedetto; Marie Bexte; Serge Bibauw; Ted Briscoe; Jie Cao; Dumitru-Clementin Cercel; Mei-Hua Chen; Hyundong Cho; Mark Core; Orphee De Clercq; Kordula De Kuthy; Jasper Degraeuwe; Carrie Demmans Epp; Yang Deng; Chris Develder; Ann Devitt; Barbara Di Eugenio; Elisa Di Nuovo; Yuning Ding; Rahul Divekar; A. Seza Dogruoz; George Dueñas; Mariano Felice; Nigel Fernandez; Michael Flor; Jennifer Frey; Diana Galvan-Sosa; Ashwinkumar Ganesan; Sebastian Gombert; Cyril Goutte; Abigail Gurin Schleifer; Samar Haider; Handoko Handoko; Ching Nam Hang; Jiangang Hao; Nicolas Hernandez; Heiko Holz; Chieh-Yang Huang; Chung- Chi Huang; Yi-Ting Huang; Joseph Marvin Imperial; Radu Tudor Ionescu; Qinjin Jia; Helen Jin; Richard Johansson; Masahiro Kaneko; Elma Kerz; Fazel Keshtkar; Alfiya Khabibullina; Mamoru Komachi; Roland Kuhn; Alexander Kwako; Kristopher Kyle; Antonio Laverghetta Jr.; Arun Balajiee Lekshmi Narayanan; Bruce W. Lee; Seolhwa Lee; Xu Li; John Licato; Yudong Liu; Zhexiong Liu; Anastassia Loukina; Jakub Macina; Nitin Madnani; Arianna Masciolini; Sandeep Mathias; Detmar Meurers; Amit Kumar Mishra; Masato Mita; Farah Nadeem; Ryo Nagata; Sungjin Nam; Diane Napolitano; Tanya Nazaretsky; Kamel Nebhi; Seyed Parsa Neshaei; Hwee Tou Ng; Gebregziabihier Nigusie; Christina Niklaus; S Jaya Nirmala; Huy Nguyen; Eda Okur; Kostiantyn Omelianchuk; Amin Omidvar; Ulrike Pado; Chanjun Park; E. Margaret Perkoff; Jakob Prange; Long Qin; Mengyang Qiu; Manav Rathod; Hanumant Redkar; Robert Reynolds; Frankie Robertson; Alla Rozovskaya; Alexander Scarlatos; Gyu-Ho Shin; Mayank Soni; Katherine Stasaski; Helmer Strik; Hakyung Sung; Hanna Suominen; Abhijit Suresh; Jan Švec; Chee Wei Tan; Zhongwei Teng; Rushil Thareja; Xiaoyi Tian; Sowmya Vajjala; Piper Vasicek; Giulia Venturi; Anthony Verardi; Carl Vogel; Elena Volodina; Taro Watanabe; Michael White; Alistair Willis; Simon Woodhead; Marcos Zampieri; Fabian Zehner; Torsten Zesch; Jing Zhang; Yiyun Zhou; Jessica Zipf; Bowei Zou.
