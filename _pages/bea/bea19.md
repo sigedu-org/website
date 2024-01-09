@@ -89,6 +89,7 @@ The workshop will host two shared tasks: a [shared task on Automated Prediction 
 ## Organizing Committee
 
 - [Ekaterina Kochmar](https://ekochmar.github.io/about/), MBZUAI
+- Marie Bexte, FernUniversität in Hagen
 - [Jill Burstein](https://sites.google.com/site/jbursteinets/), Duolingo
 - [Andrea Horbach](https://www.fernuni-hagen.de/forschung/schwerpunkte/d2l2/team/andrea.horbach.shtml), FernUniversität in Hagen
 - [Ronja Laarmann-Quante](https://www.ltl.uni-due.de/team/ronja-laarmann-quante), Ruhr University Bochum
