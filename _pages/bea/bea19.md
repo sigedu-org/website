@@ -95,7 +95,7 @@ We are extremely grateful to our sponsors for the past workshops: in the recent 
 ## Organizing Committee
 
 - [Ekaterina Kochmar](https://ekochmar.github.io/about/), MBZUAI
-- Marie Bexte, FernUniversität in Hagen
+- [Marie Bexte](https://www.fernuni-hagen.de/english/research/clusters/catalpa/about-catalpa/members/marie.bexte.shtml), FernUniversität in Hagen
 - [Jill Burstein](https://sites.google.com/site/jbursteinets/), Duolingo
 - [Andrea Horbach](https://www.fernuni-hagen.de/forschung/schwerpunkte/d2l2/team/andrea.horbach.shtml), FernUniversität in Hagen
 - [Ronja Laarmann-Quante](https://www.ltl.uni-due.de/team/ronja-laarmann-quante), Ruhr University Bochum
