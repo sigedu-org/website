@@ -28,7 +28,7 @@ toc_icon: 'cog'
         </tr>
         <tr>
             <td><strong>Deadline</strong></td>
-            <td>TBD</td>
+            <td>March 10, 2024</td>
         </tr>
         <tr>
             <td><strong>Date</strong></td>
@@ -86,9 +86,16 @@ The workshop will host two shared tasks: a [shared task on Automated Prediction 
 - Pre-recorded Videos Due: May 1, 2024
 - Workshop: **June 20 or 21, 2024**
 
+## Sponsors
+
+### Sponsoring Opportunities
+
+We are extremely grateful to our sponsors for the past workshops: in the recent years, we have been supported by [Duolingo](https://duolingo.com/), [Grammarly](https://grammarly.com/), [NBME](https://nbme.org/), [iLexIR](https://ilexir.co.uk/), [Educational Testing Service](https://www.ets.org/), and [Newsela](https://newsela.com/). This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner (in case the workshop runs offline) and offering student grants covering the BEA registration fees. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold sponsorship) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor the BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
+
 ## Organizing Committee
 
 - [Ekaterina Kochmar](https://ekochmar.github.io/about/), MBZUAI
+- [Marie Bexte](https://www.fernuni-hagen.de/english/research/clusters/catalpa/about-catalpa/members/marie.bexte.shtml), FernUniversität in Hagen
 - [Jill Burstein](https://sites.google.com/site/jbursteinets/), Duolingo
 - [Andrea Horbach](https://www.fernuni-hagen.de/forschung/schwerpunkte/d2l2/team/andrea.horbach.shtml), FernUniversität in Hagen
 - [Ronja Laarmann-Quante](https://www.ltl.uni-due.de/team/ronja-laarmann-quante), Ruhr University Bochum
@@ -97,3 +104,7 @@ The workshop will host two shared tasks: a [shared task on Automated Prediction 
 - [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/), King's College London
 
 Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.workshop@gmail.com)
+
+## Program Committee
+
+Tazin Afrin; Erfan Al-Hossami; Giora Alexandron; Desislava Aleksandrova; Bashar Alhafni; Alejandro Andrade; Nischal Ashok Kumar; Berk Atil; Shiva Baghel; Rabin Banjade; Michael Gringo Angelo Bayona; Lee Becker; Lisa Beinborn; Luca Benedetto; Marie Bexte; Serge Bibauw; Ted Briscoe; Jie Cao; Dumitru-Clementin Cercel; Mei-Hua Chen; Hyundong Cho; Mark Core; Orphee De Clercq; Kordula De Kuthy; Jasper Degraeuwe; Carrie Demmans Epp; Yang Deng; Chris Develder; Ann Devitt; Barbara Di Eugenio; Elisa Di Nuovo; Yuning Ding; Rahul Divekar; A. Seza Dogruoz; George Dueñas; Mariano Felice; Nigel Fernandez; Michael Flor; Jennifer Frey; Diana Galvan-Sosa; Ashwinkumar Ganesan; Sebastian Gombert; Cyril Goutte; Abigail Gurin Schleifer; Samar Haider; Handoko Handoko; Ching Nam Hang; Jiangang Hao; Nicolas Hernandez; Heiko Holz; Chieh-Yang Huang; Chung- Chi Huang; Yi-Ting Huang; Joseph Marvin Imperial; Radu Tudor Ionescu; Qinjin Jia; Helen Jin; Richard Johansson; Masahiro Kaneko; Elma Kerz; Fazel Keshtkar; Alfiya Khabibullina; Mamoru Komachi; Roland Kuhn; Alexander Kwako; Kristopher Kyle; Antonio Laverghetta Jr.; Arun Balajiee Lekshmi Narayanan; Bruce W. Lee; Seolhwa Lee; Xu Li; John Licato; Yudong Liu; Zhexiong Liu; Anastassia Loukina; Jakub Macina; Nitin Madnani; Arianna Masciolini; Sandeep Mathias; Detmar Meurers; Amit Kumar Mishra; Masato Mita; Farah Nadeem; Ryo Nagata; Sungjin Nam; Diane Napolitano; Tanya Nazaretsky; Kamel Nebhi; Seyed Parsa Neshaei; Hwee Tou Ng; Gebregziabihier Nigusie; Christina Niklaus; S Jaya Nirmala; Huy Nguyen; Eda Okur; Kostiantyn Omelianchuk; Amin Omidvar; Ulrike Pado; Chanjun Park; E. Margaret Perkoff; Jakob Prange; Long Qin; Mengyang Qiu; Manav Rathod; Hanumant Redkar; Robert Reynolds; Frankie Robertson; Alla Rozovskaya; Alexander Scarlatos; Gyu-Ho Shin; Mayank Soni; Katherine Stasaski; Helmer Strik; Hakyung Sung; Hanna Suominen; Abhijit Suresh; Jan Švec; Chee Wei Tan; Zhongwei Teng; Rushil Thareja; Xiaoyi Tian; Sowmya Vajjala; Piper Vasicek; Giulia Venturi; Anthony Verardi; Carl Vogel; Elena Volodina; Taro Watanabe; Michael White; Alistair Willis; Simon Woodhead; Marcos Zampieri; Fabian Zehner; Torsten Zesch; Jing Zhang; Yiyun Zhou; Jessica Zipf; Bowei Zou.
