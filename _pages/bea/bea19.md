@@ -86,6 +86,26 @@ The workshop will host two shared tasks: a [shared task on Automated Prediction 
 - Pre-recorded Videos Due: May 1, 2024
 - Workshop: **June 20 or 21, 2024**
 
+## Submission Information
+
+We will be using the ACL Submission Guidelines for the BEA Workshop this year. Authors are invited to submit a long paper of up to eight (8) pages of content, plus unlimited references; final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers’ comments can be taken into account. We also invite short papers of up to four (4) pages of content, plus unlimited references. Upon acceptance, short papers will be given five (5) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewers’ comments in their final versions. Papers which describe systems are also invited to give a demo of their system. If you would like to present a demo in addition to presenting the paper, please make sure to select either “long paper + demo” or “short paper + demo” under “Submission Category” in the START submission page.
+
+Previously published papers cannot be accepted. The submissions will be reviewed by the program committee. As reviewing will be blind, please ensure that papers are anonymous. Self-references that reveal the author’s identity, e.g., “We previously showed (Smith, 1991) …”, should be avoided. Instead, use citations such as “Smith previously showed (Smith, 1991) …”.
+
+We have also included conflict of interest in the submission form. You should mark all potential reviewers who have been authors on the paper, are from the same research group or institution, or who have seen versions of this paper or discussed it with you.
+
+**Note on Ethics Statement and Limitations sections**: We welcome submissions with Ethics Statement and Limitations sections included. These sections will not count towards the page limit in accordance with ACL guidelines. This year, such sections are not yet mandatory and papers missing them will not be penalized. Next year, we will include more detailed information on these sections in our submission guidelines.
+
+### LaTeX and Word Templates
+
+Paper submissions must use the official ACL style templates, which are available from [here](https://github.com/acl-org/acl-style-files). Please follow the paper formatting guidelines general to "\*ACL" conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). Authors may not modify these style files or use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
+
+### Double Submission Policy
+
+We will follow the official ACL double-submission policy. Specifically, papers being submitted both to BEA and another conference or workshop must:
+- Note on the title page (as a footnote on the abstract) the other conference or workshop to which they are being submitted.
+- State on the title page that if the authors choose to present their paper at BEA (assuming it was accepted), then the paper will be withdrawn from other conferences and workshops.
+
 ## Sponsors
 
 ### Sponsoring Opportunities
