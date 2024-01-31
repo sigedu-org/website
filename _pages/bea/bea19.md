@@ -76,41 +76,47 @@ The workshop will host two shared tasks: a [shared task on Automated Prediction 
 
 ## Important Dates
 
-<span style="font-size: smaller;"><b>Note</b>: All deadlines are 11:59pm UTC-12 (anywhere on earth).</span>
+All deadlines are 11:59pm UTC-12 (anywhere on earth).
 {: .notice--danger}
 
-- Anonymity Period Begins: February 10, 2024
-- Submission Deadline: March 10, 2024
-- Notification of Acceptance: April 14, 2024
-- Camera-ready Papers Due: April 24, 2024
-- Pre-recorded Videos Due: May 1, 2024
-- Workshop: **June 20 or 21, 2024**
+| Event                         | Date                |
+|-------------------------------|---------------------|
+| Anonymity Period Begins       | February 10, 2024   |
+| Submission Deadline           | March 10, 2024      |
+| Notification of Acceptance    | April 14, 2024      |
+| Camera-ready Papers Due       | April 24, 2024      |
+| Pre-recorded Videos Due       | May 1, 2024         |
+| Workshop                      | June 20 or 21, 2024 |
 
 ## Submission Information
 
-We will be using the ACL Submission Guidelines for the BEA Workshop this year. Authors are invited to submit a long paper of up to eight (8) pages of content, plus unlimited references; final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers’ comments can be taken into account. We also invite short papers of up to four (4) pages of content, plus unlimited references. Upon acceptance, short papers will be given five (5) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewers’ comments in their final versions. Papers which describe systems are also invited to give a demo of their system. If you would like to present a demo in addition to presenting the paper, please make sure to select either “long paper + demo” or “short paper + demo” under “Submission Category” in the START submission page.
+To streamline the submission process, we rely on the **ACL submission guidelines** and the **START conference system**, accessible at [https://softconf.com/naacl2024/BEA2024](https://softconf.com/naacl2024/BEA2024/). All submissions undergo review by the program committee.
 
-Previously published papers cannot be accepted. The submissions will be reviewed by the program committee. As reviewing will be blind, please ensure that papers are anonymous. Self-references that reveal the author’s identity, e.g., “We previously showed (Smith, 1991) …”, should be avoided. Instead, use citations such as “Smith previously showed (Smith, 1991) …”.
+Long, Short, and Demo Papers
+: Authors can choose to submit long papers (up to eight (8) pages) or short papers (up to four (4) pages), alongside unlimited references. After peer review, all accepted papers will be allotted an additional page of content (up to nine for long papers, five for short papers), allowing authors to address reviewer comments. Authors are strongly urged to present a live demonstration for papers that elaborate on systems. If opting for this, authors should choose either "long paper + demo" or "short paper + demo" under the "Submission Category" on the submission page.
 
-We have also included conflict of interest in the submission form. You should mark all potential reviewers who have been authors on the paper, are from the same research group or institution, or who have seen versions of this paper or discussed it with you.
+LaTeX and Word Templates
+: Authors must ensure their paper submissions adhere to the general paper formatting guidelines for "*ACL" conferences, found [here](https://acl-org.github.io/ACLPUB/formatting.html), and use the **official ACL style templates**, downloadable [here](https://github.com/acl-org/acl-style-files). Do not modify these style files or use templates intended for other conferences. Submissions failing to meet required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
-**Note on Ethics Statement and Limitations sections**: We welcome submissions with Ethics Statement and Limitations sections included. These sections will not count towards the page limit in accordance with ACL guidelines. This year, such sections are not yet mandatory and papers missing them will not be penalized. Next year, we will include more detailed information on these sections in our submission guidelines.
+Ethics Statement and Limitations
+: Submissions with Ethics Statement and Limitations sections are appreciated. These sections will not contribute to the page limit, following ACL guidelines. While not mandatory this year, papers lacking these sections will not be penalized. Detailed information on these sections will be provided in next year's submission guidelines.
 
-### LaTeX and Word Templates
+Anonymity
+: Given the blind review process, it is essential to ensure that papers remain anonymous. Authors should avoid self-references that disclose their identity (e.g., “We previously showed (Smith, 1991)”), opting instead for citations like “Smith previously showed (Smith, 1991)”.
 
-Paper submissions must use the official ACL style templates, which are available from [here](https://github.com/acl-org/acl-style-files). Please follow the paper formatting guidelines general to "\*ACL" conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). Authors may not modify these style files or use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
+Conflicts of Interest
+: Authors are required to mark potential reviewers who have co-authored the paper, belong to the same research group or institution, or have had prior exposure to the paper, ensuring transparency in the review process.
 
-### Double Submission Policy
+Double Submissions
+: We adhere to the official ACL double-submission policy. If papers are submitted to both BEA and another conference or workshop, authors must specify the other event on the title page (as a footnote on the abstract). Additionally, the title page should state that if the paper is accepted for presentation at BEA, it will be withdrawn from other conferences and workshops.
 
-We will follow the official ACL double-submission policy. Specifically, papers being submitted both to BEA and another conference or workshop must:
-- Note on the title page (as a footnote on the abstract) the other conference or workshop to which they are being submitted.
-- State on the title page that if the authors choose to present their paper at BEA (assuming it was accepted), then the paper will be withdrawn from other conferences and workshops.
+Republications
+: Previously published papers will not be accepted. 
 
 ## Sponsors
 
-### Sponsoring Opportunities
-
-We are extremely grateful to our sponsors for the past workshops: in the recent years, we have been supported by [Duolingo](https://duolingo.com/), [Grammarly](https://grammarly.com/), [NBME](https://nbme.org/), [iLexIR](https://ilexir.co.uk/), [Educational Testing Service](https://www.ets.org/), and [Newsela](https://newsela.com/). This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner (in case the workshop runs offline) and offering student grants covering the BEA registration fees. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold sponsorship) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor the BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
+Sponsoring Opportunities
+: We are extremely grateful to our sponsors for the past workshops: in the recent years, we have been supported by [Duolingo](https://duolingo.com/), [Grammarly](https://grammarly.com/), [NBME](https://nbme.org/), [iLexIR](https://ilexir.co.uk/), [Educational Testing Service](https://www.ets.org/), and [Newsela](https://newsela.com/). This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner (in case the workshop runs offline) and offering student grants covering the BEA registration fees. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold sponsorship) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor the BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
 
 ## Organizing Committee
 
@@ -122,8 +128,6 @@ We are extremely grateful to our sponsors for the past workshops: in the recent 
 - [Anaïs Tack](https://anaistack.github.io/), KU Leuven, imec
 - [Victoria Yaneva](http://www.victoriayaneva.info/), National Board of Medical Examiners
 - [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/), King's College London
-
-Workshop contact email address: [bea.nlp.workshop@gmail.com](mailto:bea.nlp.workshop@gmail.com)
 
 ## Program Committee
 
