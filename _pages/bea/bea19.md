@@ -72,7 +72,7 @@ The 19th BEA workshop will follow the format of BEA in 2023 and will be hybrid. 
 
 ### Shared Tasks
 
-The workshop will host two shared tasks: a [shared task on Automated Prediction of Item Difficulty and Item Response Time](/sharedtask/2024), starting on January 15, 2024, and a [shared Task on Multilingual Lexical Simplification Pipeline](/shared-task/2024-MLSP), starting on February 16, 2024. For more information and latest updates, please refer to the shared task websites.
+The workshop will host two shared tasks: a [shared task on Automated Prediction of Item Difficulty and Item Response Time](/sharedtask/2024), starting on January 15, 2024, and a [shared Task on Multilingual Lexical Simplification Pipeline](/sharedtask/2024-MLSP), starting on February 16, 2024. For more information and latest updates, please refer to the shared task websites.
 
 ## Important Dates
 
@@ -98,8 +98,11 @@ Long, Short, and Demo Papers
 LaTeX and Word Templates
 : Authors must ensure their paper submissions adhere to the general paper formatting guidelines for "*ACL" conferences, found [here](https://acl-org.github.io/ACLPUB/formatting.html), and use the **official ACL style templates**, downloadable [here](https://github.com/acl-org/acl-style-files). Do not modify these style files or use templates intended for other conferences. Submissions failing to meet required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
-Ethics Statement and Limitations
-: Submissions with Ethics Statement and Limitations sections are appreciated. These sections will not contribute to the page limit, following ACL guidelines. While not mandatory this year, papers lacking these sections will not be penalized. Detailed information on these sections will be provided in next year's submission guidelines.
+Limitations
+: Authors are required to discuss the limitations of their work in a dedicated section titled “Limitations”. This section should be included at the end of the paper, before the references, and it will not count toward the page limit. This includes both, long and short papers. Note, prior to the December 2023 cycle, this was optional.
+
+Ethics Policy
+: Authors are required to honour the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics). The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Authors are encouraged to devote a section of their paper to concerns about the ethical impact of the work and to a discussion of broader impacts of the work, which will be taken into account in the review process. This discussion may extend into a 5th page (short papers) or 9th page (long papers).
 
 Anonymity
 : Given the blind review process, it is essential to ensure that papers remain anonymous. Authors should avoid self-references that disclose their identity (e.g., “We previously showed (Smith, 1991)”), opting instead for citations like “Smith previously showed (Smith, 1991)”.
