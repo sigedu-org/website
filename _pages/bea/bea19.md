@@ -81,7 +81,6 @@ All deadlines are 11:59pm UTC-12 (anywhere on earth).
 
 | Event                         | Date                |
 |-------------------------------|---------------------|
-| Anonymity Period Begins       | February 10, 2024   |
 | Submission Deadline           | March 10, 2024      |
 | Notification of Acceptance    | April 14, 2024      |
 | Camera-ready Papers Due       | April 24, 2024      |
