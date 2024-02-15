@@ -37,6 +37,10 @@ bea:
         url: /bea/2019
       - title: "2018 & Older"
         url: /bea/past
+  - title: Contact
+    children:
+      - title: "bea.nlp.workshop@gmail.com"
+        url: mailto:bea.nlp.workshop@gmail.com
 
 beasharedtask2023:
   - title: CodaLab
