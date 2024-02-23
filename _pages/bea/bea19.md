@@ -122,14 +122,16 @@ Sponsoring Opportunities
 
 ## Organizing Committee
 
-- [Ekaterina Kochmar](https://ekochmar.github.io/about/), MBZUAI
-- [Marie Bexte](https://www.fernuni-hagen.de/english/research/clusters/catalpa/about-catalpa/members/marie.bexte.shtml), FernUniversität in Hagen
-- [Jill Burstein](https://sites.google.com/site/jbursteinets/), Duolingo
-- [Andrea Horbach](https://www.fernuni-hagen.de/forschung/schwerpunkte/d2l2/team/andrea.horbach.shtml), FernUniversität in Hagen
-- [Ronja Laarmann-Quante](https://www.ltl.uni-due.de/team/ronja-laarmann-quante), Ruhr University Bochum
-- [Anaïs Tack](https://anaistack.github.io/), KU Leuven, imec
-- [Victoria Yaneva](http://www.victoriayaneva.info/), National Board of Medical Examiners
-- [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/), King's College London
+- **General Chair**: [Ekaterina Kochmar](https://ekochmar.github.io/about/), MBZUAI
+- **Program Chairs**:
+  - [Andrea Horbach](https://www.fernuni-hagen.de/forschung/schwerpunkte/d2l2/team/andrea.horbach.shtml), FernUniversität in Hagen
+  - [Ronja Laarmann-Quante](https://www.ltl.uni-due.de/team/ronja-laarmann-quante), Ruhr University Bochum
+  - [Marie Bexte](https://www.fernuni-hagen.de/english/research/clusters/catalpa/about-catalpa/members/marie.bexte.shtml), FernUniversität in Hagen
+- **Publication Chair**: [Anaïs Tack](https://anaistack.github.io/), KU Leuven, imec
+- **Shared Tasks Chairs**:
+  - [Victoria Yaneva](http://www.victoriayaneva.info/), National Board of Medical Examiners
+  - [Jill Burstein](https://sites.google.com/site/jbursteinets/), Duolingo
+- **Sponsorship Chair**: [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/), King's College London
 
 ## Program Committee
 
