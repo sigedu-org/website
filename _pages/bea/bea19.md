@@ -124,7 +124,7 @@ Sponsoring Opportunities
 
 - **General Chair**: [Ekaterina Kochmar](https://ekochmar.github.io/about/), MBZUAI
 - **Program Chairs**:
-  - [Andrea Horbach](https://www.fernuni-hagen.de/forschung/schwerpunkte/d2l2/team/andrea.horbach.shtml), FernUniversität in Hagen
+  - [Andrea Horbach](https://www.fernuni-hagen.de/english/research/clusters/catalpa/about-catalpa/members/andrea.horbach.shtml), Hildesheim University
   - [Ronja Laarmann-Quante](https://www.ltl.uni-due.de/team/ronja-laarmann-quante), Ruhr University Bochum
   - [Marie Bexte](https://www.fernuni-hagen.de/english/research/clusters/catalpa/about-catalpa/members/marie.bexte.shtml), FernUniversität in Hagen
 - **Publication Chair**: [Anaïs Tack](https://anaistack.github.io/), KU Leuven, imec

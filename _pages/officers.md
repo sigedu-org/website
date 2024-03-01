@@ -11,7 +11,7 @@ toc: false
 | Position | Name | Affiliation | Term |
 | -------- | ---- | ----------- | ---- | 
 | President | [Ekaterina Kochmar](https://ekochmar.github.io/about/) | MBZUAI | 2021-2024 |
-| Secretary | [Andrea Horbach](https://www.ltl.uni-due.de/team/andrea-horbach) | FernUniversität in Hagen | 2021-2024 |
+| Secretary | [Andrea Horbach](https://www.fernuni-hagen.de/english/research/clusters/catalpa/about-catalpa/members/andrea.horbach.shtml) | Hildesheim University | 2021-2024 |
 | Treasurer | [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/) | King's College London | 2021-2024 |
 | Executive Board Member | [Jill Burstein](https://sites.google.com/site/jbursteinets/) | Duolingo | 2021-2024 |
 | Executive Board Member | [Nitin Madnani](https://desilinguist.org) | Educational Testing Service | 2021-2024 |
