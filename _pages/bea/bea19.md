@@ -28,7 +28,7 @@ toc_icon: 'cog'
         </tr>
         <tr>
             <td><strong>Deadline</strong></td>
-            <td>March 10, 2024</td>
+            <td><strike>March 10</strike> March 16, 2024</td>
         </tr>
         <tr>
             <td><strong>Date</strong></td>
@@ -81,7 +81,7 @@ All deadlines are 11:59pm UTC-12 (anywhere on earth).
 
 | Event                         | Date                |
 |-------------------------------|---------------------|
-| Submission Deadline           | March 10, 2024      |
+| Submission Deadline           | ~March 10~ **March 16**, 2024      |
 | Notification of Acceptance    | April 14, 2024      |
 | Camera-ready Papers Due       | April 24, 2024      |
 | Pre-recorded Videos Due       | May 1, 2024         |
