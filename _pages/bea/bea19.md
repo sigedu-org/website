@@ -32,7 +32,7 @@ toc_icon: 'cog'
         </tr>
         <tr>
             <td><strong>Date</strong></td>
-            <td>June 20 or 21, 2024</td>
+            <td>June 20, 2024</td>
         </tr>
         <tr>
             <td><strong>Organizers</strong></td>
@@ -85,7 +85,7 @@ All deadlines are 11:59pm UTC-12 (anywhere on earth).
 | Notification of Acceptance    | April 14, 2024      |
 | Camera-ready Papers Due       | April 24, 2024      |
 | Pre-recorded Videos Due       | May 1, 2024         |
-| Workshop                      | June 20 or 21, 2024 |
+| Workshop                      | June 20, 2024 |
 
 ## Submission Information
 
