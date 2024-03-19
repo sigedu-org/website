@@ -36,7 +36,7 @@ toc_icon: 'cog'
         </tr>
         <tr>
             <td><strong>Organizers</strong></td>
-            <td>Ekaterina Kochmar, Jill Burstein, Andrea Horbach, Ronja Laarmann-Quante, Anaïs Tack, Victoria Yaneva, and Zheng Yuan</td>
+            <td>Ekaterina Kochmar, Jill Burstein, Andrea Horbach, Ronja Laarmann-Quante, Anaïs Tack, Victoria Yaneva, Zheng Yuan, and Marie Bexte</td>
         </tr>
         <tr>
             <td><strong>Contact</strong></td>
