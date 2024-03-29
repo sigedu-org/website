@@ -4,8 +4,9 @@ author: guest
 author_profile: true
 excerpt: "Call for Papers for the First International Workshop on Adaptive Lifelong Learning"
 tags:
-  tag1
-  tag2
+  cfp
+  AIED
+  adaptive lifelong learning
 categories:
   blog
   guest
@@ -17,7 +18,7 @@ news_summary:
   # [!] however, if the post is short enough (< 280 characters), you may disregard this option
   "The First International Workshop on Adaptive Lifelong Learning will be held at AIED24 in Recife, Brazil in July 2024."
 toc: false
-published: false
+published: true
 ---
 
 
