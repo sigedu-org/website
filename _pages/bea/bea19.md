@@ -7,6 +7,19 @@ sidebar:
 toc: true
 toc_sticky: true
 toc_icon: 'cog'
+gold:
+  - url: https://www.cambridge.org/
+    image_path: "/assets/images/logos/sponsors/bea2023/cambridge-upa.png"
+    alt: "Cambridge University Press & Assessment Logo"
+    title: "Cambridge University Press & Assessment"
+  - url: https://www.fernuni-hagen.de/english/research/clusters/catalpa/
+    image_path: "/assets/images/logos/sponsors/bea2023/CATALPA.JPG"
+    alt: "CATALPA Logo"
+    title: "CATALPA"
+  - url: https://nbme.org
+    image_path: "/assets/images/logos/sponsors/bea2023/nbme.png"
+    alt: "NBME Logo"
+    title: "NBME"
 ---
 
 ![toronto](/assets/images/venues/mexico-city-hilton-reforma.jpeg)
@@ -116,6 +129,9 @@ Republications
 : Previously published papers will not be accepted. 
 
 ## Sponsors
+
+Gold Sponsors
+: {% include gallery id="gold" layout="half" %}
 
 Sponsoring Opportunities
 : We are extremely grateful to our sponsors for the past workshops: in the recent years, we have been supported by [Cambridge University Press & Assessment](https://www.cambridge.org/), [CATALPA](https://www.fernuni-hagen.de/english/research/clusters/catalpa/), [Cognii](https://www.cognii.com), [Duolingo](https://duolingo.com/), [Educational Testing Service](https://www.ets.org/), [Grammarly](https://grammarly.com/), [iLexIR](https://ilexir.co.uk/), [NBME](https://nbme.org/), and [Newsela](https://newsela.com/). This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner (in case the workshop runs offline) and offering student grants covering the BEA registration fees. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold sponsorship) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor the BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
