@@ -16,6 +16,14 @@ gold:
     image_path: "/assets/images/logos/sponsors/bea2023/CATALPA.JPG"
     alt: "CATALPA Logo"
     title: "CATALPA"
+  - url: https://www.duolingo.com
+    image_path: "/assets/images/logos/sponsors/bea2023/Duolingo.png"
+    alt: "Duolingo Logo"
+    title: "Duolingo"
+  - url: https://www.ets.org
+    image_path: "/assets/images/logos/sponsors/bea2023/ets.jpg"
+    alt: "ETS Logo"
+    title: "ETS"
   - url: https://nbme.org
     image_path: "/assets/images/logos/sponsors/bea2023/nbme.png"
     alt: "NBME Logo"
