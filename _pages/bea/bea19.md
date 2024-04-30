@@ -83,7 +83,7 @@ The 19th BEA workshop will follow the format of BEA in 2023 and will be hybrid. 
 
 ## Workshop Program
 
-#### ![Keynote](https://img.shields.io/badge/%20-KEYNOTE-orange?style=flat-square) <a name="#all-rozovskaya" style="visibility: hidden;">Alla Rozovskaya (CUNY)</a> 
+#### ![Keynote](https://img.shields.io/badge/%20-KEYNOTE-orange?style=flat-square) <a name="#alla-rozovskaya" style="visibility: hidden;">Alla Rozovskaya (CUNY)</a> 
 
 **Alla Rozovskaya**, Queens College, City University of New York (CUNY)<br>
 <i>Multilingual Low-Resource Natural Language Processing for Language Learning</i>
