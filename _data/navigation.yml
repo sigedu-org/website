@@ -1,22 +1,16 @@
 main:
   - title: "Constitution"
     url: /constitution
-
   - title: "Officers"
     url: /officers
-
   - title: "Members"
     url: /members
-  
   - title: "News"
     url: /news
-
   - title: "Blog"
     url: /blog
-
   - title: "BEA Workshop"
     url: /bea/current
-
   - title: "Shared Tasks"
     url: /sharedtasks
 
@@ -54,11 +48,3 @@ beasharedtask2023:
     children:
       - title: "bea.nlp.workshop@gmail.com"
         url: mailto:bea.nlp.workshop@gmail.com
-
-beasharedtask2024:
-  - title: Contact
-    children:
-      - title: "Registration"
-        url: 
-      - title: "Email"
-        url: 

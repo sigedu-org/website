@@ -16,6 +16,14 @@ gold:
     image_path: "/assets/images/logos/sponsors/bea2023/CATALPA.JPG"
     alt: "CATALPA Logo"
     title: "CATALPA"
+  - url: https://englishtest.duolingo.com/
+    image_path: "/assets/images/logos/sponsors/bea2024/DET-v8-1536x2008.png"
+    alt: "Duolingo English Test Logo"
+    title: "Duolingo English Test"
+  - url: https://www.ets.org
+    image_path: "/assets/images/logos/sponsors/bea2023/ets.jpg"
+    alt: "ETS Logo"
+    title: "ETS
   - url: https://nbme.org
     image_path: "/assets/images/logos/sponsors/bea2023/nbme.png"
     alt: "NBME Logo"
@@ -25,37 +33,37 @@ gold:
 ![toronto](/assets/images/venues/mexico-city-hilton-reforma.jpeg)
 
 <table>
-    <thead>
-        <tr>
-            <th colspan="2"><span style="font-size: larger;">Quick Info</span></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="width: 30%;"><strong>Co-located with</strong></td>
-            <td><a target="_blank" href="https://2024.naacl.org/">NAACL 2024</a></td>
-        </tr>
-        <tr>
-            <td><strong>Location</strong></td>
-            <td>Mexico City, Mexico</td>
-        </tr>
-        <tr>
-            <td><strong>Deadline</strong></td>
-            <td><strike>March 10</strike> March 16, 2024</td>
-        </tr>
-        <tr>
-            <td><strong>Date</strong></td>
-            <td>June 20, 2024</td>
-        </tr>
-        <tr>
-            <td><strong>Organizers</strong></td>
-            <td>Ekaterina Kochmar, Jill Burstein, Andrea Horbach, Ronja Laarmann-Quante, Anaïs Tack, Victoria Yaneva, Zheng Yuan, and Marie Bexte</td>
-        </tr>
-        <tr>
-            <td><strong>Contact</strong></td>
-            <td><a href="mailto:bea.nlp.workshop@gmail.com">bea.nlp.workshop@gmail.com</a></td>
-        </tr>
-    </tbody>
+<thead>
+<tr>
+<th colspan="2"><span style="font-size: larger;">Quick Info</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 30%;"><strong>Co-located with</strong></td>
+<td><a target="_blank" href="https://2024.naacl.org/">NAACL 2024</a></td>
+</tr>
+<tr>
+<td><strong>Location</strong></td>
+<td>Mexico City, Mexico</td>
+</tr>
+<tr>
+<td><strong>Deadline</strong></td>
+<td><strike>March 10</strike> March 16, 2024</td>
+</tr>
+<tr>
+<td><strong>Date</strong></td>
+<td>June 20, 2024</td>
+</tr>
+<tr>
+<td><strong>Organizers</strong></td>
+<td>Ekaterina Kochmar, Jill Burstein, Andrea Horbach, Ronja Laarmann-Quante, Anaïs Tack, Victoria Yaneva, Zheng Yuan, and Marie Bexte</td>
+</tr>
+<tr>
+<td><strong>Contact</strong></td>
+<td><a href="mailto:bea.nlp.workshop@gmail.com">bea.nlp.workshop@gmail.com</a></td>
+</tr>
+</tbody>
 </table>
 
 ## Workshop Description
@@ -193,7 +201,7 @@ Gold Sponsors
 : {% include gallery id="gold" layout="half" %}
 
 Sponsoring Opportunities
-: We are extremely grateful to our sponsors for the past workshops: in the recent years, we have been supported by [Cambridge University Press & Assessment](https://www.cambridge.org/), [CATALPA](https://www.fernuni-hagen.de/english/research/clusters/catalpa/), [Cognii](https://www.cognii.com), [Duolingo](https://duolingo.com/), [Educational Testing Service](https://www.ets.org/), [Grammarly](https://grammarly.com/), [iLexIR](https://ilexir.co.uk/), [NBME](https://nbme.org/), and [Newsela](https://newsela.com/). This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner and offering  grants covering best paper presentations. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold sponsorship) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor the BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
+: We are extremely grateful to our sponsors for the past workshops: in the recent years, we have been supported by [Cambridge University Press & Assessment](https://www.cambridge.org/), [CATALPA](https://www.fernuni-hagen.de/english/research/clusters/catalpa/), [Cognii](https://www.cognii.com), [Duolingo](https://duolingo.com/), [Duolingo English Test](https://englishtest.duolingo.com/), [Educational Testing Service](https://www.ets.org/), [Grammarly](https://grammarly.com/), [iLexIR](https://ilexir.co.uk/), [NBME](https://nbme.org/), and [Newsela](https://newsela.com/). This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner and offering  grants covering best paper presentations. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold sponsorship) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor the BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
 
 ## Organizing Committee
 
