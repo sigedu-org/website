@@ -90,6 +90,14 @@ We expect that the workshop will continue to highlight novel technologies and op
 The workshop will solicit both full papers and short papers for either oral or poster presentation.
 We solicit papers that incorporate NLP methods, including, but not limited to: automated scoring of open-ended textual and spoken responses; game-based instruction and assessment; educational data mining; intelligent tutoring; collaborative learning environments; peer review; grammatical error detection and correction; learner cognition; spoken dialog; multimodal applications; annotation standards and schemas; tools and applications for classroom teachers, learners, or test developers; and use of corpora in educational tools.
 
+## Sponsors
+
+Gold Sponsors
+: {% include gallery id="gold" layout="half" %}
+
+Sponsoring Opportunities
+: We are extremely grateful to our sponsors for the past workshops: in the recent years, we have been supported by [Cambridge University Press & Assessment](https://www.cambridge.org/), [CATALPA](https://www.fernuni-hagen.de/english/research/clusters/catalpa/), [Cognii](https://www.cognii.com), [Duolingo](https://duolingo.com/), [Duolingo English Test](https://englishtest.duolingo.com/), [Educational Testing Service](https://www.ets.org/), [Grammarly](https://grammarly.com/), [iLexIR](https://ilexir.co.uk/), [NBME](https://nbme.org/), and [Newsela](https://newsela.com/). This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner and offering  grants covering best paper presentations. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold sponsorship) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor the BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
+
 ## Workshop Program
 
 #### ![Keynote](https://img.shields.io/badge/%20-KEYNOTE-orange?style=flat-square) <a name="#alla-rozovskaya" style="visibility: hidden;">Alla Rozovskaya (CUNY)</a> 
@@ -195,14 +203,6 @@ Double Submissions
 
 Republications
 : Previously published papers will not be accepted. 
-
-## Sponsors
-
-Gold Sponsors
-: {% include gallery id="gold" layout="half" %}
-
-Sponsoring Opportunities
-: We are extremely grateful to our sponsors for the past workshops: in the recent years, we have been supported by [Cambridge University Press & Assessment](https://www.cambridge.org/), [CATALPA](https://www.fernuni-hagen.de/english/research/clusters/catalpa/), [Cognii](https://www.cognii.com), [Duolingo](https://duolingo.com/), [Duolingo English Test](https://englishtest.duolingo.com/), [Educational Testing Service](https://www.ets.org/), [Grammarly](https://grammarly.com/), [iLexIR](https://ilexir.co.uk/), [NBME](https://nbme.org/), and [Newsela](https://newsela.com/). This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner and offering  grants covering best paper presentations. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold sponsorship) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor the BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
 
 ## Organizing Committee
 
