@@ -259,7 +259,7 @@ We received a total of 92 submissions to the main workshop track. After careful 
 - *Explainable AI in Language Learning: Linking Empirical Evidence and Theoretical Concepts in Proficiency and Readability Modeling of Portuguese* (Luisa Ribeiro-Flucht, Xiaobin Chen and Detmar Meurers)				
 - *Fairness in Automated Essay Scoring: A Comparative Analysis of Algorithms on German Learner Essays from Secondary Education* (Nils-Jonathan Schaller, Yuning Ding, Andrea Horbach, Jennifer Meyer and Thorben Jansen)				
 - *Improving Automated Distractor Generation for Math Multiple-choice Questions with Overgenerate-and-rank* (Alexander Scarlatos, Wanyong Feng, Andrew Lan, Simon Woodhead and Digory Smith)				
-- *Avoiding Taylor Swift: Identifying Fairness Issues in Automatically Generated Testing Content* (Kevin Stowe)				
+- *Identifying Fairness Issues in Automatically Generated Testing Content* (Kevin Stowe, Benny Longwill, Alyssa Francis, Tatsuya Aoyama, Debanjan Ghosh, Swapna Somasundaran)				
 - *Towards Automated Document Revision: Grammatical Error Correction, Fluency Edits, and Beyond* (Masato Mita, Keisuke Sakaguchi, Masato Hagiwara, Tomoya Mizumoto, Jun Suzuki and Kentaro Inui)				
 - *Evaluating Vocabulary Usage in LLMs* (Matthew Peter Nicholas Durward and Christopher Thomson)				
 - *Exploring LLM Prompting Strategies for Joint Essay Scoring and Feedback Generation* (Maja Stahl, Leon Biermann, Andreas Nehring and Henning Wachsmuth)				
