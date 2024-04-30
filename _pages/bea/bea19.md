@@ -238,7 +238,7 @@ This talk will discuss low-resource approaches for two language learning applica
 
 ### Accepted Papers
 
-We've received a total of 92 submissions to the main workshop track. After careful review, we've approved the following 38 papers, leading to a 41% acceptance rate for the main workshop.
+We received a total of 92 submissions to the main workshop track. After careful review, we approved the following 38 papers, leading to a 41% acceptance rate for the main workshop.
 
 - *How Good are Modern LLMs in Generating Relevant and High-Quality Questions at Different Bloom's Skill Levels for Indian High School Social Science Curriculum?* (Nicy Scaria, Suma Dharani Chenna and Deepak Subramani)				
 - *Synthetic Data Generation for Low-resource Grammatical Error Correction with Tagged Corruption Models* (Felix Stahlberg and Shankar Kumar)				
