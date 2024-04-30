@@ -83,9 +83,59 @@ The 19th BEA workshop will follow the format of BEA in 2023 and will be hybrid. 
 
 ## Workshop Program
 
+#### ![Keynote](https://img.shields.io/badge/%20-KEYNOTE-orange?style=flat-square) <a name="#all-rozovskaya" style="visibility: hidden;">Alla Rozovskaya (CUNY)</a> 
+
+**Alla Rozovskaya**, Queens College, City University of New York (CUNY)<br>
+<i>Multilingual Low-Resource Natural Language Processing for Language Learning</i>
+
+**Abstract:** Recent studies on a wide range of NLP tasks have demonstrated the effectiveness of training paradigms that integrate large language models. However, such methods require large amounts of labeled and unlabeled data, limiting their success to a small set of well-resourced languages.
+
+In this talk, we will discuss low-resource approaches for two language learning applications. We will begin with work on generating vocabulary exercises. We will describe an approach that does not require labeled training data and can be used to adapt the exercises to the linguistic profile of the learner. Next, we will discuss our recent work on multilingual grammatical error correction (GEC), addressing the issue of training GEC models for languages that have little labeled training data, and the issue of evaluating system performance when high-quality benchmarks are lacking.
+{: .notice--primary}
+  
+**Bio:** Alla Rozovskaya is an Assistant Professor in the Department of Computer Science at Queens College, City University of New York (CUNY), and a member of the Doctoral Faculty of the Computer Science and Linguistics programs at the CUNY Graduate Center. She earned her Ph.D. in Computational Linguistics at the University of Illinois at Urbana-Champaign, under the supervision of Prof. Dan Roth. Her research interests lie broadly in the area of low-resource and multilingual NLP and educational applications. 
+{: .notice}
+
+---
+
 ### Shared Tasks
 
 The workshop will host two shared tasks: a [shared task on Automated Prediction of Item Difficulty and Item Response Time](/sharedtask/2024), starting on January 15, 2024, and a [shared Task on Multilingual Lexical Simplification Pipeline](/sharedtask/2024-MLSP), starting on February 16, 2024. For more information and latest updates, please refer to the shared task websites.
+
+### Schedule
+
+| | June 20, 2024 (General Time in GMT-6) <br> **Location:** Don Alberto 4 (in person) or Underline.io (remote) |
+|:--------------- | ----------------------------- |
+| **09:00–09:05** | **Opening remarks** |
+| **09:05–09:50** | **Keynote by Alla Rozovskaya** <br> *Multilingual Low-Resource Natural Language Processing for Language Learning* |
+| **09:50–10:30** | **Shared Tasks Session** |
+| 09:50–10:10     | *The BEA 2024 Shared Task on the Multilingual Lexical Simplification Pipeline* (Matthew Shardlow, Fernando Alva-Manchego, Riza Batista-Navarro, Stefan Bott, Saul Calderon Ramirez, Rémi Cardon, Thomas François, Akio Hayakawa, Andrea Horbach, Anna Huelsing, Yusuke Ide, Joseph Marvin Imperial, Adam Nohejl, Kai North, Laura Occhipinti, Nelson Peréz Rojas, Nishat Raihan, Tharindu Ranasinghe, Martin Solis Salazar, Sanja Stajner, Marcos Zampieri, and Horacio Saggion) – In person |
+| 10:10–10:30 | *Findings from the First Shared Task on Automated Prediction of Difficulty and Response Time for Multiple-Choice Questions* (Victoria Yaneva, Kai North, Peter Baldwin, Le An Ha, Saed Rezayi, Yiyun Zhou, Sagnik Ray Choudhury, Polina Harik, and Brian Clauserr) – In person |
+| **10:30–11:00** | **Morning Coffee Break** |
+| **11:00–11:30** | Spotlight talks for Poster / Demo Session A (In-person + Virtual) <br> **Location:** TBD (in person) or Underline.io (remote) |
+| **11:30–12:30** | **Poster / Demo Session A** <br> **Location:** Poster Area / GatherTown |
+| **12:30–14:00** | **Lunch** |
+| **14:00–14:30** | Spotlight talks for Poster / Demo Session B (In-person + Virtual) <br> **Location:** TBD (in person) or Underline.io (remote) |
+| **14:30–15:30** | **Poster / Demo Session B** <br> **Location:** Poster Area / GatherTown |
+| **15:30–16:00** | **Afternoon Coffee Break** |
+| **16:00–17:00** | **Oral Presentations** |
+| **17:25–17:30** | **Closing remarks & Best paper awards** |
+
+### Instructions for presenters
+
+- **In-person posters**: Poster stands at the venue will be provided for A0 posters, portrait orientation. This means that your actual poster may be smaller than that but you should make sure it fits on the stand provided. Apart from this, we do not have any specific requirements regarding font types, sizes, etc. (just keep in mind that since you are presenting in person, the poster has to be well readable from a distance, so the font should not be too small).
+- **Online posters**: We do not have any specific requirements regarding font types, sizes, etc. In line with the physical posters, it might be a good idea to have your digital poster in portrait orientation. During the workshop, you will be presenting your poster in a "virtual" room mimicking the in-person poster sessions (further details to be provided by ACL / Underline). If you have any further technical questions about virtual presentations, please contact Underline directly at acl2023@underline.io.
+- **In-person** and **online demos**: In addition to the poster, please demonstrate how your proposed system works on your laptop. Wi-fi connection will be available at the venue for browser-based systems. If you have any further technical questions about virtual presentations, please contact Underline directly at acl2023@underline.io.
+
+Please note that there are no dedicated templates for BEA posters, but for inspiration, you can take a look at the recorded poster talks from previous years' editions of BEA, e.g., [here](https://underline.io/events/325/sessions?eventSessionId=11197&searchGroup=event_session).
+    
+## Anti-Harassment Policy
+
+SIGEDU adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy">ACL Anti-Harassment Policy</a> for the BEA workshops. Any participant of the workshop who experiences harassment or hostile behavior may contact any current member of the <a href="https://www.aclweb.org/portal/about">ACL Executive Committee</a> or contact <a href="mailto:acl@aclweb.org">Priscilla Rasmussen</a>, who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
+
+## Share Code & Data on GitHub
+
+If you are interested in sharing your code and data with the BEA community, we created the [#bea-workshop](https://github.com/topics/bea-workshop) topic on GitHub.
 
 ## Important Dates
 
@@ -97,8 +147,18 @@ All deadlines are 11:59pm UTC-12 (anywhere on earth).
 | Submission Deadline           | <strike>March 10</strike> **March 16**, 2024      |
 | Notification of Acceptance    | <strike>April 14</strike> April 15, 2024      |
 | Camera-ready Papers Due       | April 24, 2024      |
-| Pre-recorded Videos Due       | May 1, 2024         |
+| Pre-recorded Videos Due       | May 19, 2024         |
 | Workshop                      | June 20, 2024 |
+
+## Registration
+
+If you wish to attend the workshop, you must register with the NAACL conference [here](https://2024.naacl.org/registration/registration/). Select BEA from the list of offered workshops. There is no need to have a paper accepted. The workshop is open to anyone who wishes to attend. **Importantly, at least one author of each accepted paper must register.**
+
+## Visa information
+
+All visa requests are processed by the ACL's dedicated visa assistance team. To apply for an invitation letter, please follow the information from [https://2024.naacl.org/info-for-participants/#visas](https://2024.naacl.org/info-for-participants/#visas). Specifically, you are required to fill in the [following form](https://docs.google.com/forms/d/e/1FAIpQLSeCow9R7wqdbezUnPc2uu6akLZ26IXNrGp4TY5fEjRFrsmFew/viewform). NAACL's dedicated visa assistance team will then be in touch to help out with your visa letter request.
+
+For other travel information and advice, please check [NAACL's page](https://2024.naacl.org/info-for-participants/).
 
 ## Submission Information
 
@@ -134,7 +194,7 @@ Gold Sponsors
 : {% include gallery id="gold" layout="half" %}
 
 Sponsoring Opportunities
-: We are extremely grateful to our sponsors for the past workshops: in the recent years, we have been supported by [Cambridge University Press & Assessment](https://www.cambridge.org/), [CATALPA](https://www.fernuni-hagen.de/english/research/clusters/catalpa/), [Cognii](https://www.cognii.com), [Duolingo](https://duolingo.com/), [Educational Testing Service](https://www.ets.org/), [Grammarly](https://grammarly.com/), [iLexIR](https://ilexir.co.uk/), [NBME](https://nbme.org/), and [Newsela](https://newsela.com/). This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner (in case the workshop runs offline) and offering student grants covering the BEA registration fees. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold sponsorship) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor the BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
+: We are extremely grateful to our sponsors for the past workshops: in the recent years, we have been supported by [Cambridge University Press & Assessment](https://www.cambridge.org/), [CATALPA](https://www.fernuni-hagen.de/english/research/clusters/catalpa/), [Cognii](https://www.cognii.com), [Duolingo](https://duolingo.com/), [Educational Testing Service](https://www.ets.org/), [Grammarly](https://grammarly.com/), [iLexIR](https://ilexir.co.uk/), [NBME](https://nbme.org/), and [Newsela](https://newsela.com/). This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner and offering  grants covering best paper presentations. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold sponsorship) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor the BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
 
 ## Organizing Committee
 
