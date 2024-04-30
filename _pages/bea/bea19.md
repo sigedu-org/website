@@ -89,7 +89,6 @@ The 19th BEA workshop will follow the format of BEA in 2023 and will be hybrid. 
 <i>Multilingual Low-Resource Natural Language Processing for Language Learning</i>
 
 **Abstract:** Recent studies on a wide range of NLP tasks have demonstrated the effectiveness of training paradigms that integrate large language models. However, such methods require large amounts of labeled and unlabeled data, limiting their success to a small set of well-resourced languages.
-
 In this talk, we will discuss low-resource approaches for two language learning applications. We will begin with work on generating vocabulary exercises. We will describe an approach that does not require labeled training data and can be used to adapt the exercises to the linguistic profile of the learner. Next, we will discuss our recent work on multilingual grammatical error correction (GEC), addressing the issue of training GEC models for languages that have little labeled training data, and the issue of evaluating system performance when high-quality benchmarks are lacking.
 {: .notice--primary}
   
