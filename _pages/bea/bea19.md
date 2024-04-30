@@ -97,7 +97,7 @@ All deadlines are 11:59pm UTC-12 (anywhere on earth).
 | Submission Deadline           | <strike>March 10</strike> **March 16**, 2024      |
 | Notification of Acceptance    | <strike>April 14</strike> April 15, 2024      |
 | Camera-ready Papers Due       | April 24, 2024      |
-| Pre-recorded Videos Due       | May 1, 2024         |
+| Pre-recorded Videos Due       | May 19, 2024         |
 | Workshop                      | June 20, 2024 |
 
 ## Submission Information
