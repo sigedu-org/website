@@ -86,7 +86,7 @@ The 19th BEA workshop will follow the format of BEA in 2023 and will be hybrid. 
 - spoken dialog;
 - multimodal applications;
 - annotation standards and schemas;
-- tools and applications for classroom teachers, learners and/or test developers; and
+- tools and applications for classroom teachers, learners, and/or test developers; and
 - use of corpora in educational tools.
 
 ## Workshop Program
