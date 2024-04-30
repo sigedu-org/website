@@ -68,23 +68,27 @@ gold:
 
 ## Workshop Description
 
-The BEA Workshop is a leading venue for NLP innovation in the context of educational applications.
+The **BEA Workshop** is a leading venue for NLP innovation in the context of educational applications.
 It is one of the largest one-day workshops in the ACL community with over 100 registered attendees in the past several years.
 The growing interest in educational applications and a diverse community of researchers involved resulted in the creation of the [Special Interest Group in Educational Applications (SIGEDU)](https://www.aclweb.org/adminwiki/index.php?title=2019Q3_Reports:_SIGEDU) in 2017, which currently has over 300 members.
 
-The workshop's continuing growth highlights the alignment between societal needs and technological advances.
-For instance, BEA16 (in 2021) hosted a panel discussion on New Challenges for Educational Technology in the Time of the Pandemic addressing the pressing issues around COVID-19. 
-NLP capabilities can now support an array of learning domains, including writing, speaking, reading, science, and mathematics, as well as the related intra-personal (e.g., self-confidence) and inter-personal (e.g., peer collaboration) skills.
+The **workshop's continuing growth** reflects how technology is increasingly fulfilling societal demands.
+For instance, the BEA16 workshop in 2021 hosted a panel discussion on "New Challenges for Educational Technology in the Time of the Pandemic" addressing the pressing issues around COVID-19.
+Additionally, NLP has evolved to aid diverse learning domains, including writing, speaking, reading, science, and mathematics, as well as the related intra-personal (e.g., self-confidence) and inter-personal (e.g., peer collaboration) skills.
 Within these areas, the community continues to develop and deploy innovative NLP approaches for use in educational settings.
-Another breakthrough for educational applications within the CL community is the presence of several shared-task competitions organized by the BEA workshop over the past several years, including four shared tasks on grammatical error detection and correction alone. 
-NLP/Education shared tasks have also seen new areas of research, such as the Automated Evaluation of Scientific Writing at BEA11, Native Language Identification at BEA12, Second Language Acquisition Modelling at BEA13, Complex Word Identification at BEA13, and Generating AI Teacher Responses in Educational Dialogues at BEA18. 
-These competitions increased the visibility of, and interest in, our field.
 
-The **19th BEA workshop** will follow the format of BEA in 2023 and will be hybrid.
-We will have **one invited talk**, **two shared tasks**, **oral presentation sessions**, and **two large poster sessions** to maximize the amount of original work presented.
+Another significant advancement in educational applications within the Computational Linguistics (CL) community is the **continuing series of shared-task competitions** organized by and hosted at the BEA workshop.
+Over the years, this initiative has included four dedicated tasks focused solely on grammatical error detection and correction.
+Moreover, NLP/Education shared tasks have expanded into novel research areas, such as the [Automated Evaluation of Scientific Writing](/sharedtask/2016) at BEA11, [Native Language Identification](/sharedtask/2017) at BEA12, [Second Language Acquisition Modeling](/sharedtask/2018-SLAM) at BEA13, [Complex Word Identification](/sharedtask/2018-CWI) at BEA13, and [Generating AI Teacher Responses in Educational Dialogues](/sharedtask/2023) at BEA18.
+These competitions have significantly bolstered the visibility and interest in our field.
+
+The **19th BEA workshop** will adopt the same format as the 2023 edition and will be **hybrid**, integrating both in-person and virtual presentations and attendance.
+The workshop will feature a **keynote talk**, a main workshop track with **oral presentation sessions** and **large poster sessions** to facilitate the presentation of a wide array of original research.
+Moreover, there will be **two shared task tracks**, with each comprising an oral *overview presentation* by the shared task organizers and several *poster presentations* by the shared task participants.
 We expect that the workshop will continue to highlight novel technologies and opportunities, including the use of state-of-the-art large language models in educational applications, and challenges around responsible AI for educational NLP, in English as well as other languages.
+
 The workshop will solicit both full papers and short papers for either oral or poster presentation.
-We will solicit papers that incorporate NLP methods, including, but not limited to: automated scoring of open-ended textual and spoken responses; game-based instruction and assessment; educational data mining; intelligent tutoring; collaborative learning environments; peer review; grammatical error detection and correction; learner cognition; spoken dialog; multimodal applications; annotation standards and schemas; tools and applications for classroom teachers, learners, or test developers; and use of corpora in educational tools.
+We solicit papers that incorporate NLP methods, including, but not limited to: automated scoring of open-ended textual and spoken responses; game-based instruction and assessment; educational data mining; intelligent tutoring; collaborative learning environments; peer review; grammatical error detection and correction; learner cognition; spoken dialog; multimodal applications; annotation standards and schemas; tools and applications for classroom teachers, learners, or test developers; and use of corpora in educational tools.
 
 ## Workshop Program
 
