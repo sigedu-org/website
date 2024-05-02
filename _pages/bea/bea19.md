@@ -57,7 +57,7 @@ gold:
 </tr>
 <tr>
 <td><strong>Organizers</strong></td>
-<td>Ekaterina Kochmar, Jill Burstein, Andrea Horbach, Ronja Laarmann-Quante, Anaïs Tack, Victoria Yaneva, Zheng Yuan, and Marie Bexte</td>
+<td>Ekaterina Kochmar, Marie Bexte, Jill Burstein, Andrea Horbach, Ronja Laarmann-Quante, Anaïs Tack, Victoria Yaneva, Zheng Yuan</td>
 </tr>
 <tr>
 <td><strong>Contact</strong></td>
