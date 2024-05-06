@@ -219,8 +219,8 @@ In addition to the main workshop track, the workshop has two shared tasks tracks
 | **14:00–14:30** | Spotlight talks for Poster / Demo Session B (In-person + Virtual) <br> **Location:** TBD (in person) or Underline.io (remote) |
 | **14:30–15:30** | **Poster / Demo Session B** <br> **Location:** Poster Area / GatherTown |
 | **15:30–16:00** | **Afternoon Coffee Break** |
-| **16:00–17:00** | **Oral Presentations** |
-| **17:25–17:30** | **Closing remarks & Best paper awards** |
+| **16:00–17:20** | **Oral Presentations** |
+| **17:20–17:30** | **Closing remarks & Best paper awards** |
 
 ### Invited Talks
 
