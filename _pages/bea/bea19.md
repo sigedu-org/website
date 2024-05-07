@@ -181,13 +181,8 @@ All accepted papers must be presented at the workshop to appear in the proceedin
 The workshop will include both in-person and virtual presentation options.
 **At least one author of each accepted paper must register for the conference by the early registration deadline.**
 
-<<<<<<< HEAD
-Sponsoring Opportunities
-: We are extremely grateful to our sponsors for the past workshops: in the recent years, we have been supported by [Cambridge University Press & Assessment](https://www.cambridge.org/), [CATALPA](https://www.fernuni-hagen.de/english/research/clusters/catalpa/), [Cognii](https://www.cognii.com), [Duolingo](https://duolingo.com/), [Educational Testing Service](https://www.ets.org/), [Grammarly](https://grammarly.com/), [iLexIR](https://ilexir.co.uk/), [NBME](https://nbme.org/), and [Newsela](https://newsela.com/). This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner (in case the workshop runs offline) and offering student grants covering the BEA registration fees. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold sponsorship) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor the BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
-=======
 Long and short papers will be presented orally or as posters as determined by the workshop organizers.
 While short papers will be distinguished from long papers in the proceedings, there will be no distinction in the proceedings between papers presented orally and papers presented as posters.
->>>>>>> d0730245a20e9f779eb6aaf274c41229bc839fc5
 
 In-person posters
 : Poster stands at the venue will be provided for A0 posters, portrait orientation. This means that your actual poster may be smaller than that but you should make sure it fits on the stand provided. Apart from this, we do not have any specific requirements regarding font types, sizes, etc. (just keep in mind that since you are presenting in person, the poster has to be well readable from a distance, so the font should not be too small).
@@ -247,7 +242,7 @@ This talk will discuss low-resource approaches for two language learning applica
 
 ### Accepted Papers
 
-We received a total of 92 submissions to the main workshop track. After careful review, we approved the following 38 papers, leading to a 41% acceptance rate for the main workshop.
+We received a total of 88 submissions to the main workshop track. After careful review, we approved the following 38 papers, leading to a 43% acceptance rate for the main workshop.
 
 - *How Good are Modern LLMs in Generating Relevant and High-Quality Questions at Different Bloom's Skill Levels for Indian High School Social Science Curriculum?* (Nicy Scaria, Suma Dharani Chenna and Deepak Subramani)				
 - *Synthetic Data Generation for Low-resource Grammatical Error Correction with Tagged Corruption Models* (Felix Stahlberg and Shankar Kumar)				

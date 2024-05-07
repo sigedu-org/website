@@ -16,4 +16,4 @@ toc: false
 published: true
 ---
 
-We are happy to announce the list of papers accepted to [BEA 2024](/bea/2024#accepted-papers)! We received a total of 92 submissions to the main workshop track. After careful review, we approved 38 papers, leading to a 41% acceptance rate.
+We are happy to announce the list of papers accepted to [BEA 2024](/bea/2024#accepted-papers)! We received a total of 88 submissions to the main workshop track. After careful review, we approved 38 papers, leading to a 43% acceptance rate.
