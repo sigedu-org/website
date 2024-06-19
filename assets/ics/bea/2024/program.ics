@@ -1,0 +1,362 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:program
+PRODID:-//Anaïs Tack//Emacs with Org mode//EN
+X-WR-TIMEZONE:CST
+X-WR-CALDESC:The 19th Workshop on Innovative Use of NLP for Building Educational Applications
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-794df0ed-d118-49f3-8f3f-b9a1dbf3f30a
+DTSTART;TZID=America/Mexico_City:20240620T090000
+DTEND;TZID=America/Mexico_City:20240620T090500
+SUMMARY:Opening Remarks
+LOCATION:Don Alberto 4 (in person) or https://underline.io/events/458/sessi
+ ons?eventSessionId=17415 (remote)
+DESCRIPTION:
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-f8987348-00af-4a1b-b1d0-8c2afc4f19ab
+DTSTART;TZID=America/Mexico_City:20240620T090500
+DTEND;TZID=America/Mexico_City:20240620T095000
+SUMMARY:Keynote by Alla Rozovskaya\, “Multilingual Low-Resource Natural Lan
+ guage Processing for Language Learning”
+LOCATION:Don Alberto 4 (in person) or https://underline.io/events/458/sessi
+ ons?eventSessionId=17415 (remote)
+DESCRIPTION:
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-bda5bd60-7f6e-4e17-907d-b287451ff33a
+DTSTART;TZID=America/Mexico_City:20240620T095000
+DTEND;TZID=America/Mexico_City:20240620T103000
+SUMMARY:Shared Tasks Session
+LOCATION:Don Alberto 4 (in person) or https://underline.io/events/458/sessi
+ ons?eventSessionId=17415 (remote)
+DESCRIPTION:
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-5c911ee2-4ca1-47fd-a951-4d49e624d36c
+DTSTART;TZID=America/Mexico_City:20240620T095000
+DTEND;TZID=America/Mexico_City:20240620T101000
+SUMMARY:The BEA 2024 Shared Task on the Multilingual Lexical Simplification
+  Pipeline
+LOCATION:Don Alberto 4 (in person) or https://underline.io/events/458/sessi
+ ons?eventSessionId=17415 (remote)
+DESCRIPTION:  Authors: Matth
+ ew Shardlow\, Fernando Alva-Manchego\, Riza Batista-Navarro\, Stefan Bott
+ \, Saul Calderon Ramirez\, Rémi Cardon\, Thomas François\, Akio Hayakawa\
+ , Andrea Horbach\, Anna Huelsing\, Yusuke Ide\, Joseph Marvin Imperial\, 
+ Adam Nohejl\, Kai North\, Laura Occhipinti\, Nelson Peréz Rojas\, Nishat 
+ Raihan\, Tharindu Ranasinghe\, Martin Solis Salazar\, Sanja Stajner\, Mar
+ cos Zampieri\, Horacio Saggion
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-077b7230-f4f5-4332-a3cf-c2522cda3742
+DTSTART;TZID=America/Mexico_City:20240620T101000
+DTEND;TZID=America/Mexico_City:20240620T103000
+SUMMARY:Findings from the First Shared Task on Automated Prediction of Diff
+ iculty and Response Time for Multiple-Choice Questions
+LOCATION:Don Alberto 4 (in person) or https://underline.io/events/458/sessi
+ ons?eventSessionId=17415 (remote)
+DESCRIPTION:  Authors: Victo
+ ria Yaneva\, Kai North\, Peter Baldwin\, Le An Ha\, Saed Rezayi\, Yiyun Z
+ hou\, Sagnik Ray Choudhury\, Polina Harik\, Brian Clauser
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-fd986ab1-6b12-41a5-a29b-e128243856fa
+DTSTART;TZID=America/Mexico_City:20240620T103000
+DTEND;TZID=America/Mexico_City:20240620T110000
+SUMMARY:Morning Coffee Break
+LOCATION:Don Alberto 4 (in person) or https://underline.io/events/458/sessi
+ ons?eventSessionId=17415 (remote)
+DESCRIPTION:
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-88c3d036-b590-466e-b117-40edc82c2b01
+DTSTART;TZID=America/Mexico_City:20240620T110000
+DTEND;TZID=America/Mexico_City:20240620T113000
+SUMMARY:Spotlight talks for Poster / Demo Session A (In-person + Virtual)
+LOCATION:Don Alberto 4 (in person) or https://underline.io/events/458/sessi
+ ons?eventSessionId=17415 (remote)
+DESCRIPTION:
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-ff68f539-6565-4ac1-8704-98bf6df2c0a5
+DTSTART;TZID=America/Mexico_City:20240620T113000
+DTEND;TZID=America/Mexico_City:20240620T123000
+SUMMARY:Poster / Demo Session A
+LOCATION:Don Alberto 4 (in person) or https://underline.io/events/458/sessi
+ ons?eventSessionId=17415 (remote)
+DESCRIPTION:92 Usin
+ g Adaptive Empathetic Responses for Teaching English (Li Siyan\, Te
+ resa Shao\, Julia Hirschberg\, Zhou Yu) \n\n94 Beyond Flesch-Kincaid: 
+ Prompt-based Metrics Improve Difficulty Classification of Education
+ al Texts (Donya Rooein\, Paul Röttger\, Anastassia Shaitarova\, Dir
+ k Hovy)\n\n99 Can Language Models Guess Your Identity? Analyzing Demo
+ graphic Biases in AI Essay Scoring (Alexander Kwako\, Christopher 
+ Ormerod) \n\n102 Automated Scoring of Clinical Patient Notes: Fi
+ ndings From the Kaggle Competition and Their Translation into Pract
+ ice (Victoria Yaneva\, King Yiu Suen\, Le An Ha\, Janet Mee\, Milto
+ n Quranda\, Polina Harik)\n\n104 A World CLASSE Student Summar
+ y Corpus (Scott Crossley\, Perpetual Baffour\, Mihai Dascalu\, Stef
+ an Ruseti) \n\n106 Improving Socratic Question Generation using Data A
+ ugmentation and Preference Optimization (Nischal Ashok Kumar\, Andr
+ ew Lan)\n\n110 Scoring with Confidence? – Exploring High-confidence S
+ coring for Saving Manual Grading Effort (Marie Bexte\, Andrea Horba
+ ch\, Lena Schützler\, Oliver Christ\, Torsten Zesch) \n\n113 Im
+ proving Transfer Learning for Early Forecasting of Academic Perform
+ ance by Contextualizing Language Models (Ahatsham Hayat\, Bilal Kha
+ n\, Mohammad Hasan)\n\n114 Can GPT-\n\n4 do L2 analytic assessment? (Stef
+ ano Banno\, Hari Krishna Vydana\, Kate Knill\, Mark Gales)\n\n120 Automated Evaluation of Teacher Encouragement of Student-to-Stu
+ dent Interactions in a Simulated Classroom Discussion (Michael Ilag
+ an\, Beata Beigman Klebanov\, Jamie Mikeska) \n\n121 Explainabl
+ e AI in Language Learning: Linking Empirical Evidence and Theoretic
+ al Concepts in Proficiency and Readability Modeling of Portuguese (
+ Luisa Ribeiro-Flucht\, Xiaobin Chen\, Detmar Meurers)\n\n5 How
+  Good are Modern LLMs in Generating Relevant and High-Quality Quest
+ ions at Different Bloom’s Skill Levels for Indian High School Socia
+ l Science Curriculum? (Nicy Scaria\, Suma Chenna\, Deepak Subramani
+ ) \n\n95 Large Language Models Are State-of-the-Art Evaluator for 
+ Grammatical Error Correction (Masamune Kobayashi\, Masato Mita\, 
+  Mamoru Komachi)\n\n116 Using Program Repair as a Proxy for Language 
+ Models’ Feedback Ability in Programming Education (Charles Koutchem
+ e\, Nicola Dainese\, Arto Hellas) \n\n122 Fairness in Automated
+  Essay Scoring: A Comparative Analysis of Algorithms on German Lear
+ ner Essays from Secondary Education (Nils-Jonathan Schaller\, Yunin
+ g Ding\, Andrea Horbach\, Jennifer Meyer\, Thorben Jansen)\n\n125 Identifying Fairness Issues in Automatically Generated Testing 
+ Content (Kevin Stowe) \n\n105 Predicting Item Difficulty and Item Resp
+ onse Time with Scalar-mixed Transformer Encoder Models and Rational
+  Network Regression Heads (Sebastian Gombert\, Lukas Menzel\, Danie
+ le Di Mitri\, Hendrik Drachsler)\n\n150 UnibucLLM: Harnessing 
+ LLMs for Automated Prediction of Item Difficulty and Response Time 
+ for Multiple-Choice Questions (Ana-Cristina Rogoz\, Radu Tudor Ione
+ scu) \n\n160 The British Council submission to the BEA2024 shared tas
+ k (Mariano Felice\, Zeynep Duran Karaoz) \n\n168 ITEC at BEA20  \n\n24 Shared Task: Predicting Difficulty and Response Time of Medical 
+ Exam Questions with Statistical\, Machine Learning\, and Language M
+ odels (Anaïs Tack\, Siem Buseyne\, Changsheng Chen\, Robbe D’hondt\
+ , Michiel De Vrindt\, Alireza Gharahighehi\, Sameh Metwaly\, Felipe
+  Kenji Nakano\, Ann-Sophie Noreillie)\n\n184 Item Difficulty a
+ nd Response Time Prediction with Large Language Models: An Empirica
+ l Analysis of USMLE Items (Okan Bulut\, Guher Gorgun\, Bin Tan) \n\n185 Utilizing Machine Learning to Predict Question Difficulty and 
+ Response Time for Enhanced Test Construction (Rishikesh Fulari\, 
+ Jonathan Rusert) \n\n186 Leveraging Physical and Semantic Features o
+ f text item for Difficulty and Response Time Prediction of USMLE Qu
+ estions (Gummuluri Venkata Ravi Ram\, Ashinee Kesanam\, Anand Kumar
+  M)\n\n187 UPN-ICC at BEA 2024 Shared Task: Leveraging LLMs for 
+ Multiple-Choice Questions Difficulty Prediction (George Duenas\, 
+ Sergio Jimenez\, Geral Mateus Ferro)\n\n188 Using Machine Learning to
+  Predict Item Difficulty and Response Time in Medical Tests (Mehrda
+ d Yousefpoori-Naeim\, Shayan Zargari\, Zahra Hatami) \n\n189 La
+ rge Language Model-based Pipeline for Item Difficulty and Response 
+ Time Estimation for Educational Assessments (Hariram Veeramani\, Su
+ rendrabikram Thapa\, Natarajan Balaji Shankar\, Abeer Alwan)\n\n191 UNED team at BEA 2024 Shared Task: Testing different Input Fo
+ rmats for predicting Item Difficulty and Response Time in Medical E
+ xams (Alvaro Rodrigo\, Sergio Moreno-Álvarez\, Anselmo Peñas)
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-a5ac608c-6f15-46c2-96ce-0335e14ac849
+DTSTART;TZID=America/Mexico_City:20240620T123000
+DTEND;TZID=America/Mexico_City:20240620T140000
+SUMMARY:Lunch Break
+LOCATION:Don Alberto 4 (in person) or https://underline.io/events/458/sessi
+ ons?eventSessionId=17415 (remote)
+DESCRIPTION:  Lunch is not p
+ rovided\, but there are plenty of cafes\, restaurants and shops near by w
+ ithin walking distance.
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-0f52f6a5-0be5-4eb0-ad9b-63ea9dc72d25
+DTSTART;TZID=America/Mexico_City:20240620T140000
+DTEND;TZID=America/Mexico_City:20240620T143000
+SUMMARY:Spotlight talks for Poster / Demo Session B (In-person + Virtual)
+LOCATION:Don Alberto 4 (in person) or https://underline.io/events/458/sessi
+ ons?eventSessionId=17415 (remote)
+DESCRIPTION:
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-f734dbf2-6dc3-472f-b6e2-58fbf4776d36
+DTSTART;TZID=America/Mexico_City:20240620T143000
+DTEND;TZID=America/Mexico_City:20240620T153000
+SUMMARY:Poster / Demo Session B
+LOCATION:Don Alberto 4 (in person) or https://underline.io/events/458/sessi
+ ons?eventSessionId=17415 (remote)
+DESCRIPTION:124 Imp
+ roving Automated Distractor Generation for Math Multiple-choice Que
+ stions with Overgenerate-and-rank (Alexander Scarlatos\, Wanyong Fe
+ ng\, Andrew Lan\, Simon Woodhead\, Digory Smith) \n\n133 Evalua
+ ting Vocabulary Usage in LLMs (Matthew Durward\, Christopher Thomso
+ n)\n\n135 Towards Fine-Grained Pedagogical Control over English Gramm
+ ar Complexity in Educational Text Generation (Dominik Glandorf\,  
+ Detmar Meurers) \n\n138 LLMs in Short Answer Scoring: Limitations
+  and Promise of Zero-Shot and Few-Shot Approaches (Imran Chamieh\, 
+ Torsten Zesch\, Klaus Giebermann)\n\n139 Automated Essay Scori
+ ng Using Grammatical Variety and Errors with Multi-Task Learning an
+ d Item Response Theory (Kosuke Doi\, Katsuhito Sudoh\, Satoshi Naka
+ mura) \n\n140 Error Tracing in Programming: A Path to Personalised Fee
+ dback (Martha Shaka\, Diego Carraro\, Kenneth Brown)\n\n151 Au
+ tomatic Crossword Clues Extraction for Language Learning (Santiago 
+ Berruti\, Arturo Collazo\, Diego Sellanes\, Aiala Rosá\, Luis Chiru
+ zzo) \n\n154 Anna Karenina Strikes Again: Pre-Trained LLM Embeddings M
+ ay Favor High-Performing Learners (Abigail Gurin Schleifer\, Beata\
+ n Beigman Klebanov\, Moriah Ariely\, Giora Alexandron)\n\n155 As
+ sessing Student Explanations with Large Language Models Using Fine-
+ Tuning and Few-Shot Learning (Dan Carpenter\, Wookhee Min\, Seung L
+ ee\, Gamze Ozogul\, Xiaoying Zheng\, James Lester) \n\n158 Harnessing 
+ GPT to Study Second Language Learner Essays: Can We Use Perplexity 
+ to Determine Linguistic Competence? (Ricardo Muñoz Sánchez\, Simon 
+ Dobnik\, Elena Volodina)\n\n166 BERT-IRT: Accelerating Item Piloting 
+ with BERT Embeddings and Explainable IRT Models (Kevin P. Yancey\, 
+ Andrew Runge\, Geoffrey LaFlair\, Phoebe Mulcaire) \n\n171 From
+  Miscue to Evidence of Difficulty: Analysis of Automatically Detect
+ ed Miscues in Oral Reading for Feedback Potential (Beata Beigman Kl
+ ebanov\, Michael Suhan\, Tenaha O’Reilly\, Zuowei Wang)\n\n132 Toward
+ s Automated Document Revision: Grammatical Error Correction\, Fluen
+ cy Edits\, and Beyond (Masato Mita\, Keisuke Sakaguchi\, Masato Hag
+ iwara\, Tomoya Mizumoto\, Jun Suzuki\, Kentaro Inui) \n\n141 Im
+ proving Readability Assessment with Ordinal Log-Loss (Ho Hung Lim\,
+  John Lee)\n\n145 Automated Sentence Generation for a Spaced Repetiti
+ on Software (Benjamin Paddags\, Daniel Hershcovich\, Valkyrie Savag
+ e) \n\n146 Using Large Language Models to Assess Young Students’ Writi
+ ng Revisions (Tianwen Li\, Zhexiong Liu\, Lindsay Matsumura\, Elain
+ e Wang\, Diane Litman\, Richard Correnti)\n\n167 Transfer Lear
+ ning of Argument Mining in Student Essays (Yuning Ding\, Julian Loh
+ mann\, Nils-Jonathan Schaller\, Thorben Jansen\, Andrea Horbach) \n\n170 Building Robust Content Scoring Models for Student Explanations\
+ n of Social Justice Science Issues (Allison Bradford\, Kenneth 
+  Steimel\, BRIAN Riordan\, Marcia Linn) \n\n174 TMU-HIT at MLSP 2024: 
+ How Well Can GPT-4 Tackle Multilingual Lexical Simplification? (Tai
+ sei Enomoto\, Hwichan Kim\, Tosho Hirasawa\, Yoshinari Nagai\, Ayak
+ o Sato\, Kyotaro Nakajima\, Mamoru Komachi)\n\n175 ANU at MLSP
+ -2024: Prompt-based Lexical Simplification for English and Sinhala 
+ (Sandaru Seneviratne\, Hanna Suominen)\n\n176 ISEP_Presidency_Univers
+ ity at MLSP 2024 Shared Task: Using GPT-3.5 to Generate Substitutes
+  for Lexical Simplification (Benjamin Dutilleul\, Mathis Debaillon\
+ , Sandeep Mathias)\n\n177 Machine Translation for Lexical Complexity 
+ Prediction and Lexical Simplification (Petru Cristea\, Sergiu Nisio
+ i) \n\n178 RETUYT-INCO at MLSP 2024: Experiments on Language Simplific
+ ation using Embeddings\, Classifiers and Large Language Models (Ign
+ acio Sastre\, Leandro Alfonso\, Facundo Fleitas\, Federico Gil\, An
+ drés Lucas\, Tomás Spoturno\, Santiago Góngora\, Aiala Rosá\, Luis\
+ n Chiruzzo)\n\n181 GMU at MLSP 2024: Multilingual Lexical Simpli
+ fication with Transformer Models (Dhiman Goswami\, Kai North\, Marc
+ os Zampieri)\n\n182 ITEC at MLSP 2024: Transferring Predictions of Le
+ xical Difficulty from Non-Native Readers (Anaïs Tack)
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-a07e8368-63e8-4437-a5b4-75835c60b1b0
+DTSTART;TZID=America/Mexico_City:20240620T153000
+DTEND;TZID=America/Mexico_City:20240620T160000
+SUMMARY:Afternoon Coffee Break
+LOCATION:Don Alberto 4 (in person) or https://underline.io/events/458/sessi
+ ons?eventSessionId=17415 (remote)
+DESCRIPTION:
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-bb22fb8f-40da-439f-83f2-ac88e7f17980
+DTSTART;TZID=America/Mexico_City:20240620T160000
+DTEND;TZID=America/Mexico_City:20240620T172000
+SUMMARY:Oral Presentations
+LOCATION:Don Alberto 4 (in person) or https://underline.io/events/458/sessi
+ ons?eventSessionId=17415 (remote)
+DESCRIPTION:
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-de3a2718-8989-4ea6-9fad-717e459c19ad
+DTSTART;TZID=America/Mexico_City:20240620T160000
+DTEND;TZID=America/Mexico_City:20240620T162000
+SUMMARY:Synthetic Data Generation for Low-resource Grammatical Error Correc
+ tion with Tagged Corruption Models
+LOCATION:Don Alberto 4 (in person) or https://underline.io/events/458/sessi
+ ons?eventSessionId=17415 (remote)
+DESCRIPTION:  Authors: Felix
+  Stahlberg\, Shankar Kumar
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-7ee005c6-ef9c-448f-bafa-d6b5cf8db8d2
+DTSTART;TZID=America/Mexico_City:20240620T162000
+DTEND;TZID=America/Mexico_City:20240620T164000
+SUMMARY:Pillars of Grammatical Error Correction: Comprehensive Inspection O
+ f Contemporary Approaches In The Era of Large Language Models
+LOCATION:Don Alberto 4 (in person) or https://underline.io/events/458/sessi
+ ons?eventSessionId=17415 (remote)
+DESCRIPTION:  Authors: Kosti
+ antyn Omelianchuk\, Andrii Liubonko\, Oleksandr Skurzhanskyi\, Artem Cher
+ nodub\, Oleksandr Korniienko\, Igor Samokhin
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-6942f87b-d4c4-4f0d-ab29-168f428b9f33
+DTSTART;TZID=America/Mexico_City:20240620T164000
+DTEND;TZID=America/Mexico_City:20240620T170000
+SUMMARY:Exploring LLM Prompting Strategies for Joint Essay Scoring and Feed
+ back Generation
+LOCATION:Don Alberto 4 (in person) or https://underline.io/events/458/sessi
+ ons?eventSessionId=17415 (remote)
+DESCRIPTION:  Authors: Maja 
+ Stahl\, Leon Biermann\, Andreas Nehring\, Henning Wachsmuth
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-54dab31e-9b12-4e98-be81-eafb62114234
+DTSTART;TZID=America/Mexico_City:20240620T170000
+DTEND;TZID=America/Mexico_City:20240620T172000
+SUMMARY:Predicting Initial Essay Quality Scores to Increase the Efficiency 
+ of Comparative Judgment Assessments
+LOCATION:Don Alberto 4 (in person) or https://underline.io/events/458/sessi
+ ons?eventSessionId=17415 (remote)
+DESCRIPTION:  Authors: Michi
+ el De Vrindt\, Anaïs Tack\, Renske Bouwer\, Wim Van Den Noortgate\, Marij
+ e Lesterhuis
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-b7256907-e308-435f-9977-1efc02f6b0c3
+DTSTART;TZID=America/Mexico_City:20240620T172000
+DTEND;TZID=America/Mexico_City:20240620T173000
+SUMMARY:Closing remarks & Best paper awards
+LOCATION:Don Alberto 4 (in person) or https://underline.io/events/458/sessi
+ ons?eventSessionId=17415 (remote)
+DESCRIPTION:
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T203755Z
+UID:TS1-37e80d35-cade-41c9-a256-335df399f95d
+DTSTART;TZID=America/Mexico_City:20240620T180000
+DTEND;TZID=America/Mexico_City:20240620T200000
+SUMMARY:Workshop Dinner
+LOCATION:TBD
+DESCRIPTION:
+CATEGORIES:
+END:VEVENT
+END:VCALENDAR
