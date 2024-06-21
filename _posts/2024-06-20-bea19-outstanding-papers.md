@@ -16,7 +16,7 @@ toc: false
 published: true
 ---
 
-During the BEA 2024 closing remarks, three papers received awards. One paper, which received a perfect average score of 5 out of 5 from reviewers and the highest number of nominations, was honored as the Best Paper. Additionally, two student papers were recognized as Outstanding Papers.
+During the [BEA 2024](/bea/2024/) closing remarks, three papers received awards. One paper, which received a perfect average score of 5 out of 5 from reviewers and the highest number of nominations, was honored as the Best Paper. Additionally, two student papers were recognized as Outstanding Papers.
 
 Best Paper
 : *Automated Sentence Generation for a Spaced Repetition Software* (Benjamin Paddags, Daniel Hershcovich, Valkyrie Savage)
