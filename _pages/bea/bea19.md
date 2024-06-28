@@ -209,7 +209,7 @@ In addition to the main workshop track, the workshop has two shared tasks tracks
 
 ## Workshop Program
 
-
+**Proceedings**: available at [https://aclanthology.org/events/naacl-2024/#2024bea-1](https://aclanthology.org/events/naacl-2024/#2024bea-1)
 
 | | June 20, 2024 (General Time in GMT-6) <br> **Location:** Don Alberto 4 (in person) or [Underline.io]( https://underline.io/events/458/sessions?eventSessionId=17415) (remote) <br> <small>Add to calendar: [ics](/assets/ics/bea/2024/program.ics)</small> |
 |:------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
