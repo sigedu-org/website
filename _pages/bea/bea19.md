@@ -67,6 +67,10 @@ gold:
 <td><strong>Contact</strong></td>
 <td><a href="mailto:bea.nlp.workshop@gmail.com">bea.nlp.workshop@gmail.com</a></td>
 </tr>
+<tr>
+<td><strong>Proceedings</strong></td>
+<td><a href="https://aclanthology.org/volumes/2024.bea-1/">https://aclanthology.org/volumes/2024.bea-1/</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -209,8 +213,6 @@ In addition to the main workshop track, the workshop has two shared tasks tracks
 
 ## Workshop Program
 
-**Proceedings**: available at [https://aclanthology.org/events/naacl-2024/#2024bea-1](https://aclanthology.org/events/naacl-2024/#2024bea-1)
-
 | | June 20, 2024 (General Time in GMT-6) <br> **Location:** Don Alberto 4 (in person) or [Underline.io]( https://underline.io/events/458/sessions?eventSessionId=17415) (remote) <br> <small>Add to calendar: [ics](/assets/ics/bea/2024/program.ics)</small> |
 |:------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **09:00 - 09:05** | **Opening Remarks**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
@@ -304,72 +306,73 @@ This talk will discuss low-resource approaches for two language learning applica
 
 We received a total of 88 submissions to the main workshop track. After careful review, we approved the following 38 papers, leading to a 43% acceptance rate for the main workshop.
 
-- *How Good are Modern LLMs in Generating Relevant and High-Quality Questions at Different Bloom's Skill Levels for Indian High School Social Science Curriculum?* (Nicy Scaria, Suma Dharani Chenna and Deepak Subramani)				
-- *Synthetic Data Generation for Low-resource Grammatical Error Correction with Tagged Corruption Models* (Felix Stahlberg and Shankar Kumar)				
-- *Pillars of Grammatical Error Correction: Comprehensive Inspection Of Contemporary Approaches In The Era of Large Language Models* (Kostiantyn Omelianchuk, Andrii Liubonko, Oleksandr Skurzhanskyi, Artem Chernodub, Oleksandr Korniienko and Igor Samokhin)				
-- *Using Adaptive Empathetic Responses for Teaching English* (Li Siyan, Teresa Shao, Julia Hirschberg and Zhou Yu)				
-- *Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts* (Donya Rooein, Paul Röttger, Anastassia Shaitarova and Dirk Hovy)				
-- *Large Language Models Are State-of-the-Art Evaluator for Grammatical Error Correction* (Masamune Kobayashi, Masato Mita and Mamoru Komachi)				
-- *Can Language Models Guess Your Identity? Analyzing Demographic Biases in AI Essay Scoring* (Alexander Kwako and Christopher Ormerod)				
-- *Automated Scoring of Clinical Patient Notes: Findings From the Kaggle Competition and Their Translation into Practice* (Victoria Yaneva, King Yiu Suen, Le An Ha, Janet Mee, Milton Quranda and Polina Harik)				
-- *A World CLASSE Student Summary Corpus* (Scott Crossley, Perpetual Baffour, Mihai Dascalu and Stefan Ruseti)				
-- *Improving Socratic Question Generation using Data Augmentation and Preference Optimization* (Nischal Ashok Kumar and Andrew Lan)				
-- *Scoring with Confidence? – Exploring High-confidence Scoring for Saving Manual Grading Effort* (Marie Bexte, Andrea Horbach, Lena Schützler, Oliver Christ and Torsten Zesch)				
-- *Predicting Initial Essay Quality Scores to Increase the Efficiency of Comparative Judgment Assessments* (Michiel De Vrindt, Anaïs Tack, Renske Bouwer, Wim Van Den Noortgate and Marije Lesterhuis)				
-- *Improving Transfer Learning for Early Forecasting of Academic Performance by Contextualizing Language Models* (Ahatsham Hayat, Bilal Khan and Mohammad R. Hasan)				
-- *Can GPT-4 do L2 analytic assessment?* (Stefano Banno, Hari Krishna Vydana, Kate M. Knill and Mark Gales)				
-- *Using Program Repair as a Proxy for Language Models' Feedback Ability in Programming Education* (Charles Arole Koutcheme, Nicola Dainese and Arto Hellas)				
-- *Automated Evaluation of Teacher Encouragement of Student-to-Student Interactions in a Simulated Classroom Discussion* (Michael John Ilagan, Beata Beigman Klebanov and Jamie N. Mikeska)				
-- *Explainable AI in Language Learning: Linking Empirical Evidence and Theoretical Concepts in Proficiency and Readability Modeling of Portuguese* (Luisa Ribeiro-Flucht, Xiaobin Chen and Detmar Meurers)				
-- *Fairness in Automated Essay Scoring: A Comparative Analysis of Algorithms on German Learner Essays from Secondary Education* (Nils-Jonathan Schaller, Yuning Ding, Andrea Horbach, Jennifer Meyer and Thorben Jansen)				
-- *Improving Automated Distractor Generation for Math Multiple-choice Questions with Overgenerate-and-rank* (Alexander Scarlatos, Wanyong Feng, Andrew Lan, Simon Woodhead and Digory Smith)				
-- *Identifying Fairness Issues in Automatically Generated Testing Content* (Kevin Stowe, Benny Longwill, Alyssa Francis, Tatsuya Aoyama, Debanjan Ghosh, Swapna Somasundaran)				
-- *Towards Automated Document Revision: Grammatical Error Correction, Fluency Edits, and Beyond* (Masato Mita, Keisuke Sakaguchi, Masato Hagiwara, Tomoya Mizumoto, Jun Suzuki and Kentaro Inui)				
-- *Evaluating Vocabulary Usage in LLMs* (Matthew Peter Nicholas Durward and Christopher Thomson)				
-- *Exploring LLM Prompting Strategies for Joint Essay Scoring and Feedback Generation* (Maja Stahl, Leon Biermann, Andreas Nehring and Henning Wachsmuth)				
-- *Towards Fine-Grained Pedagogical Control over English Grammar Complexity in Educational Text Generation* (Dominik Glandorf and Detmar Meurers)				
-- *LLMs in Short Answer Scoring: Limitations and Promise of Zero-Shot and Few-Shot Approaches* (Imran Chamieh, Torsten Zesch and Klaus Giebermann)				
-- *Automated Essay Scoring Using Grammatical Variety and Errors with Multi-Task Learning and Item Response Theory* (Kosuke Doi, Katsuhito Sudoh and Satoshi Nakamura)				
-- *Error Tracing in Programming: A Path to Personalised Feedback* (Martha Shaka, Diego Carraro and Kenneth N. Brown)				
-- *Improving Readability Assessment with Ordinal Log-Loss* (Ho Hung Lim and John S. Y. Lee)				
-- *Automated Sentence Generation for a Spaced Repetition Software* (Benjamin Paddags, Daniel Hershcovich and Valkyrie Savage)				
-- *Using Large Language Models to Assess Young Students' Writing Revisions* (Tianwen Li, Zhexiong Liu, Lindsay Clare Matsumura, Elaine Lin Wang, Diane Litman and Richard Correnti)				
-- *Automatic Crossword Clues Extraction for Language Learning* (Santiago Berruti, Arturo Collazo, Diego Sellanes, Aiala Rosá and Luis Chiruzzo)				
-- *Anna Karenina Strikes Again: Pre-Trained LLM Embeddings May Favor High-Performing Learners* (Abigail Victoria Gurin Schleifer, Beata Beigman Klebanov, Moriah Ariely and Giora Alexandron)				
-- *Assessing Student Explanations with Large Language Models Using Fine-Tuning and Few-Shot Learning* (Dan Carpenter,Wookhee Min, Seung Lee, Gamze Ozogul, Xiaoying Zheng and James Lester)				
-- *Harnessing GPT to Study Second Language Learner Essays: Can We Use Perplexity to Determine Linguistic Competence?* (Ricardo Muñoz Sánchez, Simon Dobnik and Elena Volodina)				
-- *BERT-IRT: Accelerating Item Piloting with BERT Embeddings and Explainable IRT Models* (Kevin P. Yancey, Andrew Runge, Geoffrey T. LaFlair and Phoebe Mulcaire)				
-- *Transfer Learning of Argument Mining in Student Essays* (Yuning Ding, Julian Lohmann, Nils-Jonathan Schaller, Thorben Jansen and Andrea Horbach)				
-- *Building Robust Content Scoring Models for Student Explanations of Social Justice Science Issues* (Allison Bradford, Kenneth Steimel, BRIAN Riordan and Marcia C. Linn)				
-- *From Miscue to Evidence of Difficulty: Analysis of Automatically Detected Miscues in Oral Reading for Feedback Potential* (Beata Beigman Klebanov, Michael Suhan, Tenaha O'Reilly and Zuowei Wang)				
+&nbsp;
+: - [How Good are Modern LLMs in Generating Relevant and High-Quality Questions at Different Bloom's Skill Levels for Indian High School Social Science Curriculum?](https://aclanthology.org/2024.bea-1.1/) (Nicy Scaria, Suma Chenna, Deepak Subramani)
+- [Synthetic Data Generation for Low-resource Grammatical Error Correction with Tagged Corruption Models](https://aclanthology.org/2024.bea-1.2/) (Felix Stahlberg, Shankar Kumar)
+- [Pillars of Grammatical Error Correction: Comprehensive Inspection Of Contemporary Approaches In The Era of Large Language Models](https://aclanthology.org/2024.bea-1.3/) (Kostiantyn Omelianchuk, Andrii Liubonko, Oleksandr Skurzhanskyi, Artem Chernodub, Oleksandr Korniienko, Igor Samokhin)
+- [Using Adaptive Empathetic Responses for Teaching English](https://aclanthology.org/2024.bea-1.4/) (Li Siyan, Teresa Shao, Julia Hirschberg, Zhou Yu)
+- [Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts](https://aclanthology.org/2024.bea-1.5/) (Donya Rooein, Paul Röttger, Anastassia Shaitarova, Dirk Hovy)
+- [Large Language Models Are State-of-the-Art Evaluator for Grammatical Error Correction](https://aclanthology.org/2024.bea-1.6/) (Masamune Kobayashi, Masato Mita, Mamoru Komachi)
+- [Can Language Models Guess Your Identity? Analyzing Demographic Biases in AI Essay Scoring](https://aclanthology.org/2024.bea-1.7/) (Alexander Kwako, Christopher Ormerod)
+- [Automated Scoring of Clinical Patient Notes: Findings From the Kaggle Competition and Their Translation into Practice](https://aclanthology.org/2024.bea-1.8/) (Victoria Yaneva, King Yiu Suen, Le An Ha, Janet Mee, Milton Quranda, Polina Harik)
+- [A World CLASSE Student Summary Corpus](https://aclanthology.org/2024.bea-1.9/) (Scott Crossley, Perpetual Baffour, Mihai Dascalu, Stefan Ruseti)
+- [Improving Socratic Question Generation using Data Augmentation and Preference Optimization](https://aclanthology.org/2024.bea-1.10/) (Nischal Ashok Kumar, Andrew Lan)
+- [Scoring with Confidence? – Exploring High-confidence Scoring for Saving Manual Grading Effort](https://aclanthology.org/2024.bea-1.11/) (Marie Bexte, Andrea Horbach, Lena Schützler, Oliver Christ, Torsten Zesch)
+- [Predicting Initial Essay Quality Scores to Increase the Efficiency of Comparative Judgment Assessments](https://aclanthology.org/2024.bea-1.12/) (Michiel De Vrindt, Anaïs Tack, Renske Bouwer, Wim Van Den Noortgate, Marije Lesterhuis)
+- [Improving Transfer Learning for Early Forecasting of Academic Performance by Contextualizing Language Models](https://aclanthology.org/2024.bea-1.13/) (Ahatsham Hayat, Bilal Khan, Mohammad Hasan)
+- [Can GPT-4 do L2 analytic assessment?](https://aclanthology.org/2024.bea-1.14/) (Stefano Banno, Hari Krishna Vydana, Kate Knill, Mark Gales)
+- [Using Program Repair as a Proxy for Language Models' Feedback Ability in Programming Education](https://aclanthology.org/2024.bea-1.15/) (Charles Koutcheme, Nicola Dainese, Arto Hellas)
+- [Automated Evaluation of Teacher Encouragement of Student-to-Student Interactions in a Simulated Classroom Discussion](https://aclanthology.org/2024.bea-1.16/) (Michael Ilagan, Beata Beigman Klebanov, Jamie Mikeska)
+- [Explainable AI in Language Learning: Linking Empirical Evidence and Theoretical Concepts in Proficiency and Readability Modeling of Portuguese](https://aclanthology.org/2024.bea-1.17/) (Luisa Ribeiro-Flucht, Xiaobin Chen, Detmar Meurers)
+- [Fairness in Automated Essay Scoring: A Comparative Analysis of Algorithms on German Learner Essays from Secondary Education](https://aclanthology.org/2024.bea-1.18/) (Nils-Jonathan Schaller, Yuning Ding, Andrea Horbach, Jennifer Meyer, Thorben Jansen)
+- [Improving Automated Distractor Generation for Math Multiple-choice Questions with Overgenerate-and-rank](https://aclanthology.org/2024.bea-1.19/) (Alexander Scarlatos, Wanyong Feng, Andrew Lan, Simon Woodhead, Digory Smith)
+- [Identifying Fairness Issues in Automatically Generated Testing Content](https://aclanthology.org/2024.bea-1.20/) (Kevin Stowe)
+- [Towards Automated Document Revision: Grammatical Error Correction, Fluency Edits, and Beyond](https://aclanthology.org/2024.bea-1.21/) (Masato Mita, Keisuke Sakaguchi, Masato Hagiwara, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui)
+- [Evaluating Vocabulary Usage in LLMs](https://aclanthology.org/2024.bea-1.22/) (Matthew Durward, Christopher Thomson)
+- [Exploring LLM Prompting Strategies for Joint Essay Scoring and Feedback Generation](https://aclanthology.org/2024.bea-1.23/) (Maja Stahl, Leon Biermann, Andreas Nehring, Henning Wachsmuth)
+- [Towards Fine-Grained Pedagogical Control over English Grammar Complexity in Educational Text Generation](https://aclanthology.org/2024.bea-1.24/) (Dominik Glandorf, Detmar Meurers)
+- [LLMs in Short Answer Scoring: Limitations and Promise of Zero-Shot and Few-Shot Approaches](https://aclanthology.org/2024.bea-1.25/) (Imran Chamieh, Torsten Zesch, Klaus Giebermann)
+- [Automated Essay Scoring Using Grammatical Variety and Errors with Multi-Task Learning and Item Response Theory](https://aclanthology.org/2024.bea-1.26/) (Kosuke Doi, Katsuhito Sudoh, Satoshi Nakamura)
+- [Error Tracing in Programming: A Path to Personalised Feedback](https://aclanthology.org/2024.bea-1.27/) (Martha Shaka, Diego Carraro, Kenneth Brown)
+- [Improving Readability Assessment with Ordinal Log-Loss](https://aclanthology.org/2024.bea-1.28/) (Ho Hung Lim, John Lee)
+- [Automated Sentence Generation for a Spaced Repetition Software](https://aclanthology.org/2024.bea-1.29/) (Benjamin Paddags, Daniel Hershcovich, Valkyrie Savage)
+- [Using Large Language Models to Assess Young Students' Writing Revisions](https://aclanthology.org/2024.bea-1.30/) (Tianwen Li, Zhexiong Liu, Lindsay Matsumura, Elaine Wang, Diane Litman, Richard Correnti)
+- [Automatic Crossword Clues Extraction for Language Learning](https://aclanthology.org/2024.bea-1.31/) (Santiago Berruti, Arturo Collazo, Diego Sellanes, Aiala Rosá, Luis Chiruzzo)
+- [Anna Karenina Strikes Again: Pre-Trained LLM Embeddings May Favor High-Performing Learners](https://aclanthology.org/2024.bea-1.32/) (Abigail Gurin Schleifer, Beata Beigman Klebanov, Moriah Ariely, Giora Alexandron)
+- [Assessing Student Explanations with Large Language Models Using Fine-Tuning and Few-Shot Learning](https://aclanthology.org/2024.bea-1.33/) (Dan Carpenter, Wookhee Min, Seung Lee, Gamze Ozogul, Xiaoying Zheng, James Lester)
+- [Harnessing GPT to Study Second Language Learner Essays: Can We Use Perplexity to Determine Linguistic Competence?](https://aclanthology.org/2024.bea-1.34/) (Ricardo Muñoz Sánchez, Simon Dobnik, Elena Volodina)
+- [BERT-IRT: Accelerating Item Piloting with BERT Embeddings and Explainable IRT Models](https://aclanthology.org/2024.bea-1.35/) (Kevin P. Yancey, Andrew Runge, Geoffrey LaFlair, Phoebe Mulcaire)
+- [Transfer Learning of Argument Mining in Student Essays](https://aclanthology.org/2024.bea-1.36/) (Yuning Ding, Julian Lohmann, Nils-Jonathan Schaller, Thorben Jansen, Andrea Horbach)
+- [Building Robust Content Scoring Models for Student Explanations of Social Justice Science Issues](https://aclanthology.org/2024.bea-1.37/) (Allison Bradford, Kenneth Steimel, BRIAN Riordan, Marcia Linn)
+- [From Miscue to Evidence of Difficulty: Analysis of Automatically Detected Miscues in Oral Reading for Feedback Potential](https://aclanthology.org/2024.bea-1.38/) (Beata Beigman Klebanov, Michael Suhan, Tenaha O'Reilly, Zuowei Wang)		
 
 ### Shared Task Papers
 
 In addition to the papers accepted to the main workshop track, the workshop will feature 20 shared task papers, including two shared task overview papers and 18 system description papers.
 
 Task 1: Automated Prediction of Item Difficulty and Item Response Time (APIDIRT)
-: - *Findings from the First Shared Task on Automated Prediction of Difficulty and Response Time for Multiple-Choice Questions* (Victoria Yaneva, Kai North, Peter Baldwin, Le An Ha, Saed Rezayi, Yiyun Zhou, Sagnik Ray Choudhury, Polina Harik and Brian Clauser)
-- *Predicting Item Difficulty and Item Response Time with Scalar-mixed Transformer Encoder Models and Rational Network Regression Heads* (Sebastian Gombert, Lukas Menzel, Daniele Di Mitri and Hendrik Drachsler)
-- *UnibucLLM: Harnessing LLMs for Automated Prediction of Item Difficulty and Response Time for Multiple-Choice Questions* (Ana-Cristina Rogoz and Radu Tudor Ionescu)
-- *The British Council submission to the BEA 2024 shared task* (Mariano Felice and Zeynep Duran Karaoz)
-- *ITEC at BEA 2024 Shared Task: Predicting Difficulty and Response Time of Medical Exam Questions with Statistical, Machine Learning, and Language Models* (Anaïs Tack, Siem Buseyne, Changsheng Chen, Robbe D'hondt, Michiel De Vrindt, Alireza Gharahighehi, Sameh Metwaly, Felipe Kenji Nakano and Ann-Sophie Noreillie)
-- *Item Difficulty and Response Time Prediction with Large Language Models: An Empirical Analysis of USMLE Items* (Okan Bulut, Guher Gorgun and Bin Tan)
-- *Utilizing Machine Learning to Predict Question Difficulty and Response Time for Enhanced Test Construction* (Rishikesh P. Fulari and Jonathan Rusert)
-- *Leveraging Physical and Semantic Features of text item for Difficulty and Response Time Prediction of USMLE Questions* (Gummuluri Venkata Ravi Ram, Ashinee Kesanam and Anand Kumar M)
-- *UPN-ICC at BEA 2024 Shared Task: Leveraging LLMs for Multiple-Choice Questions Difficulty Prediction* (George Enrique Duenas, Sergio Jimenez and Geral Eduardo Mateus Ferro)
-- *Using Machine Learning to Predict Item Difficulty and Response Time in Medical Tests* (Mehrdad Yousefpoori-Naeim, Shayan Zargari and Zahra Hatami)
-- *Large Language Model-based Pipeline for Item Difficulty and Response Time Estimation for Educational Assessments* (Hariram Veeramani, Surendrabikram Thapa, Natarajan Balaji Shankar and Abeer Alwan)
-- *UNED team at BEA 2024 Shared Task: Testing different Input Formats for predicting Item Difficulty and Response Time in Medical Exams* (Alvaro Rodrigo, Sergio Moreno-Álvarez and Anselmo Peñas)
+: - [Findings from the First Shared Task on Automated Prediction of Difficulty and Response Time for Multiple-Choice Questions](https://aclanthology.org/2024.bea-1.39/) (Victoria Yaneva, Kai North, Peter Baldwin, Le An Ha, Saed Rezayi, Yiyun Zhou, Sagnik Ray Choudhury, Polina Harik, Brian Clauser)
+- [Predicting Item Difficulty and Item Response Time with Scalar-mixed Transformer Encoder Models and Rational Network Regression Heads](https://aclanthology.org/2024.bea-1.40/) (Sebastian Gombert, Lukas Menzel, Daniele Di Mitri, Hendrik Drachsler)
+- [UnibucLLM: Harnessing LLMs for Automated Prediction of Item Difficulty and Response Time for Multiple-Choice Questions](https://aclanthology.org/2024.bea-1.41/) (Ana-Cristina Rogoz, Radu Tudor Ionescu)
+- [The British Council submission to the BEA 2024 shared task](https://aclanthology.org/2024.bea-1.42/) (Mariano Felice, Zeynep Duran Karaoz)
+- [ITEC at BEA 2024 Shared Task: Predicting Difficulty and Response Time of Medical Exam Questions with Statistical, Machine Learning, and Language Models](https://aclanthology.org/2024.bea-1.43/) (Anaïs Tack, Siem Buseyne, Changsheng Chen, Robbe D'hondt, Michiel De Vrindt, Alireza Gharahighehi, Sameh Metwaly, Felipe Kenji Nakano, Ann-Sophie Noreillie)
+- [Item Difficulty and Response Time Prediction with Large Language Models: An Empirical Analysis of USMLE Items](https://aclanthology.org/2024.bea-1.44/) (Okan Bulut, Guher Gorgun, Bin Tan)
+- [Utilizing Machine Learning to Predict Question Difficulty and Response Time for Enhanced Test Construction](https://aclanthology.org/2024.bea-1.45/) (Rishikesh Fulari, Jonathan Rusert)
+- [Leveraging Physical and Semantic Features of text item for Difficulty and Response Time Prediction of USMLE Questions](https://aclanthology.org/2024.bea-1.46/) (Gummuluri Venkata Ravi Ram, Ashinee Kesanam, Anand Kumar M)
+- [UPN-ICC at BEA 2024 Shared Task: Leveraging LLMs for Multiple-Choice Questions Difficulty Prediction](https://aclanthology.org/2024.bea-1.47/) (George Duenas, Sergio Jimenez, Geral Mateus Ferro)
+- [Using Machine Learning to Predict Item Difficulty and Response Time in Medical Tests](https://aclanthology.org/2024.bea-1.48/) (Mehrdad Yousefpoori-Naeim, Shayan Zargari, Zahra Hatami)
+- [Large Language Model-based Pipeline for Item Difficulty and Response Time Estimation for Educational Assessments](https://aclanthology.org/2024.bea-1.49/) (Hariram Veeramani, Surendrabikram Thapa, Natarajan Balaji Shankar, Abeer Alwan)
+- [UNED team at BEA 2024 Shared Task: Testing different Input Formats for predicting Item Difficulty and Response Time in Medical Exams](https://aclanthology.org/2024.bea-1.50/) (Alvaro Rodrigo, Sergio Moreno-Álvarez, Anselmo Peñas)
 
 Task 2: Multilingual Lexical Simplification Pipeline (MLSP)
-: - *The BEA 2024 Shared Task on the Multilingual Lexical Simplification Pipeline* (Matthew Shardlow, Fernando Alva-Manchego, Riza Batista-Navarro, Stefan Bott, Saul Calderon Ramirez, Rémi Cardon, Thomas François, Akio Hayakawa, Andrea Horbach, Anna Huelsing, Yusuke Ide, Joseph Marvin Imperial, Adam Nohejl, Kai North, Laura Occhipinti, Nelson Peréz Rojas, Nishat Raihan, Tharindu Ranasinghe, Martin Solis Salazar, Sanja Stajner, Marcos Zampieri and Horacio Saggion)											
-- *TMU-HIT at MLSP 2024: How Well Can GPT-4 Tackle Multilingual Lexical Simplification?* (Taisei Enomoto, Hwichan Kim, Tosho Hirasawa, Yoshinari Nagai, Ayako Sato, Kyotaro Nakajima and Mamoru Komachi)
-- *ANU at MLSP-2024: Prompt-based Lexical Simplification for English and Sinhala* (Sandaru Seneviratne and Hanna Suominen)
-- *ISEP_Presidency_University at MLSP 2024 Shared Task: Using GPT-3.5 to Generate Substitutes for Lexical Simplification* (Benjamin Dutilleul, Mathis Debaillon and Sandeep Mathias)
-- *Machine Translation for Lexical Complexity Prediction and Lexical Simplification* (Petru Theodor Cristea and Sergiu Nisioi)
-- *RETUYT-INCO at MLSP 2024: Experiments on Language Simplification using Embeddings, Classifiers and Large Language Models* (Ignacio Sastre, Leandro Alfonso, Facundo Fleitas, Federico Gil, Andrés Lucas, Tomás Spoturno, Santiago Góngora, Aiala Rosá and Luis Chiruzzo)
-- *GMU at MLSP 2024: Multilingual Lexical Simplification with Transformer Models* (Dhiman Goswami, Kai North and Marcos Zampieri)
-- *ITEC at MLSP 2024: Transferring Predictions of Lexical Difficulty from Non-Native Readers* (Anaïs Tack)
+: - [The BEA 2024 Shared Task on the Multilingual Lexical Simplification Pipeline](https://aclanthology.org/2024.bea-1.51/) (Matthew Shardlow, Fernando Alva-Manchego, Riza Batista-Navarro, Stefan Bott, Saul Calderon Ramirez, Rémi Cardon, Thomas François, Akio Hayakawa, Andrea Horbach, Anna Huelsing, Yusuke Ide, Joseph Marvin Imperial, Adam Nohejl, Kai North, Laura Occhipinti, Nelson Peréz Rojas, Nishat Raihan, Tharindu Ranasinghe, Martin Solis Salazar, Sanja Stajner, Marcos Zampieri, Horacio Saggion)
+- [TMU-HIT at MLSP 2024: How Well Can GPT-4 Tackle Multilingual Lexical Simplification?](https://aclanthology.org/2024.bea-1.52/) (Taisei Enomoto, Hwichan Kim, Tosho Hirasawa, Yoshinari Nagai, Ayako Sato, Kyotaro Nakajima, Mamoru Komachi)
+- [ANU at MLSP-2024: Prompt-based Lexical Simplification for English and Sinhala](https://aclanthology.org/2024.bea-1.53/) (Sandaru Seneviratne, Hanna Suominen)
+- [ISEP\_Presidency\_University at MLSP 2024 Shared Task: Using GPT-3.5 to Generate Substitutes for Lexical Simplification](https://aclanthology.org/2024.bea-1.54/) (Benjamin Dutilleul, Mathis Debaillon, Sandeep Mathias)
+- [Machine Translation for Lexical Complexity Prediction and Lexical Simplification](https://aclanthology.org/2024.bea-1.55/) (Petru Cristea, Sergiu Nisioi)
+- [RETUYT-INCO at MLSP 2024: Experiments on Language Simplification using Embeddings, Classifiers and Large Language Models](https://aclanthology.org/2024.bea-1.56/) (Ignacio Sastre, Leandro Alfonso, Facundo Fleitas, Federico Gil, Andrés Lucas, Tomás Spoturno, Santiago Góngora, Aiala Rosá, Luis Chiruzzo)
+- [GMU at MLSP 2024: Multilingual Lexical Simplification with Transformer Models](https://aclanthology.org/2024.bea-1.57/) (Dhiman Goswami, Kai North, Marcos Zampieri)
+- [ITEC at MLSP 2024: Transferring Predictions of Lexical Difficulty from Non-Native Readers](https://aclanthology.org/2024.bea-1.58/) (Anaïs Tack)
 
 ## Participation
 
