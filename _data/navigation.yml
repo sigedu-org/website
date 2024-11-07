@@ -17,6 +17,8 @@ main:
 bea:
   - title: BEA Workshops
     children:
+      - title: "2025"
+        url: /bea/2025
       - title: "2024"
         url: /bea/2024
       - title: "2023"
