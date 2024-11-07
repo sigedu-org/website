@@ -19,7 +19,7 @@ news_limit: 3
 
 ## Welcome!
 
-SIGEDU is the [Association for Computational Linguistics](http://aclweb.org) special interest group for building educational applications. SIGEDU organizes the annual workshop on Innovative Use of NLP for Building Educational Applications &ndash; colloquially known as the [BEA Workshop](bea/current). Anyone can become a member of SIGEDU. If you are interested, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSep9q-QLIvCIVIcdyoJJA8y2Ql32YRCQfVWDNJx1FwNXD3L6Q/viewform).
+SIGEDU is the [Association for Computational Linguistics](http://aclweb.org) special interest group for building educational applications. Anyone can become a member of SIGEDU. If you are interested, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSep9q-QLIvCIVIcdyoJJA8y2Ql32YRCQfVWDNJx1FwNXD3L6Q/viewform).
 
 This is a community website. If you would like to share resources, tools, announce job positions, information on related events, or start a discussion on educational applications, you are invited to submit a guest blog post by following the instructions [here](https://github.com/sigedu-org/website#submitting-a-guest-blog-post). All submissions will be reviewed by the [SIGEDU executive board](/officers) and published if approved.
 
@@ -35,21 +35,13 @@ SIGEDU was founded in 2017 and is ACL's newest SIG. SIGEDU has the following goa
  
 - promote collaboration both within the ACL community as well as between the ACL and other communities working on educational applications.
 
-## BEA 2022
+## BEA Workshop
 
-The [2022 NAACL Workshop on Innovative Use of NLP for Building Educational Applications](/bea/2022) was held in Seattle, Washington on Friday, July 15, 2022.
+SIGEDU organizes the annual workshop on Innovative Use of NLP for Building Educational Applications &ndash; colloquially known as the [BEA Workshop](bea/current).
 
-<h3>Organizers</h3>
+## BEA Shared Tasks
 
-- [Ekaterina Kochmar](https://www.cl.cam.ac.uk/~ek358/), University of Bath
-- [Jill Burstein](https://sites.google.com/site/jbursteinets/), Duolingo
-- [Andrea Horbach](https://www.ltl.uni-due.de/team/andrea-horbach/), University Duisburg-Essen
-- [Ronja Laarmann-Quante](https://www.ltl.uni-due.de/team/ronja-laarmann-quante), University of Duisburg-Essen
-- [Nitin Madnani](https://desilinguist.org/), Educational Testing Service
-- [Anaïs Tack](https://anaistack.github.io/), Stanford University
-- [Victoria Yaneva](http://www.victoriayaneva.info/), National Board of Medical Examiners
-- [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/), University of Cambridge
-- [Torsten Zesch](https://www.ltl.uni-due.de/team/torsten-zesch), University of Duisburg-Essen
+SIGEDU members have organized a variety of interesting shared tasks. Check them out on our [shared tasks](sharedtasks) page.
 
 ## Anti-Harassment Policy
 
