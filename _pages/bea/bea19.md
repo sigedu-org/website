@@ -34,7 +34,7 @@ gold:
     title: "NBME"
 ---
 
-![toronto](/assets/images/venues/mexico-city-hilton-reforma.jpeg)
+![Mexico City Hilton Reforma](/assets/images/venues/mexico-city-hilton-reforma.jpeg)
 
 <table>
 <thead>
