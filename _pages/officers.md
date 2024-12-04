@@ -14,7 +14,7 @@ toc: false
 | Secretary | [Andrea Horbach](https://www.fernuni-hagen.de/english/research/clusters/catalpa/about-catalpa/members/andrea.horbach.shtml) | Hildesheim University | 2021-2024 |
 | Treasurer | [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/) | King's College London | 2021-2024 |
 | Executive Board Member | [Jill Burstein](https://sites.google.com/site/jbursteinets/) | Duolingo | 2021-2024 |
-| Executive Board Member | [Nitin Madnani](https://desilinguist.org) | Educational Testing Service | 2021-2024 |
+| Executive Board Member | [Nitin Madnani](https://desilinguist.org) | Duolingo | 2021-2024 |
 | Executive Board Member | [Anaïs Tack](https://anaistack.github.io) | KU Leuven, imec | 2021-2024 |
 | Executive Board Member | [Victoria Yaneva](http://www.victoriayaneva.info) | National Board of Medical Examiners | 2021-2024 |
 
