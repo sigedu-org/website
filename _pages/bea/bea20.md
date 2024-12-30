@@ -65,11 +65,11 @@ Over the years, this initiative has included four dedicated tasks focused solely
 Moreover, NLP/Education shared tasks have expanded into novel research areas, such as the [Automated Evaluation of Scientific Writing](/sharedtask/2016) at BEA11, [Native Language Identification](/sharedtask/2017) at BEA12, [Second Language Acquisition Modeling](/sharedtask/2018-SLAM) at BEA13, [Complex Word Identification](/sharedtask/2018-CWI) at BEA13, [Generating AI Teacher Responses in Educational Dialogues](/sharedtask/2023) at BEA18, and [Automated Prediction of Item Difficulty and Item Response Time](https://sig-edu.org/sharedtask/2024) and [Multilingual Lexical Simplification](https://sites.google.com/view/mlsp-sharedtask-2024) at BEA19.
 These competitions have significantly bolstered the visibility and interest in our field.
 
-The **20th BEA** will be **the first edition of BEA as a 2-day workshop**. It will adopt the same format as the 2024 edition and will be **hybrid**, integrating both in-person and virtual presentations and attendance.
-The workshop will feature a **keynote talk**, a main workshop track with **oral presentation sessions** and **large poster sessions** to facilitate the presentation of a wide array of original research.
-Moreover, there will be **a half-day tutorial** and **a shared task** comprising an oral *overview presentation* by the shared task organizers and several *poster presentations* by the shared task participants.
+**The 20th BEA will be the first edition of BEA as a 2-day workshop**. It will adopt the same format as the 2024 edition and will be **hybrid**, integrating both in-person and virtual presentations and attendance.
+The workshop will feature a **keynote talk**, and a main workshop track with **oral presentation sessions** and **large poster sessions** to facilitate the presentation of a wide array of original research.
+Moreover, there will be **a half-day tutorial**, and **a shared task** comprising an oral *overview presentation* by the shared task organizers and several *poster presentations* by the shared task participants.
 
-We expect that the workshop will continue to highlight novel technologies and opportunities, including the use of state-of-the-art large language models in educational applications, and challenges around responsible AI for educational NLP, in English as well as other languages.
+We expect that the workshop will continue to **highlight novel technologies and opportunities**, including the use of state-of-the-art large language models in educational applications, and challenges around responsible AI for educational NLP, in English as well as other languages.
 
 ## Sponsors
 
@@ -83,7 +83,7 @@ We solicit papers that incorporate NLP methods, including, but not limited to:
 - automated scoring of open-ended textual and spoken responses;
 - game-based instruction and assessment;
 - educational data mining;
-- use generative AI in education and its impact;
+- use of generative AI in education and its impact;
 - intelligent tutoring;
 - collaborative learning environments;
 - peer review;
@@ -167,17 +167,24 @@ If you are interested in sharing your code and data with the BEA community, we c
 
 ## Shared Task
 
-In addition to the main workshop track, the workshop will host a shared task on *Pedagogical Ability Assessment of AI-powered Tutors*. For more information on how to participate and latest updates, please refer to the shared task website.
+In addition to the main track, the workshop will host a shared task on **Pedagogical Ability Assessment of AI-powered Tutors**. For more information on how to participate and latest updates, please refer to the shared task website.
 
 ### [Pedagogical Ability Assessment of AI-powered Tutors](/sharedtask/2025)
 
 ## Tutorial
 
-We will also host a half-day tutorial on *LLMs for Education: Understanding the Needs of Stakeholders, Current Capabilities and the Path Forward*. Please check our website for more information on this later.
+We will also host a half-day tutorial on **LLMs for Education: Understanding the Needs of Stakeholders, Current Capabilities and the Path Forward**.
+
+### LLMs for Education: Understanding the Needs of Stakeholders, Current Capabilities and the Path Forward
+
+*Organizers*: Sankalan Pal Chowdhury (ETH Zurich), Nico Daheim (TU Darmstadt), Ekaterina Kochmar (MBZUAI), Jakub Macina (ETH Zurich), Donya Rooein (Bocconi University), Mrinmaya Sachan (ETH Zurich), and Shashank Sonkar (Rice University).
+<br/>
+*Description*: This tutorial will aim to bridge the gap between NLP researchers and Artificial Intelligence in Education (AIED) practitioners to help participants understand the requirements and challenges of education, enabling them to develop LLMs that align with educational needs, and to enable educators to gain a deeper understanding of the capabilities and limitations of current NLP technologies, fostering effective integration of LLMs in educational contexts.
 
 ## Invited Talk
 
-**Kostia Omelianchuk**, Grammarly<br>
+**Kostia Omelianchuk**, Grammarly<br/>
+
 <i>Details to follow</i>
 
 ## Participation
@@ -204,7 +211,7 @@ SIGEDU adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=
   - [Ronja Laarmann-Quante](https://www.ltl.uni-due.de/team/ronja-laarmann-quante), Ruhr University Bochum
   - [Marie Bexte](https://www.fernuni-hagen.de/english/research/clusters/catalpa/about-catalpa/members/marie.bexte.shtml), FernUniversität in Hagen
 - **Publication Chair**: [Anaïs Tack](https://anaistack.github.io/), KU Leuven, imec
-- **Shared Tasks \& Tutorials Chairs**:
+- **Shared Task & Tutorial Chairs**:
   - [Victoria Yaneva](http://www.victoriayaneva.info/), National Board of Medical Examiners
   - [Bashar Alhafni](https://www.basharalhafni.com), New York University (NYU) \& CAMeL Lab in NYUAD
 - **Sponsorship Chair**:
