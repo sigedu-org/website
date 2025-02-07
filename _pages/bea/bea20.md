@@ -28,7 +28,7 @@ toc_icon: 'cog'
 </tr>
 <tr>
 <td><strong>Deadline</strong></td>
-<td>March 1, 2025</td>
+<td>April 17, 2025</td>
 </tr>
 <tr>
 <td><strong>Date</strong></td>
@@ -102,15 +102,15 @@ All deadlines are 11:59pm UTC-12 (anywhere on earth). Note that at this point so
 
 | Event                         | Date                |
 |-------------------------------|---------------------|
-| Submission Deadline           | March 1, 2025      |
-| Notification of Acceptance    | April 17, 2025      |
-| Camera-ready Papers Due       | May 16, 2025      |
+| Submission Deadline           | April 17, 2025      |
+| Notification of Acceptance    | May 22, 2025      |
+| Camera-ready Papers Due       | June 9, 2025      |
 | Pre-recorded Videos Due       | July 7, 2025         |
 | Workshop                      | July 31 and August 1, 2025 |
 
 ### Submission Guidelines
 
-To streamline the submission process, we rely on the **ACL submission guidelines** and the **START conference system**.
+To streamline the submission process, we rely on the **ACL submission guidelines** and the **START conference system**, accessible at [https://softconf.com/acl2025/bea2025/](https://softconf.com/acl2025/bea2025/).
 All submissions undergo review by the [program committee](#program-committee).
 
 Long, Short, and Demo Papers
