@@ -7,6 +7,15 @@ sidebar:
 toc: true
 toc_sticky: true
 toc_icon: 'cog'
+gold:
+  - url: https://englishtest.duolingo.com/
+    image_path: "/assets/images/logos/sponsors/bea2024/DET-v8-1536x2008.png"
+    alt: "Duolingo English Test Logo"
+    title: "Duolingo English Test"
+  - url: https://nbme.org
+    image_path: "/assets/images/logos/sponsors/bea2023/nbme.png"
+    alt: "NBME Logo"
+    title: "NBME"
 ---
 
 <a title="Robert F. Tobler, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Austria_Center_Vienna_from_SSW_on_2014-08-22.png">![Austria Center Vienna](/assets/images/venues/austria-center-vienna.png)</a>
@@ -72,6 +81,9 @@ Moreover, there will be **a half-day tutorial**, and **a shared task** comprisin
 We expect that the workshop will continue to **highlight novel technologies and opportunities**, including the use of state-of-the-art large language models in educational applications, and challenges around responsible AI for educational NLP, in English as well as other languages.
 
 ## Sponsors
+
+Gold Sponsors
+: {% include gallery id="gold" layout="half" %}
 
 Sponsoring Opportunities
 : We are extremely grateful to our sponsors for the past workshops: in the recent years, we have been supported by [British Council](https://www.britishcouncil.org), [Cambridge University Press & Assessment](https://www.cambridge.org/), [CATALPA](https://www.fernuni-hagen.de/english/research/clusters/catalpa/), [Cognii](https://www.cognii.com), [Duolingo](https://duolingo.com/), [Duolingo English Test](https://englishtest.duolingo.com/), [Educational Testing Service](https://www.ets.org/), [Grammarly](https://grammarly.com/), [iLexIR](https://ilexir.co.uk/), [NBME](https://nbme.org/), and [Newsela](https://newsela.com/). This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner and offering  grants covering best paper presentations. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor the BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
