@@ -273,6 +273,7 @@ SIGEDU adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=
 - Yo Ehara (Tokyo Gakugei University)
 - Hamza El Alaoui (Carnegie Mellon University)
 - Effat Farhana (Auburn University)
+- Mariano Felice (The British Council)
 - Nigel Fernandez (University of Massachusetts Amherst)
 - Michael Flor (Educational Testing Service)
 - Jennifer-Carmen Frey (Eurac Research)
