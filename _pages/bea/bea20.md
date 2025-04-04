@@ -8,14 +8,18 @@ toc: true
 toc_sticky: true
 toc_icon: 'cog'
 gold:
-  - url: https://englishtest.duolingo.com/
-    image_path: "/assets/images/logos/sponsors/bea2024/DET-v8-1536x2008.png"
-    alt: "Duolingo English Test Logo"
-    title: "Duolingo English Test"
+  - url: https://www.cambridge.org/
+    image_path: "/assets/images/logos/sponsors/bea2023/cambridge-upa.png"
+    alt: "Cambridge University Press & Assessment Logo"
+    title: "Cambridge University Press & Assessment"
   - url: https://nbme.org
     image_path: "/assets/images/logos/sponsors/bea2023/nbme.png"
     alt: "NBME Logo"
     title: "NBME"
+  - url: https://englishtest.duolingo.com/
+    image_path: "/assets/images/logos/sponsors/bea2024/DET-v8-1536x2008.png"
+    alt: "Duolingo English Test Logo"
+    title: "Duolingo English Test"
   - url: https://squirrelai.com
     image_path: "/assets/images/logos/sponsors/squirrel-ai-learning.jpg"
     alt: "Squirrel Ai Learning Logo"
