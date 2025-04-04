@@ -16,6 +16,10 @@ gold:
     image_path: "/assets/images/logos/sponsors/bea2023/nbme.png"
     alt: "NBME Logo"
     title: "NBME"
+  - url: https://squirrelai.com
+    image_path: "/assets/images/logos/sponsors/squirrel-ai-learning.jpg"
+    alt: "Squirrel Ai Learning Logo"
+    title: "Squirrel Ai Learning"
 ---
 
 <a title="Robert F. Tobler, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Austria_Center_Vienna_from_SSW_on_2014-08-22.png">![Austria Center Vienna](/assets/images/venues/austria-center-vienna.png)</a>
