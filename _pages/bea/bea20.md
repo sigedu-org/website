@@ -45,7 +45,7 @@ gold:
 </tr>
 <tr>
 <td><strong>Deadline</strong></td>
-<td>April 17, 2025</td>
+<td><strike>April 17</strike> April 24, 2025</td>
 </tr>
 <tr>
 <td><strong>Date</strong></td>
@@ -122,7 +122,7 @@ All deadlines are 11:59pm UTC-12 (anywhere on earth). Note that at this point so
 
 | Event                         | Date                |
 |-------------------------------|---------------------|
-| Submission Deadline           | April 17, 2025      |
+| Submission Deadline           | <strike>April 17</strike> April 24, 2025      |
 | Notification of Acceptance    | May 22, 2025      |
 | Camera-ready Papers Due       | June 9, 2025      |
 | Pre-recorded Videos Due       | July 7, 2025         |
