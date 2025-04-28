@@ -12,10 +12,18 @@ gold:
     image_path: "/assets/images/logos/sponsors/bea2023/cambridge-upa.png"
     alt: "Cambridge University Press & Assessment Logo"
     title: "Cambridge University Press & Assessment"
+  - url: https://grammarly.com
+    image_path: "/assets/images/logos/sponsors/grammarly.png"
+    alt: "Grammarly Logo"
+    title: "Grammarly"
   - url: https://nbme.org
     image_path: "/assets/images/logos/sponsors/bea2023/nbme.png"
     alt: "NBME Logo"
     title: "NBME"
+  - url: https://sigiq.ai
+    image_path: "/assets/images/logos/sponsors/sigiq.ai.png"
+    alt: "SigIQ.ai Logo"
+    title: "SigIQ.ai"
   - url: https://englishtest.duolingo.com/
     image_path: "/assets/images/logos/sponsors/bea2024/DET-v8-1536x2008.png"
     alt: "Duolingo English Test Logo"
