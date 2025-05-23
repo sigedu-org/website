@@ -131,7 +131,7 @@ All deadlines are 11:59pm UTC-12 (anywhere on earth). Note that at this point so
 | Event                         | Date                |
 |-------------------------------|---------------------|
 | Submission Deadline           | <strike>April 17</strike> April 24, 2025      |
-| Notification of Acceptance    | May 22, 2025      |
+| Notification of Acceptance    | <strike>May 22</strike> May 23, 2025      |
 | Camera-ready Papers Due       | June 9, 2025      |
 | Pre-recorded Videos Due       | July 7, 2025         |
 | Workshop                      | July 31 and August 1, 2025 |
