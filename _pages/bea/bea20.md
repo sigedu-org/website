@@ -211,9 +211,17 @@ We will also host a half-day tutorial on **LLMs for Education: Understanding the
 
 ## Invited Talk
 
-**Kostia Omelianchuk**, Grammarly<br/>
+#### ![Keynote](https://img.shields.io/badge/%20-KEYNOTE-orange?style=flat-square)<a name="#kostiantyn-omelianchuk" style="visibility: hidden;">Kostiantyn Omelianchuk (Grammarly)</a> 
 
-<i>Details to follow</i>
+**Kostiantyn Omelianchuk**, Grammarly<br>
+<i>How LLMs Are Reshaping GEC: Training, Evaluation, and Task Framing</i>
+
+**Abstract:** This keynote will explore the evolving role of Large Language Models (LLMs) in training and evaluating Grammatical Error Correction (GEC) systems, using Grammarly as a case study. It will cover the shift from primarily using human-annotated corpora to semi-synthetic data generation approaches, examining its impact on model training, evaluation practices, and overall task definition. Key topics include task definition challenges, trade-offs between data types, observed biases in models, and recent advances in LLM-based evaluation techniques. The talk will also explore scalable approaches for multilingual GEC and outline implications for future research.
+{: .notice--primary}
+  
+**Bio:** Kostiantyn Omelianchuk is an Applied Research Scientist and Area Tech Lead at Grammarly, where he works on practical applications of NLP, with a primary interest in Grammatical Error Correction (GEC). He has over nine years of experience in the field and has co-authored several papers, including _GECToR: Grammatical Error Correction – Tag, Not Rewrite_, a widely used approach in the GEC community. His research explores edit-based modeling, the use of large language models for text correction and simplification, and the transition from human-annotated to synthetic data for training and evaluation. His recent work focuses on multilingual GEC, LLM-based evaluation methods, and synthetic data generation.
+{: .notice}
+
 
 ## Participation
 
