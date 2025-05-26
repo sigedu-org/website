@@ -370,3 +370,4 @@ SIGEDU adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=
 - Qingyu Zhou (Bytedance)
 - Bowei Zou (Institute for Infocomm Research (I2R), A*STAR)
 - Liang Zou (New York University, Amazon)
+- Nikhil Wani (Independent Researcher)
