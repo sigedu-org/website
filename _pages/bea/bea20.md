@@ -222,6 +222,86 @@ We will also host a half-day tutorial on **LLMs for Education: Understanding the
 **Bio:** Kostiantyn Omelianchuk is an Applied Research Scientist and Area Tech Lead at Grammarly, where he works on practical applications of NLP, with a primary interest in Grammatical Error Correction (GEC). He has over nine years of experience in the field and has co-authored several papers, including _GECToR: Grammatical Error Correction – Tag, Not Rewrite_, a widely used approach in the GEC community. His research explores edit-based modeling, the use of large language models for text correction and simplification, and the transition from human-annotated to synthetic data for training and evaluation. His recent work focuses on multilingual GEC, LLM-based evaluation methods, and synthetic data generation.
 {: .notice}
 
+## Accepted Papers
+
+This year, we've received a total of 169 submissions to the main workshop track and **accepted 75 papers** (**44% acceptance rate**):
+
+- _Comparing human and LLM proofreading in L2 writing: Impact on lexical and syntactic features._ Hakyung Sung, Karla Csuros and Min-Chang Sung
+- _MateInfoUB: A Real-World Benchmark for Testing LLMs in Competitive, Multilingual, and Multimodal Educational Tasks._ Marius Dumitran, Mihnea Vicentiu Buca and Theodor Moroianu
+- _Unsupervised Automatic Short Answer Grading and Essay Scoring: A Weakly Supervised Explainable Approach._ Felipe Urrutia, Cristian Buc, Roberto Araya and Valentin Barriere
+- _A Survey on Automated Distractor Evaluation in Multiple-Choice Tasks._ Luca Benedetto, Shiva Taslimipoor and Paula Buttery
+- _Alignment Drift in CEFR-prompted LLMs for Interactive Spanish Tutoring._ Mina Almasi and Ross Deans Kristensen-McLachlan
+- _Leveraging Generative AI for Enhancing Automated Assessment in Programming Education Contests._ Stefan Dascalescu, Marius Dumitran and Mihai Alexandru Vasiluta
+- _Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students._ Daria Martynova, Jakub Macina, Nico Daheim, Nilay Yalcin, Xiaoyu Zhang and Mrinmaya Sachan
+- _Adapting LLMs for Minimal-edit Grammatical Error Correction._ Ryszard Staruch, Filip Gralinski and Daniel Dzienisiewicz
+- _COGENT: A Curriculum-oriented Framework for Generating Grade-appropriate Educational Content._ Zhengyuan Liu, Stella Xin Yin, Dion Hoe-Lian Goh and Nancy Chen
+- _Is Lunch Free Yet? Overcoming the Cold-Start Problem in Supervised Content Scoring using Zero-Shot LLM-Generated Training Data._ Marie Bexte and Torsten Zesch
+- _Transformer Architectures for Vocabulary Test Item Difficulty Prediction._ Lucy Skidmore, Mariano Felice and Karen Dunn
+- _Automatic concept extraction for learning domain modeling: A weakly supervised approach using contextualized word embeddings._ Kordula De Kuthy, Leander Girrbach and Detmar Meurers
+- _Towards a Real-time Swedish Speech Analyzer for Language Learning Games: A Hybrid AI Approach to Language Assessment._ Tianyi Geng and David Alfter
+- _Multilingual Grammatical Error Annotation: Combining Language-Agnostic Framework with Language-Specific Flexibility._ Mengyang Qiu, Tran Minh Nguyen, Zihao Huang, Zelong Li, Yang Gu, Qingyu Gao, Siliang Liu and Jungyeul Park
+- _LLM-based post-editing as reference-free GEC evaluation._ Robert Östling, Murathan Kurfali and Andrew Caines
+- _Increasing Generalizability of Similarity-Based Essay Scoring Through Cross-Prompt Training._ Marie Bexte, Yuning Ding and Andrea Horbach
+- _Automated Scoring of a German Written Elicited Imitation Test._ Mihail Chifligarov, Jammila Laâguidi, Max Schellenberg, Alexander Dill, Anna Timukova, Anastasia Drackert and Ronja Laarmann-Quante
+- _LLMs Protégés: Tutoring LLMs with Knowledge Gaps Improves Student Learning Outcome._ Andrei Kucharavy, Cyril Vallez and Dimitri Percia David
+- _LEVOS: Leveraging Vocabulary Overlap of Sanskrit for Technical Lexicon Generation in Indian Languages._ Karthika N J, Krishnakant Bhatt, Ganesh Ramakrishnan and Preethi Jyothi
+- _Do LLMs Give Psychometrically Plausible Responses in Educational Assessments?_ Andreas Säuberli, Diego Frassinelli and Barbara Plank
+- _Challenges for AI in Multimodal STEM Assessments: a Human-AI Comparison._ Aymeric de Chillaz, Anna Sotnikova, Patrick Jermann and Antoine Bosselut
+- _LookAlike: Consistent Distractor Generation in Math MCQs._ Nisarg Kamleshbhai Parikh, Nigel Fernandez, Alexander Scarlatos, Simon Woodhead and Andrew Lan
+- _You Shall Know a Word's Difficulty by the Family It Keeps: Word Family Features in Personalised Word Difficulty Classifiers for L2 Spanish._ Jasper Degraeuwe
+- _The Need for Truly Graded Lexical Complexity Prediction._ David Alfter
+- _Towards Automatic Formal Feedback on Scientific Documents._ Louise Bloch, Johannes Rückert and Christoph M. Friedrich
+- _Don't Score too Early! Evaluating Argument Mining Models on Incomplete Essays._ Nils-Jonathan Schaller, Yuning Ding, Thorben Jansen and Andrea Horbach
+- _Educators' Perceptions of Large Language Models as Tutors: Comparing Human and AI Tutors in a Blind Text-only Setting._ Sankalan Pal Chowdhury, Terry Jingchen Zhang, Donya Rooein, Dirk Hovy, Tanja Käser and Mrinmaya Sachan
+- _Transformer-based Real-Word Spelling Error Feedback with Configurable Confusion Sets._ Torsten Zesch, Dominic C. Gardner and Marie Bexte
+- _Automated L2 Proficiency Scoring: Weak Supervision, Large Language Models, and Statistical Guarantees._ Aitor Arronte Alvarez and Naiyi Xie Fincham
+- _Automatic Generation of Inference Making Questions for Reading Comprehension Assessments._ Wanjing (Anya) Ma, Michael M. Flor and Zuowei Wang
+- _Investigating Methods for Mapping Learning Objectives to Bloom's Revised Taxonomy in Course Descriptions for Higher Education._ Zahra Kolagar, Frank Zalkow and Alessandra Zarcone
+- _LangEye: Toward ‘Anytime' Learner-Driven Vocabulary Learning From Real-World Objects._ Mariana Shimabukuro, Deval Panchal and Christopher Collins
+- _Costs and Benefits of AI-Enabled Topic Modeling in P-20 Research: The Case of School Improvement Plans._ Syeda Sabrina Akter, Seth Hunter, David Woo and Antonios Anastasopoulos
+- _Advances in Auto-Grading with Large Language Models: A Cross-Disciplinary Survey._ Tania Amanda Nkoyo Frederick Eneye, Chukwuebuka Fortunate Ijezue, Ahmad Imam Amjad, Maaz Amjad, Sabur Butt and Gerardo Castañeda-Garza
+- _Unsupervised Sentence Readability Estimation Based on Parallel Corpora for Text Simplification._ rina miyata, Toru Urakawa, Hideaki Tamori and Tomoyuki Kajiwara
+- _From End-Users to Co-Designers: Lessons from Teachers._ Martina Galletti and Valeria Cesaroni
+- _LLMs in alliance with Edit-based models: advancing In-Context Learning for Grammatical Error Correction by Specific Example Selection._ Alexey Sorokin and Regina Nasyrova
+- _Explaining Holistic Essay Scores in Comparative Judgment Assessments by Predicting Scores on Rubrics._ Michiel De Vrindt, Renske Bouwer, Wim Van Den Noortgate, Marije Lesterhuis and Anaïs Tack
+- _Enhancing Arabic Automated Essay Scoring with Synthetic Data and Error Injection._ Chatrine Qwaider, Bashar Alhafni, Kirill Chirkunov, Nizar Habash and Ted Briscoe
+- _Direct Repair Optimization: Training Small Language Models For Educational Program Repair Improves Feedback Abilities._ Charles Arole Koutcheme, Nicola Dainese and Arto Hellas
+- _Analyzing Interview Questions via Bloom's Taxonomy to Enhance the Design Thinking Process._ Fatemeh Kazemi Vanhari, Christopher Anand and Charles Welch
+- _Estimation of Text Difficulty in the Context of Language Learning._ Anisia Katinskaia, Anh-Duc Vu, Jue Hou, Yiheng Wu and Roman Yangarber
+- _Are Large Language Models for Education Reliable Across Languages?_ Vansh Gupta, Sankalan Pal Chowdhury, Vilém Zouhar, Donya Rooein and Mrinmaya Sachan
+- _Exploiting the English Vocabulary Profile for L2 word-level vocabulary assessment with LLMs._ Stefano Banno, Kate M. Knill and Mark Gales
+- _Advancing Question Generation with Joint Narrative and Difficulty Control._ Bernardo Leite and Henrique Lopes Cardoso
+- _Down the Cascades of Omethi: Hierarchical Automatic Scoring in Large-Scale Assessments._ Fabian Zehner, Hyo Jeong Shin, Emily Kerzabi, Andrea Horbach, Sebastian Gombert, Frank Goldhammer, Torsten Zesch and Nico Andersen
+- _Lessons Learned in Assessing Student Reflections with LLMs._ Mohamed Elaraby and Diane Litman
+- _Using NLI to Identify Potential Collocation Transfer in L2 English._ Haiyin Yang, Zoey Liu and Stefanie Wulff
+- _Name of Thrones: How Do LLMs Rank Student Names in Status Hierarchies Based on Race and Gender?_ Annabella Sakunkoo and Jonathan Sakunkoo
+- _Exploring LLM-Based Assessment of Italian Middle School Writing: A Pilot Study._ Adriana Mirabella and Dominique Brunato
+- _Exploring task formulation strategies to evaluate the coherence of classroom discussions with GPT-4o._ Yuya Asano, Beata Beigman Klebanov and Jamie Mikeska
+- _A Bayesian Approach to Inferring Prerequisite Structures and Topic Difficulty in Language Learning._ Anh-Duc Vu, Jue Hou, Anisia Katinskaia and Roman Yangarber
+- _Improving In-context Learning Example Retrieval for Classroom Discussion Assessment with Re-ranking and Label Ratio Regulation._ Nhat Tran, Diane Litman, Benjamin Pierce, Richard Correnti and Lindsay Clare Matsumura
+- _Exploring LLMs for Predicting Tutor Strategy and Student Outcomes in Dialogues._ Fareya Ikram, Alexander Scarlatos and Andrew Lan
+- _Assessing Critical Thinking Components in Romanian Secondary School Textbooks: A Data Mining Approach to the ROTEX Corpus._ Madalina Chitez, Liviu P. Dinu, Marius Micluta-Campeanu, Ana-Maria Bucur and Roxana Rogobete
+- _Improving AI assistants embedded in short e-learning courses with limited textual content._ Jacek Marciniak, Marek Kubis, Michał Gulczyński, Adam Szpilkowski, Adam Wieczarek and Marcin Szczepański
+- _Reducing Cognitive Load in Digital Reading: An LLM-Powered Approach for Universal Reading Comprehension._ Junzhi Han and Jinho D. Choi
+- _GermDetect: Verb Placement Error Detection Datasets for Learners of Germanic Languages._ Noah-Manuel Michael and Andrea Horbach
+- _Enhancing Security and Strengthening Defenses in Automated Short-Answer Grading Systems._ Sahar Yarmohammadtoosky, Yiyun Zhou, Victoria Yaneva, Peter Baldwin, Saed Rezayi, Brian Clauser and Polina Harik
+- _EyeLLM: Using Lookback Fixations to Enhance Human-LLM Alignment for Text Completion._ Astha Singh, Mark Torrance and Evgeny Chukharev
+- _Span Labeling with Large Language Models: Shell vs. Meat._ Phoebe Mulcaire and Nitin Madnani
+- _Intent Matters: Enhancing AI Tutoring with Fine-Grained Pedagogical Intent Annotation._ Kseniia Petukhova and Ekaterina Kochmar
+- _Comparing Behavioral Patterns of LLM and Human Tutors: A Population-level Analysis with the CIMA Dataset._ Aayush Punam Kucheria, Nitin Sawhney and Arto Hellas
+- _Temporalizing Confidence: Signal Temporal Logic Evaluation of Multi-Step Chain-of-Thought Reasoning._ Zhenjiang Mao, Rohith Reddy Nama and Artem Bisliouk
+- _Automated Scoring of Communication Skills in Physician-Patient Interaction: Balancing Performance and Scalability._ Saed Rezayi, Le An Ha, Yiyun Zhou, Andrew Houriet, Angelo D'Addario, Peter Baldwin, Polina Harik, Ann King and Victoria Yaneva
+- _Decoding Actionability: A Computational Analysis of Teacher Observation Feedback._ Mayank Sharma and Jason Zhang
+- _EduCSW: Building a Mandarin-English Code-Switched Generation Pipeline for Computer Science Learning._ Ruishi Chen and Yiling Zhao
+- _STAIR-AIG: Optimizing the Automated Item Generation Process through Human-AI Collaboration for Critical Thinking Assessment._ Euigyum Kim, Seewoo Li, Salah Khalil and Hyo Jeong Shin
+- _UPSC2M: Benchmarking Adaptive Learning from Two Million MCQ Attempts._ Kevin Shi and Karttikeya Mangalam
+- _Can GPTZero's AI Vocabulary Distinguish Between LLM-Generated and Student-Written Essays?_ Veronica J. Schmalz and Anaïs Tack
+- _Paragraph-level Error Correction and Explanation Generation: Case Study for Estonian._ Martin Vainikko, Taavi Kamarik, Karina Kert, Krista Liin, Silvia Maine, Kais Allkivi, Annekatrin Kaivapalu and Mark Fishel
+- _End-to-End Automated Item Generation and Scoring for Adaptive English Writing Assessment with Large Language Models._ Kamel Nebhi, Amrita Panesar and Hans Bantilan
+- _A Framework for Proficiency-Aligned Grammar Practice in LLM-Based Dialogue Systems._ Luisa Ribeiro-Flucht, Xiaobin Chen and Detmar Meurers
+- _Can LLMs Reliably Simulate Real Students' Abilities in Mathematics and Reading Comprehension?_ KV Aditya Srivatsa, Kaushal Kumar Maurya and Ekaterina Kochmar
+- _LLM-Assisted, Iterative Curriculum Writing: A Human-Centered AI Approach in Finnish Higher Education._ Leo Einari Huovinen and Mika Hämäläinen
+
 
 ## Participation
 
