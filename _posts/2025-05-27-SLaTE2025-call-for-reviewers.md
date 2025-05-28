@@ -16,7 +16,7 @@ news_summary:
   # [!] it is important to write a short summary if the post is too long (~several paragraphs)
   # [!] otherwise, the content below will be truncated to 280 characters on the news feed
   # [!] however, if the post is short enough (< 280 characters), you may disregard this option
-  ""
+  "The 10th Workshop on Speech and Language Technology in Education (SLaTE 2025) is seeking additional reviewers to join its Program Committee. To sign fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSf7ULKnOyLRqQPoSJUMYOIXQYdIWPUEJLyT-hQv3-kYoIhQpA/viewform)"
 toc: false
 published: true
 ---
