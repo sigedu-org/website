@@ -305,17 +305,17 @@ This year, we've received a total of 169 submissions to the main workshop track 
 
 ## Participation
 
-### Registration
+### Registration and Visa information
 
-*TBD*
-
-###  Visa information
-
-*TBD*
+- Our workshop is co-located with the ACL 2025 conference, and registration is managed by them. It is a requirement by ACL that at least one author per paper should register for the workshop (or the full conference, if you are attending the full conference) under the “Registering Paper” category. Please see registration fees and further clarifications at [https://2025.aclweb.org/registration/](https://2025.aclweb.org/registration/). The fees vary depending on your status (academic / industry, student / non-student, attending only the workshop or the full conference, in-person / online), and you should select an appropriate category. If you are the presenter of the paper, you will also need to select the "Registering Paper" option; if your co-authors are attending the workshop but not presenting, they do not need to select this category – one per paper is enough.
+- If you are a shared task paper presenter, you do not need to select the “Registering Paper” category.
+- The early registration deadline is **July 2nd**.
+- We have received some questions about volunteering positions. To confirm, we do not have volunteering positions at BEA, but ACL has student volunteering positions that you can apply for if you are eligible (see [https://2025.aclweb.org/calls/volunteers/](https://2025.aclweb.org/calls/volunteers/)). If you are selected, this comes with a registration fee waiver. The deadline for these applications is **June 6th**.
+- Once you are registered via [https://2025.aclweb.org/registration/](https://2025.aclweb.org/registration/), ACL will issue an invitation letter for you that you can use for your visa application.
 
 ### Anti-Harassment Policy
 
-SIGEDU adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy">ACL Anti-Harassment Policy</a> for the BEA workshops. Any participant of the workshop who experiences harassment or hostile behavior may contact any current member of the <a href="https://www.aclweb.org/portal/about">ACL Executive Committee</a> or contact <a href="mailto:acl@aclweb.org">Priscilla Rasmussen</a>, who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
+SIGEDU adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy">ACL Anti-Harassment Policy</a> for the BEA workshops. Any participant of the workshop who experiences harassment or hostile behavior may contact any current member of the <a href="https://www.aclweb.org/portal/about">ACL Executive Committee</a>. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
 
 ## Workshop Committees
 
