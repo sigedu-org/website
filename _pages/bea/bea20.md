@@ -329,7 +329,7 @@ SIGEDU adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=
 - **Publication Chair**: [Anaïs Tack](https://anaistack.github.io/), KU Leuven, imec
 - **Shared Task & Tutorial Chairs**:
   - [Victoria Yaneva](http://www.victoriayaneva.info/), National Board of Medical Examiners
-  - [Bashar Alhafni](https://www.basharalhafni.com), New York University (NYU) \& CAMeL Lab in NYUAD
+  - [Bashar Alhafni](https://www.basharalhafni.com), MBZUAI
 - **Sponsorship Chair**:
   - [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/), King's College London
   - [Jill Burstein](https://sites.google.com/site/jbursteinets/), Duolingo
@@ -337,7 +337,7 @@ SIGEDU adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=
 ### Program Committee
 - Giora Alexandron (Weizmann Institute of Science)
 - David Alfter (University of Gothenburg)
-- Bashar Alhafni (New York University)
+- Bashar Alhafni (MBZUAI)
 - Nischal Ashok Kumar (University of Massachusetts Amherst)
 - Michael Gringo Angelo Bayona (Trinity College Dublin)
 - Lee Becker (Pearson)
