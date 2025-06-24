@@ -142,9 +142,7 @@ In addition to the main track, the workshop will host a half-day tutorial:
 
 ### [Schedule](/bea/2025/schedule)
 
-## Participation
-
-
+### [Participation](/bea/2025/participation)
 
 ## Committees
 
