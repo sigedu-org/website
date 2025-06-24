@@ -18,15 +18,15 @@ The BEA workshop is held in conjunction with [ACL 2025](https://2025.aclweb.org)
 
 ### For Authors and Presenters
 
-In accordance with ACL policy, at least one author of each accepted paper must register under the “Registering Paper” category—either for the workshop or the full conference.
+In accordance with ACL policy, at least one author of each accepted paper must register by the early registration deadline. 
 
-- If you are presenting the paper, you are required to select this category. 
-- Co-authors who are attending but not presenting do not need to register under it; one registration per paper is sufficient.
+- If you are presenting the paper, you are required to select the “Registering Paper” category.
+- Co-authors who are attending but not presenting do not need to select this category; one registration per paper is sufficient.
 - Presenters of shared task papers are exempt from selecting the “Registering Paper” category.
 
 ## Volunteering
 
-The BEA workshop does not offer any volunteer opportunities. However, the ACL conference provides student volunteering opportunities for eligible applicants. Successful candidates receive a registration fee waiver. Details and application instructions are available here. The application deadline is **June 6th, 2025**.
+The BEA workshop does not offer any volunteer opportunities. However, the ACL conference provides student volunteering opportunities for eligible applicants. Successful candidates receive a registration fee waiver. Details and application instructions are available [here](https://2025.aclweb.org/calls/volunteers/). The application deadline is **June 6th, 2025**.
 
 ## Visa
 
