@@ -1,0 +1,511 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:program
+PRODID:-//Anaïs Tack//Emacs with Org mode//EN
+X-WR-TIMEZONE:CEST
+X-WR-CALDESC:The 20th Workshop on Innovative Use of NLP for Building Educational Applications
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20250624T193141Z
+UID:TS1-ab6744bc-6df3-44b1-b242-ddba91fd5920
+DTSTART:20250731T090000
+DTEND:20250731T103000
+SUMMARY:BEA 2025: Tutorial Session A
+DESCRIPTION:<2025-07-31 Thu 09:00>–<2025-07-31 Thu 10:30>
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193141Z
+UID:TS1-d778b1df-a944-4266-b8e2-3dd14e36ce98
+DTSTART:20250731T103000
+DTEND:20250731T110000
+SUMMARY:BEA 2025: Coffee Break
+DESCRIPTION:<2025-07-31 Thu 10:30>–<2025-07-31 Thu 11:00>
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193141Z
+UID:TS1-a5d7e1f2-71ab-43a2-9713-3660cd07f35e
+DTSTART:20250731T110000
+DTEND:20250731T123000
+SUMMARY:BEA 2025: Tutorial Session B
+DESCRIPTION:<2025-07-31 Thu 11:00>–<2025-07-31 Thu 12:30>
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193141Z
+UID:TS1-a6c54220-2ce5-4fb9-ac9a-914c6361fea8
+DTSTART:20250731T123000
+DTEND:20250731T140000
+SUMMARY:BEA 2025: Lunch Break / Birds of a Feather
+DESCRIPTION:<2025-07-31 Thu 12:30>–<2025-07-31 Thu 14:00>
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193141Z
+UID:TS1-402e6e65-8c8a-4032-a209-217cb1b12946
+DTSTART:20250731T140000
+DTEND:20250731T153000
+SUMMARY:BEA 2025: Oral Session A
+DESCRIPTION:<2025-07-31 Thu 14:00>–<2025-07-31 Thu 15:30>
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193141Z
+UID:TS1-483ef8af-a9da-4898-a594-aeb7faf9ac83
+DTSTART:20250731T140000
+DTEND:20250731T141500
+SUMMARY:A Bayesian Approach to Inferring Prerequisite Structures and Topic 
+ Difficulty in Language Learning
+DESCRIPTION:<2025-07-31 Thu 14:00>–<2025-07-31 Thu 14:15>\n\nby Anh-Duc Vu\
+ , Jue Hou\, Anisia Katinskaia\, Ching-Fan Sheu\, Roman\nYangarber
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193141Z
+UID:TS1-be088231-926b-4647-bfa7-0f0e23bf1119
+DTSTART:20250731T141500
+DTEND:20250731T143000
+SUMMARY:Enhancing Arabic Automated Essay Scoring with Synthetic Data and Er
+ ror Injection
+DESCRIPTION:<2025-07-31 Thu 14:15>–<2025-07-31 Thu 14:30>\n\nby Chatrine Qw
+ aider\, Bashar Alhafni\, Kirill Chirkunov\, Nizar Habash\,\nTed Briscoe
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193141Z
+UID:TS1-4ea6d569-a600-42dc-877f-a9d2da58bebc
+DTSTART:20250731T143000
+DTEND:20250731T144500
+SUMMARY:Alignment Drift in CEFR-prompted LLMs for Interactive Spanish Tutor
+ ing
+DESCRIPTION:<2025-07-31 Thu 14:30>–<2025-07-31 Thu 14:45>\n\nby Mina Almasi
+ \, Ross Kristensen-McLachlan
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193141Z
+UID:TS1-b0ced01c-6cc0-45e1-9bd8-91f2cb421c38
+DTSTART:20250731T144500
+DTEND:20250731T150000
+SUMMARY:You Shall Know a Word’s Difficulty by the Family It Keeps: Word Fam
+ ily Features in Personalised Word Difficulty Classifiers for L2 Spanish
+DESCRIPTION:<2025-07-31 Thu 14:45>–<2025-07-31 Thu 15:00>\n\nby Jasper Degr
+ aeuwe
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193141Z
+UID:TS1-cde290ad-a807-401e-8ed5-7a5d0ab6e488
+DTSTART:20250731T150000
+DTEND:20250731T151500
+SUMMARY:Assessing Critical Thinking Components in Romanian Secondary School
+  Textbooks: A Data Mining Approach to the ROTEX Corpus
+DESCRIPTION:<2025-07-31 Thu 15:00>–<2025-07-31 Thu 15:15>\n\nby Madalina Ch
+ itez\, Liviu Dinu\, Marius Micluta-Campeanu\, Ana-Maria\nBucur\, Roxana Ro
+ gobete
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193141Z
+UID:TS1-4d403771-843a-426c-8591-e45acd0ea9b1
+DTSTART:20250731T151500
+DTEND:20250731T153000
+SUMMARY:Unsupervised Automatic Short Answer Grading and Essay Scoring: A We
+ akly Supervised Explainable Approach
+DESCRIPTION:<2025-07-31 Thu 15:15>–<2025-07-31 Thu 15:30>\n\nby Felipe Urru
+ tia\, Cristian Buc\, Roberto Araya\, Valentin Barriere
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193141Z
+UID:TS1-8ba5b5dd-ad57-4b32-ad27-cbc8d376cfcc
+DTSTART:20250731T153000
+DTEND:20250731T160000
+SUMMARY:BEA 2025: Coffee Break
+DESCRIPTION:<2025-07-31 Thu 15:30>–<2025-07-31 Thu 16:00>
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193141Z
+UID:TS1-aa340ee9-2241-40be-a105-139dd549a28d
+DTSTART:20250731T160000
+DTEND:20250731T173000
+SUMMARY:BEA 2025: Poster Session A
+DESCRIPTION:<2025-07-31 Thu 16:00>–<2025-07-31 Thu 17:30>\n\n• 18: A Survey
+  on Automated Distractor Evaluation in Multiple-Choice\n  Tasks (Luca Bene
+ detto\, Shiva Taslimipoor\, Paula Buttery)\n• 43: Increasing the Generaliz
+ ability of Similarity-Based Essay\n  Scoring Through Cross-Prompt Training
+  (Marie Bexte\, Yuning Ding\,\n  Andrea Horbach)\n• 34: Automatic concept 
+ extraction for learning domain modeling: A\n  weakly supervised approach u
+ sing contextualized word embeddings\n  (Kordula De Kuthy\, Leander Girrbac
+ h\, Detmar Meurers)\n• 44: Automated Scoring of a German Written Elicited 
+ Imitation Test\n  (Mihail Chifligarov\, Jammila Laâguidi\, Max Schellenber
+ g\, Alexander\n  Dill\, Anna Timukova\, Anastasia Drackert\, Ronja Laarman
+ n-Quante)\n• 56: Challenges for AI in Multimodal STEM Assessments: a Human
+ -AI\n  Comparison (Aymeric de Chillaz\, Anna Sotnikova\, Patrick Jermann\,
+ \n  Antoine Bosselut)\n• 64: Don’t Score too Early! Evaluating Argument Mi
+ ning Models on\n  Incomplete Essays (Nils-Jonathan Schaller\, Yuning Ding\
+ , Thorben\n  Jansen\, Andrea Horbach)\n• 72: LangEye: Toward ’Anytime’ Lea
+ rner-Driven Vocabulary Learning\n  From Real-World Objects (Mariana Shimab
+ ukuro\, Deval Panchal\,\n  Christopher Collins)\n• 80: Explaining Holistic
+  Essay Scores in Comparative Judgment\n  Assessments by Predicting Scores 
+ on Rubrics (Michiel De Vrindt\,\n  Renske Bouwer\, Wim Van Den Noortgate\,
+  Marije Lesterhuis\, Anaïs Tack)\n• 109: Name of Thrones: How Do LLMs Rank
+  Student Names in Status\n  Hierarchies Based on Race and Gender? (Annabel
+ la Sakunkoo\, Jonathan\n  Sakunkoo)\n• 136: Enhancing Security and Strengt
+ hening Defenses in Automated\n  Short-Answer Grading Systems (Sahar Yarmoh
+ ammadtoosky\, Yiyun Zhou\,\n  Victoria Yaneva\, Peter Baldwin\, Saed Rezay
+ i\, Brian Clauser\, Polina\n  Harik)\n• 150: EduCSW: Building a Mandarin-E
+ nglish Code-Switched Generation\n  Pipeline for Computer Science Learning 
+ (Ruishi Chen\, Yiling Zhao)\n• 158: Paragraph-level Error Correction and E
+ xplanation Generation:\n  Case Study for Estonian (Martin Vainikko\, Taavi
+  Kamarik\, Karina\n  Kert\, Krista Liin\, Silvia Maine\, Kais Allkivi\, An
+ nekatrin Kaivapalu\,\n  Mark Fishel)\n• 167: Can LLMs Reliably Simulate Re
+ al Students’ Abilities in\n  Mathematics and Reading Comprehension? (KV Ad
+ itya Srivatsa\, Kaushal\n  Maurya\, Ekaterina Kochmar)\n• 32: Transformer 
+ Architectures for Vocabulary Test Item Difficulty\n  Prediction (Lucy Skid
+ more\, Mariano Felice\, Karen Dunn)\n• 5: Comparing human and LLM proofrea
+ ding in L2 writing: Impact on\n  lexical and syntactic features (Hakyung S
+ ung\, Karla Csuros\,\n  Min-Chang Sung)\n• 12: MateInfoUB: A Real-World Be
+ nchmark for Testing LLMs in\n  Competitive\, Multilingual\, and Multimodal
+  Educational Tasks (Marius\n  Dumitran\, Mihnea Buca\, Theodor Moroianu)\n
+ • 71: Investigating Methods for Mapping Learning Objectives to Bloom’s\n  
+ Revised Taxonomy in Course Descriptions for Higher Education (Zahra\n  Kol
+ agar\, Frank Zalkow\, Alessandra Zarcone)\n• 108: Using NLI to Identify Po
+ tential Collocation Transfer in L2\n  English (Haiyin Yang\, Zoey Liu\, St
+ efanie Wulff)\n• 122: Improving In-context Learning Example Retrieval for 
+ Classroom\n  Discussion Assessment with Re-ranking and Label Ratio Regulat
+ ion\n  (Nhat Tran\, Diane Litman\, Benjamin Pierce\, Richard Correnti\, Li
+ ndsay\n  Clare Matsumura)\n• 144: Comparing Behavioral Patterns of LLM and
+  Human Tutors: A\n  Population-level Analysis with the CIMA Dataset (Aayus
+ h Kucheria\,\n  Nitin Sawhney\, Arto Hellas)\n• 155: UPSC2M: Benchmarking 
+ Adaptive Learning from Two Million MCQ\n  Attempts (Kevin Shi\, Karttikeya
+  Mangalam)\n• 36: Multilingual Grammatical Error Annotation: Combining\n  
+ Language-Agnostic Framework with Language-Specific Flexibility\n  (Mengyan
+ g Qiu\, Tran Minh Nguyen\, Zihao Huang\, Zelong Li\, Yang Gu\,\n  Qingyu G
+ ao\, SILIANG LIU\, Jungyeul Park)\n• 70: Automatic Generation of Inference
+  Making Questions for Reading\n  Comprehension Assessments (Wanjing (Anya)
+  Ma\, Michael Flor\, Zuowei\n  Wang)\n• 107: Lessons Learned in Assessing 
+ Student Reflections with LLMs\n  (Mohamed Elaraby\, Diane Litman)\n• 69: A
+ utomated L2 Proficiency Scoring: Weak Supervision\, Large\n  Language Mode
+ ls\, and Statistical Guarantees (Aitor Arronte Alvarez\,\n  Naiyi Xie Finc
+ ham)\n• 74: Advances in Auto-Grading with Large Language Models: A\n  Cros
+ s-Disciplinary Survey (Tania Amanda Nkoyo Frederick Eneye\,\n  Chukwuebuka
+  Fortunate Ijezue\, Ahmad Imam Amjad\, Maaz Amjad\, Sabur\n  Butt\, Gerard
+ o Castañeda-Garza)\n• 123: Exploring LLMs for Predicting Tutor Strategy an
+ d Student\n  Outcomes in Dialogues (Fareya Ikram\, Alexander Scarlatos\, A
+ ndrew\n  Lan)\n• 145: Temporalizing Confidence: Evaluation of Chain-of-Tho
+ ught\n  Reasoning with Signal Temporal Logic (Zhenjiang Mao\, Artem Bislio
+ uk\,\n  Rohith Nama\, Ivan Ruchkin)
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193141Z
+UID:TS1-45159918-8ad6-4f46-a62e-865cea7f53db
+DTSTART:20250731T180000
+DTEND:20250731T210000
+SUMMARY:BEA 2025: Workshop Dinner
+DESCRIPTION:<2025-07-31 Thu 18:00>–<2025-07-31 Thu 21:00>
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193141Z
+UID:TS1-61ccd45a-812e-4df1-ad8b-7a2f3fdd5525
+DTSTART:20250801T090000
+DTEND:20250801T094500
+SUMMARY:BEA 2025: Keynote Talk by Kostia Omelianchuk
+DESCRIPTION:<2025-08-01 Fri 09:00>–<2025-08-01 Fri 09:45>
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193142Z
+UID:TS1-3432f4e9-64bf-4131-82f2-889d60d5bc10
+DTSTART:20250801T094500
+DTEND:20250801T103000
+SUMMARY:BEA 2025: Oral Session B
+DESCRIPTION:<2025-08-01 Fri 09:45>–<2025-08-01 Fri 10:30>
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193141Z
+UID:TS1-4e435f07-85c6-47f1-be50-55b308f9079c
+DTSTART:20250801T094500
+DTEND:20250801T100000
+SUMMARY:LLMs in alliance with Edit-based models: advancing In-Context Learn
+ ing for Grammatical Error Correction by Specific Example Selection
+DESCRIPTION:<2025-08-01 Fri 09:45>–<2025-08-01 Fri 10:00>\n\nby Alexey Soro
+ kin\, Regina Nasyrova
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193142Z
+UID:TS1-fdc9f0a2-26e3-4286-a223-c9f4dd9ea6ec
+DTSTART:20250801T100000
+DTEND:20250801T101500
+SUMMARY:Findings of the BEA 2025 Shared Task on Pedagogical Ability Assessm
+ ent of AI-powered Tutors
+DESCRIPTION:<2025-08-01 Fri 10:00>–<2025-08-01 Fri 10:15>\n\nby Ekaterina K
+ ochmar\, Kaushal Maurya\, Kseniia Petukhova\, KV Aditya\nSrivatsa\, Anaïs 
+ Tack\, Justin Vasselli
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193142Z
+UID:TS1-c9f8e436-e7e8-457d-a443-35f93729b6c5
+DTSTART:20250801T101500
+DTEND:20250801T103000
+SUMMARY:MSA at BEA 2025 Shared Task: Disagreement-Aware Instruction Tuning 
+ for Multi-Dimensional Evaluation of LLMs as Math Tutors
+DESCRIPTION:<2025-08-01 Fri 10:15>–<2025-08-01 Fri 10:30>\n\nby Baraa Hikal
+ \, Mohmaed Basem\, Islam Oshallah\, Ali Hamdi
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193142Z
+UID:TS1-80fa5b56-0b9e-4438-89ba-301d78c8d076
+DTSTART:20250801T103000
+DTEND:20250801T110000
+SUMMARY:BEA 2025: Coffee Break
+DESCRIPTION:<2025-08-01 Fri 10:30>–<2025-08-01 Fri 11:00>
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193142Z
+UID:TS1-0959b392-248d-4910-b7b4-82b93714406b
+DTSTART:20250801T110000
+DTEND:20250801T123000
+SUMMARY:BEA 2025: Poster Session B
+DESCRIPTION:<2025-08-01 Fri 11:00>–<2025-08-01 Fri 12:30>\n\n• 20: Leveragi
+ ng Generative AI for Enhancing Automated Assessment in\n  Programming Educ
+ ation Contests (Stefan Dascalescu\, Marius Dumitran\,\n  Mihai Alexandru V
+ asiluta)\n• 31: Is Lunch Free Yet? Overcoming the Cold-Start Problem in\n 
+  Supervised Content Scoring using Zero-Shot LLM-Generated Training\n  Data
+  (Marie Bexte\, Torsten Zesch)\n• 35: Towards a Real-time Swedish Speech A
+ nalyzer for Language\n  Learning Games: A Hybrid AI Approach to Language A
+ ssessment (Tianyi\n  Geng\, David Alfter)\n• 50: LEVOS: Leveraging Vocabul
+ ary Overlap with Sanskrit to Generate\n  Technical Lexicons in Indian Lang
+ uages (Karthika N J\, Krishnakant\n  Bhatt\, Ganesh Ramakrishnan\, Preethi
+  Jyothi)\n• 62: The Need for Truly Graded Lexical Complexity Prediction (D
+ avid\n  Alfter)\n• 66: Educators’ Perceptions of Large Language Models as 
+ Tutors:\n  Comparing Human and AI Tutors in a Blind Text-only Setting (San
+ kalan\n  Pal Chowdhury\, Terry Jingchen Zhang\, Donya Rooein\, Dirk Hovy\,
+  Tanja\n  Käser\, Mrinmaya Sachan)\n• 73: Costs and Benefits of AI-Enabled
+  Topic Modeling in P-20\n  Research: The Case of School Improvement Plans 
+ (Syeda Sabrina Akter\,\n  Seth Hunter\, David Woo\, Antonios Anastasopoulo
+ s)\n• 93: Are Large Language Models for Education Reliable Across\n  Langu
+ ages? (Vansh Gupta\, Sankalan Pal Chowdhury\, Vilém Zouhar\, Donya\n  Rooe
+ in\, Mrinmaya Sachan)\n• 138: Span Labeling with Large Language Models: Sh
+ ell vs. Meat\n  (Phoebe Mulcaire\, Nitin Madnani)\n• 153: STAIR-AIG: Optim
+ izing the Automated Item Generation Process\n  through Human-AI Collaborat
+ ion for Critical Thinking Assessment\n  (Euigyum Kim\, Seewoo Li\, Salah K
+ halil\, Hyo Jeong Shin)\n• 164: End-to-End Automated Item Generation and S
+ coring for Adaptive\n  English Writing Assessment with Large Language Mode
+ ls (Kamel Nebhi\,\n  Amrita Panesar\, Hans Bantilan)\n• 175: bea-jh at BEA
+  2025 Shared Task: Evaluating AI-powered Tutors\n  through Pedagogically-I
+ nformed Reasoning (Jihyeon Roh\, Jinhyun Bang)\n• 185: K-NLPers at BEA 202
+ 5 Shared Task: Evaluating the Quality of AI\n  Tutor Responses with GPT-4.
+ 1 (Geon Park\, Jiwoo Song\, Gihyeon Choi\,\n  Juoh Sun\, Harksoo Kim)\n• 1
+ 90: IALab UC at BEA 2025 Shared Task: LLM-Powered Expert\n  Pedagogical Fe
+ ature Extraction (Sofía Correa Busquets\, Valentina\n  Córdova Véliz\, Jor
+ ge Baier)\n• 188: TBA at BEA 2025 Shared Task: Transfer-Learning from DARE
+ -TIES\n  Merged Models for the Pedagogical Ability Assessment of LLM-Power
+ ed\n  Math Tutors (Sebastian Gombert\, Fabian Zehner\, Hendrik Drachsler)\
+ n• 30: COGENT: A Curriculum-oriented Framework for Generating\n  Grade-app
+ ropriate Educational Content (Zhengyuan Liu\, Stella Xin\n  Yin\, Dion Hoe
+ -Lian Goh\, Nancy Chen)\n• 88: Analyzing Interview Questions via Bloom’s T
+ axonomy to Enhance\n  the Design Thinking Process (Fatemeh Kazemi Vanhari\
+ , Christopher\n  Anand\, Charles Welch)\n• 110: Exploring LLM-Based Assess
+ ment of Italian Middle School\n  Writing: A Pilot Study (Adriana Mirabella
+ \, Dominique Brunato)\n• 129: Beyond Linear Digital Reading: An LLM-Powere
+ d Concept Mapping\n  Approach for Reducing Cognitive Load (Junzhi Han\, Ji
+ nho D. Choi)\n• 179: BLCU-ICALL at BEA 2025 Shared Task: Multi-Strategy Ev
+ aluation\n  of AI Tutors (Jiyuan An\, Xiang Fu\, Bo Liu\, Xuquan Zong\, Cu
+ nliang\n  Kong\, Shuliang Liu\, Shuo Wang\, Zhenghao Liu\, Liner Yang\, Ha
+ nghang\n  Fan\, Erhong Yang)\n• 173: Jinan Smart Education at BEA 2025 Sha
+ red Task: Dual Encoder\n  Architecture for Tutor Identification via Semant
+ ic Understanding of\n  Pedagogical Conversations (Lei Chen)\n• 176: CU at 
+ BEA 2025 Shared Task: A BERT-Based Cross-Attention\n  Approach for Evaluat
+ ing Pedagogical Responses in Dialogue (Zhihao\n  Lyu)\n• 178: SYSUpporter 
+ Team at BEA 2025 Shared Task: Class Compensation\n  and Assignment Optimiz
+ ation for LLM-generated Tutor Identification\n  (Longfeng Chen\, Zeyu Huan
+ g\, Zheng Xiao\, Yawen Zeng\, Jin Xu)\n• 181: Emergent Wisdom at BEA 2025 
+ Shared Task: From Lexical\n  Understanding to Reflective Reasoning for Ped
+ agogical Ability\n  Assessment (Raunak Jain\, Srinivasan Rengarajan)\n• 18
+ 6: Henry at BEA 2025 Shared Task: Improving AI Tutor’s Guidance\n  Evaluat
+ ion Through Context-Aware Distillation (Henry Pit)\n• 192: TutorMind at BE
+ A 2025 Shared Task: Leveraging Fine-Tuned LLMs\n  and Data Augmentation fo
+ r Mistake Identification (FATIMA DEKMAK\,\n  Christian Khairallah\, Wissam
+  Antoun)\n• 198: BD at BEA 2025 Shared Task: MPNet Ensembles for Pedagogic
+ al\n  Mistake Identification and Localization in AI Tutor Responses\n  (Sh
+ adman Rohan\, Ishita Sur Apan\, Muhtasim Shochcho\, Md Fahim\,\n  Mohammad
+  Rahman\, AKM Mahbubur Rahman\, Amin Ali)\n• 168: LLM-Assisted\, Iterative
+  Curriculum Writing: A Human-Centered AI\n  Approach in Finnish Higher Edu
+ cation (Leo Huovinen\, Mika Hämäläinen)
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193142Z
+UID:TS1-73b0fae9-4059-4222-a8e9-ab5a4f43afb5
+DTSTART:20250801T123000
+DTEND:20250801T140000
+SUMMARY:BEA 2025: Lunch Break / Birds of a Feather
+DESCRIPTION:<2025-08-01 Fri 12:30>–<2025-08-01 Fri 14:00>
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193142Z
+UID:TS1-ca787086-c132-4d77-a6fc-25f154028894
+DTSTART:20250801T140000
+DTEND:20250801T153000
+SUMMARY:BEA 2025: Poster Session C
+DESCRIPTION:<2025-08-01 Fri 14:00>–<2025-08-01 Fri 15:30>\n\n• 27: Can LLMs
+  Effectively Simulate Human Learners? Teachers’ Insights\n  from Tutoring 
+ LLM Students (Daria Martynova\, Jakub Macina\, Nico\n  Daheim\, Nilay Yalc
+ in\, Xiaoyu Zhang\, Mrinmaya Sachan)\n• 29: Adapting LLMs for Minimal-edit
+  Grammatical Error Correction\n  (Ryszard Staruch\, Filip Gralinski\, Dani
+ el Dzienisiewicz)\n• 53: Do LLMs Give Psychometrically Plausible Responses
+  in Educational\n  Assessments? (Andreas Säuberli\, Diego Frassinelli\, Ba
+ rbara Plank)\n• 63: Towards Automatic Formal Feedback on Scientific Docume
+ nts\n  (Louise Bloch\, Johannes Rückert\, Christoph Friedrich)\n• 67: Tran
+ sformer-Based Real-Word Spelling Error Feedback with\n  Configurable Confu
+ sion Sets (Torsten Zesch\, Dominic Gardner\, Marie\n  Bexte)\n• 75: Unsupe
+ rvised Sentence Readability Estimation Based on Parallel\n  Corpora for Te
+ xt Simplification (Rina Miyata\, Toru Urakawa\, Hideaki\n  Tamori\, Tomoyu
+ ki Kajiwara)\n• 100: Exploiting the English Vocabulary Profile for L2 word
+ -level\n  vocabulary assessment with LLMs (Stefano Banno\, Kate Knill\, Ma
+ rk\n  Gales)\n• 128: Improving AI assistants embedded in short e-learning 
+ courses\n  with limited textual content (Jacek Marciniak\, Marek Kubis\, M
+ ichał\n  Gulczyński\, Adam Szpilkowski\, Adam Wieczarek\, Marcin Szczepańs
+ ki)\n• 134: GermDetect: Verb Placement Error Detection Datasets for\n  Lea
+ rners of Germanic Languages (Noah-Manuel Michael\, Andrea Horbach)\n• 147:
+  Automated Scoring of Communication Skills in Physician-Patient\n  Interac
+ tion: Balancing Performance and Scalability (Saed Rezayi\, Le\n  An Ha\, Y
+ iyun Zhou\, Andrew Houriet\, Angelo D’Addario\, Peter Baldwin\,\n  Polina 
+ Harik\, Ann King\, Victoria Yaneva)\n• 156: Can GPTZero’s AI Vocabulary Di
+ stinguish Between LLM-Generated\n  and Student-Written Essays? (Veronica S
+ chmalz\, Anaïs Tack)\n• 166: A Framework for Proficiency-Aligned Grammar P
+ ractice in\n  LLM-Based Dialogue Systems (Luisa Ribeiro-Flucht\, Xiaobin C
+ hen\,\n  Detmar Meurers)\n• 184: RETUYT-INCO at BEA 2025 Shared Task: How 
+ Far Can Lightweight\n  Models Go in AI-powered Tutor Evaluation? (Santiago
+  Góngora\, Ignacio\n  Sastre\, Santiago Robaina\, Ignacio Remersaro\, Luis
+  Chiruzzo\, Aiala\n  Rosá)\n• 194: Archaeology at BEA 2025 Shared Task: Ar
+ e Simple Baselines Good\n  Enough? (Ana Roșu\, Iani Ispas\, Sergiu Nisioi)
+ \n• 195: NLIP at BEA 2025 Shared Task: Evaluation of Pedagogical Ability\n
+   of AI Tutors (Trishita Saha\, Shrenik Ganguli\, Maunendra Sankar\n  Desa
+ rkar)\n• 40: LLM-based post-editing as reference-free GEC evaluation (Robe
+ rt\n  Östling\, Murathan Kurfali\, Andrew Caines)\n• 91: Estimation of Tex
+ t Difficulty in the Context of Language\n  Learning (Anisia Katinskaia\, A
+ nh-Duc Vu\, Jue Hou\, Ulla Vanhatalo\,\n  Yiheng Wu\, Roman Yangarber)\n• 
+ 115: Exploring task formulation strategies to evaluate the coherence\n  of
+  classroom discussions with GPT-4o (Yuya Asano\, Beata Beigman\n  Klebanov
+ \, Jamie Mikeska)\n• 137: EyeLLM: Using Lookback Fixations to Enhance Huma
+ n-LLM Alignment\n  for Text Completion (Astha Singh\, Mark Torrance\, Evge
+ ny Chukharev)\n• 148: Decoding Actionability: A Computational Analysis of 
+ Teacher\n  Observation Feedback (Mayank Sharma\, Jason Zhang)\n• 199: Thap
+ ar Titan/s : Fine-Tuning Pretrained Language Models with\n  Contextual Aug
+ mentation for Mistake Identification in Tutor–Student\n  Dialogues (Harsh 
+ Dadwal\, Sparsh Rastogi\, Jatin Bedi)\n• 174: Wonderland\\_EDU@HKU at BEA 
+ 2025 Shared Task: Fine-tuning Large\n  Language Models to Evaluate the Ped
+ agogical Ability of AI-powered\n  Tutors (Deliang Wang\, Chao Yang\, Gaowe
+ i Chen)\n• 177: BJTU at BEA 2025 Shared Task: Task-Aware Prompt Tuning and
+  Data\n  Augmentation for Evaluating AI Math Tutors (Yuming Fan\, Chuangch
+ uang\n  Tan\, Wenyu Song)\n• 183: SmolLab\\_SEU at BEA 2025 Shared Task: A
+  Transformer-Based\n  Framework for Multi-Track Pedagogical Evaluation of 
+ AI-Powered\n  Tutors (Md. Abdur Rahman\, MD AL AMIN\, Sabik Aftahee\, Muha
+ mmad\n  Junayed\, Md Ashiqur Rahman)\n• 189: LexiLogic at BEA 2025 Shared 
+ Task: Fine-tuning Transformer\n  Language Models for the Pedagogical Skill
+  Evaluation of LLM-based\n  tutors (Souvik Bhattacharyya\, Billodal Roy\, 
+ Niranjan M\, Pranav\n  Gupta)\n• 197: DLSU at BEA 2025 Shared Task: Toward
+ s Establishing Baseline\n  Models for Pedagogical Response Evaluation Task
+ s (Maria Monica\n  Manlises\, Mark Edward Gonzales\, Lanz Lim)\n• 58: Look
+ Alike: Consistent Distractor Generation in Math MCQs (Nisarg\n  Parikh\, A
+ lexander Scarlatos\, Nigel Fernandez\, Simon Woodhead\, Andrew\n  Lan)\n• 
+ 77: From End-Users to Co-Designers: Lessons from Teachers (Martina\n  Gall
+ etti\, Valeria Cesaroni)
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193142Z
+UID:TS1-88c0c17c-a73e-4639-aacf-115f6a72d5cf
+DTSTART:20250801T153000
+DTEND:20250801T160000
+SUMMARY:BEA 2025: Coffee Break
+DESCRIPTION:<2025-08-01 Fri 15:30>–<2025-08-01 Fri 16:00>
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193142Z
+UID:TS1-c18f04fe-897a-42ff-a232-ab9ae913117f
+DTSTART:20250801T160000
+DTEND:20250801T171500
+SUMMARY:BEA 2025: Oral Session C
+DESCRIPTION:<2025-08-01 Fri 16:00>–<2025-08-01 Fri 17:15>
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193142Z
+UID:TS1-a21d2523-ec71-4501-b7df-35d8c0155b71
+DTSTART:20250801T160000
+DTEND:20250801T161500
+SUMMARY:Down the Cascades of Omethi: Hierarchical Automatic Scoring in Larg
+ e-Scale Assessments
+DESCRIPTION:<2025-08-01 Fri 16:00>–<2025-08-01 Fri 16:15>\n\nby Fabian Zehn
+ er\, Hyo Jeong Shin\, Emily Kerzabi\, Andrea Horbach\,\nSebastian Gombert\
+ , Frank Goldhammer\, Torsten Zesch\, Nico Andersen
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193142Z
+UID:TS1-ea98eb91-9219-4651-b86e-77bc0d54fa5b
+DTSTART:20250801T161500
+DTEND:20250801T163000
+SUMMARY:Direct Repair Optimization: Training Small Language Models For Educ
+ ational Program Repair Improves Feedback
+DESCRIPTION:<2025-08-01 Fri 16:15>–<2025-08-01 Fri 16:30>\n\nby Charles Kou
+ tcheme\, Nicola Dainese\, Arto Hellas
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193142Z
+UID:TS1-11f2b865-05f8-4049-8bf0-160c8bda9e18
+DTSTART:20250801T163000
+DTEND:20250801T164500
+SUMMARY:Advancing Question Generation with Joint Narrative and Difficulty C
+ ontrol
+DESCRIPTION:<2025-08-01 Fri 16:30>–<2025-08-01 Fri 16:45>\n\nby Bernardo Le
+ ite\, Henrique Lopes Cardoso
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193142Z
+UID:TS1-43179746-9f61-4dbf-8fc2-821b22066c9a
+DTSTART:20250801T164500
+DTEND:20250801T170000
+SUMMARY:Intent Matters: Enhancing AI Tutoring with Fine-Grained Pedagogical
+  Intent Annotation
+DESCRIPTION:<2025-08-01 Fri 16:45>–<2025-08-01 Fri 17:00>\n\nby Kseniia Pet
+ ukhova\, Ekaterina Kochmar
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193142Z
+UID:TS1-720404c9-c38a-4fa6-986d-ec37d647f6fb
+DTSTART:20250801T170000
+DTEND:20250801T171500
+SUMMARY:LLMs Protégés: Tutoring LLMs with Knowledge Gaps Improves Student L
+ earning Outcome
+DESCRIPTION:<2025-08-01 Fri 17:00>–<2025-08-01 Fri 17:15>\n\nby Andrei Kuch
+ aravy\, Cyril Vallez\, Dimitri Percia David
+CATEGORIES:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250624T193142Z
+UID:TS1-350ebc4a-57b7-466d-954b-e5b7aad7dd11
+DTSTART:20250801T171500
+DTEND:20250801T173000
+SUMMARY:BEA 2025: Closing Remarks
+DESCRIPTION:<2025-08-01 Fri 17:15>–<2025-08-01 Fri 17:30>
+CATEGORIES:
+END:VEVENT
+END:VCALENDAR

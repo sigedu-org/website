@@ -15,7 +15,8 @@ main:
     url: /sharedtasks
 
 bea:
-  - title: BEA Workshops
+  - &bea-workshops
+    title: BEA Workshops
     children:
       - title: "2025"
         url: /bea/2025
@@ -33,10 +34,26 @@ bea:
         url: /bea/2019
       - title: "2018 & Older"
         url: /bea/past
-  - title: Contact
+  - &bea-contact
+    title: Contact
     children:
       - title: "bea.nlp.workshop@gmail.com"
         url: mailto:bea.nlp.workshop@gmail.com
+
+bea20:
+  - title: BEA 2025
+    url: /bea/2025/
+    children:
+      - title: "Submission"
+        url: /bea/2025/submission/
+      - title: "Papers"
+        url: /bea/2025/papers/
+      - title: "Schedule"
+        url: /bea/2025/schedule/
+      - title: "Participation"
+        url: /bea/2025/participation/
+  - *bea-workshops
+  - *bea-contact
 
 beasharedtask2023:
   - title: CodaLab
@@ -46,7 +63,4 @@ beasharedtask2023:
         url: https://forms.gle/JhDtAMiJwadNmgKv7
       - title: "Competition"
         url: https://codalab.lisn.upsaclay.fr/competitions/11705
-  - title: Contact
-    children:
-      - title: "bea.nlp.workshop@gmail.com"
-        url: mailto:bea.nlp.workshop@gmail.com
+  - *bea-contact
