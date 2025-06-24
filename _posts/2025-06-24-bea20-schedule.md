@@ -1,5 +1,5 @@
 ---
-title: BEA 2025 Acceptance Rate
+title: BEA 2025 Schedule
 author: bea
 author_profile: true
 excerpt: ""
@@ -16,4 +16,4 @@ toc: false
 published: true
 ---
 
-We received a total of 169 submissions to the main workshop track and approved 75 papers (44% acceptance rate). View the list of accepted papers [here](/bea/2025/papers).
+The BEA 2025 workshop schedule is now available—view the complete program [here](/bea/2025/schedule).
