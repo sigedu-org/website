@@ -42,16 +42,16 @@ bea:
 
 bea20:
   - title: BEA 2025
-    url: /bea/2025/
+    url: /bea/2025
     children:
       - title: "Submission"
-        url: /bea/2025/submission/
+        url: /bea/2025/submission
       - title: "Papers"
-        url: /bea/2025/papers/
+        url: /bea/2025/papers
       - title: "Schedule"
-        url: /bea/2025/schedule/
+        url: /bea/2025/schedule
       - title: "Participation"
-        url: /bea/2025/participation/
+        url: /bea/2025/participation
   - *bea-workshops
   - *bea-contact
 
