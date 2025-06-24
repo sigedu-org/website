@@ -36,15 +36,15 @@ gold:
 
 <a title="Robert F. Tobler, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Austria_Center_Vienna_from_SSW_on_2014-08-22.png">![Austria Center Vienna](/assets/images/venues/austria-center-vienna.png)</a>
 
-| Quick Info      |                |
-|-----------------|---------------------|
-| Co-located with | [ACL 2025](https://2025.aclweb.org/)      |
-| Location        | Vienna, Austria      |
-| Deadline        | <strike>April 17</strike> April 24, 2025      |
-| Dates           | July 31 and August 1, 2025         |
-| Organizers      | Ekaterina Kochmar, Bashar Alhafni, Marie Bexte, Jill Burstein, Andrea Horbach, Ronja Laarmann-Quante, Anaïs Tack, Victoria Yaneva, Zheng Yuan |
-| Contact         | [bea.nlp.workshop@gmail.com](mailto:bea.nlp.workshop@gmail.com) |
-| GitHub          | To share your code and data with the BEA community, feel free to use the [#bea-workshop](https://github.com/topics/bea-workshop) topic. |
+| Quick Info          |                |
+|---------------------|---------------------|
+| **Co-located with** | [ACL 2025](https://2025.aclweb.org/)      |
+| **Location**        | Vienna, Austria      |
+| **Deadline**        | <strike>April 17</strike> April 24, 2025      |
+| **Dates**           | July 31 and August 1, 2025         |
+| **Organizers**      | Ekaterina Kochmar, Bashar Alhafni, Marie Bexte, Jill Burstein, Andrea Horbach, Ronja Laarmann-Quante, Anaïs Tack, Victoria Yaneva, Zheng Yuan |
+| **Contact**         | [bea.nlp.workshop@gmail.com](mailto:bea.nlp.workshop@gmail.com) |
+| **GitHub**          | To share your code and data with the BEA community, feel free to use the [#bea-workshop](https://github.com/topics/bea-workshop) topic. |
 
 <!-- | Proceedings     | [https://aclanthology.org/volumes/2025.bea-1/](https://aclanthology.org/volumes/2025.bea-1/) | -->
 
