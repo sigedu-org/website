@@ -118,7 +118,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://researchmap.jp/yo_ehara/">Yo Ehara</a>, Tokyo Gakugei University<br/>
 - <a href="hamzaelalaoui.com">Hamza El Alaoui</a>, Oracle Labs<br/>
 - Noureddine Elouazizi, Faculty of Science, UBC<br/>
-- <a href="http://evanini.com/keelan.html">Keelan Evanini</a>, Educational Testing Service<br/>
+- <a href="http://evanini.com/keelan.html">Keelan Evanini</a>, National Board of Medical Examiners (NBME)<br/>
 - <a href="https://yfan.nlpnchu.org/">Yao-Chung Fan</a>, National Chung Hsing University, Taiwan<br/>
 - <a href="https://effat.github.io/">Effat Farhana</a>, Vanderbilt Univertsity<br/>
 - <a href="https://www.maryamfazel.com/">Maryam Fazel-Zarandi</a>, Meta AI - FAIR<br/>
