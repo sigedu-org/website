@@ -44,9 +44,8 @@ gold:
 | **Dates**           | July 31 and August 1, 2025         |
 | **Organizers**      | Ekaterina Kochmar, Bashar Alhafni, Marie Bexte, Jill Burstein, Andrea Horbach, Ronja Laarmann-Quante, Anaïs Tack, Victoria Yaneva, Zheng Yuan |
 | **Contact**         | [bea.nlp.workshop@gmail.com](mailto:bea.nlp.workshop@gmail.com) |
+| Proceedings         | [https://aclanthology.org/volumes/2025.bea-1/](https://aclanthology.org/volumes/2025.bea-1/) |
 | **GitHub**          | To share your code and data with the BEA community, feel free to use the [#bea-workshop](https://github.com/topics/bea-workshop) topic. |
-
-<!-- | Proceedings     | [https://aclanthology.org/volumes/2025.bea-1/](https://aclanthology.org/volumes/2025.bea-1/) | -->
 
 ## Description
 
