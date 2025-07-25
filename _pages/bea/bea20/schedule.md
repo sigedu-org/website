@@ -14,7 +14,7 @@ Time Zone
 
 Location
 :   **In-person:** Room 1.85–86 <br/>
-    **Virtual:** Underline.io (TBD) <!-- TODO: [Underline.io](https://underline.io/events/458/sessions?eventSessionId=17415) -->
+    **Virtual:** Underline.io [[Day 1]](https://underline.io/events/496/sessions?eventSessionId=20332) [[Day 2]](https://underline.io/events/496/sessions?eventSessionId=20333)
 
 Add to Calendar
 :   Stay on schedule—download the full workshop program here:
