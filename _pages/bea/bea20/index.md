@@ -119,8 +119,9 @@ In addition to the main track, the workshop will host a half-day tutorial:
 **Organizers:** Sankalan Pal Chowdhury (ETH Zurich), Nico Daheim (TU Darmstadt), Ekaterina Kochmar (MBZUAI), Jakub Macina (ETH Zurich), Donya Rooein (Bocconi University), Mrinmaya Sachan (ETH Zurich), and Shashank Sonkar (Rice University).
 {: .notice}
 
-**Description:** This tutorial will aim to bridge the gap between NLP researchers and Artificial Intelligence in Education (AIED) practitioners to help participants understand the requirements and challenges of education, enabling them to develop LLMs that align with educational needs, and to enable educators to gain a deeper understanding of the capabilities and limitations of current NLP technologies, fostering effective integration of LLMs in educational contexts.
+**Description:** This tutorial will aim to bridge the gap between NLP researchers and Artificial Intelligence in Education (AIED) practitioners to help participants understand the requirements and challenges of education, enabling them to develop LLMs that align with educational needs, and to enable educators to gain a deeper understanding of the capabilities and limitations of current NLP technologies, fostering effective integration of LLMs in educational contexts. [Slides](https://tinyurl.com/y27c8ev5). 
 {: .notice--primary}
+
 
 ## Invited Talk
 
