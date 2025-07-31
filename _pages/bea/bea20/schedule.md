@@ -21,7 +21,7 @@ Add to Calendar
  [Download ICS](/assets/ics/bea/2025/program.ics)
 
 Schedule Changes
-: Please check for any last-minute changes [here](https://docs.google.com/spreadsheets/d/1JLUgTHKGM8u4ReoDrP-ZIVaqtdtWH8CGhEArJHG_qlY/edit?gid=871483299#gid=871483299)
+: Please check for any last-minute changes [here](https://docs.google.com/spreadsheets/d/1JLUgTHKGM8u4ReoDrP-ZIVaqtdtWH8CGhEArJHG_qlY/edit?gid=871483299#gid=871483299).
 
 
 ## Thursday, July 31, 2025
