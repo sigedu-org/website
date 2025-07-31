@@ -26,7 +26,8 @@ Schedule Changes
 
 ## Thursday, July 31, 2025
 
-Participate virtually through [Underline.io](https://underline.io/events/496/sessions?eventSessionId=20332).
+Below is the schedule for the first workshop day. The slides for the **tutorial** are available online and can be accessed by clicking on the tutorial link. Each paper in the **oral and poster sessions** is linked to their page on Underline as well. You can find the pre-recorded video there. To join the workshop by livestream, please connect to the [Workshop Day 1 on Underline.io](https://underline.io/events/496/sessions?eventSessionId=20332).
+{: .notice--primary}
 
 | Time | Description |
 |:------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -77,7 +78,8 @@ Participate virtually through [Underline.io](https://underline.io/events/496/ses
 
 ## Friday, August 1, 2025
 
-Participate virtually through [Underline.io](https://underline.io/events/496/sessions?eventSessionId=20333).
+Below is the schedule for the second workshop day. Each paper in the **oral and poster sessions** is linked to their page on Underline as well. You can find the pre-recorded video there. To join the workshop by livestream, please connect to the [Workshop Day 2 on Underline.io](https://underline.io/events/496/sessions?eventSessionId=20333).
+{: .notice--primary}
 
 | Time | Description |
 |:------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
