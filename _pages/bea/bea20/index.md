@@ -144,6 +144,9 @@ In addition to the main track, the workshop will host a half-day tutorial:
 
 ### [Participation](/bea/2025/participation)
 
+![Group Picture](/assets/images/bea-at-acl-2025-group-picture.jpg)
+*Group Picture of the BEA 2025 Participants*
+
 ## Committees
 
 ### Organizing Committee
