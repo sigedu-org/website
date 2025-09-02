@@ -223,6 +223,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://www.stjohns.edu/academics/bio/dr-fazel-keshtkar">Fazel Keshtkar</a>, St. John's University<br/>
 - <a href="https://umidesigner.weebly.com/">Umida Khikmatillaeva</a>, USA<br/>
 - Lale Khorramdel, Boston College<br/>
+- <a href="https://euigyum-kim.github.io/">Euigyum Kim</a>, Sogang University<br/>
 - <a href="http://cl.indiana.edu/~leviking/">Levi King</a>, Indiana University<br/>
 - <a href="https://transforminglearning.stanford.edu/">Glenn Kleiman</a>, Stanford Graduate School of Education<br/>
 - Sigrid Klerke, IT University of Copenhagen<br/>
@@ -278,6 +279,7 @@ The following is a list of the current SIGEDU members and their affiliations. Me
 - <a href="https://sites.google.com/view/amagooda/home">Ahmed Magooda</a>, University of Pittsburgh<br/>
 - Khyati Mahajan, UNC Charlotte<br/>
 - Nabin Maharjan, University of Memphis<br/>
+- Khairul Mahbub, University of North Carolina at Charlotte<br/>
 - Philippe Marinier, St-Mary's College of California<br/>
 - Ilia Markov, University of Antwerp<br/>
 - <a href="harisont.github.io">Arianna Masciolini</a>, University of Gothenburg<br/>
