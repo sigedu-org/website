@@ -1,5 +1,5 @@
 ---
-title: BEA15 Accepted Papers
+title: BEA 2020 Accepted Papers
 author: bea
 author_profile: true
 tags:

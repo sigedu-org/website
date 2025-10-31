@@ -1,5 +1,5 @@
 ---
-title: BEA15 Schedule
+title: BEA 2020 Schedule
 author: bea
 author_profile: true
 tags:

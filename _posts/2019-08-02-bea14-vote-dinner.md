@@ -1,5 +1,5 @@
 ---
-title: BEA14 Vote for the Ambassador Paper
+title: BEA 2019 Vote for the Ambassador Paper
 author: bea
 author_profile: true
 tags:

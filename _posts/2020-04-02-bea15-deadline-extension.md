@@ -1,5 +1,5 @@
 ---
-title: BEA15 Deadline Extension
+title: BEA 2020 Deadline Extension
 author: bea
 author_profile: true
 tags:

@@ -1,5 +1,5 @@
 ---
-title: BEA16 Schedule
+title: BEA 2021 Schedule
 author: bea
 author_profile: true
 tags:

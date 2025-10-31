@@ -1,5 +1,5 @@
 ---
-title: BEA17 Announcement
+title: BEA 2022 Announcement
 author: bea
 author_profile: true
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "BEA19 Announcement"
+title: "BEA 2024 Announcement"
 author: bea
 author_profile: true
 tags:

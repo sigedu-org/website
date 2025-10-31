@@ -1,5 +1,5 @@
 ---
-title: BEA14 Announcement
+title: BEA 2019 Announcement
 author: bea
 author_profile: true
 tags:

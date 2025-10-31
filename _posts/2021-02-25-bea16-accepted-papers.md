@@ -1,5 +1,5 @@
 ---
-title: BEA16 Accepted Papers
+title: BEA 2021 Accepted Papers
 author: bea
 author_profile: true
 tags:

@@ -1,5 +1,5 @@
 ---
-title: BEA17 Proceedings
+title: BEA 2022 Proceedings
 author: bea
 author_profile: true
 tags:

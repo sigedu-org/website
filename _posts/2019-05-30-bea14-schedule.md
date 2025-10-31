@@ -1,5 +1,5 @@
 ---
-title: BEA14 Schedule
+title: BEA 2019 Schedule
 author: bea
 author_profile: true
 tags:

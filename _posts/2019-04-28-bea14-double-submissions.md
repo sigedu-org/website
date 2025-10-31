@@ -1,5 +1,5 @@
 ---
-title: BEA14 Double Submissions Policy
+title: BEA 2019 Double Submissions Policy
 author: bea
 author_profile: true
 tags:

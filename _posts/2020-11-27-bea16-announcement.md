@@ -1,5 +1,5 @@
 ---
-title: BEA16 Announcement
+title: BEA 2021 Announcement
 author: bea
 author_profile: true
 tags:
