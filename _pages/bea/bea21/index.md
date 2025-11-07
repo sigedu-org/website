@@ -16,7 +16,7 @@ toc_icon: 'cog'
 | **Co-located with** | [ACL 2026](https://2026.aclweb.org/) |
 | **Location**        | San Diego, California, United States |
 | **Dates**           | July 6-7, 2026 (TBC) |
-| **Organizers**      | Ekaterina Kochmar, Bashar Alhafni, Stefano Bannó, Marie Bexte, Jill Burstein, Andrea Horbach, Ronja Laarmann-Quante, Anaïs Tack, Victoria Yaneva, Zheng Yuan |
+| **Organizers**      | Ekaterina Kochmar, Bashar Alhafni, Stefano Bannò, Marie Bexte, Jill Burstein, Andrea Horbach, Ronja Laarmann-Quante, Anaïs Tack, Victoria Yaneva, Zheng Yuan |
 | **Contact**         | [bea.nlp.workshop@gmail.com](mailto:bea.nlp.workshop@gmail.com) |
 | **GitHub**          | To share your code and data with the BEA community, feel free to use the [#bea-workshop](https://github.com/topics/bea-workshop) topic. |
 
