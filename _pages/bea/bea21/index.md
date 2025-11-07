@@ -36,7 +36,7 @@ Over the years, this initiative has included four dedicated tasks focused solely
 Moreover, NLP/Education shared tasks have expanded into novel research areas, such as the [Automated Evaluation of Scientific Writing](/sharedtask/2016) at BEA11, [Native Language Identification](/sharedtask/2017) at BEA12, [Second Language Acquisition Modeling](/sharedtask/2018-SLAM) at BEA13, [Complex Word Identification](/sharedtask/2018-CWI) at BEA13, [Generating AI Teacher Responses in Educational Dialogues](/sharedtask/2023) at BEA18, and [Automated Prediction of Item Difficulty and Item Response Time](https://sig-edu.org/sharedtask/2024) and [Multilingual Lexical Simplification](https://sites.google.com/view/mlsp-sharedtask-2024) at BEA19.
 These competitions have significantly bolstered the visibility and interest in our field.
 
-The **21st BEA** will be a **2-day workshop**, with one in-person workshop day and one virtual workshop day. The workshop will feature a **keynote talk**, and a main workshop track with **oral presentation sessions** and **large poster sessions** to facilitate the presentation of a wide array of original research. Moreover, there will be **a half-day tutorial**, and **two shared tasks** comprising an oral *overview presentation* by the shared task organizers and several *poster presentations* by the shared task participants.
+The **21st BEA** will be a **2-day workshop**, with one in-person workshop day and one virtual workshop day. The workshop will feature a **keynote talk**, and a main workshop track with **oral presentation sessions** and **large poster sessions** to facilitate the presentation of a wide array of original research. Moreover, there will be **a panel discussion** on *Academic and industry perspectives on the use of generative AI in education: opportunities and challenges*, **a half-day tutorial** on *Theory of Mind and its Applications in Educational Contexts*, and **two shared tasks** on *Vocabulary Difficulty Prediction for English Learners* and on *Rubric-based Short Answer Scoring for German* comprising an oral *overview presentation* by the shared task organizers and several *poster presentations* by the shared task participants.
 
 ## Committees
 
@@ -54,4 +54,4 @@ The **21st BEA** will be a **2-day workshop**, with one in-person workshop day a
 - **Sponsorship Chair**:
   - [Zheng Yuan](https://www.cl.cam.ac.uk/~zy249/), King's College London
   - [Jill Burstein](https://sites.google.com/site/jbursteinets/), Duolingo
-- **Virtual Chair**: Stefano Bannó, University of Cambridge
+- **Virtual Chair**: Stefano Bannò, Cambridge University
