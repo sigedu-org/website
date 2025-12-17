@@ -32,11 +32,85 @@ Additionally, NLP has evolved to aid diverse learning domains, including writing
 Within these areas, the community continues to develop and deploy innovative NLP approaches for use in educational settings.
 
 Another significant advancement in educational applications within the Computational Linguistics (CL) community is the **continuing series of shared-task competitions** organized by and hosted at the BEA workshop.
-Over the years, this initiative has included four dedicated tasks focused solely on grammatical error detection and correction.
-Moreover, NLP/Education shared tasks have expanded into novel research areas, such as the [Automated Evaluation of Scientific Writing](/sharedtask/2016) at BEA11, [Native Language Identification](/sharedtask/2017) at BEA12, [Second Language Acquisition Modeling](/sharedtask/2018-SLAM) at BEA13, [Complex Word Identification](/sharedtask/2018-CWI) at BEA13, [Generating AI Teacher Responses in Educational Dialogues](/sharedtask/2023) at BEA18, and [Automated Prediction of Item Difficulty and Item Response Time](https://sig-edu.org/sharedtask/2024) and [Multilingual Lexical Simplification](https://sites.google.com/view/mlsp-sharedtask-2024) at BEA19.
+Over the years, this initiative has included four dedicated tasks focused solely on grammatical error detection and correction (with the latest one on [Grammatical Error Correction](https://www.cl.cam.ac.uk/research/nl/bea2019st/) held in 2019.
+Moreover, NLP/Education shared tasks have expanded into novel research areas, such as [Automated Evaluation of Scientific Writing](/sharedtask/2016) in 2016, [Native Language Identification](/sharedtask/2017) in 2017, [Second Language Acquisition Modeling](/sharedtask/2018-SLAM) and [Complex Word Identification](/sharedtask/2018-CWI) in 2018, [Generating AI Teacher Responses in Educational Dialogues](/sharedtask/2023) in 2023, [Automated Prediction of Item Difficulty and Item Response Time](https://sig-edu.org/sharedtask/2024) and [Multilingual Lexical Simplification](https://sites.google.com/view/mlsp-sharedtask-2024) in 2024, and [Pedagogical Ability Assessment of AI-powered Tutors](https://sig-edu.org/sharedtask/2025) in 2025.
 These competitions have significantly bolstered the visibility and interest in our field.
 
-The **21st BEA** will be a **2-day workshop**, with one in-person workshop day and one virtual workshop day. The workshop will feature a **keynote talk**, and a main workshop track with **oral presentation sessions** and **large poster sessions** to facilitate the presentation of a wide array of original research. Moreover, there will be **a panel discussion** on *Academic and industry perspectives on the use of generative AI in education: opportunities and challenges*, **a half-day tutorial** on *Theory of Mind and its Applications in Educational Contexts*, and **two shared tasks** on *Vocabulary Difficulty Prediction for English Learners* and on *Rubric-based Short Answer Scoring for German* comprising an oral *overview presentation* by the shared task organizers and several *poster presentations* by the shared task participants.
+The **21st BEA** will be a **2-day workshop**, with one in-person workshop day and one virtual workshop day. The workshop will feature **oral presentation sessions** and **large poster sessions** to facilitate the presentation of a wide array of original research. Moreover, there will be **a panel discussion** on *Academic and industry perspectives on the use of generative AI in education: opportunities and challenges*, **a half-day tutorial** on *Theory of Mind and its Applications in Educational Contexts*, and **two shared tasks** on *[Vocabulary Difficulty Prediction for English Learners](https://www.britishcouncil.org/data-science-and-insights/bea2026st)* and on *Rubric-based Short Answer Scoring for German* comprising an oral *overview presentation* by the shared task organizers and several *poster presentations* by the shared task participants.
+
+## Call for Papers
+
+The workshop invites submissions to the **main track**, including both long and short papers. Accepted submissions will be considered for oral or poster presentations.
+
+Topics of interest include, but are not limited to, the application of NLP techniques in educational settings such as:
+- automated evaluation of written and spoken open-ended responses
+- game-based learning and assessment methods
+- educational data mining
+- exploring the role and impact of generative AI in education
+- intelligent tutoring systems
+- collaborative and social learning platforms
+- peer assessment and review tools
+- grammar error detection and correction
+- learner cognition modeling
+- spoken dialogue systems
+- multimodal educational applications
+- annotation standards and linguistic schemas
+- tools for teachers, learners, and assessment developers
+- corpus-based educational tools and systems
+
+Submissions will be open soon.
+
+### Important Dates
+
+All deadlines are 11:59pm UTC-12 (anywhere on earth). Please note that these deadlines are preliminary and may change slightly.
+{: .notice--danger}
+
+| Event                         | Date                |
+|-------------------------------|---------------------|
+| Submission Deadline           | March 5, 2026      |
+| Notification of Acceptance    | April 28, 2026      |
+| Camera-ready Papers Due       | May 12, 2026      |
+| Pre-recorded Videos Due       | June 4, 2026         |
+| Workshop                      | July 2-3, 2026 |
+
+
+## Shared Tasks
+
+We will host two shared tasks:
+
+### Vocabulary Difficulty Prediction for English Learners
+
+**Organizers:** Mariano Felice (British Council) and Lucy Skidmore (British Council).
+{: .notice}
+
+**Description:** This shared task aims to advance research into vocabulary difficulty prediction for learners of English with diverse L1 backgrounds, an essential step towards custom content creation, computer-adaptive testing and personalised learning. In a context where traditional item calibration methods have become a bottleneck for the implementation of digital learning and assessment systems, we believe predictive NLP models can provide a more scalable, cost-effective solution. The goal of this shared task is to build regression models to predict the difficulty of English words given a learner's L1. We believe this new shared task provides a novel approach to vocabulary modelling, offering a multidimensional perspective that has not been explored in previous work. To this aim, we will use the British Council's Knowledge-based Vocabulary Lists (KVL), a multilingual dataset with psychometrically calibrated difficulty scores. We believe this unique dataset is not only an invaluable contribution to the NLP community but also a powerful resource that will enable in-depth investigations into how linguistic features, L1 background and contextual cues influence vocabulary difficulty. 
+{: .notice--primary}
+
+For more information on how to participate and latest updates, please refer to the [shared task website](https://www.britishcouncil.org/data-science-and-insights/bea2026st).
+
+### Rubric-based Short Answer Scoring for German
+
+**Organizers:** Sebastian Gombert (DIPF), Zhifan Sun (DIPF), Fabian Zehner (DIPF), Jannik Lossjew (IPN), Tobias Wyrwich (IPN), Berrit Katharina Czinczel (IPN), David Bednorz (IPN), Sascha Bernholt (IPN), Knut Neumann (IPN), Ute Harms (IPN), Aiso Heinze (IPN), and Hendrik Drachsler (DIPF)
+{: .notice}
+
+**Description:** This shared task will focus on the novel topic of short answer grading, that has not been addressed with a shared task at BEA before, in German, contributing a non-English benchmark dataset to the academic community. 
+{: .notice--primary}
+
+More information coming up soon.
+
+
+## Tutorial
+
+We will also host a half-day tutorial:
+
+### Theory of Mind and Application in Educational Context
+
+**Organizers:** Effat Farhana (Auburn University), Maha Zainab (Auburn University), Qiaosi Wang (Carnegie Mellon University), Niloofar Mireshghallah (Carnegie Mellon University), Ramira van der Meulen (Leiden University), Max van Duijn (Leiden University).
+{: .notice}
+
+**Description:** This tutorial examines the integration of Theory of Mind (ToM) into AI-driven online tutoring systems, focusing on how advanced technologies, such as Large Language Models (LLMs), can model learners' cognitive and emotional states to provide adaptive, personalized feedback. Participants will learn foundational principles of ToM from cognitive science and psychology and how these concepts can be operationalized in AI systems. We will discuss mutual ToM, where both AI tutors and learners maintain models of each other's mental states, and address challenges such as detecting learner misconceptions, modeling meta-cognition, and maintaining privacy in data-driven tutoring. The tutorial also presents hands-on demonstrations of Machine ToM applied to programming education using datasets such as CS1QA and CodeQA, which contain Java and Python samples. By combining conceptual foundations, research insights, and practical exercises, this tutorial provides a comprehensive overview of designing human-centered, ethically aware, and cognitively informed AI tutoring systems.
+{: .notice--primary}
+
 
 ## Committees
 
