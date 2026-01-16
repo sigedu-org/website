@@ -13,6 +13,10 @@ We always welcome new proposals for a shared task. If you are interested in orga
 
 ---
 
+BEA 2026 Shared Tasks @ [ACL/BEA 2026](/bea/2026)
+: [Vocabulary Difficulty Prediction for English Learners](https://www.britishcouncil.org/data-science-and-insights/bea2026st) <br>
+  [Rubric-based Short Answer Scoring for German](https://edutec.science/bea-2026-shared-task/)
+
 BEA 2025 Shared Task @ [ACL/BEA 2025](/bea/2025)
 : [Pedagogical Ability Assessment of AI-powered Tutors](/sharedtask/2025)
 
