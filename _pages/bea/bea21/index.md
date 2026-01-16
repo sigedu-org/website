@@ -93,10 +93,11 @@ For more information on how to participate and latest updates, please refer to t
 **Organizers:** Sebastian Gombert (DIPF), Zhifan Sun (DIPF), Fabian Zehner (DIPF), Jannik Lossjew (IPN), Tobias Wyrwich (IPN), Berrit Katharina Czinczel (IPN), David Bednorz (IPN), Sascha Bernholt (IPN), Knut Neumann (IPN), Ute Harms (IPN), Aiso Heinze (IPN), and Hendrik Drachsler (DIPF)
 {: .notice}
 
-**Description:** This shared task will focus on the novel topic of short answer grading, that has not been addressed with a shared task at BEA before, in German, contributing a non-English benchmark dataset to the academic community. 
+**Description:** Short answer scoring is a well-established task in educational natural language processing. In this shared task, we introduce and focus on **rubric-based short-answer scoring**, a task formulation in which models are provided with a question, a student answer, and a textual scoring rubric that specifies criteria for each possible score level. Successfully solving this task requires models to interpret the semantics of scoring rubrics and apply their criteria to previously unseen answers, closely mirroring how human raters assign scores in educational assessment. Although rubrics have been used as auxiliary information in prior work on free-text scoring and LLM-based approaches, there has been little focused investigation of rubric-based short-answer scoring as a task in its own right. This setting poses distinct challenges, including ambiguous or underspecified rubric criteria and a wide range of valid student responses. With this shared task, we aim to stimulate systematic research on rubric-based scoring, assess how well current NLP methods can reason over rubrics, and identify promising modeling strategies. Additionally, by providing a German-language dataset, the shared task contributes a new non-English benchmark to the field. 
 {: .notice--primary}
 
-More information coming up soon.
+For more information on how to participate and latest updates, please refer to the [shared task website](https://edutec.science/bea-2026-shared-task/).
+
 
 
 ## Tutorial
