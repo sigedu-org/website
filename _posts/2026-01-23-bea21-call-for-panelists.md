@@ -13,7 +13,7 @@ news_summary:
   # [!] however, if the post is short enough (< 280 characters), you may disregard this option
   We’re inviting applications and nominations for panelists to join a **panel discussion on "Transitioning from Academia to the EdTech Industry"** during [BEA 2026](/bea/2026), co-located with ACL in San Diego. 
   The call remains open until April 1, 2026.
-toc: false
+toc: true
 published: true
 ---
 
