@@ -60,7 +60,9 @@ bea20:
 bea21:
   - title: BEA 2026
     url: /bea/2026
-    # children:
+    children:
+      - title: "Call for Panelists"
+        url: news/bea21-call-for-panelists/
     #   - title: "Submission"
     #     url: /bea/2026/submission
     #   - title: "Papers"
