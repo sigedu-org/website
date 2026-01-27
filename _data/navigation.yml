@@ -1,3 +1,4 @@
+# Main Navigation (TOP)
 main:
   - title: "Constitution"
     url: /constitution
@@ -14,6 +15,8 @@ main:
   - title: "Shared Tasks"
     url: /sharedtasks
 
+# Sidebar Navigation (LEFT)
+# A general menu with an overview of all BEA workshops
 bea:
   - &bea-workshops
     title: BEA Workshops
@@ -42,6 +45,13 @@ bea:
       - title: "bea.nlp.workshop@gmail.com"
         url: mailto:bea.nlp.workshop@gmail.com
 
+# As of the 20th edition, the BEA workshop site features a multi-page structure.
+# It consists of specific sections for submissions, papers, schedules, and participation. 
+# The navigation (sidebar menu) is organized into three segments: 
+# - subpages for the current edition
+# - a comprehensive list of past BEA workshops (symbolic link to the menu above)
+# - contact information (symbolic link to the menu above)
+
 bea20:
   - title: BEA 2025
     url: /bea/2025
@@ -62,7 +72,7 @@ bea21:
     url: /bea/2026
     children:
       - title: "Call for Panelists"
-        url: news/bea21-call-for-panelists/
+        url: /news/bea21-call-for-panelists
     #   - title: "Submission"
     #     url: /bea/2026/submission
     #   - title: "Papers"
@@ -72,14 +82,4 @@ bea21:
     #   - title: "Participation"
     #     url: /bea/2026/participation
   - *bea-workshops
-  - *bea-contact
-
-beasharedtask2023:
-  - title: CodaLab
-    text: TBA
-    children:
-      - title: "Registration"
-        url: https://forms.gle/JhDtAMiJwadNmgKv7
-      - title: "Competition"
-        url: https://codalab.lisn.upsaclay.fr/competitions/11705
   - *bea-contact
