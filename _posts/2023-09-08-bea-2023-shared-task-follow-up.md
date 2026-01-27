@@ -2,20 +2,14 @@
 title: BEA 2023 Shared Task Follow-Up
 author: bea
 author_profile: true
-excerpt: "The shared task data and metrics are now available for download."
+categories:
+  news
+excerpt: 
+  "The shared task data and metrics are now available for download. See this post for more information."
 tags:
   shared task
   data
   metrics
-categories:
-  blog
-  news  # <-- [!] use this category to publish the post on the news feed  
-news_summary: 
-  # [!] when publishing the post on the news feed,
-  # [!] it is important to write a short summary if the post is too long (~several paragraphs)
-  # [!] otherwise, the content below will be truncated to 280 characters on the news feed
-  # [!] however, if the post is short enough (< 280 characters), you may disregard this option
-  "The shared task data and metrics are now available for download. See this blog post for more information."
 toc: false
 published: true
 ---

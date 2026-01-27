@@ -7,29 +7,24 @@
 <div class="notice">
 {%- endif %}
 <h4>
-<span>{{ post.date | date: "%b %-d, %Y" }}</span> 
+<span>{{ post.date | date: "%b %-d, %Y" }}</span>
+&middot;
 <a href="{{ post.url | relative_url }}">
-{%- if post.tags contains "ambassador" %}
-<i class="fas fa-medal fa-fw"></i> 
-{% elsif post.tags contains "newsletter" %}
-<i class="fas fa-newspaper fa-fw"></i> 
-{%- else %}
-<i class="fas fa-bullhorn fa-fw"></i> 
-{%- endif %}
 {{ post.title }}
 </a>
 </h4>
 <p>
-{%- if post.news_summary == blank %}
+<!-- if no excerpt has been provided, truncate post if it is too long -->
+{%- if post.excerpt == blank %}
 {%- assign raw_text = post.content | strip_html %}
-<!-- if the post is long and no summary has been provided, use truncated excerpt as news item-->
 {%- if raw_text.size > 283 %}
 {{ post.content | strip_html | truncate: 283 | markdownify }}
 {%- else %}
 {{ post.content | markdownify }}
 {%- endif %}
+<!-- else use provided excerpt as news item -->
 {%- else %}
-{{ post.news_summary | markdownify }}
+{{ post.excerpt | markdownify }}
 {%- endif %}
 </p>
 <!-- For now, only allow latest news to be shared directly from the news feed.

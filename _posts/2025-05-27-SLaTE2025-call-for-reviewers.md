@@ -2,22 +2,15 @@
 title: SLaTE 2025 Call for Reviewers
 author: guest
 author_profile: true
-excerpt: "Call for Reviewers for The 10th Workshop on Speech and Language Technology in Education (SLaTE 2025)"
+categories:
+  news
+excerpt:
+  "The 10th Workshop on Speech and Language Technology in Education (SLaTE 2025) is seeking additional reviewers to join its Program Committee. To sign fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSf7ULKnOyLRqQPoSJUMYOIXQYdIWPUEJLyT-hQv3-kYoIhQpA/viewform)"
 tags:
   workshop
   SLaTE
   reviewing
-categories:
-  blog
-  guest
-  news  # <-- [!] use this category to publish the post on the news feed  
-news_summary: 
-  # [!] when publishing the post on the news feed,
-  # [!] it is important to write a short summary if the post is too long (~several paragraphs)
-  # [!] otherwise, the content below will be truncated to 280 characters on the news feed
-  # [!] however, if the post is short enough (< 280 characters), you may disregard this option
-  "The 10th Workshop on Speech and Language Technology in Education (SLaTE 2025) is seeking additional reviewers to join its Program Committee. To sign fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSf7ULKnOyLRqQPoSJUMYOIXQYdIWPUEJLyT-hQv3-kYoIhQpA/viewform)"
-toc: false
+toc: true
 published: true
 ---
 

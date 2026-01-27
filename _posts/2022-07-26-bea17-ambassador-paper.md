@@ -2,19 +2,13 @@
 title: Ambassador Paper Award at the 17th BEA Workshop
 author: bea
 author_profile: true
-excerpt: '"Educational Multi-Question Generation for Reading Comprehension" by Manav Rathod, Tony Tu, and Katherine Stasaski'
+categories:
+  news
+excerpt:
+  'The following paper was voted the ambassador paper at the 17th BEA workshop: "Educational Multi-Question Generation for Reading Comprehension" by Manav Rathod, Tony Tu and Katherine Stasaski.'
 tags:
   IAALDE
   ambassador
-categories:
-  blog
-  news  # <-- [!] use this category to publish the post on the news feed
-news_summary:   
-  # [!] when publishing the post on the news feed,
-  # [!] it is important to write a short summary if the post is too long (~several paragraphs)
-  # [!] otherwise, the content below will be truncated to 280 characters on the news feed
-  # [!] however, if the post is short enough (~one paragraph, <280 characters), you may disregard this option
-  'The following paper was voted the ambassador paper at the 17th BEA workshop: "Educational Multi-Question Generation for Reading Comprehension" by Manav Rathod, Tony Tu and Katherine Stasaski.'
 toc: false
 ---
 

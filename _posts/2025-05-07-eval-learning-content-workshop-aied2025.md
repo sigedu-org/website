@@ -2,22 +2,15 @@
 title: AIED25 - Workshop on Automated Evaluation of Learning and Assessment Content (EvalLAC)
 author: guest
 author_profile: true
-excerpt: "Call for Papers for the Second Workshop on Automated Evaluation of Learning and Assessment Content"
+categories:
+  news
+excerpt:
+  "The Second Workshop on Automated Evaluation of Learning and Assessment Content will be held at AIED25 in Palermo, Italy in July 2025."
 tags:
   cfp
   AIED
   workshop
-categories:
-  blog
-  guest
-  news  # <-- [!] use this category to publish the post on the news feed  
-news_summary: 
-  # [!] when publishing the post on the news feed,
-  # [!] it is important to write a short summary if the post is too long (~several paragraphs)
-  # [!] otherwise, the content below will be truncated to 280 characters on the news feed
-  # [!] however, if the post is short enough (< 280 characters), you may disregard this option
-  "The Second Workshop on Automated Evaluation of Learning and Assessment Content will be held at AIED25 in Palermo, Italy in July 2025."
-toc: false
+toc: true
 published: true
 ---
 

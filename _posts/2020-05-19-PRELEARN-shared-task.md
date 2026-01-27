@@ -2,19 +2,12 @@
 title: PRELEARN Shared Task Call for Participation
 author: guest
 author_profile: true
-excerpt: "The 1st shared task on Prerequisite Relation Learning will be held in Bologna from Nov 30-Dec 3rd, 2020."
+categories:
+  news
+excerpt: 
+  "The 1st shared task on Automatic Prerequisite Learning (PRELEARN) will be held in Bologna, Italia (November 30th-December 3rd 2020)."
 tags:
   shared task
-categories:
-  blog
-  guest
-  news  # <-- [!] use this category to publish the post on the news feed  
-news_summary: 
-  # [!] when publishing the post on the news feed,
-  # [!] it is important to write a short summary if the post is too long (~several paragraphs)
-  # [!] otherwise, the content below will be truncated to 280 characters on the news feed
-  # [!] however, if the post is short enough (< 280 characters), you may disregard this option
-  "The 1st shared task on Automatic Prerequisite Learning (PRELEARN) will be held in Bologna, Italia (November 30th-December 3rd 2020)."
 toc: false
 published: true
 ---

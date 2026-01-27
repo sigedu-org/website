@@ -2,22 +2,16 @@
 title: Tenure-Stream Assistant Professor Job 2023
 author: SIGEDU Member
 author_profile: true
-excerpt: "Tenure-Stream Faculty Position"
+excerpt: 
+  "The School of Computing and Information (SCI) and Learning Research and Development Center (LRDC) at University of Pittsburgh 
+  seek to hire a faculty member at the rank of Assistant Professor (SCI) and Research Scientist (LRDC) at the confluence 
+  of Artificial Intelligence and Learning Science."
+categories:
+  news
 tags:
   job
   tenure
   position
-categories:
-  blog
-  news  # <-- [!] use this category to publish the post on the news feed  
-news_summary: 
-  # [!] when publishing the post on the news feed,
-  # [!] it is important to write a short summary if the post is too long (~several paragraphs)
-  # [!] otherwise, the content below will be truncated to 280 characters on the news feed
-  # [!] however, if the post is short enough (< 280 characters), you may disregard this option
-  "The School of Computing and Information (SCI) and Learning Research and Development Center (LRDC) at University of Pittsburgh 
-  seek to hire a faculty member at the rank of Assistant Professor (SCI) and Research Scientist (LRDC) at the confluence 
-  of Artificial Intelligence and Learning Science."
 toc: false
 published: true
 ---

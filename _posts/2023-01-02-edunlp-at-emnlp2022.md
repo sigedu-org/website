@@ -2,12 +2,12 @@
 title: Educational NLP at EMNLP 2022
 author: bea
 author_profile: true
+categories:
+  blog
 excerpt: "A list of interesting papers on EduNLP at the 2022 EMNLP conference"
 tags:
   conferences
   EMNLP
-categories:
-  blog
 ---
 
 **Proceedings**: [https://preview.aclanthology.org/emnlp-22-ingestion/volumes/2022.emnlp-main/](https://preview.aclanthology.org/emnlp-22-ingestion/volumes/2022.emnlp-main/)

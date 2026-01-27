@@ -2,25 +2,17 @@
 title: AIED24 - Workshop on Automated Evaluation of Learning and Assessment Content (EvalLAC)
 author: guest
 author_profile: true
-excerpt: "Call for Papers for the First Workshop on Automated Evaluation of Learning and Assessment Content "
+categories:
+  news
+excerpt:
+  "The First Workshop on Automated Evaluation of Learning and Assessment Content will be held at AIED24 in Recife, Brazil in July 2024."
 tags:
   cfp
   AIED
   workshop
-categories:
-  blog
-  guest
-  news  # <-- [!] use this category to publish the post on the news feed  
-news_summary: 
-  # [!] when publishing the post on the news feed,
-  # [!] it is important to write a short summary if the post is too long (~several paragraphs)
-  # [!] otherwise, the content below will be truncated to 280 characters on the news feed
-  # [!] however, if the post is short enough (< 280 characters), you may disregard this option
-  "The First Workshop on Automated Evaluation of Learning and Assessment Content will be held at AIED24 in Recife, Brazil in July 2024."
-toc: false
+toc: true
 published: true
 ---
-
 
 We are happy to announce the first edition of the Workshop on Automated Evaluation of Learning and Assessment Content will be held in Recife (Brazil) & online during the AIED 2024 conference.
 

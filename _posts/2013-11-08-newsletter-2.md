@@ -2,11 +2,11 @@
 title: "BEA Newsletter #2"
 author: bea
 author_profile: true
+categories:
+  blog
 excerpt: "The second edition of the BEA Newsletter."
 tags:
   newsletter
-categories:
-  blog
 toc: true
 toc_sticky: true
 toc_label: "Sections"

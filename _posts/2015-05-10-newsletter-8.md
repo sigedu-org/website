@@ -3,10 +3,10 @@ title: "BEA Newsletter #8"
 author: bea
 author_profile: true
 excerpt: "The eighth edition of the BEA Newsletter."
-tags:
-  newsletter
 categories:
   blog
+tags:
+  newsletter
 toc: true
 toc_sticky: true
 toc_label: "Sections"
