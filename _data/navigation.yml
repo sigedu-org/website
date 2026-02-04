@@ -73,8 +73,10 @@ bea21:
     children:
       - title: "Call for Panelists"
         url: /news/bea21-call-for-panelists
-    #   - title: "Submission"
-    #     url: /bea/2026/submission
+      - title: "Call for Papers"
+        url: /news/bea21-call-for-papers
+      - title: "Submission"
+        url: /bea/2026/submission
     #   - title: "Papers"
     #     url: /bea/2026/papers
     #   - title: "Schedule"
