@@ -11,12 +11,14 @@ toc_icon: 'cog'
 
 ![Grand Hyatt Manchester San Diego](/assets/images/venues/san-diego-grand-hyatt-manchester.jpg)
 
-| Quick Info          |                |
+| Quick Info          |                     |
 |---------------------|---------------------|
 | **Co-located with** | [ACL 2026](https://2026.aclweb.org/) |
 | **Location**        | San Diego, California, United States |
 | **Dates**           | July 2-3, 2026 |
 | **Organizers**      | Ekaterina Kochmar, Bashar Alhafni, Stefano Bannò, Marie Bexte, Jill Burstein, Andrea Horbach, Ronja Laarmann-Quante, Anaïs Tack, Victoria Yaneva, Zheng Yuan |
+| **Deadline**        | March 23, 2026 |
+| **Submission**      | [https://softconf.com/acl2026/bea2026/](https://softconf.com/acl2026/bea2026/) |
 | **Contact**         | [bea.nlp.workshop@gmail.com](mailto:bea.nlp.workshop@gmail.com) |
 | **GitHub**          | To share your code and data with the BEA community, feel free to use the [#bea-workshop](https://github.com/topics/bea-workshop) topic. |
 
@@ -36,7 +38,11 @@ Over the years, this initiative has included four dedicated tasks focused solely
 Moreover, NLP/Education shared tasks have expanded into novel research areas, such as [Automated Evaluation of Scientific Writing](/sharedtask/2016) in 2016, [Native Language Identification](/sharedtask/2017) in 2017, [Second Language Acquisition Modeling](/sharedtask/2018-SLAM) and [Complex Word Identification](/sharedtask/2018-CWI) in 2018, [Generating AI Teacher Responses in Educational Dialogues](/sharedtask/2023) in 2023, [Automated Prediction of Item Difficulty and Item Response Time](https://sig-edu.org/sharedtask/2024) and [Multilingual Lexical Simplification](https://sites.google.com/view/mlsp-sharedtask-2024) in 2024, and [Pedagogical Ability Assessment of AI-powered Tutors](https://sig-edu.org/sharedtask/2025) in 2025.
 These competitions have significantly bolstered the visibility and interest in our field.
 
-The **21st BEA** will be a **2-day workshop**, with one in-person workshop day and one virtual workshop day. The workshop will feature **oral presentation sessions** and **large poster sessions** to facilitate the presentation of a wide array of original research. Moreover, there will be **a panel discussion** on *Academic and industry perspectives on the use of generative AI in education: opportunities and challenges*, **a half-day tutorial** on *Theory of Mind and its Applications in Educational Contexts*, and **two shared tasks** on *[Vocabulary Difficulty Prediction for English Learners](https://www.britishcouncil.org/data-science-and-insights/bea2026st)* and on *Rubric-based Short Answer Scoring for German* comprising an oral *overview presentation* by the shared task organizers and several *poster presentations* by the shared task participants.
+The **21st BEA** will be a **2-day workshop**, with one in-person workshop day and one virtual workshop day. The workshop will feature:
+- oral presentation sessions and large poster sessions to facilitate the presentation of a wide array of original research.
+- a **panel** discussion on *Transitioning from Academia to the EdTech Industry*
+- a half-day **tutorial** on *Theory of Mind and its Applications in Educational Contexts*
+- two **shared tasks** on *[Vocabulary Difficulty Prediction for English Learners](https://www.britishcouncil.org/data-science-and-insights/bea2026st)* and on *[Rubric-based Short Answer Scoring for German](https://edutec.science/bea-2026-shared-task/)* comprising an oral overview presentation by the shared task organizers and several poster presentations by the shared task participants
 
 ## Call for Papers
 
@@ -58,7 +64,8 @@ Topics of interest include, but are not limited to, the application of NLP techn
 - tools for teachers, learners, and assessment developers
 - corpus-based educational tools and systems
 
-Submissions will be open soon.
+The **call for papers** is currently **open**, and papers must be submitted by **March 23, 2026**. For more details and instructions, please see the [call for papers](/news/bea21-call-for-papers) and the [Submission](/bea/2026/submission/) pages. **The submission platform will be open soon.**
+{: .notice--success}
 
 ### Important Dates
 
@@ -67,16 +74,15 @@ All deadlines are 11:59pm UTC-12 (anywhere on earth). Please note that these dea
 
 | Event                         | Date                |
 |-------------------------------|---------------------|
-| Submission Deadline           | March 5, 2026      |
+| Submission Deadline           | March 23, 2026      |
 | Notification of Acceptance    | April 28, 2026      |
-| Camera-ready Papers Due       | May 12, 2026      |
-| Pre-recorded Videos Due       | June 4, 2026         |
-| Workshop                      | July 2-3, 2026 |
-
+| Camera-ready Papers Due       | May 12, 2026        |
+| Pre-recorded Videos Due       | June 4, 2026        |
+| Workshop                      | July 2-3, 2026      |
 
 ## Shared Tasks
 
-We will host two shared tasks:
+The workshop will host two shared tasks:
 
 ### Vocabulary Difficulty Prediction for English Learners
 
@@ -98,11 +104,9 @@ For more information on how to participate and latest updates, please refer to t
 
 For more information on how to participate and latest updates, please refer to the [shared task website](https://edutec.science/bea-2026-shared-task/).
 
-
-
 ## Tutorial
 
-We will also host a half-day tutorial:
+The workshop will feature a half-day tutorial:
 
 ### Theory of Mind and Application in Educational Context
 
@@ -112,6 +116,23 @@ We will also host a half-day tutorial:
 **Description:** This tutorial examines the integration of Theory of Mind (ToM) into AI-driven online tutoring systems, focusing on how advanced technologies, such as Large Language Models (LLMs), can model learners' cognitive and emotional states to provide adaptive, personalized feedback. Participants will learn foundational principles of ToM from cognitive science and psychology and how these concepts can be operationalized in AI systems. We will discuss mutual ToM, where both AI tutors and learners maintain models of each other's mental states, and address challenges such as detecting learner misconceptions, modeling meta-cognition, and maintaining privacy in data-driven tutoring. The tutorial also presents hands-on demonstrations of Machine ToM applied to programming education using datasets such as CS1QA and CodeQA, which contain Java and Python samples. By combining conceptual foundations, research insights, and practical exercises, this tutorial provides a comprehensive overview of designing human-centered, ethically aware, and cognitively informed AI tutoring systems.
 {: .notice--primary}
 
+## Panel
+
+The workshop will feature a panel discussion on **"Transitioning from Academia to the EdTech Industry."** This panel aims to share practical insights, career pathways, challenges, and lessons learned by individuals who have navigated (or actively support) the move from academic careers into industry roles within educational technology.
+
+The panel will be of interest to graduate students, postdoctoral researchers, faculty, and academic staff considering or preparing for careers in EdTech startups, established companies, or industry research labs.
+
+The panel will address topics including:
+- Motivation for transitioning from academia to EdTech
+- Differences in culture, expectations, and impact between academia and industry
+- Translating academic skills (research, teaching, publishing) to industry roles
+- Career paths in EdTech (e.g., product, research, UX, data science, learning design)
+- Advice for early-career researchers and faculty considering the transition
+
+**Panelists will be selected from an open call** based on several criteria, including relevant experience, diversity of perspectives, clear communication of insights, engagement with the BEA community, and ability to attend the workshop in person.
+
+The **call for panelists** is currently **open**, and applications must be submitted by **April 1, 2026**. For more details on eligibility and the application process, please see the [call for panelists](/news/bea21-call-for-panelists) page.
+{: .notice--success}
 
 ## Committees
 
