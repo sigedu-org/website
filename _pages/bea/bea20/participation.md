@@ -1,5 +1,5 @@
 ---
-title: "20th Workshop on Innovative Use of NLP for Building Educational Applications: Participation"
+title: "BEA 2025 Participation"
 permalink: /bea/2025/participation/
 redirect_from: /bea/20/participation/
 sidebar:

@@ -1,5 +1,5 @@
 ---
-title: "20th Workshop on Innovative Use of NLP for Building Educational Applications: Submission"
+title: "BEA 2025 Submission"
 permalink: /bea/2025/submission/
 redirect_from: /bea/20/submission/
 sidebar:

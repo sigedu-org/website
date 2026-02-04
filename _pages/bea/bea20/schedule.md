@@ -1,5 +1,5 @@
 ---
-title: "20th Workshop on Innovative Use of NLP for Building Educational Applications: Schedule"
+title: "BEA 2025 Schedule"
 permalink: /bea/2025/schedule/
 redirect_from: /bea/20/schedule/
 sidebar:

@@ -1,5 +1,5 @@
 ---
-title: "20th Workshop on Innovative Use of NLP for Building Educational Applications: Papers"
+title: "BEA 2025 Papers"
 permalink: /bea/2025/papers/
 redirect_from: /bea/20/papers/
 sidebar:
