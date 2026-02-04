@@ -1,5 +1,5 @@
 ---
-title: "Submission"
+title: "BEA 2026 Submission"
 permalink: /bea/2026/submission/
 redirect_from: /bea/21/submission/
 sidebar:
