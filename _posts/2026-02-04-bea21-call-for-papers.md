@@ -1,7 +1,9 @@
 ---
 title: "BEA 2026 Call for Papers"
 author: bea
-author_profile: true
+author_profile: false
+sidebar:
+  nav: "bea21"
 categories:
   news
 excerpt:
@@ -10,6 +12,7 @@ tags:
   cfp
 toc: true
 published: true
+
 ---
 
 The [BEA 2026](/bea/2026) Workshop (co-located with [ACL](https://2026.aclweb.org/) in San Diego, California, United States, on July 2nd or 3rd, 2026) invites submissions to the main track, including both long and short papers. Accepted submissions will be considered for oral or poster presentations.

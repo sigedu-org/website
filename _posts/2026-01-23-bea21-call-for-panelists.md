@@ -1,7 +1,9 @@
 ---
 title: "BEA 2026 Call for Panelists"
 author: bea
-author_profile: true
+author_profile: false
+sidebar:
+  nav: "bea21"
 categories:
   news
 excerpt:
