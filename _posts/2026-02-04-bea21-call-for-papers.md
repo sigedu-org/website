@@ -7,7 +7,7 @@ categories:
 excerpt:
   We’re inviting submissions of long and short papers to the main track of [BEA 2026](/bea/2026), co-located with [ACL 2026](https://2026.aclweb.org/) in San Diego, United States. The call remains open until March 23, 2026.
 tags:
-  panel
+  cfp
 toc: true
 published: true
 ---

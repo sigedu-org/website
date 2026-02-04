@@ -7,7 +7,7 @@ categories:
 excerpt:
   We’re inviting applications and nominations for panelists to join a **panel discussion on "Transitioning from Academia to the EdTech Industry"** during [BEA 2026](/bea/2026), co-located with [ACL 2026](https://2026.aclweb.org/) in San Diego, United States. The call remains open until April 1, 2026.
 tags:
-  cfp
+  panel
 toc: true
 published: true
 ---
