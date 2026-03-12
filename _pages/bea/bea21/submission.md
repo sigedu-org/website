@@ -16,7 +16,7 @@ All deadlines are 11:59pm UTC-12 (anywhere on earth). Please note that these dea
 
 | Event                         | Date                |
 |-------------------------------|---------------------|
-| Submission Deadline           | March 23, 2026      |
+| Submission Deadline           | ~March 23~ **March 30**, 2026      |
 | Notification of Acceptance    | April 28, 2026      |
 | Camera-ready Papers Due       | May 12, 2026        |
 | Pre-recorded Videos Due       | June 4, 2026        |
