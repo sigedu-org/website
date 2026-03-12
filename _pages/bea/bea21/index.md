@@ -17,7 +17,7 @@ toc_icon: 'cog'
 | **Location**        | San Diego, California, United States |
 | **Dates**           | July 2-3, 2026 |
 | **Organizers**      | Ekaterina Kochmar, Bashar Alhafni, Stefano Bannò, Marie Bexte, Jill Burstein, Andrea Horbach, Ronja Laarmann-Quante, Anaïs Tack, Victoria Yaneva, Zheng Yuan |
-| **Deadline**        | March 23, 2026 |
+| **Deadline**        | ~March 23~ **March 30**, 2026 |
 | **Submission**      | [https://softconf.com/acl2026/bea2026/](https://softconf.com/acl2026/bea2026/) |
 | **Contact**         | [bea.nlp.workshop@gmail.com](mailto:bea.nlp.workshop@gmail.com) |
 | **GitHub**          | To share your code and data with the BEA community, feel free to use the [#bea-workshop](https://github.com/topics/bea-workshop) topic. |
@@ -74,7 +74,7 @@ All deadlines are 11:59pm UTC-12 (anywhere on earth). Please note that these dea
 
 | Event                         | Date                |
 |-------------------------------|---------------------|
-| Submission Deadline           | March 23, 2026      |
+| Submission Deadline           | ~March 23~ **March 30**, 2026      |
 | Notification of Acceptance    | April 28, 2026      |
 | Camera-ready Papers Due       | May 12, 2026        |
 | Pre-recorded Videos Due       | June 4, 2026        |
