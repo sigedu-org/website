@@ -17,7 +17,7 @@ toc_icon: 'cog'
 | **Location**        | San Diego, California, United States |
 | **Dates**           | July 2-3, 2026 |
 | **Organizers**      | Ekaterina Kochmar, Bashar Alhafni, Stefano Bannò, Marie Bexte, Jill Burstein, Andrea Horbach, Ronja Laarmann-Quante, Anaïs Tack, Victoria Yaneva, Zheng Yuan |
-| **Deadline**        | ~March 23~ **March 30**, 2026 |
+| **Deadline**        | <strike>March 23</strike> **March 30**, 2026 |
 | **Submission**      | [https://softconf.com/acl2026/bea2026/](https://softconf.com/acl2026/bea2026/) |
 | **Contact**         | [bea.nlp.workshop@gmail.com](mailto:bea.nlp.workshop@gmail.com) |
 | **GitHub**          | To share your code and data with the BEA community, feel free to use the [#bea-workshop](https://github.com/topics/bea-workshop) topic. |
@@ -64,7 +64,7 @@ Topics of interest include, but are not limited to, the application of NLP techn
 - tools for teachers, learners, and assessment developers
 - corpus-based educational tools and systems
 
-The **call for papers** is currently **open**, and papers must be submitted by **March 23, 2026**. For more details and instructions, please see the [call for papers](/news/bea21-call-for-papers) and the [Submission](/bea/2026/submission/) pages. **The submission platform will be open soon.**
+The **call for papers** is currently **open**, and papers must be submitted by **<strike>March 23</strike> March 30, 2026**. For more details and instructions, please see the [call for papers](/news/bea21-call-for-papers) and the [Submission](/bea/2026/submission/) pages. **The submission platform:** [https://softconf.com/acl2026/bea2026/](https://softconf.com/acl2026/bea2026/)
 {: .notice--success}
 
 ### Important Dates
@@ -74,7 +74,7 @@ All deadlines are 11:59pm UTC-12 (anywhere on earth). Please note that these dea
 
 | Event                         | Date                |
 |-------------------------------|---------------------|
-| Submission Deadline           | ~March 23~ **March 30**, 2026      |
+| Submission Deadline           | <strike>March 23</strike> **March 30**, 2026      |
 | Notification of Acceptance    | April 28, 2026      |
 | Camera-ready Papers Due       | May 12, 2026        |
 | Pre-recorded Videos Due       | June 4, 2026        |
