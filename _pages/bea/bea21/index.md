@@ -15,7 +15,7 @@ toc_icon: 'cog'
 |---------------------|---------------------|
 | **Co-located with** | [ACL 2026](https://2026.aclweb.org/) |
 | **Location**        | San Diego, California, United States |
-| **Dates**           | July 2-3, 2026 |
+| **Dates**           | July 3-4, 2026 |
 | **Organizers**      | Ekaterina Kochmar, Bashar Alhafni, Stefano Bannò, Marie Bexte, Jill Burstein, Andrea Horbach, Ronja Laarmann-Quante, Anaïs Tack, Victoria Yaneva, Zheng Yuan |
 | **Deadline**        | <strike>March 23</strike> **March 30**, 2026 |
 | **Submission**      | [https://softconf.com/acl2026/bea2026/](https://softconf.com/acl2026/bea2026/) |
@@ -78,7 +78,7 @@ All deadlines are 11:59pm UTC-12 (anywhere on earth). Please note that these dea
 | Notification of Acceptance    | April 28, 2026      |
 | Camera-ready Papers Due       | May 12, 2026        |
 | Pre-recorded Videos Due       | June 4, 2026        |
-| Workshop                      | July 2-3, 2026      |
+| Workshop                      | July 3-4, 2026      |
 
 ## Shared Tasks
 

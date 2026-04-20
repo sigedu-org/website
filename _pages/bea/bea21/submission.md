@@ -20,7 +20,6 @@ All deadlines are 11:59pm UTC-12 (anywhere on earth). Please note that these dea
 | Notification of Acceptance    | April 28, 2026      |
 | Camera-ready Papers Due       | May 12, 2026        |
 | Pre-recorded Videos Due       | June 4, 2026        |
-| Workshop                      | July 2-3, 2026 |
 
 ## Submission Guidelines
 
