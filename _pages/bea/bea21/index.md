@@ -163,9 +163,9 @@ Panelists were selected from an open call based on several criteria, including r
 <!-- The **call for panelists** is currently **open**, and applications must be submitted by **April 1, 2026**. For more details on eligibility and the application process, please see the [call for panelists](/news/bea21-call-for-panelists) page.
 {: .notice--success} -->
 
-### ![Panelist](https://img.shields.io/badge/%20-PANELIST-orange?style=flat-square)<a name="#christine-bagarino" style="visibility: hidden;">Christine Bagarino (Social.AI)</a> 
+### ![Panelist](https://img.shields.io/badge/%20-PANELIST-orange?style=flat-square)<a name="#christine-bagarino" style="visibility: hidden;">Christine Bagarino (Social AI)</a> 
 
-**Christine Bagarino**, Social.AI<br>
+**Christine Bagarino**, Social AI<br>
   
 **Bio:** TBA
 {: .notice}
