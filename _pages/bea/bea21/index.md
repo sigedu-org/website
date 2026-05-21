@@ -7,6 +7,27 @@ sidebar:
 toc: true
 toc_sticky: true
 toc_icon: 'cog'
+gold:
+  - url: https://englishtest.duolingo.com/
+    image_path: "/assets/images/logos/sponsors/StackedGreenLogo-JuicyDET-060525-Primary.png"
+    alt: "Duolingo English Test Logo"
+    title: "Duolingo English Test"
+  - url: https://squirrelai.com
+    image_path: "/assets/images/logos/sponsors/squirrel-ai-learning.jpg"
+    alt: "Squirrel Ai Learning Logo"
+    title: "Squirrel Ai Learning"
+  - url: https://www.britishcouncil.org
+    image_path: "assets/images/logos/sponsors/BritishCouncil_Logo_Indigo_RGB.png"
+    alt: "British Council"
+    title: "British Council"
+  - url: https://www.cambridge.org/
+    image_path: "/assets/images/logos/sponsors/cambridge-upa.png"
+    alt: "Cambridge University Press & Assessment Logo"
+    title: "Cambridge University Press & Assessment"
+  - url: https://www.fernuni-hagen.de/english/research/clusters/catalpa/
+    image_path: "/assets/images/logos/sponsors/CATALPA.jpeg"
+    alt: "CATALPA Logo"
+    title: "CATALPA"
 ---
 
 ![Grand Hyatt Manchester San Diego](/assets/images/venues/san-diego-grand-hyatt-manchester.jpg)
@@ -43,6 +64,14 @@ The **21st BEA** will be a **2-day workshop**, with one in-person workshop day a
 - a **panel** discussion on *Transitioning from Academia to the EdTech Industry*
 - a half-day **tutorial** on *Theory of Mind and its Applications in Educational Contexts*
 - two **shared tasks** on *[Vocabulary Difficulty Prediction for English Learners](https://www.britishcouncil.org/data-science-and-insights/bea2026st)* and on *[Rubric-based Short Answer Scoring for German](https://edutec.science/bea-2026-shared-task/)* comprising an oral overview presentation by the shared task organizers and several poster presentations by the shared task participants
+
+## Sponsors
+
+Gold Sponsors
+: {% include gallery id="gold" layout="half" %}
+
+Sponsoring Opportunities
+: We are extremely grateful to our sponsors for the past workshops. This year, we want to continue helping students to attend the workshop, including the accommodation of the student post-workshop dinner and offering  grants covering best paper presentations. We are hoping to identify sponsors who might be willing to contribute $100 (Bronze), $250 (Silver) or $500 (Gold) to subsidize some of the workshop costs. Perks of sponsorship include logos on the workshop website and in the proceedings. If you would like to sponsor BEA, please send us an [email](mailto:bea.nlp.workshop@gmail.com).
 
 ## Call for Papers
 

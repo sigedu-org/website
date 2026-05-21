@@ -9,19 +9,19 @@ toc_sticky: true
 toc_icon: 'cog'
 gold:
   - url: https://duolingo.com
-    image_path: "/assets/images/logos/sponsors/bea2022/duolingo.png"
+    image_path: "/assets/images/logos/sponsors/duolingo.png"
     alt: "Duolingo Logo"
     title: "Duolingo"
   - url: https://www.ets.org
-    image_path: "/assets/images/logos/sponsors/bea2022/ets.jpg"
+    image_path: "/assets/images/logos/sponsors/ets.jpg"
     alt: "ETS Logo"
     title: "ETS"
   - url: https://ilexir.co.uk
-    image_path: "/assets/images/logos/sponsors/bea2022/ilexir.jpg"
+    image_path: "/assets/images/logos/sponsors/ilexir.jpg"
     alt: "iLexIR Logo"
     title: "iLexIR"
   - url: https://nbme.org
-    image_path: "/assets/images/logos/sponsors/bea2022/nbme.png"
+    image_path: "/assets/images/logos/sponsors/nbme.png"
     alt: "NBME Logo"
     title: "NBME"
 

@@ -9,32 +9,32 @@ toc_sticky: true
 toc_icon: 'cog'
 gold:
   - url: https://www.cambridge.org/
-    image_path: "/assets/images/logos/sponsors/bea2023/cambridge-upa.png"
+    image_path: "/assets/images/logos/sponsors/cambridge-upa.png"
     alt: "Cambridge University Press & Assessment Logo"
     title: "Cambridge University Press & Assessment"
   - url: https://www.fernuni-hagen.de/english/research/clusters/catalpa/
-    image_path: "/assets/images/logos/sponsors/bea2023/CATALPA.JPG"
+    image_path: "/assets/images/logos/sponsors/CATALPA.JPG"
     alt: "CATALPA Logo"
     title: "CATALPA"
   - url: https://www.duolingo.com
-    image_path: "/assets/images/logos/sponsors/bea2023/Duolingo.png"
+    image_path: "/assets/images/logos/sponsors/Duolingo.png"
     alt: "Duolingo Logo"
     title: "Duolingo"
   - url: https://www.ets.org
-    image_path: "/assets/images/logos/sponsors/bea2023/ets.jpg"
+    image_path: "/assets/images/logos/sponsors/ets.jpg"
     alt: "ETS Logo"
     title: "ETS"
   - url: https://grammarly.com
-    image_path: "/assets/images/logos/sponsors/bea2023/logo-grammarly.png"
+    image_path: "/assets/images/logos/sponsors/logo-grammarly.png"
     alt: "Grammarly Logo"
     title: "Grammarly"
   - url: https://nbme.org
-    image_path: "/assets/images/logos/sponsors/bea2023/nbme.png"
+    image_path: "/assets/images/logos/sponsors/nbme.png"
     alt: "NBME Logo"
     title: "NBME"
 silver:
   - url: https://www.cognii.com
-    image_path: "/assets/images/logos/sponsors/bea2023/Cognii.jpeg"
+    image_path: "/assets/images/logos/sponsors/Cognii.jpeg"
     alt: "Cognii Logo"
     title: "Cognii"
 ---

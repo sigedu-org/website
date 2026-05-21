@@ -10,37 +10,37 @@ toc_sticky: true
 toc_icon: 'cog'
 gold:
   - url: https://duolingo.com
-    image_path: "/assets/images/logos/sponsors/bea2019/duolingo-logo.png"
+    image_path: "/assets/images/logos/sponsors/duolingo-logo.png"
     alt: "Duolingo Logo"
     title: "Duolingo"
   - url: https://grammarly.com
-    image_path: "/assets/images/logos/sponsors/bea2019/grammarly-logo.png"
+    image_path: "/assets/images/logos/sponsors/grammarly-logo.png"
     alt: "Grammarly Logo"
     title: "Grammarly"
   - url: https://nbme.org
-    image_path: "/assets/images/logos/sponsors/bea2019/nbme-logo.png"
+    image_path: "/assets/images/logos/sponsors/nbme-logo.png"
     alt: "NBME Logo"
     title: "NBME"
   - url: https://ilexir.co.uk
-    image_path: "/assets/images/logos/sponsors/bea2019/ilexir-logo.png"
+    image_path: "/assets/images/logos/sponsors/ilexir-logo.png"
     alt: "iLexIR Logo"
     title: "iLexIR"
-  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
-  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
+  - image_path: /assets/images/logos/sponsors/blank-logo.png
+  - image_path: /assets/images/logos/sponsors/blank-logo.png
 silver:
   - url: https://www.ets.org
-    image_path: "/assets/images/logos/sponsors/bea2019/ets-logo.png"
+    image_path: "/assets/images/logos/sponsors/ets-logo.png"
     alt: "ETS Logo"
     title: "ETS"
-  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
-  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
+  - image_path: /assets/images/logos/sponsors/blank-logo.png
+  - image_path: /assets/images/logos/sponsors/blank-logo.png
 bronze:
   - url: https://newsela.com
-    image_path: "/assets/images/logos/sponsors/bea2019/newsela-logo.png"
+    image_path: "/assets/images/logos/sponsors/newsela-logo.png"
     alt: "Newsela Logo"
     title: "Newsela"
-  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
-  - image_path: /assets/images/logos/sponsors/bea2019/blank-logo.png
+  - image_path: /assets/images/logos/sponsors/blank-logo.png
+  - image_path: /assets/images/logos/sponsors/blank-logo.png
 ---
 
 ![florence-landscape](/assets/images/venues/florence.jpg)

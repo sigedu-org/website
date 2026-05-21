@@ -9,11 +9,11 @@ toc_sticky: true
 toc_icon: 'cog'
 gold:
   - url: https://www.cambridge.org/
-    image_path: "/assets/images/logos/sponsors/bea2023/cambridge-upa.png"
+    image_path: "/assets/images/logos/sponsors/cambridge-upa.png"
     alt: "Cambridge University Press & Assessment Logo"
     title: "Cambridge University Press & Assessment"
   - url: https://nbme.org
-    image_path: "/assets/images/logos/sponsors/bea2023/nbme.png"
+    image_path: "/assets/images/logos/sponsors/nbme.png"
     alt: "NBME Logo"
     title: "NBME"
   - url: https://sigiq.ai
@@ -21,7 +21,7 @@ gold:
     alt: "SigIQ.ai Logo"
     title: "SigIQ.ai"
   - url: https://englishtest.duolingo.com/
-    image_path: "/assets/images/logos/sponsors/bea2024/DET-v8-1536x2008.png"
+    image_path: "/assets/images/logos/sponsors/DET-v8-1536x2008.png"
     alt: "Duolingo English Test Logo"
     title: "Duolingo English Test"
   - url: https://squirrelai.com

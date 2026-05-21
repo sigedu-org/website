@@ -9,27 +9,27 @@ toc_sticky: true
 toc_icon: 'cog'
 gold:
   - url: https://www.britishcouncil.org
-    image_path: "assets/images/logos/sponsors/bea2024/BritishCouncil_Logo_Indigo_RGB.png"
+    image_path: "assets/images/logos/sponsors/BritishCouncil_Logo_Indigo_RGB.png"
     alt: "British Council"
     title: "British Council"
   - url: https://www.cambridge.org/
-    image_path: "/assets/images/logos/sponsors/bea2023/cambridge-upa.png"
+    image_path: "/assets/images/logos/sponsors/cambridge-upa.png"
     alt: "Cambridge University Press & Assessment Logo"
     title: "Cambridge University Press & Assessment"
   - url: https://www.fernuni-hagen.de/english/research/clusters/catalpa/
-    image_path: "/assets/images/logos/sponsors/bea2023/CATALPA.JPG"
+    image_path: "/assets/images/logos/sponsors/CATALPA.JPG"
     alt: "CATALPA Logo"
     title: "CATALPA"
   - url: https://englishtest.duolingo.com/
-    image_path: "/assets/images/logos/sponsors/bea2024/DET-v8-1536x2008.png"
+    image_path: "/assets/images/logos/sponsors/DET-v8-1536x2008.png"
     alt: "Duolingo English Test Logo"
     title: "Duolingo English Test"
   - url: https://www.ets.org
-    image_path: "/assets/images/logos/sponsors/bea2023/ets.jpg"
+    image_path: "/assets/images/logos/sponsors/ets.jpg"
     alt: "ETS Logo"
     title: "ETS"
   - url: https://nbme.org
-    image_path: "/assets/images/logos/sponsors/bea2023/nbme.png"
+    image_path: "/assets/images/logos/sponsors/nbme.png"
     alt: "NBME Logo"
     title: "NBME"
 ---
