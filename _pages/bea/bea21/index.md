@@ -158,10 +158,31 @@ The panel will address topics including:
 - Career paths in EdTech (e.g., product, research, UX, data science, learning design)
 - Advice for early-career researchers and faculty considering the transition
 
-**Panelists will be selected from an open call** based on several criteria, including relevant experience, diversity of perspectives, clear communication of insights, engagement with the BEA community, and ability to attend the workshop in person.
+Panelists were selected from an open call based on several criteria, including relevant experience, diversity of perspectives, clear communication of insights, engagement with the BEA community, and ability to attend the workshop in person.
 
-The **call for panelists** is currently **open**, and applications must be submitted by **April 1, 2026**. For more details on eligibility and the application process, please see the [call for panelists](/news/bea21-call-for-panelists) page.
-{: .notice--success}
+<!-- The **call for panelists** is currently **open**, and applications must be submitted by **April 1, 2026**. For more details on eligibility and the application process, please see the [call for panelists](/news/bea21-call-for-panelists) page.
+{: .notice--success} -->
+
+### ![Panelist](https://img.shields.io/badge/%20-PANELIST-orange?style=flat-square)<a name="#christine-bagarino" style="visibility: hidden;">Christine Bagarino (Social.AI)</a> 
+
+**Christine Bagarino**, Social.AI<br>
+  
+**Bio:** TBA
+{: .notice}
+
+### ![Panelist](https://img.shields.io/badge/%20-PANELIST-orange?style=flat-square)<a name="#keelan-evanini" style="visibility: hidden;">Keelan Evanini (NBME)</a> 
+
+**Keelan Evanini**, NBME<br>
+  
+**Bio:** Keelan Evanini has been a researcher in the field of natural language processing (NLP) for educational and conversational applications for more than 15 years. He is currently a Lead NLP Scientist at the National Board of Medical Examiners, where he conducts research into using conversational AI for interactive, scenario-based learning applications for medical students. Prior to joining NBME in 2025, he served as SVP of engineering and AI at Kasisto, a New York-based startup company that provides conversational AI solutions to financial institutions. From 2009-2020, he worked at Educational Testing Service as a research scientist and research director, where he conducted research into automated scoring of non-native spoken English for language proficiency assessment and spoken dialog systems for language learning applications. Keelan received a PhD in linguistics from the University of Pennsylvania in 2009 and is a Senior Member of the IEEE. He has published over 90 peer-reviewed papers and has been awarded 11 US patents.
+{: .notice}
+
+### ![Panelist](https://img.shields.io/badge/%20-PANELIST-orange?style=flat-square)<a name="#kai-north" style="visibility: hidden;">Kai North (Cambium Assessment)</a> 
+
+**Kai North**, Cambium Assessment<br>
+  
+**Bio:** TBA
+{: .notice}
 
 ## Committees
 
