@@ -181,7 +181,7 @@ Panelists were selected from an open call based on several criteria, including r
 
 **Kai North**, Cambium Assessment<br>
   
-**Bio:** TBA
+**Bio:** Dr. Kai North is a Senior Data Scientist at Cambium Assessment Inc. Kai earned his PhD in Information Technology at George Mason University, Virginia. He specializes in machine learning and natural language processing applied to educational and assessment technologies and has multiple top-tier publications at venues such as ACL, COLING, and ACM computing surveys.
 {: .notice}
 
 ## Committees
