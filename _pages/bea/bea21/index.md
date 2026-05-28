@@ -93,8 +93,9 @@ Topics of interest include, but are not limited to, the application of NLP techn
 - tools for teachers, learners, and assessment developers
 - corpus-based educational tools and systems
 
-The **call for papers** is currently **open**, and papers must be submitted by **<strike>March 23</strike> March 30, 2026**. For more details and instructions, please see the [call for papers](/news/bea21-call-for-papers) and the [Submission](/bea/2026/submission/) pages. **The submission platform:** [https://softconf.com/acl2026/bea2026/](https://softconf.com/acl2026/bea2026/)
+<!-- The **call for papers** is currently **open**, and papers must be submitted by **<strike>March 23</strike> March 30, 2026**. For more details and instructions, please see the [call for papers](/news/bea21-call-for-papers) and the [Submission](/bea/2026/submission/) pages. **The submission platform:** [https://softconf.com/acl2026/bea2026/](https://softconf.com/acl2026/bea2026/)
 {: .notice--success}
+-->
 
 ### Important Dates
 
