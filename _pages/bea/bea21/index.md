@@ -167,7 +167,7 @@ Panelists were selected from an open call based on several criteria, including r
 
 **Christine Bagarino**, Social AI<br>
   
-**Bio:** TBA
+**Bio:** Christine Bagarino is the founder of Social AI, an AI native startup based in Tokyo, Japan, that builds AI technology for positive social impact. A former educator, curriculum developer, and Silicon Valley product manager, Christine developed Japan's first LLM-powered English learning chatbot approved for K12 public education. In 2023, she traveled to rural Vietnam for an EdTech pilot funded by the Asian Development Bank, which inspired her to make fun and quality English learning accessible to children all over the world.
 {: .notice}
 
 ### ![Panelist](https://img.shields.io/badge/%20-PANELIST-orange?style=flat-square)<a name="#keelan-evanini" style="visibility: hidden;">Keelan Evanini (NBME)</a> 
@@ -182,6 +182,14 @@ Panelists were selected from an open call based on several criteria, including r
 **Kai North**, Cambium Assessment<br>
   
 **Bio:** Dr. Kai North is a Senior Data Scientist at Cambium Assessment Inc. Kai earned his PhD in Information Technology at George Mason University, Virginia. He specializes in machine learning and natural language processing applied to educational and assessment technologies and has multiple top-tier publications at venues such as ACL, COLING, and ACM computing surveys.
+{: .notice}
+
+### ![Panelist](https://img.shields.io/badge/%20-PANELIST-orange?style=flat-square)<a name="#mariano-felice" style="visibility: hidden;">Mariano Felice (British Council)</a> 
+
+**Mariano Felice**, British Council<br>
+  
+**Bio:** Mariano leads the artificial intelligence (AI) strategy for language learning and assessment at the British Council. His role involves researching the application of natural language processing (NLP) to language assessment, providing strategic guidance for the development and adoption of AI solutions, and promoting AI literacy and responsible use of new technologies.  
+With over a decade of experience, Mariano has worked on a wide range of topics, including grammatical error correction, automatic error typing, system evaluation, automated cloze test generation and item difficulty prediction. He has published numerous scientific papers in top-tier NLP conferences and is a regular speaker at international conferences as well as a reviewer for workshops, journals and conferences in his field. Mariano is also a visiting scholar at the University of Reading and the University of Cambridge.
 {: .notice}
 
 ## Committees
