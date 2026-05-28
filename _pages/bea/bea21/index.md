@@ -170,18 +170,18 @@ Panelists were selected from an open call based on several criteria, including r
 **Bio:** Christine Bagarino is the founder of Social AI, an AI native startup based in Tokyo, Japan, that builds AI technology for positive social impact. A former educator, curriculum developer, and Silicon Valley product manager, Christine developed Japan's first LLM-powered English learning chatbot approved for K12 public education. In 2023, she traveled to rural Vietnam for an EdTech pilot funded by the Asian Development Bank, which inspired her to make fun and quality English learning accessible to children all over the world.
 {: .notice}
 
-### ![Panelist](https://img.shields.io/badge/%20-PANELIST-orange?style=flat-square)<a name="#keelan-evanini" style="visibility: hidden;">Keelan Evanini (NBME)</a> 
-
-**Keelan Evanini**, NBME<br>
-  
-**Bio:** Keelan Evanini has been a researcher in the field of natural language processing (NLP) for educational and conversational applications for more than 15 years. He is currently a Lead NLP Scientist at the National Board of Medical Examiners, where he conducts research into using conversational AI for interactive, scenario-based learning applications for medical students. Prior to joining NBME in 2025, he served as SVP of engineering and AI at Kasisto, a New York-based startup company that provides conversational AI solutions to financial institutions. From 2009-2020, he worked at Educational Testing Service as a research scientist and research director, where he conducted research into automated scoring of non-native spoken English for language proficiency assessment and spoken dialog systems for language learning applications. Keelan received a PhD in linguistics from the University of Pennsylvania in 2009 and is a Senior Member of the IEEE. He has published over 90 peer-reviewed papers and has been awarded 11 US patents.
-{: .notice}
-
 ### ![Panelist](https://img.shields.io/badge/%20-PANELIST-orange?style=flat-square)<a name="#kai-north" style="visibility: hidden;">Kai North (Cambium Assessment)</a> 
 
 **Kai North**, Cambium Assessment<br>
   
 **Bio:** Dr. Kai North is a Senior Data Scientist at Cambium Assessment Inc. Kai earned his PhD in Information Technology at George Mason University, Virginia. He specializes in machine learning and natural language processing applied to educational and assessment technologies and has multiple top-tier publications at venues such as ACL, COLING, and ACM computing surveys.
+{: .notice}
+
+### ![Panelist](https://img.shields.io/badge/%20-PANELIST-orange?style=flat-square)<a name="#keelan-evanini" style="visibility: hidden;">Keelan Evanini (NBME)</a> 
+
+**Keelan Evanini**, NBME<br>
+  
+**Bio:** Keelan Evanini has been a researcher in the field of natural language processing (NLP) for educational and conversational applications for more than 15 years. He is currently a Lead NLP Scientist at the National Board of Medical Examiners, where he conducts research into using conversational AI for interactive, scenario-based learning applications for medical students. Prior to joining NBME in 2025, he served as SVP of engineering and AI at Kasisto, a New York-based startup company that provides conversational AI solutions to financial institutions. From 2009-2020, he worked at Educational Testing Service as a research scientist and research director, where he conducted research into automated scoring of non-native spoken English for language proficiency assessment and spoken dialog systems for language learning applications. Keelan received a PhD in linguistics from the University of Pennsylvania in 2009 and is a Senior Member of the IEEE. He has published over 90 peer-reviewed papers and has been awarded 11 US patents.
 {: .notice}
 
 ### ![Panelist](https://img.shields.io/badge/%20-PANELIST-orange?style=flat-square)<a name="#mariano-felice" style="visibility: hidden;">Mariano Felice (British Council)</a> 
