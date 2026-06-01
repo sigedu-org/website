@@ -11,6 +11,9 @@ toc_icon: 'cog'
 
 This page features the accepted papers from the workshop, each linked to their publication in the [ACL Anthology](https://aclanthology.org).
 
+The proceedings are currently in press, with online publication expected to be scheduled at the start of the workshop.
+{: .notice--warning}
+
 ## Tutorial Track
 
 - [Theory of Mind and Application in Educational Context](https://aclanthology.org/2026.bea-1.1/) (Effat Farhana, Maha Zainab, Qiaosi Wang, Niloofar Mireshghallah, Ramira van der Meulen, Max van Duijn)
