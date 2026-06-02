@@ -79,8 +79,8 @@ bea21:
         url: /bea/2026/submission
       - title: "Papers"
         url: /bea/2026/papers
-    #   - title: "Schedule"
-    #     url: /bea/2026/schedule
+      - title: "Schedule"
+        url: /bea/2026/schedule
     #   - title: "Participation"
     #     url: /bea/2026/participation
   - *bea-workshops
