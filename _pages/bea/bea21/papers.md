@@ -11,7 +11,7 @@ toc_icon: 'cog'
 
 This page features the accepted papers from the workshop, each linked to their publication in the [ACL Anthology](https://aclanthology.org).
 
-The proceedings are currently in press, with online publication expected to be scheduled at the start of the workshop.
+The proceedings are currently in press, with online publication expected at the start of the workshop.
 {: .notice--warning}
 
 ## Tutorial Track

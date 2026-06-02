@@ -24,6 +24,8 @@ Add to Calendar
 Schedule Changes
 : Please check for any last-minute changes [here](https://docs.google.com/spreadsheets/d/1JLUgTHKGM8u4ReoDrP-ZIVaqtdtWH8CGhEArJHG_qlY/edit?gid=871483299#gid=871483299). -->
 
+The workshop page on Underline is not live yet. Access to the links below will be available at the start of the workshop.
+{: .notice--warning}
 
 ## Friday, July 3, 2026
 
