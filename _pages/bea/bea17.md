@@ -9,7 +9,7 @@ toc_sticky: true
 toc_icon: 'cog'
 gold:
   - url: https://duolingo.com
-    image_path: "/assets/images/logos/sponsors/duolingo.png"
+    image_path: "/assets/images/logos/sponsors/Duolingo.png"
     alt: "Duolingo Logo"
     title: "Duolingo"
   - url: https://www.ets.org
