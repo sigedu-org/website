@@ -25,7 +25,7 @@ gold:
     alt: "Cambridge University Press & Assessment Logo"
     title: "Cambridge University Press & Assessment"
   - url: https://www.fernuni-hagen.de/english/research/clusters/catalpa/
-    image_path: "/assets/images/logos/sponsors/CATALPA.jpeg"
+    image_path: "/assets/images/logos/sponsors/CATALPA.JPG"
     alt: "CATALPA Logo"
     title: "CATALPA"
 ---
