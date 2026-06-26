@@ -81,7 +81,7 @@ bea21:
         url: /bea/2026/papers
       - title: "Schedule"
         url: /bea/2026/schedule
-    #   - title: "Participation"
-    #     url: /bea/2026/participation
+      - title: "Participation"
+        url: /bea/2026/participation
   - *bea-workshops
   - *bea-contact
