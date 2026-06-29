@@ -7,8 +7,8 @@ X-WR-CALDESC:The 21st Workshop on Innovative Use of NLP for Building Educat
  ional Applications
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260625T141501Z
-UID:TS1-878eaa8b-e920-4a51-b1b2-afd0611dc99c
+DTSTAMP:20260629T103615Z
+UID:TS1-a697baf6-1614-4f04-9727-bfee9c557c25
 DTSTART;TZID=America/Los_Angeles:20260703T060000
 DTEND;TZID=America/Los_Angeles:20260703T073000
 SUMMARY:BEA 2026: Early Poster Session
@@ -16,22 +16,22 @@ LOCATION:Zoom\nhttps://underline.io/events/530/sessions?eventSessionId=2299
  3
 DESCRIPTION:\n- Using k-Shot Prompting with Large k for the Automated Scori
  ng of a German Written Elicited Imitation Test (Malte Sternik\, Ronja Laar
- mann-Quante\, Anastasia Drackert)\n- Fine-Grained Content Zone Prediction 
- in German Argumentative Essays Using LLMs (Xiaoyu Bai\, Manfred Stede)\n- 
- Sharing is Caring: Advantages of Sharing a Language Background with Learne
- rs as an Annotator of Learner Data in UD (Caroline Grand-Clement\, Arianna
-  Masciolini)\n- The Effects of Structured LLM-Generated Feedback on Progra
- mming Assignment Performance (Tsvetomila Mihaylova\, Evanfiya Logacheva\, 
- Arto Hellas\, Jing Fan\, Francisco Castro\, Bita Akram\, Narges Norouzi\, 
- Peter Brusilovsky\, Juho Leinonen)\n- HFT at BEA 2026 Shared Task 2: Blunt
- -Edge Models for Hybrid Grading (Ulrike Pado)\n- WSE Research at BEA 2026 
- Shared Task 2: Multi-Strategy Rubric-Based Short Answer Scoring for German
-  (Jonas Gwozdz\, Andreas Both)
+ mann-Quante\, Anastasia Drackert)\n- From Questions to Assessment Tuples: 
+ A Multi-Agent Framework with Bloom-Specialized Agents and Automated Verifi
+ cation (Gee-Lyle Wong\, Runcong Zhao\, Yulan He\, Jiazheng Li)\n- Fine-Gra
+ ined Content Zone Prediction in German Argumentative Essays Using LLMs (Xi
+ aoyu Bai\, Manfred Stede)\n- Sharing is Caring: Advantages of Sharing a La
+ nguage Background with Learners as an Annotator of Learner Data in UD (Car
+ oline Grand-Clement\, Arianna Masciolini)\n- The Effects of Structured LLM
+ -Generated Feedback on Programming Assignment Performance (Tsvetomila Miha
+ ylova\, Evanfiya Logacheva\, Arto Hellas\, Jing Fan\, Francisco Castro\, B
+ ita Akram\, Narges Norouzi\, Peter Brusilovsky\, Juho Leinonen)\n- HFT at 
+ BEA 2026 Shared Task 2: Blunt-Edge Models for Hybrid Grading (Ulrike Pado)
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141501Z
-UID:TS1-cda20d0b-1bcc-4f7d-ae10-c0dcc180837c
+DTSTAMP:20260629T103615Z
+UID:TS1-c212a2e2-9fba-4a2a-8ad6-af793cbe3cad
 DTSTART;TZID=America/Los_Angeles:20260703T073000
 DTEND;TZID=America/Los_Angeles:20260703T084500
 SUMMARY:BEA 2026: Early Oral Session
@@ -40,8 +40,8 @@ LOCATION:Zoom\nhttps://underline.io/events/530/sessions?eventSessionId=2299
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141501Z
-UID:TS1-d8c4ad40-c76e-42d0-a10e-e787e7406e7a
+DTSTAMP:20260629T103615Z
+UID:TS1-08a49919-055b-4481-8d8f-37a0c847193f
 DTSTART;TZID=America/Los_Angeles:20260703T073000
 DTEND;TZID=America/Los_Angeles:20260703T074500
 SUMMARY:Domain-Adaptive Pre-training for Automated Short Answer Grading in 
@@ -54,8 +54,8 @@ DESCRIPTION:Talk by Shirin Lade\, Alistair Willis\, Jonathan Nylk\, Oli How
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141501Z
-UID:TS1-26668604-28af-47aa-82d7-27c970084195
+DTSTAMP:20260629T103615Z
+UID:TS1-bd706f70-3fd7-4b14-b462-169c0fbe457a
 DTSTART;TZID=America/Los_Angeles:20260703T074500
 DTEND;TZID=America/Los_Angeles:20260703T080000
 SUMMARY:Using Interaction Log Data to Evaluate and Improve Feedback Accurac
@@ -67,8 +67,8 @@ DESCRIPTION:Talk by Mariia Soliar\, Leona Colling\, Stephen Bodnar\, Detmar
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141501Z
-UID:TS1-1c8afb5b-5c3c-45e8-8a58-9bb711964362
+DTSTAMP:20260629T103615Z
+UID:TS1-8fe400ca-8245-45c9-972b-0986af5b2df3
 DTSTART;TZID=America/Los_Angeles:20260703T080000
 DTEND;TZID=America/Los_Angeles:20260703T081500
 SUMMARY:Towards Pedagogically Aligned LLM Tutors for Math Mistake Remediati
@@ -79,8 +79,8 @@ DESCRIPTION:Talk by Kseniia Petukhova\, Tien Dat Nguyen\, Ekaterina Kochmar
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141501Z
-UID:TS1-47894cbf-7d1e-4bbd-87f7-c68cd3cd1324
+DTSTAMP:20260629T103615Z
+UID:TS1-8203db09-c6e1-4408-8781-3456e051ec8c
 DTSTART;TZID=America/Los_Angeles:20260703T081500
 DTEND;TZID=America/Los_Angeles:20260703T083000
 SUMMARY:What Aggregate Scores Hide: Per-Rule Evaluation of Russian Grammati
@@ -92,8 +92,8 @@ DESCRIPTION:Talk by Anna Smirnova\, Artyom Kopan\, Vladislav Makeev\, Georg
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141501Z
-UID:TS1-7b9b4b66-f438-4f64-85ad-89a3f2f88775
+DTSTAMP:20260629T103615Z
+UID:TS1-23d28a6d-55d2-4fc6-8a0d-7916c3e7e8a7
 DTSTART;TZID=America/Los_Angeles:20260703T083000
 DTEND;TZID=America/Los_Angeles:20260703T084500
 SUMMARY:IWM-DKM at BEA 2026 Shared Task 2: Supplementing Supervised Fine-Tu
@@ -105,21 +105,26 @@ DESCRIPTION:Talk by Kate Belcher\, Marius De Kuthy Meurers\, Kordula De Kut
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141501Z
-UID:TS1-7836856b-9061-49c2-a439-0bcafcca1f7d
+DTSTAMP:20260629T103615Z
+UID:TS1-b647037d-2c45-41cc-ab33-9cbb7f174c79
 DTSTART;TZID=America/Los_Angeles:20260703T090000
 DTEND;TZID=America/Los_Angeles:20260703T103000
 SUMMARY:BEA 2026: Tutorial Session A
 LOCATION:Zoom\nhttps://underline.io/events/530/sessions?eventSessionId=2299
  3
-DESCRIPTION:\nTheory of Mind and Application in Educational Context (Effat 
- Farhana\, Maha Zainab\, Qiaosi Wang\, Niloofar Mireshghallah\, Ramira van 
- der Meulen\, Max van Duijn)
+DESCRIPTION:Theory of Mind and Application in Educational Context (Effat Fa
+ rhana\, Maha Zainab\, Qiaosi Wang\, Niloofar Mireshghallah\, Ramira van de
+ r Meulen\, Max van Duijn)\n09:00 - 09:10 Introduction and Background (Effa
+ t Farhana)\n09:10 - 09:20 Online Tutoring Systems and Cognitive Modeling (
+ Effat Farhana)\n09:20 - 09:35 LLM Adaptation in AI Tutoring (Maha Zainab)\
+ n09:35 - 09:50 ToM Integration and Research Gaps (Effat Farhana)\n09:50 - 
+ 10:00 Synthesis\, Reflection\, and Key Themes of the Tutorial (Effat Farha
+ na)\n10:00 - 10:30 ToM and User Privacy (Niloofar Mireshghallah)
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141501Z
-UID:TS1-0ac3efa9-746e-41f6-aa3b-ac21d50783d2
+DTSTAMP:20260629T103615Z
+UID:TS1-7f160bdb-5da9-4254-9553-32f8b572446b
 DTSTART;TZID=America/Los_Angeles:20260703T103000
 DTEND;TZID=America/Los_Angeles:20260703T110000
 SUMMARY:BEA 2026: Coffee Break
@@ -128,21 +133,24 @@ LOCATION:Zoom\nhttps://underline.io/events/530/sessions?eventSessionId=2299
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141501Z
-UID:TS1-08498fc7-cbdd-44d0-b7e7-b05550b31c95
+DTSTAMP:20260629T103615Z
+UID:TS1-6347ebdc-ff07-4022-a419-c5284bf6cea1
 DTSTART;TZID=America/Los_Angeles:20260703T110000
 DTEND;TZID=America/Los_Angeles:20260703T123000
 SUMMARY:BEA 2026: Tutorial Session B
 LOCATION:Zoom\nhttps://underline.io/events/530/sessions?eventSessionId=2299
  3
-DESCRIPTION:\nTheory of Mind and Application in Educational Context (Effat 
- Farhana\, Maha Zainab\, Qiaosi Wang\, Niloofar Mireshghallah\, Ramira van 
- der Meulen\, Max van Duijn)
+DESCRIPTION:Theory of Mind and Application in Educational Context (Effat Fa
+ rhana\, Maha Zainab\, Qiaosi Wang\, Niloofar Mireshghallah\, Ramira van de
+ r Meulen\, Max van Duijn)\n11:00 - 11:25 Addressing Misconceptions (Ramira
+  van der Meulen)\n11:25 - 11:50 Mutual ToM in AI Tutoring (Qiaosi Wang - E
+ ffat will play recorded talk of Qiaosi as she has time conflict)\n11:50 - 
+ 12:30 Q&A and Machine ToM in Source Code Comprehension Demo (Maha Zainab)
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-bb863c47-9ec4-4378-9bbc-8921819ae50c
+DTSTAMP:20260629T103615Z
+UID:TS1-a5151e72-32ab-470e-8ce4-d2a6eb999e73
 DTSTART;TZID=America/Los_Angeles:20260703T123000
 DTEND;TZID=America/Los_Angeles:20260703T140000
 SUMMARY:BEA 2026: Lunch Break / Birds of a Feather
@@ -151,8 +159,8 @@ LOCATION:Zoom\nhttps://underline.io/events/530/sessions?eventSessionId=2299
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-ad2b751f-d1c0-4e67-a438-9ac0f14d78e5
+DTSTAMP:20260629T103615Z
+UID:TS1-c4de244b-b7c7-4a30-b405-2175c237f287
 DTSTART;TZID=America/Los_Angeles:20260703T140000
 DTEND;TZID=America/Los_Angeles:20260703T154500
 SUMMARY:BEA 2026: Oral Session A
@@ -161,21 +169,20 @@ LOCATION:Zoom\nhttps://underline.io/events/530/sessions?eventSessionId=2299
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-75253aa5-5bbf-423f-9d21-536fc85a3075
+DTSTAMP:20260629T103615Z
+UID:TS1-8142f8c1-9cef-4f63-8f3d-f019c1a13b18
 DTSTART;TZID=America/Los_Angeles:20260703T140000
 DTEND;TZID=America/Los_Angeles:20260703T141500
-SUMMARY:Using Interaction Log Data to Evaluate and Improve Feedback Accurac
- y in an Intelligent Language Tutoring System
+SUMMARY:Instruction-Following LLMs for Grammatical Error Correction: Analyz
+ ing Neutral-Anchored Instructional Sensitivity Across Editing Modes
 LOCATION:Zoom\nhttps://underline.io/events/530/sessions?eventSessionId=2299
  3
-DESCRIPTION:Talk by Mariia Soliar\, Leona Colling\, Stephen Bodnar\, Detmar
-  Meurers
+DESCRIPTION:Talk by Tolgahan Türker\, Gülşen Eryiğit
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-e6a7b0ff-5590-489f-b8b7-f94e729ac723
+DTSTAMP:20260629T103615Z
+UID:TS1-7fb5c5c1-e711-46ff-b942-8e38b8a0f7f6
 DTSTART;TZID=America/Los_Angeles:20260703T141500
 DTEND;TZID=America/Los_Angeles:20260703T143000
 SUMMARY:Estimating LLM Grading Ability and Response Difficulty in Automatic
@@ -187,8 +194,8 @@ DESCRIPTION:Talk by Longwei Cong\, Sonja Hahn\, Sebastian Gombert\, Leon Ca
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-926524f6-c726-488c-9f5c-402bc2c45933
+DTSTAMP:20260629T103615Z
+UID:TS1-d019e79d-8831-499b-9fde-1e3ebea00024
 DTSTART;TZID=America/Los_Angeles:20260703T143000
 DTEND;TZID=America/Los_Angeles:20260703T144500
 SUMMARY:LLM-Powered but Rule-Grounded: Pedagogically Relevant Grammatical E
@@ -200,8 +207,8 @@ DESCRIPTION:Talk by Soroosh Akef\, Amália Mendes\, P Rebuschat\, Detmar Meu
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-b3da1f35-1a92-4d69-9703-013f1d30ef6e
+DTSTAMP:20260629T103615Z
+UID:TS1-d15d7f04-6818-40ba-a5f4-c06ef74402a8
 DTSTART;TZID=America/Los_Angeles:20260703T144500
 DTEND;TZID=America/Los_Angeles:20260703T150000
 SUMMARY:KEYSCORE — Keystroke-enhanced Automated Essay Scoring
@@ -212,19 +219,9 @@ DESCRIPTION:Talk by Nils-Jonathan Schaller\, Daniel Mora Melanchthon\, Thor
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-41964f46-68d1-43f3-9b56-950c5add0a58
-DTSTART;TZID=America/Los_Angeles:20260703T154500
-DTEND;TZID=America/Los_Angeles:20260703T160000
-SUMMARY:BEA 2026: Coffee Break
-LOCATION:Zoom\nhttps://underline.io/events/530/sessions?eventSessionId=2299
- 3
-CATEGORIES:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-0c925a79-cec3-43ca-a1f6-a9f081bcee79
-DTSTART;TZID=America/Los_Angeles:20260703T160000
+DTSTAMP:20260629T103615Z
+UID:TS1-ea32036b-a5d1-4110-9ca3-08ab3b696bc6
+DTSTART;TZID=America/Los_Angeles:20260703T151500
 DTEND;TZID=America/Los_Angeles:20260703T173000
 SUMMARY:BEA 2026: Poster Session A
 LOCATION:Zoom\nhttps://underline.io/events/530/sessions?eventSessionId=2299
@@ -238,250 +235,241 @@ DESCRIPTION:\n- Inferring Student Engagement via Real-Time Thermal–Visual V
  ence Lens: Explainable Essay Scoring through Fine-Grained Predictions (Dan
  iel Mora Melanchthon\, Stefan Keller\, Andrea Horbach)\n- Kelvi: A Morphol
  ogical Parser to Support Tamil Literacy (Shankhalika Srikanth\, Sabrina Yu
- \, Sophia Chan\, Madeline Solis de Ovando)\n- From Questions to Assessment
-  Tuples: A Multi-Agent Framework with Bloom-Specialized Agents and Automat
- ed Verification (Gee-Lyle Wong\, Runcong Zhao\, Yulan He\, Jiazheng Li)\n-
-  Multi-step Large Language Model for Fine-Grained Feedback in Stepwise Lin
- ear Equation Solutions (Imran Chamieh\, Torsten Zesch\, Klaus Giebermann)\
- n- Comparative Evaluation of AI-Generated vs. Expert-written Answer Explan
- ations for a Medical Education Self-Assessment (Yiyun Zhou\, Francis O'Don
- nell\, Victoria Yaneva)\n- Multi-component student writing profiles for ex
- pert-aligned automated evaluation of English learner essays. (Russell Moor
- e\, Andrew Caines\, Paula Buttery)\n- Policy-Sensitive Fairness Evaluation
-  in Automated Scoring of Clinical Communication (Saed Rezayi\, Le An Ha\, 
- Victoria Yaneva\, Polina Harik\, Janet Mee\, Jason Snyder)\n- Rubrics as S
- emantic Subspaces: A Unified Approach to Rubric-based Constructed Response
-  Scoring across Short Answers and Essays (Sebastian Gombert\, Sonja Hahn\,
-  Nico Andersen\, Leon Camus\, Zhifan Sun\, Ngoc Nhu Hao Nguyen\, Fabian Ze
- hner\, Longwei Cong\, Alexander Mehler\, Hendrik Drachsler)\n- Assessment 
- of L2 speech global dimensions using large audio language models (Elsayed 
- Issa\, Mahmoud Ali)\n- Children's English Reading Story Generation via Sup
- ervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safet
- y (Qian Shen\, Fanghua Cao\, Min Yao\, Shlok Gilda\, Bonnie Dorr\, Walter 
- Leite)\n- Transformer-based readability classifiers are worse than you thi
- nk: Evidence from cross-domain Arabic readability assessment (SARH ALZU'BI
- \, Robert Reynolds)\n- Predicting Item Difficulty and Generating Reading C
- omprehension Items via an Annotated Repository (Radhika Kapoor\, Mayank Sh
- arma\, Sang Truong\, Nick Haber\, Ben Domingue\, Maria Ruiz-Primo)\n- Gene
- rative-Evaluative Agreement: A Necessary Validity Criterion for LLM-Enable
- d Adaptive Assessment (Grandee Lee\, Yue Wang\, Che Yee Lye\, Luke Peh)\n-
-  Teaching Through Analogies: A Modular Pipeline for Educational Analogy Ge
- neration (Mariam Barakat\, Ekaterina Kochmar)\n- From Dialogue to Learner 
- Modeling: Identifying Candidate Signals of Productive Use in LLM-Based Gra
- mmar Practice (Luisa Ribeiro-Flucht\, Lanhua Huang\, Xiaobin Chen)\n- Towa
- rd Cross-Domain Automated Feedback: A Comparative Evaluation of Open-Sourc
- e Models across Diverse Student Assessment Types (Muhammad Haseeb\, Min Pa
- ing Hmue\, Ahmad Imam Amjad\, Maaz Amjad\, Victor Sheng)\n- SAAKTH at BEA 
- 2026 Shared Task 1: L1-Aware English Vocabulary Difficulty Prediction with
-  Hybrid Transformer and Psycholinguistic Features (Karthik Mattu\, Adit Dh
- all\, Arshad Naguru\, Shubh Sehgal\, Thejas Gowda\, Hakyung Sung)\n- SDPA 
- at BEA 2026 Shared Task 2: Efficient LLM Fine-Tuning for Rubric-based Shor
- t Answer Scoring (Zhexiong Liu\, Jing Zhang)\n- TOEBM at BEA 2026 Shared T
- ask 1: Improving Lexical Difficulty Prediction with Context-Aligned Contra
- stive Learning and Ridge Ensembling (wicaksono M.\, Joanito Lopo\, Tsamara
- h Nugraha\, Ahmad Adi\, Muhamad Nurfajri)
+ \, Sophia Chan\, Madeline Solis de Ovando)\n- Multi-step Large Language Mo
+ del for Fine-Grained Feedback in Stepwise Linear Equation Solutions (Imran
+  Chamieh\, Torsten Zesch\, Klaus Giebermann)\n- Comparative Evaluation of 
+ AI-Generated vs. Expert-written Answer Explanations for a Medical Educatio
+ n Self-Assessment (Yiyun Zhou\, Francis O'Donnell\, Victoria Yaneva)\n- PE
+ RSA: Reinforcement Learning for Professor-Style Personalized Feedback with
+  LLMs (Ravi Kumar\, Utkarsh Grover\, Xiaomin Lin\, Agoritsa Polyzou)\n- Po
+ licy-Sensitive Fairness Evaluation in Automated Scoring of Clinical Commun
+ ication (Saed Rezayi\, Le An Ha\, Victoria Yaneva\, Polina Harik\, Janet M
+ ee\, Jason Snyder)\n- Assessment of L2 speech global dimensions using larg
+ e audio language models (Elsayed Issa\, Mahmoud Ali)\n- Children's English
+  Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with 
+ Controllable Difficulty and Safety (Qian Shen\, Fanghua Cao\, Min Yao\, Sh
+ lok Gilda\, Bonnie Dorr\, Walter Leite)\n- Transformer-based readability c
+ lassifiers are worse than you think: Evidence from cross-domain Arabic rea
+ dability assessment (SARH ALZU'BI\, Robert Reynolds)\n- Predicting Item Di
+ fficulty and Generating Reading Comprehension Items via an Annotated Repos
+ itory (Radhika Kapoor\, Mayank Sharma\, Sang Truong\, Nick Haber\, Ben Dom
+ ingue\, Maria Ruiz-Primo)\n- Generative-Evaluative Agreement: A Necessary 
+ Validity Criterion for LLM-Enabled Adaptive Assessment (Grandee Lee\, Yue 
+ Wang\, Che Yee Lye\, Luke Peh)\n- Teaching Through Analogies: A Modular Pi
+ peline for Educational Analogy Generation (Mariam Barakat\, Ekaterina Koch
+ mar)\n- From Dialogue to Learner Modeling: Identifying Candidate Signals o
+ f Productive Use in LLM-Based Grammar Practice (Luisa Ribeiro-Flucht\, Lan
+ hua Huang\, Xiaobin Chen)\n- SAAKTH at BEA 2026 Shared Task 1: L1-Aware En
+ glish Vocabulary Difficulty Prediction with Hybrid Transformer and Psychol
+ inguistic Features (Karthik Mattu\, Adit Dhall\, Arshad Naguru\, Shubh Seh
+ gal\, Thejas Gowda\, Hakyung Sung)\n- Jinnie's Lab at BEA 2026 Shared Task
+  1: Precalibration of Vocabulary Item Difficulty with Multilingual Transfo
+ rmers and Multi-Task Learning (Zhe Li\, Pauline Aguinalde\, Jinnie Shin)\n
+ - TOEBM at BEA 2026 Shared Task 1: Improving Lexical Difficulty Prediction
+  with Context-Aligned Contrastive Learning and Ridge Ensembling (wicaksono
+  M.\, Joanito Lopo\, Tsamarah Nugraha\, Ahmad Adi\, Muhamad Nurfajri)
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-73035f66-56f5-4344-acb0-c8e41358b4fe
+DTSTAMP:20260629T103615Z
+UID:TS1-5614d805-3b8a-4f6e-8179-1837cebb5744
 DTSTART;TZID=America/Los_Angeles:20260704T090000
 DTEND;TZID=America/Los_Angeles:20260704T103000
 SUMMARY:BEA 2026: Oral Session B
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-efd2fbdc-db91-42a7-b31e-1920ed53bb16
+DTSTAMP:20260629T103615Z
+UID:TS1-da9bd75a-cfca-4593-9a88-4cc50ba0c3b7
 DTSTART;TZID=America/Los_Angeles:20260704T090000
 DTEND;TZID=America/Los_Angeles:20260704T091500
 SUMMARY:The Aftermath of DrawEduMath: Vision Language Models Underperform w
  ith Struggling Students and Misdiagnose Errors
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 DESCRIPTION:Talk by Li Lucy\, Albert Zhang\, Nathan Anderson\, Ryan Knight\
  , Kyle Lo
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-cddfc157-08f3-48e1-a010-44b229c5c412
+DTSTAMP:20260629T103615Z
+UID:TS1-552c1f0f-d398-4ea0-bce3-a2a3022387af
 DTSTART;TZID=America/Los_Angeles:20260704T091500
 DTEND;TZID=America/Los_Angeles:20260704T093000
 SUMMARY:Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student D
  ialogues
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 DESCRIPTION:Talk by Shuyan Huang\, Alexander Scarlatos\, Jaewook Lee\, Andr
  ew Lan
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-1d86d0d8-73a9-4947-84c6-fc616f3df0df
+DTSTAMP:20260629T103615Z
+UID:TS1-78a64d12-98fc-4855-9ddf-aa061a895a53
 DTSTART;TZID=America/Los_Angeles:20260704T093000
 DTEND;TZID=America/Los_Angeles:20260704T094500
 SUMMARY:Measuring Optimal Challenge: Trajectory-Based Difficulty Alignment 
  in Open-Ended Language Tutoring
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 DESCRIPTION:Talk by Ziqi Shu\, Shuman Wang\, Michael Hardy
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-96b1c762-a64c-44a6-a26d-d2a863d77b9d
+DTSTAMP:20260629T103615Z
+UID:TS1-78a77947-bf9e-4d0e-852b-ab9e2a4f7e75
 DTSTART;TZID=America/Los_Angeles:20260704T094500
 DTEND;TZID=America/Los_Angeles:20260704T100000
 SUMMARY:Findings of the BEA 2026 Shared Task on Vocabulary Difficulty Predi
  ction for English Learners
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 DESCRIPTION:Talk by Mariano Felice\, Lucy Skidmore
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-4f0e96ad-849d-4e5f-bb2e-044794e579a6
+DTSTAMP:20260629T103615Z
+UID:TS1-ed891202-ab14-419a-9f1e-a8f93e4ddb2c
 DTSTART;TZID=America/Los_Angeles:20260704T100000
 DTEND;TZID=America/Los_Angeles:20260704T101500
 SUMMARY:Sakura at BEA 2026 Shared Task 1: What Makes Vocabulary Difficult?
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 DESCRIPTION:Talk by Adam Nohejl\, Xuanxin Wu\, Yusuke Ide\, Maria Riera Mac
  hin\, Yi-Ning Chang
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-028662ab-0a78-4f22-a8ac-52e1ea3c94d6
+DTSTAMP:20260629T103615Z
+UID:TS1-6e6e8859-b262-4983-bb63-0da0cca546a5
 DTSTART;TZID=America/Los_Angeles:20260704T101500
 DTEND;TZID=America/Los_Angeles:20260704T103000
 SUMMARY:Report on the BEA 2026 Shared Task on Rubric-based Short Answer Sco
  ring for German
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 DESCRIPTION:Talk by Sebastian Gombert\, Zhifan Sun\, Fabian Zehner\, Jannik
   Lossjew\, Tobias Wyrwich\, Berrit Czinczel\, David Bednorz\, Sascha Bernh
  olt\, Knut Neumann\, Ute Harms\, Aiso Heinze\, Hendrik Drachsler
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-a83c59c4-9e28-4657-a129-b470ea91478c
+DTSTAMP:20260629T103615Z
+UID:TS1-b54416b3-4426-42a3-81d1-b4864a2d37fb
 DTSTART;TZID=America/Los_Angeles:20260704T103000
 DTEND;TZID=America/Los_Angeles:20260704T110000
 SUMMARY:BEA 2026: Coffee Break
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-d11cee57-3e6f-4f95-a277-4134e1f9755d
+DTSTAMP:20260629T103615Z
+UID:TS1-4a84d604-4050-4517-8e35-2cfabc899766
 DTSTART;TZID=America/Los_Angeles:20260704T110000
 DTEND;TZID=America/Los_Angeles:20260704T123000
 SUMMARY:BEA 2026: Oral Session C
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-9edb1a9a-fda7-4744-a5b1-ae3cdb00ed32
+DTSTAMP:20260629T103615Z
+UID:TS1-0f521d2d-2554-4dde-80ed-fb87fc35238d
 DTSTART;TZID=America/Los_Angeles:20260704T110000
 DTEND;TZID=America/Los_Angeles:20260704T111500
 SUMMARY:EduMUSE: A Multimodal Educational Dataset with Automatically Extrac
  ted Instructional Context
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 DESCRIPTION:Talk by Andreea Dutulescu\, Stefan Ruseti\, Mihai Dascalu\, Dan
  ielle McNamara
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-468afb1c-aca2-4e38-8846-64c38047be19
+DTSTAMP:20260629T103615Z
+UID:TS1-871fe29f-6243-478e-8348-1cb1a0d7be76
 DTSTART;TZID=America/Los_Angeles:20260704T111500
 DTEND;TZID=America/Los_Angeles:20260704T113000
 SUMMARY:Confirming Correct\, Missing the Rest: LLM Tutoring Agents Struggle
   Where Feedback Matters Most
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 DESCRIPTION:Talk by Tahreem Yasir\, Wenbo Li\, Sam Gilson\, Sutapa Tithi\, 
  Xiaoyi Tian\, Tiffany Barnes
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-eb32e424-05ca-429b-a638-3a46528c18d0
+DTSTAMP:20260629T103615Z
+UID:TS1-bdfd3b41-03ef-432d-9202-d934e32526b9
 DTSTART;TZID=America/Los_Angeles:20260704T113000
 DTEND;TZID=America/Los_Angeles:20260704T114500
 SUMMARY:Towards Just-in-Time Adaptive Feedback: Enhancing Student Learning 
  via Knowledge-Grounded LLM
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 DESCRIPTION:Talk by Younghun Lee\, Amir Bralin\, Nobel Sanjay Rebello\, Dan
   Goldwasser
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-59b2b83b-6452-43e3-8277-93fc44f208ef
+DTSTAMP:20260629T103615Z
+UID:TS1-bafa0a50-9452-430e-a3f5-c6a67afee374
 DTSTART;TZID=America/Los_Angeles:20260704T114500
 DTEND;TZID=America/Los_Angeles:20260704T120000
 SUMMARY:Evaluating LLM Workflows for Generating Clinical Communication Asse
  ssment Items: A Comparative Study with Subject-Matter Experts
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 DESCRIPTION:Talk by Christopher Runyon\, Peter Baldwin\, Ian Micir\, Kevin 
  Frome\, Stephanie Mann\, Saed Rezayi\, Keelan Evanini\, Victoria Yaneva
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-391d5893-fa7f-4ae8-8b70-77da0bab0e7b
+DTSTAMP:20260629T103615Z
+UID:TS1-70a0f590-baf8-4873-93c4-c6ac40bbda41
 DTSTART;TZID=America/Los_Angeles:20260704T120000
 DTEND;TZID=America/Los_Angeles:20260704T121500
 SUMMARY:Zero Shot Phonics: Evaluating Constraint-Adherent Phonics Story Gen
  eration in Large Language Models
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 DESCRIPTION:Talk by Maria Monica Manlises\, Ethel Ong
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-18c56927-7db7-4fef-ba95-2cdf17c092a1
+DTSTAMP:20260629T103615Z
+UID:TS1-f2956399-7733-409b-b662-f74b2d2b756e
 DTSTART;TZID=America/Los_Angeles:20260704T121500
 DTEND;TZID=America/Los_Angeles:20260704T123000
 SUMMARY:Evaluating Adaptive Personalization of Educational Readings with Si
  mulated Learners
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 DESCRIPTION:Talk by Ryan Woo\, Anmol Rao\, Aryan Keluskar\, Yinong Chen
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-db8b3af5-5a7b-43b8-828e-f9a34406ad74
+DTSTAMP:20260629T103615Z
+UID:TS1-6b073ce2-16d9-4acc-a30f-08b5fe274e07
 DTSTART;TZID=America/Los_Angeles:20260704T123000
 DTEND;TZID=America/Los_Angeles:20260704T140000
 SUMMARY:BEA 2026: Lunch Break / Birds of a Feather
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-317b337d-4694-479d-ba95-ffc67d7c358b
+DTSTAMP:20260629T103615Z
+UID:TS1-c9e43c84-11dd-4039-acb2-3de561512242
 DTSTART;TZID=America/Los_Angeles:20260704T140000
 DTEND;TZID=America/Los_Angeles:20260704T153000
 SUMMARY:BEA 2026: Poster Session B
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 DESCRIPTION:\n- Investigating Context-aware CTC for Pronunciation Assessmen
  t: Mitigating Peaky Behavior and Context Independency Assumption (Jiun-Tin
  g Li\, Tien-Hong Lo\, Bi-Cheng Yan\, Shih-Hsuan Chiu\, Fu-An Chao\, Berlin
@@ -515,107 +503,114 @@ DESCRIPTION:\n- Investigating Context-aware CTC for Pronunciation Assessmen
  nded LLM Explanations for Data Literacy in the Case of Youth Football (Tom
  asz Piłka\, Tomasz Kuczyński\, Mateusz Czajka)\n- Classification of Studen
  t Struggle in Mathematics (Hannah Levin\, Madhura Padwal\, Nchimunya Mwiin
- ga)\n- PERSA: Reinforcement Learning for Professor-Style Personalized Feed
- back with LLMs (Ravi Kumar\, Utkarsh Grover\, Xiaomin Lin\, Agoritsa Polyz
- ou)\n- Data-lean fine-tuning of models for evaluating teacher performance 
+ ga)\n- Data-lean fine-tuning of models for evaluating teacher performance 
  in a GenAI-led elicitation simulation (Beata Beigman Klebanov\, Andrew Hoa
  ng\, Jamie Mikeska\, Benny Longwill\, Sanjna Kashyap\, Shreyashi Halder\, 
- Aakanksha Bhatia)\n- Noise Steering for Controlled Text Generation: Improv
- ing Diversity and Reading-Level Fidelity in Arabic Educational Story Gener
- ation (Haziq Khalid\, Salsabeel Shapsough\, Imran Zualkernan)\n- PeerMathD
- ial: A Middle School Dialogue Dataset for Student Collaborative Math Probl
- em Solving (Murong Yue\, Desmond Mcglone\, Emily Slutz\, Wenhan Lyu\, Yixu
- an Zhang\, Jennifer Suh\, Ziyu Yao)\n- Evaluating LLM-Generated Formative 
- Feedback for Undergraduate Mathematics Through the Lens of Feedback Theory
-  (Aron Gohr\, Marie-Amelie Lawn\, Kevin Gao\, Inigo Serjeant\, Stephen Hes
- lip)\n- Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Sol
- ving in AI Education (Mragisha Jain\, Tirth Bhatt\, Griffin Pitts\, Aum Pa
- ndya\, Peter Brusilovsky\, Narges Norouzi\, Arto Hellas\, Juho Leinonen\, 
- Bita Akram)\n- Edit-level Majority Voting Mitigates Over-Correction in LLM
- -based Grammatical Error Correction (Takumi Goto\, Yusuke Sakai\, Taro Wat
- anabe)\n- AIDA at BEA 2026 Shared Task 1: A Two-Stage Framework for L1-Awa
- re Vocabulary Difficulty Prediction with Representation Diversity and Resi
- dual Calibration (Seok Hyeon Cho\, JunHyeok Choi\, Sangeun Ji\, Sung Won H
- an)\n- BoostedCats at BEA 2026 Shared Task 1: What Makes a Word Hard to Le
- arn? Modeling L1 Influence on English Vocabulary Difficulty (Jonas Mayer M
- artins\, Zhuojing Huang\, Aaricia Herygers\, Lisa Beinborn)\n- uogal at BE
- A 2026 Shared Task 1: Ensemble of Multilingual Encoders with NMT Augmentat
- ion for L1-Aware Vocabulary Difficulty Prediction (bernardo stearns\, John
-  P. McCrae\, Thomas Gaillat\, Jefkine Kafunah)\n- Jinnie's Lab at BEA 2026
-  Shared Task 1: Precalibration of Vocabulary Item Difficulty with Multilin
- gual Transformers and Multi-Task Learning (Zhe Li\, Pauline Aguinalde\, Ji
- nnie Shin)\n- IWM-DKM at BEA 2026 Shared Task 2: Supplementing Supervised 
- Fine-Tuning for Rubric-Based Short Answer Scoring (Kate Belcher\, Marius D
- e Kuthy Meurers\, Kordula De Kuthy\, Detmar Meurers)\n- RETUYT-INCO at BEA
-  2026 Shared Task 2: Meta-prompting in Rubric-based Scoring for German (Ig
- nacio Sastre\, Ignacio Remersaro\, Facundo Díaz\, Nicolás De Horta\, Luis 
- Chiruzzo\, Aiala Rosá\, Santiago Góngora)\n- UOL@IDEM at BEA 2026 Shared T
- ask 1: Neural Fusion and Feature-Rich Modeling for L1-Aware Vocabulary Dif
- ficulty Prediction (Nouran Khallaf\, Serge Sharoff)
+ Aakanksha Bhatia)\n- Multi-component student writing profiles for expert-a
+ ligned automated evaluation of English learner essays. (Russell Moore\, An
+ drew Caines\, Paula Buttery)\n- Noise Steering for Controlled Text Generat
+ ion: Improving Diversity and Reading-Level Fidelity in Arabic Educational 
+ Story Generation (Haziq Khalid\, Salsabeel Shapsough\, Imran Zualkernan)\n
+ - Rubrics as Semantic Subspaces: A Unified Approach to Rubric-based Constr
+ ucted Response Scoring across Short Answers and Essays (Sebastian Gombert\
+ , Sonja Hahn\, Nico Andersen\, Leon Camus\, Zhifan Sun\, Ngoc Nhu Hao Nguy
+ en\, Fabian Zehner\, Longwei Cong\, Alexander Mehler\, Hendrik Drachsler)\
+ n- PeerMathDial: A Middle School Dialogue Dataset for Student Collaborativ
+ e Math Problem Solving (Murong Yue\, Desmond Mcglone\, Emily Slutz\, Wenha
+ n Lyu\, Yixuan Zhang\, Jennifer Suh\, Ziyu Yao)\n- Evaluating LLM-Generate
+ d Formative Feedback for Undergraduate Mathematics Through the Lens of Fee
+ dback Theory (Aron Gohr\, Marie-Amelie Lawn\, Kevin Gao\, Inigo Serjeant\,
+  Stephen Heslip)\n- Retrieval-Augmented Tutoring for Algorithm Tracing and
+  Problem-Solving in AI Education (Mragisha Jain\, Tirth Bhatt\, Griffin Pi
+ tts\, Aum Pandya\, Peter Brusilovsky\, Narges Norouzi\, Arto Hellas\, Juho
+  Leinonen\, Bita Akram)\n- Edit-level Majority Voting Mitigates Over-Corre
+ ction in LLM-based Grammatical Error Correction (Takumi Goto\, Yusuke Saka
+ i\, Taro Watanabe)\n- Toward Cross-Domain Automated Feedback: A Comparativ
+ e Evaluation of Open-Source Models across Diverse Student Assessment Types
+  (Muhammad Haseeb\, Min Paing Hmue\, Ahmad Imam Amjad\, Maaz Amjad\, Victo
+ r Sheng)\n- AIDA at BEA 2026 Shared Task 1: A Two-Stage Framework for L1-A
+ ware Vocabulary Difficulty Prediction with Representation Diversity and Re
+ sidual Calibration (Seok Hyeon Cho\, JunHyeok Choi\, Sangeun Ji\, Sung Won
+  Han)\n- BoostedCats at BEA 2026 Shared Task 1: What Makes a Word Hard to 
+ Learn? Modeling L1 Influence on English Vocabulary Difficulty (Jonas Mayer
+  Martins\, Zhuojing Huang\, Aaricia Herygers\, Lisa Beinborn)\n- uogal at 
+ BEA 2026 Shared Task 1: Ensemble of Multilingual Encoders with NMT Augment
+ ation for L1-Aware Vocabulary Difficulty Prediction (bernardo stearns\, Jo
+ hn P. McCrae\, Thomas Gaillat\, Jefkine Kafunah)\n- IWM-DKM at BEA 2026 Sh
+ ared Task 2: Supplementing Supervised Fine-Tuning for Rubric-Based Short A
+ nswer Scoring (Kate Belcher\, Marius De Kuthy Meurers\, Kordula De Kuthy\,
+  Detmar Meurers)\n- RETUYT-INCO at BEA 2026 Shared Task 2: Meta-prompting 
+ in Rubric-based Scoring for German (Ignacio Sastre\, Ignacio Remersaro\, F
+ acundo Díaz\, Nicolás De Horta\, Luis Chiruzzo\, Aiala Rosá\, Santiago Gón
+ gora)\n- UOL@IDEM at BEA 2026 Shared Task 1: Neural Fusion and Feature-Ric
+ h Modeling for L1-Aware Vocabulary Difficulty Prediction (Nouran Khallaf\,
+  Serge Sharoff)
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-b7e7bedd-eeef-40b0-add6-7864c3c2f429
+DTSTAMP:20260629T103615Z
+UID:TS1-c51019a1-e747-4f0d-adcb-bc9d58d87e85
 DTSTART;TZID=America/Los_Angeles:20260704T153000
 DTEND;TZID=America/Los_Angeles:20260704T160000
 SUMMARY:BEA 2026: Coffee Break
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-0f44c199-c482-4efa-913b-401f7e3e2e32
+DTSTAMP:20260629T103615Z
+UID:TS1-1c7e797d-e98f-48cd-95e6-ea19655c6464
 DTSTART;TZID=America/Los_Angeles:20260704T160000
 DTEND;TZID=America/Los_Angeles:20260704T164500
 SUMMARY:BEA 2026: Panel
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
+DESCRIPTION:Transitioning from Academia to the EdTech Industry\n(Christine 
+ Bagarino\, Kai North\, Keelan Evanini\, Mariano Felice)
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-40b48a71-e012-4e45-a617-92d72dab95c9
+DTSTAMP:20260629T103615Z
+UID:TS1-08d0d35d-00f2-4c56-8a0c-a2345bc1fc3c
 DTSTART;TZID=America/Los_Angeles:20260704T164500
 DTEND;TZID=America/Los_Angeles:20260704T171500
 SUMMARY:BEA 2026: Oral Session D
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-355257aa-db66-4b09-a0cb-3a5f41e0b822
+DTSTAMP:20260629T103615Z
+UID:TS1-86962713-bfcc-4359-a3d6-1c41c0c9e85c
 DTSTART;TZID=America/Los_Angeles:20260704T164500
 DTEND;TZID=America/Los_Angeles:20260704T170000
 SUMMARY:Incentives Of EdTech: A Systematic Review Of EduNLP Research
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 DESCRIPTION:Talk by Gabrielle Gaudeau\, Aoife O'Driscoll\, Jasper Degraeuwe
  \, Andrew Caines\, Donya Rooein\, Zeerak Talat
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-6304d22f-0a24-48ad-ac74-2bf3e568000f
+DTSTAMP:20260629T103615Z
+UID:TS1-3a5170f6-4887-40f9-bd69-0507e62cd7eb
 DTSTART;TZID=America/Los_Angeles:20260704T170000
 DTEND;TZID=America/Los_Angeles:20260704T171500
 SUMMARY:Effects of Varying LLM Access on Essay Writing Behavior
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 DESCRIPTION:Talk by Julia Christenson\, Karin de Langis\, Shirley Anugrah H
  ayati\, Dongyeop Kang
 CATEGORIES:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T141502Z
-UID:TS1-ddc9eeb9-444b-413e-b15b-2d2ef122260c
+DTSTAMP:20260629T103615Z
+UID:TS1-2c8be96d-128e-4e95-aca9-17cd526cef15
 DTSTART;TZID=America/Los_Angeles:20260704T171500
 DTEND;TZID=America/Los_Angeles:20260704T173000
 SUMMARY:BEA 2026: Closing Remarks
-LOCATION:Harbor D\nhttps://underline.io/events/530/sessions?eventSessionId=
- 22998
+LOCATION:Harbor D\nZoom\nhttps://underline.io/events/530/sessions?eventSess
+ ionId=22998
 CATEGORIES:
 END:VEVENT
 END:VCALENDAR
