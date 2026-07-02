@@ -9,7 +9,7 @@ toc_sticky: true
 toc_icon: 'cog'
 ---
 
-This page features the workshop schedule. In the schedule below, clicking on a paper will take you to its dedicated page on [Underline](https://underline.io) where pre-recorded videos are available.
+This page features the complete workshop program. In the schedule below, clicking on a paper will take you to its dedicated page on [Underline](https://underline.io) where pre-recorded videos are available.
 
 Add to Calendar
 : [Download ICS](/assets/ics/bea/2026/program.ics)
