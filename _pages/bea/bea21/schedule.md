@@ -83,7 +83,7 @@ Time Zone
 
 ## Saturday, July 4, 2026
 
-**Day 2** of the workshop will be **hybrid**, allowing you to participate either **in person** or **online**. All **oral presentations will be in person** but can be followed through live stream. Poster sessions will take place in the **posters area**.
+**Day 2** of the workshop will be **hybrid**, allowing you to participate either **in person** or **online**. **All presentations (oral and poster)** will be delivered **on-site**. Remote attendees can follow all oral sessions via the live stream, but please keep in mind that poster sessions are limited to on-site participants in the posters area.
 
 Location
 : **In-person:** Harbor D <br/>
