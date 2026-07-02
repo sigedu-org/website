@@ -41,6 +41,7 @@ gold:
 | **Deadline**        | <strike>March 23</strike> **March 30**, 2026 |
 | **Submission**      | [https://softconf.com/acl2026/bea2026/](https://softconf.com/acl2026/bea2026/) |
 | **Contact**         | [bea.nlp.workshop@gmail.com](mailto:bea.nlp.workshop@gmail.com) |
+| **Proceedings**     | [https://aclanthology.org/volumes/2026.bea-1/](https://aclanthology.org/volumes/2026.bea-1/) |
 | **GitHub**          | To share your code and data with the BEA community, feel free to use the [#bea-workshop](https://github.com/topics/bea-workshop) topic. |
 
 ## Description
