@@ -36,7 +36,7 @@ Time Zone
 | | [*Sharing is Caring: Advantages of Sharing a Language Background with Learners as an Annotator of Learner Data in UD*](https://underline.io/events/530/sessions/22993/lecture/153911-sharing-is-caring-advantages-of-sharing-a-language-background-with-learners-as-an-annotator-of-learner-data-in-ud) (Caroline Grand-Clement, Arianna Masciolini) |
 | | [*The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance*](https://underline.io/events/530/sessions/22993/lecture/153914-the-effects-of-structured-llm-generated-feedback-on-programming-assignment-performance) (Tsvetomila Mihaylova, Evanfiya Logacheva, Arto Hellas, Jing Fan, Francisco Castro, Bita Akram, Narges Norouzi, Peter Brusilovsky, Juho Leinonen) |
 | | [*HFT at BEA 2026 Shared Task 2: Blunt-Edge Models for Hybrid Grading*](https://underline.io/events/530/sessions/22993/lecture/153925-hft-at-bea-2026-shared-task-2-blunt-edge-models-for-hybrid-grading) (Ulrike Pado) |
-| **07:30 - 08:45** | **Early Oral Session** |
+| **07:30 - 08:45** | **Early Oral Session** <br> (Chair: Marie Bexte) |
 | 07:30 - 07:45     | [*Domain-Adaptive Pre-training for Automated Short Answer Grading in Conceptual Physics: Reliability, Question-Level Analysis, and Error Reduction*](https://underline.io/events/530/sessions/22993/lecture/153915-domain-adaptive-pre-training-for-automated-short-answer-grading-in-conceptual-physics-reliability-question-level-analysis-and-error-reduction) (Shirin Lade, Alistair Willis, Jonathan Nylk, Oli Howson) |
 | 07:45 - 08:00     | [*Using Interaction Log Data to Evaluate and Improve Feedback Accuracy in an Intelligent Language Tutoring System*](https://underline.io/events/530/sessions/22993/lecture/153898-using-interaction-log-data-to-evaluate-and-improve-feedback-accuracy-in-an-intelligent-language-tutoring-system) (Mariia Soliar, Leona Colling, Stephen Bodnar, Detmar Meurers) |
 | 08:00 - 08:15     | [*Towards Pedagogically Aligned LLM Tutors for Math Mistake Remediation*](https://underline.io/events/530/sessions/22993/lecture/153897-towards-pedagogically-aligned-llm-tutors-for-math-mistake-remediation) (Kseniia Petukhova, Tien Dat Nguyen, Ekaterina Kochmar) |
@@ -55,7 +55,7 @@ Time Zone
 | 11:25 - 11:50 | *Mutual ToM in AI Tutoring* <br> (Qiaosi Wang - Effat will play recorded talk of Qiaosi as she has time conflict) |
 | 11:50 - 12:30 | *Q&A and Machine ToM in Source Code Comprehension Demo* <br> (Maha Zainab) |
 | **12:30 - 14:00** | **Lunch Break / Birds of a Feather** |
-| **14:00 - 15:45** | **Oral Session A** |
+| **14:00 - 15:45** | **Oral Session A** <br> (Chair: Stefano Banno) |
 | 14:00 - 14:15     | [*Instruction-Following LLMs for Grammatical Error Correction: Analyzing Neutral-Anchored Instructional Sensitivity Across Editing Modes*](https://underline.io/events/530/sessions/22993/lecture/153901-instruction-following-llms-for-grammatical-error-correction-analyzing-neutral-anchored-instructional-sensitivity-across-editing-modes) (Tolgahan Türker, Gülşen Eryiğit) |
 | 14:15 - 14:30     | [*Estimating LLM Grading Ability and Response Difficulty in Automatic Short Answer Grading via Item Response Theory*](https://underline.io/events/530/sessions/22993/lecture/153902-estimating-llm-grading-ability-and-response-difficulty-in-automatic-short-answer-grading-via-item-response-theory) (Longwei Cong, Sonja Hahn, Sebastian Gombert, Leon Camus, Hendrik Drachsler, Ulf Kroehne) |
 | 14:30 - 14:45     | [*LLM-Powered but Rule-Grounded: Pedagogically Relevant Grammatical Error Characterization for Learner Model Construction*](https://underline.io/events/530/sessions/22993/lecture/153921-llm-powered-but-rule-grounded-pedagogically-relevant-grammatical-error-characterization-for-learner-model-construction) (Soroosh Akef, Amália Mendes, P Rebuschat, Detmar Meurers) |
@@ -94,7 +94,7 @@ Time Zone
 
 | Time | Description |
 |:-----|:------------|
-| **09:00 - 10:30** | **Oral Session B** |
+| **09:00 - 10:30** | **Oral Session B** <br> (Chair: Ekaterina Kochmar) |
 | 09:00 - 09:15     | [*The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors*](https://underline.io/events/530/sessions/22993/lecture/153840-the-aftermath-of-drawedumath-vision-language-models-underperform-with-struggling-students-and-misdiagnose-errors) (Li Lucy, Albert Zhang, Nathan Anderson, Ryan Knight, Kyle Lo) |
 | 09:15 - 09:30     | [*Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues*](https://underline.io/events/530/sessions/22993/lecture/153859-interpretable-difficulty-aware-knowledge-tracing-in-tutor-student-dialogues) (Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Andrew Lan) |
 | 09:30 - 09:45     | [*Measuring Optimal Challenge: Trajectory-Based Difficulty Alignment in Open-Ended Language Tutoring*](https://underline.io/events/530/sessions/22993/lecture/153861-measuring-optimal-challenge-trajectory-based-difficulty-alignment-in-open-ended-language-tutoring) (Ziqi Shu, Shuman Wang, Michael Hardy) |
@@ -102,7 +102,7 @@ Time Zone
 | 10:00 - 10:15     | [*Sakura at BEA 2026 Shared Task 1: What Makes Vocabulary Difficult?*](https://underline.io/events/530/sessions/22993/lecture/153878-what-makes-words-hardquestion-sakura-at-bea-2026-shared-task-on-vocabulary-difficulty-prediction) (Adam Nohejl, Xuanxin Wu, Yusuke Ide, Maria Riera Machin, Yi-Ning Chang) |
 | 10:15 - 10:30     | [*Report on the BEA 2026 Shared Task on Rubric-based Short Answer Scoring for German*](https://underline.io/events/530/sessions/22993/lecture/153880-report-on-the-bea-2026-shared-task-on-rubric-based-short-answer-scoring-for-german) (Sebastian Gombert, Zhifan Sun, Fabian Zehner, Jannik Lossjew, Tobias Wyrwich, Berrit Czinczel, David Bednorz, Sascha Bernholt, Knut Neumann, Ute Harms, Aiso Heinze, Hendrik Drachsler) |
 | **10:30 - 11:00** | **Coffee Break** |
-| **11:00 - 12:30** | **Oral Session C** |
+| **11:00 - 12:30** | **Oral Session C** <br> (Chair: Anaïs Tack) |
 | 11:00 - 11:15     | [*EduMUSE: A Multimodal Educational Dataset with Automatically Extracted Instructional Context*](https://underline.io/events/530/sessions/22993/lecture/153849-edumuse-a-multimodal-educational-dataset-with-automatically-extracted-instructional-context) (Andreea Dutulescu, Stefan Ruseti, Mihai Dascalu, Danielle McNamara) |
 | 11:15 - 11:30     | [*Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most*](https://underline.io/events/530/sessions/22993/lecture/153866-confirming-correct-missing-the-rest-llm-tutoring-agents-struggle-where-feedback-matters-most) (Tahreem Yasir, Wenbo Li, Sam Gilson, Sutapa Tithi, Xiaoyi Tian, Tiffany Barnes) |
 | 11:30 - 11:45     | [*Towards Just-in-Time Adaptive Feedback: Enhancing Student Learning via Knowledge-Grounded LLM*](https://underline.io/events/530/sessions/22993/lecture/153842-towards-just-in-time-adaptive-feedback-enhancing-student-learning-via-knowledge-grounded-llm) (Younghun Lee, Amir Bralin, Nobel Sanjay Rebello, Dan Goldwasser) |
@@ -141,8 +141,8 @@ Time Zone
 | | [*RETUYT-INCO at BEA 2026 Shared Task 2: Meta-prompting in Rubric-based Scoring for German*](https://underline.io/events/530/sessions/22993/lecture/153876-retuyt-inco-at-bea-2026-shared-task-2-meta-prompting-in-rubric-based-scoring-for-german) (Ignacio Sastre, Ignacio Remersaro, Facundo Díaz, Nicolás De Horta, Luis Chiruzzo, Aiala Rosá, Santiago Góngora) |
 | | [*UOL@IDEM at BEA 2026 Shared Task 1: Neural Fusion and Feature-Rich Modeling for L1-Aware Vocabulary Difficulty Prediction*](https://underline.io/events/530/sessions/22993/lecture/153877-uolatidem-at-the-bea-2026-shared-task-neural-fusion-and-feature-rich-modeling-for-l1-aware-vocabulary-difficulty-prediction-closed-track) (Nouran Khallaf, Serge Sharoff) |
 | **15:30 - 16:00** | **Coffee Break** |
-| **16:00 - 16:45** | **Panel** <br> ***Transitioning from Academia to the EdTech Industry*** <br> (Christine Bagarino, Kai North, Keelan Evanini, Mariano Felice) |
-| **16:45 - 17:15** | **Oral Session D** |
+| **16:00 - 16:45** | **Panel** <br> ***Transitioning from Academia to the EdTech Industry*** <br> (Panelists: Christine Bagarino, Kai North, Keelan Evanini, Mariano Felice; Chair: Bashar Alhafni) |
+| **16:45 - 17:15** | **Oral Session D** <br> (Chair: Stefano Banno) |
 | 16:45 - 17:00     | [*Incentives Of EdTech: A Systematic Review Of EduNLP Research*](https://underline.io/events/530/sessions/22993/lecture/153864-incentives-of-edtech-a-systematic-review-of-edunlp-research) (Gabrielle Gaudeau, Aoife O'Driscoll, Jasper Degraeuwe, Andrew Caines, Donya Rooein, Zeerak Talat) |
 | 17:00 - 17:15     | [*Effects of Varying LLM Access on Essay Writing Behavior*](https://underline.io/events/530/sessions/22993/lecture/153863-effects-of-varying-llm-access-on-essay-writing-behavior) (Julia Christenson, Karin de Langis, Shirley Anugrah Hayati, Dongyeop Kang) |
 | **17:15 - 17:30** | **Closing Remarks** |
