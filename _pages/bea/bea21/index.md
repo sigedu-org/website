@@ -145,6 +145,9 @@ The workshop will feature a half-day tutorial:
 {: .notice}
 
 **Description:** This tutorial examines the integration of Theory of Mind (ToM) into AI-driven online tutoring systems, focusing on how advanced technologies, such as Large Language Models (LLMs), can model learners' cognitive and emotional states to provide adaptive, personalized feedback. Participants will learn foundational principles of ToM from cognitive science and psychology and how these concepts can be operationalized in AI systems. We will discuss mutual ToM, where both AI tutors and learners maintain models of each other's mental states, and address challenges such as detecting learner misconceptions, modeling meta-cognition, and maintaining privacy in data-driven tutoring. The tutorial also presents hands-on demonstrations of Machine ToM applied to programming education using datasets such as CS1QA and CodeQA, which contain Java and Python samples. By combining conceptual foundations, research insights, and practical exercises, this tutorial provides a comprehensive overview of designing human-centered, ethically aware, and cognitively informed AI tutoring systems.
+
+[Slides](https://drive.google.com/file/d/1yb4StGPcm1nrn73ScepDdm3kugKv2CNK/view)
+
 {: .notice--primary}
 
 ## Panel
