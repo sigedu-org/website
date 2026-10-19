@@ -21,6 +21,8 @@ bea:
   - &bea-workshops
     title: BEA Workshops
     children:
+      - title: "2027"
+        url: /bea/2027
       - title: "2026"
         url: /bea/2026
       - title: "2025"
@@ -83,5 +85,11 @@ bea21:
         url: /bea/2026/schedule
       - title: "Participation"
         url: /bea/2026/participation
+  - *bea-workshops
+  - *bea-contact
+
+bea22:
+  - title: BEA 2027
+    url: /bea/2027
   - *bea-workshops
   - *bea-contact
